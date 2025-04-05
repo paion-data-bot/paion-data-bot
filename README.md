@@ -1,5 +1,5 @@
-<img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> Paion Data Dev Team Coffee-Morning News Central
------------------------------------
+<h2 align="center"><img width="10%" src="https://user-images.githubusercontent.com/16126939/188541451-6585646f-a247-409a-92fa-ac0f395b49ab.png"> Paion Data Dev Team Coffee-Morning News Central</h2>
+
 
 <h3><a href="https://ai.googleblog.com/"><img width="20%" src="./img/google-ai.png"></a></h3>
 
