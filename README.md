@@ -51,6 +51,12 @@
 - [Emil Eifrem at HumanX](https://www.youtube.com/watch?v=P2bV0OhSsdU)
 <!-- NEO4J-YOUTUBE:END -->
 
+<h3><img width="30%" src="./img/elastic-logo.png"></h3>
+
+<!-- ELASTIC-BLOGS:START -->
+
+<!-- ELASTIC-BLOGS:END -->
+
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
 
 <!-- OPENSTACK-SUPERUSER:START -->
