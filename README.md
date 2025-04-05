@@ -38,7 +38,11 @@
 
 <!-- MEMGRAPH-TWITTER:END -->
 
+#### [OpenStack News](https://superuser.openstack.org/)
 
+<!-- OPENSTACK-SUPERUSER:START -->
+
+<!-- OPENSTACK-SUPERUSER:END -->
 
 <!-- DOCKER-BLOG:START -->
 - [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://www.docker.com/blog/run-llms-locally/)
