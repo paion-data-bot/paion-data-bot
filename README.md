@@ -51,7 +51,7 @@
 - [Emil Eifrem at HumanX](https://www.youtube.com/watch?v=P2bV0OhSsdU)
 <!-- NEO4J-YOUTUBE:END -->
 
-<h3><a href="https://superuser.openstack.org/"><img width="20%" src="./img/openstack-logo.png"></a></h3>
+<h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
 
 <!-- OPENSTACK-SUPERUSER:START -->
 - [OpenStack Ops Meetup: A History of Collaboration and the Upcoming Project Teams Gathering &lpar;PTG&rpar;](https://superuser.openinfra.org/articles/openstack-ops-meetup-a-history-of-collaboration-and-the-upcoming-project-teams-gathering-ptg/)
