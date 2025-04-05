@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] anyone working on Arabic OCR?](https://www.reddit.com/r/MachineLearning/comments/1jsclxw/p_anyone_working_on_arabic_ocr/)
 - [[N] Llama 4 release](https://www.reddit.com/r/MachineLearning/comments/1jsbbuy/n_llama_4_release/)
 - [[Discussion] This might be a really dumb question regarding current training method...](https://www.reddit.com/r/MachineLearning/comments/1js6jd9/discussion_this_might_be_a_really_dumb_question/)
 - [[D] ICASSP 2025](https://www.reddit.com/r/MachineLearning/comments/1js2ro5/d_icassp_2025/)
 - [[R] Ai Website Builder](https://www.reddit.com/r/MachineLearning/comments/1js2lwc/r_ai_website_builder/)
-- [[D] ICML 2025 - what if reviewers don&#39;t acknowledge rebuttal?](https://www.reddit.com/r/MachineLearning/comments/1js1ucr/d_icml_2025_what_if_reviewers_dont_acknowledge/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
