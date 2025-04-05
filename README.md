@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Improving Generalist Reward Models with Self-Principled Critique Tuning and Inference-Time Scaling](https://www.reddit.com/r/MachineLearning/comments/1jrxq16/r_improving_generalist_reward_models_with/)
+- [[Project] Real-Time Cascading Speech-to-Speech Chatbot: Whisper, Llama 3.1, Kokoro, and Silero VAD 🚀](https://www.reddit.com/r/MachineLearning/comments/1jrxm0l/project_realtime_cascading_speechtospeech_chatbot/)
 - [KDD 2025 [Cycle 2] Reviews Are Out!](https://www.reddit.com/r/MachineLearning/comments/1jrxh39/kdd_2025_cycle_2_reviews_are_out/)
 - [[R] Novel Logic-Enhanced LLM for Improved Symbolic Reasoning](https://www.reddit.com/r/MachineLearning/comments/1jrwqa0/r_novel_logicenhanced_llm_for_improved_symbolic/)
 - [[R] Fraud undersampling or oversampling?](https://www.reddit.com/r/MachineLearning/comments/1jrn140/r_fraud_undersampling_or_oversampling/)
-- [[R] How Do Large Language Monkeys Get Their Power &lpar;Laws&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1jribqw/r_how_do_large_language_monkeys_get_their_power/)
-- [[R] Mitigating Real-World Distribution Shifts in the Fourier Domain &lpar;TMLR&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jrd9tc/r_mitigating_realworld_distribution_shifts_in_the/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
