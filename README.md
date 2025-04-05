@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Are Domain Adversarial Neural Networks &lpar;DANN&rpar; used in real world scenarios? Is there anything out there that works?](https://www.reddit.com/r/MachineLearning/comments/1js0tvk/d_are_domain_adversarial_neural_networks_dann/)
 - [[R] Improving Generalist Reward Models with Self-Principled Critique Tuning and Inference-Time Scaling](https://www.reddit.com/r/MachineLearning/comments/1jrxq16/r_improving_generalist_reward_models_with/)
 - [[Project] Real-Time Cascading Speech-to-Speech Chatbot: Whisper, Llama 3.1, Kokoro, and Silero VAD 🚀](https://www.reddit.com/r/MachineLearning/comments/1jrxm0l/project_realtime_cascading_speechtospeech_chatbot/)
 - [KDD 2025 [Cycle 2] Reviews Are Out!](https://www.reddit.com/r/MachineLearning/comments/1jrxh39/kdd_2025_cycle_2_reviews_are_out/)
 - [[R] Novel Logic-Enhanced LLM for Improved Symbolic Reasoning](https://www.reddit.com/r/MachineLearning/comments/1jrwqa0/r_novel_logicenhanced_llm_for_improved_symbolic/)
-- [[R] Do you include blank ground truth masks in MRI segmentation evaluation?](https://www.reddit.com/r/MachineLearning/comments/1jrn64e/r_do_you_include_blank_ground_truth_masks_in_mri/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
