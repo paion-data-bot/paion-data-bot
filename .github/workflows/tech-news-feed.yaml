@@ -18,6 +18,7 @@ jobs:
           comment_tag_name: "GOOGLE-AI-BLOG"
           max_post_count: "5"
           feed_list: "http://feeds.feedburner.com/blogspot/gJZg"
+
   google-deepmind-blogs:
     name: Google DeepMind Blog
     runs-on: ubuntu-latest
@@ -30,7 +31,8 @@ jobs:
           commit_message: "New Google DeepMind Blog"
           comment_tag_name: "GOOGLE-DEEPMIND-BLOG"
           max_post_count: "5"
-          feed_list: "https://www.deepmind.com/blog/rss.xml"          
+          feed_list: "https://www.deepmind.com/blog/rss.xml"
+
   reddit-ml:
     name: ML Reddit
     runs-on: ubuntu-latest
@@ -43,7 +45,35 @@ jobs:
           commit_message: "ML Reddit"
           comment_tag_name: "REDDIT-ML"
           max_post_count: "5"
-          feed_list: "https://www.reddit.com/r/MachineLearning/.rss"  
+          feed_list: "https://www.reddit.com/r/MachineLearning/.rss"
+
+  arangodb-blog:
+    name: ArangoDB Blogs
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "paion-data-bot"
+          committer_email: "bot@paion-data.dev"
+          commit_message: "ArangoDB Blogs"
+          comment_tag_name: "ARANGO-BLOGS"
+          max_post_count: "5"
+          feed_list: "https://arangodb.com/feed/"
+
+  neo4j-youtube:
+    name: Neo4j - YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "paion-data-bot"
+          committer_email: "bot@paion-data.dev"
+          commit_message: "New Neo4J Videos"
+          comment_tag_name: "NEO4J-YOUTUBE"
+          max_post_count: "5"
+          feed_list: "https://rsshub.app/youtube/channel/UCvze3hU6OZBkB1vkhH2lH9Q"
 
   openstack-superuser:
     name: OpenStack Superuser
@@ -86,20 +116,6 @@ jobs:
           comment_tag_name: "KUBERNETES-BLOG"
           max_post_count: "5"
           feed_list: "https://kubernetes.io/feed.xml"
-
-  neo4j-youtube:
-    name: Neo4j - YouTube
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
-        with:
-          committer_username: "paion-data-bot"
-          committer_email: "bot@paion-data.dev"
-          commit_message: "New Neo4J Videos"
-          comment_tag_name: "NEO4J-YOUTUBE"
-          max_post_count: "5"
-          feed_list: "https://rsshub.app/youtube/channel/UCvze3hU6OZBkB1vkhH2lH9Q"
    
   martin-fowler-blog:
     name: Martin Fowler's Blog
