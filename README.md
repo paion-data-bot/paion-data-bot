@@ -29,7 +29,11 @@
 
 
 <!-- NEO4J-YOUTUBE:START -->
-
+- [Explore No-Code GraphRAG Agents in 10 Minutes on Your Own Data](https://www.youtube.com/watch?v=0LJuGTsgTgw)
+- [Neo4j Live: GraphRAG for Smarter Medical AI](https://www.youtube.com/watch?v=S8qEmu61HCo)
+- [Going Meta S02E08 – a Series on Semantics, Knowledge Graphs and All Things AI](https://www.youtube.com/watch?v=OhsfdRxcTqQ)
+- [Neo4j Live: Stunning Graph Visualizations with NVL](https://www.youtube.com/watch?v=uVxhYgWsHZw)
+- [Emil Eifrem at HumanX](https://www.youtube.com/watch?v=P2bV0OhSsdU)
 <!-- NEO4J-YOUTUBE:END -->
 
 
