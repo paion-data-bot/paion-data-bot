@@ -45,7 +45,11 @@
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
-
+- [OpenStack Ops Meetup: A History of Collaboration and the Upcoming Project Teams Gathering &lpar;PTG&rpar;](https://superuser.openinfra.org/articles/openstack-ops-meetup-a-history-of-collaboration-and-the-upcoming-project-teams-gathering-ptg/)
+- [Streamlining OpenStack Upgrades: Managing Scalability, Efficiency, and Compliance at Cleura](https://superuser.openinfra.org/articles/streamlining-openstack-upgrades-managing-scalability-efficiency-and-compliance-at-cleura/)
+- [Why OpenStack Is Still Walmart’s Private Cloud of Choice — 1 Million+ Cores Later](https://superuser.openinfra.org/articles/why-openstack-is-still-walmarts-private-cloud-of-choice-1-million-cores-later/)
+- [How to scan your OpenStack environment to quickly identify potential security risks](https://superuser.openinfra.org/articles/how-to-scan-your-openstack-environment-to-quickly-identify-potential-security-risks/)
+- [FIFGROUP’s Cloud Upgrade: How FishOS Simplified VMware to OpenStack Migration](https://superuser.openinfra.org/articles/fifgroups-cloud-upgrade-how-fishos-simplified-vmware-to-openstack-migration/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <!-- DOCKER-BLOG:START -->
