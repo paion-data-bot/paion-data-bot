@@ -8,7 +8,7 @@
 - [ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
-
+<h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
 - [Taking a responsible path to AGI](https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/)
@@ -18,7 +18,7 @@
 - [Experiment with Gemini 2.0 Flash native image generation](https://deepmind.google/discover/blog/experiment-with-gemini-20-flash-native-image-generation/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
-
+### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
 - [[R] Fraud undersampling or oversampling?](https://www.reddit.com/r/MachineLearning/comments/1jrn140/r_fraud_undersampling_or_oversampling/)
@@ -28,7 +28,11 @@
 - [What is your practical NER &lpar;Named Entity Recognition&rpar; approach? [P]](https://www.reddit.com/r/MachineLearning/comments/1jr8klg/what_is_your_practical_ner_named_entity/)
 <!-- REDDIT-ML:END -->
 
+<!-- ARANGO-BLOGS:START -->
 
+<!-- ARANGO-BLOGS:END -->
+
+<h3><img width="30%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
 - [Explore No-Code GraphRAG Agents in 10 Minutes on Your Own Data](https://www.youtube.com/watch?v=0LJuGTsgTgw)
@@ -37,12 +41,6 @@
 - [Neo4j Live: Stunning Graph Visualizations with NVL](https://www.youtube.com/watch?v=uVxhYgWsHZw)
 - [Emil Eifrem at HumanX](https://www.youtube.com/watch?v=P2bV0OhSsdU)
 <!-- NEO4J-YOUTUBE:END -->
-
-
-
-<!-- MEMGRAPH-TWITTER:START -->
-
-<!-- MEMGRAPH-TWITTER:END -->
 
 #### [OpenStack News](https://superuser.openstack.org/)
 
@@ -54,6 +52,10 @@
 - [FIFGROUP’s Cloud Upgrade: How FishOS Simplified VMware to OpenStack Migration](https://superuser.openinfra.org/articles/fifgroups-cloud-upgrade-how-fishos-simplified-vmware-to-openstack-migration/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
+<h3><a href="https://www.docker.com/blog/">Docker Blogs</a></h3>
+
+<img width="15%" align="right" src="./img/docker-cloud-logo.png">
+
 <!-- DOCKER-BLOG:START -->
 - [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://www.docker.com/blog/run-llms-locally/)
 - [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/)
@@ -62,7 +64,9 @@
 - [Leveraging Docker with TensorFlow Models &amp; TensorFlow.js for a Snake AI Game](https://www.docker.com/blog/leveraging-docker-with-tensorflow/)
 <!-- DOCKER-BLOG:END -->
 
+<h3><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h3>
 
+<img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
 - [Kubernetes v1.33 sneak peek](https://kubernetes.io/blog/2025/03/26/kubernetes-v1-33-upcoming-changes/)
