@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ICASSP 2025](https://www.reddit.com/r/MachineLearning/comments/1js2ro5/d_icassp_2025/)
 - [[R] Ai Website Builder](https://www.reddit.com/r/MachineLearning/comments/1js2lwc/r_ai_website_builder/)
 - [[D] ICML 2025 - what if reviewers don&#39;t acknowledge rebuttal?](https://www.reddit.com/r/MachineLearning/comments/1js1ucr/d_icml_2025_what_if_reviewers_dont_acknowledge/)
 - [[D] Are Domain Adversarial Neural Networks &lpar;DANN&rpar; used in real world scenarios? Is there anything out there that works?](https://www.reddit.com/r/MachineLearning/comments/1js0tvk/d_are_domain_adversarial_neural_networks_dann/)
 - [[R] Improving Generalist Reward Models with Self-Principled Critique Tuning and Inference-Time Scaling](https://www.reddit.com/r/MachineLearning/comments/1jrxq16/r_improving_generalist_reward_models_with/)
-- [[Project] Real-Time Cascading Speech-to-Speech Chatbot: Whisper, Llama 3.1, Kokoro, and Silero VAD 🚀](https://www.reddit.com/r/MachineLearning/comments/1jrxm0l/project_realtime_cascading_speechtospeech_chatbot/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
