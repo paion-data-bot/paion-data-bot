@@ -44,7 +44,21 @@ jobs:
           comment_tag_name: "REDDIT-ML"
           max_post_count: "5"
           feed_list: "https://www.reddit.com/r/MachineLearning/.rss"  
-    
+
+  openstack-superuser:
+    name: OpenStack Superuser
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          committer_username: "paion-data-bot"
+          committer_email: "bot@paion-data.dev"
+          commit_message: "OpenStack Superuser"
+          comment_tag_name: "OPENSTACK-SUPERUSER"
+          max_post_count: "5"
+          feed_list: "https://superuser.openstack.org/feed/"
+
   dockerhub-blog:
     name: DockerHub Blog
     runs-on: ubuntu-latest
