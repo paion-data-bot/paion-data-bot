@@ -54,7 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-
+- [Building a better tomorrow with AI: Takeaways from the Forge the Future hackathon](https://www.elastic.co/blog/takeaways-forge-the-future-hackathon)
+- [Building a better tomorrow with AI: Takeaways from the Forge the Future hackathon](https://www.elastic.co/blog/takeaways-forge-the-future-hackathon)
+- [Government cybersecurity: Consolidating tools and costs with AI &amp; ML](https://www.elastic.co/blog/government-cybersecurity-consolidating-ai-ml)
+- [Government cybersecurity: Consolidating tools and costs with AI &amp; ML](https://www.elastic.co/blog/government-cybersecurity-consolidating-ai-ml)
+- [Insight beyond annual risk using attack chain mapping](https://www.elastic.co/blog/attack-chain-mapping)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
