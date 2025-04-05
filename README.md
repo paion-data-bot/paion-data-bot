@@ -33,7 +33,11 @@
 
 
 <!-- DOCKER-BLOG:START -->
-
+- [Run LLMs Locally with Docker: A Quickstart Guide to Model Runner](https://www.docker.com/blog/run-llms-locally/)
+- [Master Docker and VS Code: Supercharge Your Dev Workflow](https://www.docker.com/blog/master-docker-vs-code-supercharge-your-dev-workflow/)
+- [Docker Desktop 4.40: Model Runner to run LLMs locally, more powerful Docker AI Agent, and expanded AI Tools Catalog](https://www.docker.com/blog/docker-desktop-4-40/)
+- [8 Ways to Empower Engineering Teams to Balance Productivity, Security, and Innovation](https://www.docker.com/blog/empower-engineering-teams-to-balance-productivity-security-innovation/)
+- [Leveraging Docker with TensorFlow Models &amp; TensorFlow.js for a Snake AI Game](https://www.docker.com/blog/leveraging-docker-with-tensorflow/)
 <!-- DOCKER-BLOG:END -->
 
 
