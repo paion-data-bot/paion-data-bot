@@ -28,7 +28,7 @@
 - [[Project] Real-Time Cascading Speech-to-Speech Chatbot: Whisper, Llama 3.1, Kokoro, and Silero VAD 🚀](https://www.reddit.com/r/MachineLearning/comments/1jrxm0l/project_realtime_cascading_speechtospeech_chatbot/)
 - [KDD 2025 [Cycle 2] Reviews Are Out!](https://www.reddit.com/r/MachineLearning/comments/1jrxh39/kdd_2025_cycle_2_reviews_are_out/)
 - [[R] Novel Logic-Enhanced LLM for Improved Symbolic Reasoning](https://www.reddit.com/r/MachineLearning/comments/1jrwqa0/r_novel_logicenhanced_llm_for_improved_symbolic/)
-- [[R] Fraud undersampling or oversampling?](https://www.reddit.com/r/MachineLearning/comments/1jrn140/r_fraud_undersampling_or_oversampling/)
+- [[R] Do you include blank ground truth masks in MRI segmentation evaluation?](https://www.reddit.com/r/MachineLearning/comments/1jrn64e/r_do_you_include_blank_ground_truth_masks_in_mri/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
