@@ -63,5 +63,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
-
+- [A New “Web” Readiness Report](https://css-tricks.com/a-new-web-readiness-report/)
+- [SMIL on?](https://css-tricks.com/smil-on/)
+- [Crafting Strong DX With Astro Components and TypeScript](https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/)
+- [Worlds Collide: Keyframe Collision Detection Using Style Queries](https://css-tricks.com/worlds-collide-keyframe-collision-detection-using-style-queries/)
+- [Automated Visual Regression Testing With Playwright](https://css-tricks.com/automated-visual-regression-testing-with-playwright/)
 <!-- CSS-TRIKCS:END -->
