@@ -28,6 +28,8 @@
 - [What is your practical NER &lpar;Named Entity Recognition&rpar; approach? [P]](https://www.reddit.com/r/MachineLearning/comments/1jr8klg/what_is_your_practical_ner_named_entity/)
 <!-- REDDIT-ML:END -->
 
+<h3><img width="30%" src="./img/arango-logo-with-text"></h3>
+
 <!-- ARANGO-BLOGS:START -->
 
 <!-- ARANGO-BLOGS:END -->
