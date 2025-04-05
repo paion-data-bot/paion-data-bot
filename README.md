@@ -19,7 +19,11 @@
 
 
 <!-- REDDIT-ML:START -->
-
+- [[R] Fraud undersampling or oversampling?](https://www.reddit.com/r/MachineLearning/comments/1jrn140/r_fraud_undersampling_or_oversampling/)
+- [[R] How Do Large Language Monkeys Get Their Power &lpar;Laws&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1jribqw/r_how_do_large_language_monkeys_get_their_power/)
+- [[R] Mitigating Real-World Distribution Shifts in the Fourier Domain &lpar;TMLR&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jrd9tc/r_mitigating_realworld_distribution_shifts_in_the/)
+- [[R] MergeVQ: Improving Image Generation and Representation Through Token Merging and Quantization](https://www.reddit.com/r/MachineLearning/comments/1jr8zns/r_mergevq_improving_image_generation_and/)
+- [What is your practical NER &lpar;Named Entity Recognition&rpar; approach? [P]](https://www.reddit.com/r/MachineLearning/comments/1jr8klg/what_is_your_practical_ner_named_entity/)
 <!-- REDDIT-ML:END -->
 
 
