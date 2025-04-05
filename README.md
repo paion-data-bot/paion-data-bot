@@ -34,7 +34,7 @@
 
 <!-- ARANGO-BLOGS:END -->
 
-<h3><img width="30%" src="./img/neo4j-logo.png"></h3>
+<h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
 - [Explore No-Code GraphRAG Agents in 10 Minutes on Your Own Data](https://www.youtube.com/watch?v=0LJuGTsgTgw)
