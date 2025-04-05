@@ -85,7 +85,7 @@ jobs:
           committer_username: "paion-data-bot"
           committer_email: "bot@paion-data.dev"
           commit_message: "Elastic Blog"
-          comment_tag_name: "ELASTIC-BLOG"
+          comment_tag_name: "ELASTIC-BLOGS"
           max_post_count: "5"
           feed_list: "https://www.elastic.co/blog/feed"
 
