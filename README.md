@@ -1,5 +1,9 @@
 <!-- GOOGLE-AI-BLOG:START -->
-
+- [Generative AI to quantify uncertainty in weather forecasting](http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html)
+- [AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks](http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html)
+- [Computer-aided diagnosis for lung cancer screening](http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html)
+- [Using AI to expand global access to reliable flood forecasts](http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html)
+- [ScreenAI: A visual language model for UI and visually-situated language understanding](http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html)
 <!-- GOOGLE-AI-BLOG:END -->
 
 
