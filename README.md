@@ -51,6 +51,10 @@
 - [Emil Eifrem at HumanX](https://www.youtube.com/watch?v=P2bV0OhSsdU)
 <!-- NEO4J-YOUTUBE:END -->
 
+<h3><a href="https://www.openstack.org/"><img width="30%" src="https://user-images.githubusercontent.com/16126939/197373491-0885e208-ea20-4c74-8a1a-42bb08ba67ce.png"></a></h3>
+
+<a href="https://youtu.be/locCs2Duk5U"><img align="right" width="40%" src="./img/openstack-overview-diagram-new.svg"></a>
+
 #### [OpenStack News](https://superuser.openstack.org/)
 
 <!-- OPENSTACK-SUPERUSER:START -->
