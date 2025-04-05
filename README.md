@@ -1,16 +1,51 @@
-## Hi there 👋
+<!-- GOOGLE-AI-BLOG:START -->
 
-<!--
-**paion-data-bot/paion-data-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GOOGLE-AI-BLOG:END -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<!-- GOOGLE-DEEPMIND-BLOG:START -->
+
+<!-- GOOGLE-DEEPMIND-BLOG:END -->
+
+
+
+<!-- REDDIT-ML:START -->
+
+<!-- REDDIT-ML:END -->
+
+
+
+<!-- NEO4J-YOUTUBE:START -->
+
+<!-- NEO4J-YOUTUBE:END -->
+
+
+
+<!-- MEMGRAPH-TWITTER:START -->
+
+<!-- MEMGRAPH-TWITTER:END -->
+
+
+
+<!-- DOCKER-BLOG:START -->
+
+<!-- DOCKER-BLOG:END -->
+
+
+
+<!-- KUBERNETES-BLOG:START -->
+
+<!-- KUBERNETES-BLOG:END -->
+
+### Martin Fowler's Blog (**Building Software Effectively**)
+
+<!-- MARTIN-FOWLER-BLOG:START -->
+
+<!-- MARTIN-FOWLER-BLOG:END -->
+
+### [CSS-Trikcs](https://css-tricks.com/)
+
+<!-- CSS-TRIKCS:START -->
+
+<!-- CSS-TRIKCS:END -->
