@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Sales forecasting based on historic sales, need some help. Starter in ML here.](https://www.reddit.com/r/MachineLearning/comments/1jt0m6c/p_sales_forecasting_based_on_historic_sales_need/)
 - [[D] Everyday examples of non-linearly separable problems](https://www.reddit.com/r/MachineLearning/comments/1jszd7k/d_everyday_examples_of_nonlinearly_separable/)
 - [[R] Image classification by evolving bytecode](https://www.reddit.com/r/MachineLearning/comments/1jswn5k/r_image_classification_by_evolving_bytecode/)
 - [[D] How to handle limited space in RAM when training in Google Colab?](https://www.reddit.com/r/MachineLearning/comments/1jsuyxh/d_how_to_handle_limited_space_in_ram_when/)
 - [[N] CfP MIDAS workshop @ECML-PKDD 2025 - 10th Workshop on MIning DAta for financial applicationS](https://www.reddit.com/r/MachineLearning/comments/1jstszv/n_cfp_midas_workshop_ecmlpkdd_2025_10th_workshop/)
-- [[D]IJCAI 2025 reviews and rebuttal discussion](https://www.reddit.com/r/MachineLearning/comments/1jss0lu/dijcai_2025_reviews_and_rebuttal_discussion/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
