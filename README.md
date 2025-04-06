@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] UPDATE: DeepSeek-R1 671B Works with LangChain’s MCP Adapters &amp; LangGraph’s Bigtool!](https://www.reddit.com/r/MachineLearning/comments/1jsvhrw/p_update_deepseekr1_671b_works_with_langchains/)
 - [[D] How to handle limited space in RAM when training in Google Colab?](https://www.reddit.com/r/MachineLearning/comments/1jsuyxh/d_how_to_handle_limited_space_in_ram_when/)
 - [[N] CfP MIDAS workshop @ECML-PKDD 2025 - 10th Workshop on MIning DAta for financial applicationS](https://www.reddit.com/r/MachineLearning/comments/1jstszv/n_cfp_midas_workshop_ecmlpkdd_2025_10th_workshop/)
 - [[D]IJCAI 2025 reviews and rebuttal discussion](https://www.reddit.com/r/MachineLearning/comments/1jss0lu/dijcai_2025_reviews_and_rebuttal_discussion/)
 - [[D] Rich Sutton: Self-Verification, The Key to AI](https://www.reddit.com/r/MachineLearning/comments/1jslkhw/d_rich_sutton_selfverification_the_key_to_ai/)
+- [[D] Has anyone else observed structured, persistent linguistic emergence in LLMs?](https://www.reddit.com/r/MachineLearning/comments/1jskfnj/d_has_anyone_else_observed_structured_persistent/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
