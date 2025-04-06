@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Has anyone else observed structured, persistent linguistic emergence in LLMs?](https://www.reddit.com/r/MachineLearning/comments/1jskfnj/d_has_anyone_else_observed_structured_persistent/)
 - [[R] NoProp: Training neural networks without back-propagation or forward-propagation](https://www.reddit.com/r/MachineLearning/comments/1jsft3c/r_noprop_training_neural_networks_without/)
 - [[P] anyone working on Arabic OCR?](https://www.reddit.com/r/MachineLearning/comments/1jsclxw/p_anyone_working_on_arabic_ocr/)
 - [[N] Llama 4 release](https://www.reddit.com/r/MachineLearning/comments/1jsbbuy/n_llama_4_release/)
 - [[Discussion] This might be a really dumb question regarding current training method...](https://www.reddit.com/r/MachineLearning/comments/1js6jd9/discussion_this_might_be_a_really_dumb_question/)
-- [[D] ICASSP 2025](https://www.reddit.com/r/MachineLearning/comments/1js2ro5/d_icassp_2025/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
