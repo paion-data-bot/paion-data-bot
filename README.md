@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] AI ML Research &lpar;Part 4&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt9w1/r_ai_ml_research_part_4/)
+- [[R] AI ML Research &lpar;Part 3&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt8m4/r_ai_ml_research_part_3/)
 - [[R] AI ML Research &lpar;Part 2&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt78u/r_ai_ml_research_part_2/)
 - [[R] AI ML Research &lpar;Part 1&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt5ov/r_ai_ml_research_part_1/)
 - [[D] HAI Artificial Intelligence Index Report 2025: The AI Race Has Gotten Crowded—and China Is Closing In on the US](https://www.reddit.com/r/MachineLearning/comments/1jtoegy/d_hai_artificial_intelligence_index_report_2025/)
-- [[R] Dataset with medical notes](https://www.reddit.com/r/MachineLearning/comments/1jtmk36/r_dataset_with_medical_notes/)
-- [[P] Docext: Open-Source, On-Prem Document Intelligence Powered by Vision-Language Models](https://www.reddit.com/r/MachineLearning/comments/1jtjw2b/p_docext_opensource_onprem_document_intelligence/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
