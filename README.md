@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Short research survey on student AI usage [R]](https://www.reddit.com/r/MachineLearning/comments/1jtxgn6/short_research_survey_on_student_ai_usage_r/)
 - [[Research] Evaluating your retrieval system - new research from Chroma on generative benchmarking](https://www.reddit.com/r/MachineLearning/comments/1jtwusn/research_evaluating_your_retrieval_system_new/)
 - [[P] [D] Why does my GNN-LSTM model fail to generalize with full training data for a spatiotemporal prediction task?](https://www.reddit.com/r/MachineLearning/comments/1jtwdn8/p_d_why_does_my_gnnlstm_model_fail_to_generalize/)
 - [[R] AI ML Research &lpar;Part 4&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt9w1/r_ai_ml_research_part_4/)
 - [[R] AI ML Research &lpar;Part 3&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt8m4/r_ai_ml_research_part_3/)
-- [[R] AI ML Research &lpar;Part 2&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt78u/r_ai_ml_research_part_2/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
