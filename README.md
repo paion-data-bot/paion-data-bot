@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] [D] Why does my GNN-LSTM model fail to generalize with full training data for a spatiotemporal prediction task?](https://www.reddit.com/r/MachineLearning/comments/1jtwdn8/p_d_why_does_my_gnnlstm_model_fail_to_generalize/)
 - [[R] AI ML Research &lpar;Part 4&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt9w1/r_ai_ml_research_part_4/)
 - [[R] AI ML Research &lpar;Part 3&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt8m4/r_ai_ml_research_part_3/)
 - [[R] AI ML Research &lpar;Part 2&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt78u/r_ai_ml_research_part_2/)
 - [[R] AI ML Research &lpar;Part 1&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtt5ov/r_ai_ml_research_part_1/)
-- [[D] HAI Artificial Intelligence Index Report 2025: The AI Race Has Gotten Crowded—and China Is Closing In on the US](https://www.reddit.com/r/MachineLearning/comments/1jtoegy/d_hai_artificial_intelligence_index_report_2025/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
