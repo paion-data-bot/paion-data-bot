@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] HAI Artificial Intelligence Index Report 2025: The AI Race Has Gotten Crowded—and China Is Closing In on the US](https://www.reddit.com/r/MachineLearning/comments/1jtoegy/d_hai_artificial_intelligence_index_report_2025/)
 - [[R] Dataset with medical notes](https://www.reddit.com/r/MachineLearning/comments/1jtmk36/r_dataset_with_medical_notes/)
 - [[P] Docext: Open-Source, On-Prem Document Intelligence Powered by Vision-Language Models](https://www.reddit.com/r/MachineLearning/comments/1jtjw2b/p_docext_opensource_onprem_document_intelligence/)
 - [[D] End-to-end frameworks/libraries for AI Agent Workflow with desktop interaction data ?](https://www.reddit.com/r/MachineLearning/comments/1jti0qc/d_endtoend_frameworkslibraries_for_ai_agent/)
 - [[R] Deep Learning Hits SOTA in Cancer Mutation Detection &lpar;Nature Communications&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jtfhwo/r_deep_learning_hits_sota_in_cancer_mutation/)
-- [[R] Uniformly distributed deep feature representations improve fairness &amp; robustness [TMLR]](https://www.reddit.com/r/MachineLearning/comments/1jt9r7u/r_uniformly_distributed_deep_feature/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
