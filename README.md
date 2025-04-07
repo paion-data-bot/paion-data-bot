@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Uniformly distributed deep feature representations improve fairness &amp; robustness [TMLR]](https://www.reddit.com/r/MachineLearning/comments/1jt9r7u/r_uniformly_distributed_deep_feature/)
 - [[D] Scanning the OpenAI cookbook for vulnerabilities &lpar;with open-source&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jt77na/d_scanning_the_openai_cookbook_for/)
 - [[R] SeedLM: Compressing LLM Weights into Seeds of Pseudo-Random Generators](https://www.reddit.com/r/MachineLearning/comments/1jt4pqr/r_seedlm_compressing_llm_weights_into_seeds_of/)
 - [[P] Sales forecasting based on historic sales, need some help. Starter in ML here.](https://www.reddit.com/r/MachineLearning/comments/1jt0m6c/p_sales_forecasting_based_on_historic_sales_need/)
 - [[D] Everyday examples of non-linearly separable problems](https://www.reddit.com/r/MachineLearning/comments/1jszd7k/d_everyday_examples_of_nonlinearly_separable/)
-- [[R] Image classification by evolving bytecode](https://www.reddit.com/r/MachineLearning/comments/1jswn5k/r_image_classification_by_evolving_bytecode/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
