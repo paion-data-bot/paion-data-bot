@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Developer-first fine-tuning of LLMs: sharing what worked &lpar;and didn’t&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ju8hxj/d_developerfirst_finetuning_of_llms_sharing_what/)
 - [[R] Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction](https://www.reddit.com/r/MachineLearning/comments/1ju8923/r_beyond_the_next_token_towards_promptrobust/)
 - [[D] A regression head for llm works surprisingly well!](https://www.reddit.com/r/MachineLearning/comments/1ju5g9d/d_a_regression_head_for_llm_works_surprisingly/)
 - [Help with improving accuracy in BERT model [D]](https://www.reddit.com/r/MachineLearning/comments/1ju350e/help_with_improving_accuracy_in_bert_model_d/)
 - [[D] If a method used pretrained model like Owlvit2 v2, there is no way to know if these models has been trained on the validation set of a downstream task?](https://www.reddit.com/r/MachineLearning/comments/1ju0wko/d_if_a_method_used_pretrained_model_like_owlvit2/)
-- [[Research] Evaluating your retrieval system - new research from Chroma on generative benchmarking](https://www.reddit.com/r/MachineLearning/comments/1jtwusn/research_evaluating_your_retrieval_system_new/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
