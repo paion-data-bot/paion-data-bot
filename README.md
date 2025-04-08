@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to handle questions about parts of a collaborative research project I didn’t directly work on during a poster session presentation?](https://www.reddit.com/r/MachineLearning/comments/1jukunq/d_how_to_handle_questions_about_parts_of_a/)
 - [[D] Synthetic introduction to ML for PhD student in Mathematics](https://www.reddit.com/r/MachineLearning/comments/1juft4t/d_synthetic_introduction_to_ml_for_phd_student_in/)
 - [[N] Biomedical Data Science Summer School &amp; Conference &lpar;July 28 - August 8, Budapest, Hungary&rpar;](https://www.reddit.com/r/MachineLearning/comments/1juf66b/n_biomedical_data_science_summer_school/)
 - [[P] Insights in shift of performance of certain LLM&#39;s on different hardware](https://www.reddit.com/r/MachineLearning/comments/1judb8u/p_insights_in_shift_of_performance_of_certain/)
 - [[D] Comparing GenAI Inference Engines: TensorRT-LLM, vLLM, Hugging Face TGI, and LMDeploy](https://www.reddit.com/r/MachineLearning/comments/1juay0t/d_comparing_genai_inference_engines_tensorrtllm/)
-- [[R] Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction](https://www.reddit.com/r/MachineLearning/comments/1ju8923/r_beyond_the_next_token_towards_promptrobust/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
