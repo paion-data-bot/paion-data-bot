@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Biomedical Data Science Summer School &amp; Conference &lpar;July 28 - August 8, Budapest, Hungary&rpar;](https://www.reddit.com/r/MachineLearning/comments/1juf66b/n_biomedical_data_science_summer_school/)
 - [[P] Insights in shift of performance of certain LLM&#39;s on different hardware](https://www.reddit.com/r/MachineLearning/comments/1judb8u/p_insights_in_shift_of_performance_of_certain/)
 - [[D] Comparing GenAI Inference Engines: TensorRT-LLM, vLLM, Hugging Face TGI, and LMDeploy](https://www.reddit.com/r/MachineLearning/comments/1juay0t/d_comparing_genai_inference_engines_tensorrtllm/)
 - [[R] Beyond the Next Token: Towards Prompt-Robust Zero-Shot Classification via Efficient Multi-Token Prediction](https://www.reddit.com/r/MachineLearning/comments/1ju8923/r_beyond_the_next_token_towards_promptrobust/)
 - [[D] A regression head for llm works surprisingly well!](https://www.reddit.com/r/MachineLearning/comments/1ju5g9d/d_a_regression_head_for_llm_works_surprisingly/)
-- [[D] If a method used pretrained model like Owlvit2 v2, there is no way to know if these models has been trained on the validation set of a downstream task?](https://www.reddit.com/r/MachineLearning/comments/1ju0wko/d_if_a_method_used_pretrained_model_like_owlvit2/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
