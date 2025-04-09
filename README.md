@@ -64,11 +64,11 @@
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Using Kata Containers as a Container Runtime in OpenStack Zun](https://superuser.openinfra.org/articles/using-kata-containers-as-a-container-runtime-in-openstack-zun/)
 - [OpenStack Ops Meetup: A History of Collaboration and the Upcoming Project Teams Gathering &lpar;PTG&rpar;](https://superuser.openinfra.org/articles/openstack-ops-meetup-a-history-of-collaboration-and-the-upcoming-project-teams-gathering-ptg/)
 - [Streamlining OpenStack Upgrades: Managing Scalability, Efficiency, and Compliance at Cleura](https://superuser.openinfra.org/articles/streamlining-openstack-upgrades-managing-scalability-efficiency-and-compliance-at-cleura/)
 - [Why OpenStack Is Still Walmart’s Private Cloud of Choice — 1 Million+ Cores Later](https://superuser.openinfra.org/articles/why-openstack-is-still-walmarts-private-cloud-of-choice-1-million-cores-later/)
 - [How to scan your OpenStack environment to quickly identify potential security risks](https://superuser.openinfra.org/articles/how-to-scan-your-openstack-environment-to-quickly-identify-potential-security-risks/)
-- [FIFGROUP’s Cloud Upgrade: How FishOS Simplified VMware to OpenStack Migration](https://superuser.openinfra.org/articles/fifgroups-cloud-upgrade-how-fishos-simplified-vmware-to-openstack-migration/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h3><a href="https://www.docker.com/blog/">Docker Blogs</a></h3>
