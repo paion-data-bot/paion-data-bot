@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How do you monitor your AI agents or LLM apps?](https://www.reddit.com/r/MachineLearning/comments/1jv2zxc/d_how_do_you_monitor_your_ai_agents_or_llm_apps/)
 - [[P] Yin-Yang Classification](https://www.reddit.com/r/MachineLearning/comments/1juxjwk/p_yinyang_classification/)
 - [[P] Reducing Transformer Training Time Without Sacrificing Accuracy — A Dynamic Architecture Update Approach](https://www.reddit.com/r/MachineLearning/comments/1jurarc/p_reducing_transformer_training_time_without/)
 - [[D] How to handle questions about parts of a collaborative research project I didn’t directly work on during a poster session presentation?](https://www.reddit.com/r/MachineLearning/comments/1jukunq/d_how_to_handle_questions_about_parts_of_a/)
 - [[D] Synthetic introduction to ML for PhD student in Mathematics](https://www.reddit.com/r/MachineLearning/comments/1juft4t/d_synthetic_introduction_to_ml_for_phd_student_in/)
-- [[N] Biomedical Data Science Summer School &amp; Conference &lpar;July 28 - August 8, Budapest, Hungary&rpar;](https://www.reddit.com/r/MachineLearning/comments/1juf66b/n_biomedical_data_science_summer_school/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
