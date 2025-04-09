@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Deploy Neo4j on Google Distributed Cloud](https://www.youtube.com/watch?v=oqQ4OiBv-Wk)
 - [Neo4j Live: GraphRAG for Smarter Medical AI](https://www.youtube.com/watch?v=S8qEmu61HCo)
 - [Neo4j Live: Advancing GraphRAG: Text, Images, and Audio for Multimodal Intelligence](https://www.youtube.com/watch?v=tM3gF8JUZ70)
 - [Discover Neo4j AuraDB - S02E02](https://www.youtube.com/watch?v=I4aI0spk4M0)
 - [Going Meta S02E08 – Agentic Workflows for Dynamic Ontology Selection in KG Construction](https://www.youtube.com/watch?v=OhsfdRxcTqQ)
-- [Explore No-Code GraphRAG Agents in 10 Minutes on Your Own Data](https://www.youtube.com/watch?v=0LJuGTsgTgw)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
