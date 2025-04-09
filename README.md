@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Discover Neo4j AuraDB - S02E02](https://www.youtube.com/watch?v=I4aI0spk4M0)
+- [Going Meta S02E08 – a Series on Semantics, Knowledge Graphs and All Things AI](https://www.youtube.com/watch?v=OhsfdRxcTqQ)
 - [Explore No-Code GraphRAG Agents in 10 Minutes on Your Own Data](https://www.youtube.com/watch?v=0LJuGTsgTgw)
 - [Neo4j Live: GraphRAG for Smarter Medical AI](https://www.youtube.com/watch?v=S8qEmu61HCo)
-- [Going Meta S02E08 – a Series on Semantics, Knowledge Graphs and All Things AI](https://www.youtube.com/watch?v=OhsfdRxcTqQ)
 - [Neo4j Live: Stunning Graph Visualizations with NVL](https://www.youtube.com/watch?v=uVxhYgWsHZw)
-- [Emil Eifrem at HumanX](https://www.youtube.com/watch?v=P2bV0OhSsdU)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
