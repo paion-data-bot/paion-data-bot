@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Yin-Yang Classification](https://www.reddit.com/r/MachineLearning/comments/1juxjwk/p_yinyang_classification/)
 - [[P] Reducing Transformer Training Time Without Sacrificing Accuracy — A Dynamic Architecture Update Approach](https://www.reddit.com/r/MachineLearning/comments/1jurarc/p_reducing_transformer_training_time_without/)
 - [[Discussion] It&#39;s too late to learn Python and ML](https://www.reddit.com/r/MachineLearning/comments/1junahe/discussion_its_too_late_to_learn_python_and_ml/)
 - [[D] Are there existing tools/services for real-time music adaptation using biometric data?](https://www.reddit.com/r/MachineLearning/comments/1jumdd9/d_are_there_existing_toolsservices_for_realtime/)
 - [[D] How to handle questions about parts of a collaborative research project I didn’t directly work on during a poster session presentation?](https://www.reddit.com/r/MachineLearning/comments/1jukunq/d_how_to_handle_questions_about_parts_of_a/)
-- [[D] Synthetic introduction to ML for PhD student in Mathematics](https://www.reddit.com/r/MachineLearning/comments/1juft4t/d_synthetic_introduction_to_ml_for_phd_student_in/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
