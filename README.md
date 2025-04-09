@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Re-Ranking in VPR: Outdated Trick or Still Useful? A study](https://www.reddit.com/r/MachineLearning/comments/1jv6v2t/reranking_in_vpr_outdated_trick_or_still_useful_a/)
 - [[D] How do you monitor your AI agents or LLM apps?](https://www.reddit.com/r/MachineLearning/comments/1jv2zxc/d_how_do_you_monitor_your_ai_agents_or_llm_apps/)
 - [[P] Yin-Yang Classification](https://www.reddit.com/r/MachineLearning/comments/1juxjwk/p_yinyang_classification/)
 - [[P] Reducing Transformer Training Time Without Sacrificing Accuracy — A Dynamic Architecture Update Approach](https://www.reddit.com/r/MachineLearning/comments/1jurarc/p_reducing_transformer_training_time_without/)
 - [[D] How to handle questions about parts of a collaborative research project I didn’t directly work on during a poster session presentation?](https://www.reddit.com/r/MachineLearning/comments/1jukunq/d_how_to_handle_questions_about_parts_of_a/)
-- [[D] Synthetic introduction to ML for PhD student in Mathematics](https://www.reddit.com/r/MachineLearning/comments/1juft4t/d_synthetic_introduction_to_ml_for_phd_student_in/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
