@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[N] Want AI experience &amp; live the the Bay Area?](https://www.reddit.com/r/MachineLearning/comments/1jveuxi/n_want_ai_experience_live_the_the_bay_area/)
-- [[R] How Inclusively do LLMs Perceive Social and Moral Norms?](https://www.reddit.com/r/MachineLearning/comments/1jvdjfo/r_how_inclusively_do_llms_perceive_social_and/)
 - [[D] CVPR registration. What&#39;s my paper number?](https://www.reddit.com/r/MachineLearning/comments/1jv89f5/d_cvpr_registration_whats_my_paper_number/)
 - [[D] Has anyone trained LLM on GCP? How long did you wait for H100 approval?](https://www.reddit.com/r/MachineLearning/comments/1jv80y4/d_has_anyone_trained_llm_on_gcp_how_long_did_you/)
 - [Re-Ranking in VPR: Outdated Trick or Still Useful? A study](https://www.reddit.com/r/MachineLearning/comments/1jv6v2t/reranking_in_vpr_outdated_trick_or_still_useful_a/)
+- [[D] How do you monitor your AI agents or LLM apps?](https://www.reddit.com/r/MachineLearning/comments/1jv2zxc/d_how_do_you_monitor_your_ai_agents_or_llm_apps/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
