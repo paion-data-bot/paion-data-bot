@@ -56,9 +56,9 @@
 <!-- ELASTIC-BLOGS:START -->
 - [From endpoint to XDR: Operationalize SentinelOne data in Elastic Security](https://www.elastic.co/blog/operationalize-sentinelone-data)
 - [From endpoint to XDR: Operationalize CrowdStrike data in Elastic Security](https://www.elastic.co/blog/operationalize-data-elastic-security)
+- [Elasticsearch runs up to 40% faster on Google Axion Processors &lpar;C4A&rpar;](https://www.elastic.co/blog/elasticsearch-runs-faster-google-axion-processors)
 - [From endpoint to XDR: Operationalize Microsoft Defender for Endpoint data in Elastic Security](https://www.elastic.co/blog/defender-endpoint-data)
 - [From endpoint to XDR: Operationalize SentinelOne data in Elastic Security](https://www.elastic.co/blog/operationalize-sentinelone-data)
-- [From endpoint to XDR: Operationalize CrowdStrike data in Elastic Security](https://www.elastic.co/blog/operationalize-data-elastic-security)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
