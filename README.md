@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ML Research engineer interview prep guide.](https://www.reddit.com/r/MachineLearning/comments/1jvxse8/d_ml_research_engineer_interview_prep_guide/)
 - [[P] [R] [D] I built a biomedical GNN + LLM pipeline &lpar;XplainMD&rpar; for explainable multi-link prediction](https://www.reddit.com/r/MachineLearning/comments/1jvv7s8/p_r_d_i_built_a_biomedical_gnn_llm_pipeline/)
 - [[D] I built a new file format that compresses meaning—not just data. It predicts primes, structure, and recursion. &lpar;.sym, open source&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jvskic/d_i_built_a_new_file_format_that_compresses/)
 - [[D] Yann LeCun Auto-Regressive LLMs are Doomed](https://www.reddit.com/r/MachineLearning/comments/1jvrk68/d_yann_lecun_autoregressive_llms_are_doomed/)
 - [[N] Want AI experience &amp; live the the Bay Area?](https://www.reddit.com/r/MachineLearning/comments/1jveuxi/n_want_ai_experience_live_the_the_bay_area/)
-- [[D] CVPR registration. What&#39;s my paper number?](https://www.reddit.com/r/MachineLearning/comments/1jv89f5/d_cvpr_registration_whats_my_paper_number/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
