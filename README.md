@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Tailwind’s @apply Feature is Better Than it Sounds](https://css-tricks.com/tailwinds-apply-feature-is-better-than-it-sounds/)
 - [CSS Carousels](https://css-tricks.com/css-carousels/)
 - [Feeling Like I Have No Release: A Journey Towards Sane Deployments](https://css-tricks.com/feeling-like-i-have-no-release-a-journey-towards-sane-deployments/)
 - [A New “Web” Readiness Report](https://css-tricks.com/a-new-web-readiness-report/)
 - [SMIL on?](https://css-tricks.com/smil-on/)
-- [Crafting Strong DX With Astro Components and TypeScript](https://css-tricks.com/crafting-strong-dx-with-astro-components-and-typescript/)
 <!-- CSS-TRIKCS:END -->
