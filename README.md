@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[N] The AI Math Olympiad 2 just finished. The results are very good.](https://www.reddit.com/r/MachineLearning/comments/1jvsxh5/n_the_ai_math_olympiad_2_just_finished_the/)
 - [[D] I built a new file format that compresses meaning—not just data. It predicts primes, structure, and recursion. &lpar;.sym, open source&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jvskic/d_i_built_a_new_file_format_that_compresses/)
 - [[P] Building an AI for discord.](https://www.reddit.com/r/MachineLearning/comments/1jvs07w/p_building_an_ai_for_discord/)
 - [[D] Yann LeCun Auto-Regressive LLMs are Doomed](https://www.reddit.com/r/MachineLearning/comments/1jvrk68/d_yann_lecun_autoregressive_llms_are_doomed/)
 - [[D] Masters degree while working on the field](https://www.reddit.com/r/MachineLearning/comments/1jvpfp8/d_masters_degree_while_working_on_the_field/)
+- [[N] Want AI experience &amp; live the the Bay Area?](https://www.reddit.com/r/MachineLearning/comments/1jveuxi/n_want_ai_experience_live_the_the_bay_area/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
