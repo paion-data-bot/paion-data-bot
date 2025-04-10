@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] A slop forensics toolkit for LLMs: computing over-represented lexical profiles and inferring similarity trees](https://www.reddit.com/r/MachineLearning/comments/1jw1i4b/p_a_slop_forensics_toolkit_for_llms_computing/)
 - [[D] Is research on discrete sampling / MCMC useful in industry? Feeling unsure.](https://www.reddit.com/r/MachineLearning/comments/1jvz48g/d_is_research_on_discrete_sampling_mcmc_useful_in/)
 - [[D] ML Research engineer interview prep guide.](https://www.reddit.com/r/MachineLearning/comments/1jvxse8/d_ml_research_engineer_interview_prep_guide/)
 - [[P] [R] [D] I built a biomedical GNN + LLM pipeline &lpar;XplainMD&rpar; for explainable multi-link prediction](https://www.reddit.com/r/MachineLearning/comments/1jvv7s8/p_r_d_i_built_a_biomedical_gnn_llm_pipeline/)
 - [[D] I built a new file format that compresses meaning—not just data. It predicts primes, structure, and recursion. &lpar;.sym, open source&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jvskic/d_i_built_a_new_file_format_that_compresses/)
-- [[D] Yann LeCun Auto-Regressive LLMs are Doomed](https://www.reddit.com/r/MachineLearning/comments/1jvrk68/d_yann_lecun_autoregressive_llms_are_doomed/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
