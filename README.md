@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [Elastic extends production-ready AI capabilities for all!](https://www.elastic.co/blog/production-ready-ai-capabilities)
-- [Elastic at Google Cloud Next 2025 — Let the show begin!](https://www.elastic.co/blog/google-cloud-next-2025)
-- [Elastic extends production-ready AI capabilities for all!](https://www.elastic.co/blog/production-ready-ai-capabilities)
-- [Elastic at Google Cloud Next 2025 — Let the show begin!](https://www.elastic.co/blog/google-cloud-next-2025)
-- [Elastic recognized for AI innovation &lpar;twice!&rpar; with 2025 Google Cloud Partner of the Year Awards](https://www.elastic.co/blog/2025-google-cloud-partner-award-ai)
+- [From endpoint to XDR: Operationalize SentinelOne data in Elastic Security](https://www.elastic.co/blog/operationalize-sentinelone-data)
+- [From endpoint to XDR: Operationalize CrowdStrike data in Elastic Security](https://www.elastic.co/blog/operationalize-data-elastic-security)
+- [From endpoint to XDR: Operationalize Microsoft Defender for Endpoint data in Elastic Security](https://www.elastic.co/blog/defender-endpoint-data)
+- [From endpoint to XDR: Operationalize SentinelOne data in Elastic Security](https://www.elastic.co/blog/operationalize-sentinelone-data)
+- [From endpoint to XDR: Operationalize CrowdStrike data in Elastic Security](https://www.elastic.co/blog/operationalize-data-elastic-security)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
