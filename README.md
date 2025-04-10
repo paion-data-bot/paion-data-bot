@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Building an AI for discord.](https://www.reddit.com/r/MachineLearning/comments/1jvs07w/p_building_an_ai_for_discord/)
 - [[D] Yann LeCun Auto-Regressive LLMs are Doomed](https://www.reddit.com/r/MachineLearning/comments/1jvrk68/d_yann_lecun_autoregressive_llms_are_doomed/)
 - [[D] Masters degree while working on the field](https://www.reddit.com/r/MachineLearning/comments/1jvpfp8/d_masters_degree_while_working_on_the_field/)
 - [[N] Want AI experience &amp; live the the Bay Area?](https://www.reddit.com/r/MachineLearning/comments/1jveuxi/n_want_ai_experience_live_the_the_bay_area/)
 - [[D] CVPR registration. What&#39;s my paper number?](https://www.reddit.com/r/MachineLearning/comments/1jv89f5/d_cvpr_registration_whats_my_paper_number/)
-- [[D] Has anyone trained LLM on GCP? How long did you wait for H100 approval?](https://www.reddit.com/r/MachineLearning/comments/1jv80y4/d_has_anyone_trained_llm_on_gcp_how_long_did_you/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
