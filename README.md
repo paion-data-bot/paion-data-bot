@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] arXiv Pilots Audio Summaries in Partnership with ScienceCast &lpar;limited to astro-ph.HE for now&rpar;, example with a recent preprint:](https://www.reddit.com/r/MachineLearning/comments/1jwluom/n_arxiv_pilots_audio_summaries_in_partnership/)
 - [[D] Need OpenSource TTS](https://www.reddit.com/r/MachineLearning/comments/1jwlaq9/d_need_opensource_tts/)
 - [[P] [D] Creating golden dataset for AI classifier](https://www.reddit.com/r/MachineLearning/comments/1jwh66n/p_d_creating_golden_dataset_for_ai_classifier/)
 - [[D] Dynamic patch weighting in ViTs](https://www.reddit.com/r/MachineLearning/comments/1jwg9fj/d_dynamic_patch_weighting_in_vits/)
 - [[D] Dynamic patch weighting in ViTs](https://www.reddit.com/r/MachineLearning/comments/1jwg8ec/d_dynamic_patch_weighting_in_vits/)
-- [[D] Best Sentiment Analysis Model for Reddit](https://www.reddit.com/r/MachineLearning/comments/1jw8d2x/d_best_sentiment_analysis_model_for_reddit/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
