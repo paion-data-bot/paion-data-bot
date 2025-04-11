@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] I created a crop generator that you might want to use.](https://www.reddit.com/r/MachineLearning/comments/1jwv8qp/project_i_created_a_crop_generator_that_you_might/)
 - [[D] Looking for a good Speech-to-Speech interactive model &lpar;non-cascading&rpar; that supports fine-tuning for other languages](https://www.reddit.com/r/MachineLearning/comments/1jwt68o/d_looking_for_a_good_speechtospeech_interactive/)
 - [[P] A lightweight open-source model for generating manga](https://www.reddit.com/r/MachineLearning/comments/1jws42t/p_a_lightweight_opensource_model_for_generating/)
 - [[P] Building a Classifier for Time Series Forecasting](https://www.reddit.com/r/MachineLearning/comments/1jwpgov/p_building_a_classifier_for_time_series/)
 - [[D] Anyone having experience working with GRF &lpar;Google Research Football&rpar; Environment?](https://www.reddit.com/r/MachineLearning/comments/1jwp3iv/d_anyone_having_experience_working_with_grf/)
-- [[D] Need OpenSource TTS](https://www.reddit.com/r/MachineLearning/comments/1jwlaq9/d_need_opensource_tts/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
