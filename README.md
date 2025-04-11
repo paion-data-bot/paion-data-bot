@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Adding new vocab tokens + fine-tuning LLMs to follow instructions is ineffective](https://www.reddit.com/r/MachineLearning/comments/1jx3zy0/d_adding_new_vocab_tokens_finetuning_llms_to/)
 - [[D] Fine-tuned BART for product title &amp; category normalization – still not accurate enough, any better approach?](https://www.reddit.com/r/MachineLearning/comments/1jwz2k3/d_finetuned_bart_for_product_title_category/)
 - [[P] Has anyone gotten close to conscious AI?](https://www.reddit.com/r/MachineLearning/comments/1jwxn7p/p_has_anyone_gotten_close_to_conscious_ai/)
 - [[P]We built an OS-like runtime for LLMs — curious if anyone else is doing something similar?](https://www.reddit.com/r/MachineLearning/comments/1jwxght/pwe_built_an_oslike_runtime_for_llms_curious_if/)
 - [[P] Sub-2s cold starts for 13B+ LLMs + 50+ models per GPU — curious how others are tackling orchestration?](https://www.reddit.com/r/MachineLearning/comments/1jww7nn/p_sub2s_cold_starts_for_13b_llms_50_models_per/)
-- [[Project] I created a crop generator that you might want to use.](https://www.reddit.com/r/MachineLearning/comments/1jwv8qp/project_i_created_a_crop_generator_that_you_might/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
