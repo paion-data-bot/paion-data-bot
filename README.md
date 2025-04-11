@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Dynamic patch weighting in ViTs](https://www.reddit.com/r/MachineLearning/comments/1jwg9fj/d_dynamic_patch_weighting_in_vits/)
+- [[D] Dynamic patch weighting in ViTs](https://www.reddit.com/r/MachineLearning/comments/1jwg8ec/d_dynamic_patch_weighting_in_vits/)
 - [[D] Best Sentiment Analysis Model for Reddit](https://www.reddit.com/r/MachineLearning/comments/1jw8d2x/d_best_sentiment_analysis_model_for_reddit/)
 - [Previewing parquet directly from the OS [Discussion]](https://www.reddit.com/r/MachineLearning/comments/1jw79pp/previewing_parquet_directly_from_the_os_discussion/)
 - [[P] B200 vs H100 Benchmarks: Early Tests Show Up to 57% Faster Training Throughput &amp; Self-Hosting Cost Analysis](https://www.reddit.com/r/MachineLearning/comments/1jw3b9b/p_b200_vs_h100_benchmarks_early_tests_show_up_to/)
-- [[D] Thoughts about ICASSP 2025](https://www.reddit.com/r/MachineLearning/comments/1jw28iw/d_thoughts_about_icassp_2025/)
-- [[P] A slop forensics toolkit for LLMs: computing over-represented lexical profiles and inferring similarity trees](https://www.reddit.com/r/MachineLearning/comments/1jw1i4b/p_a_slop_forensics_toolkit_for_llms_computing/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
