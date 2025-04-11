@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Need OpenSource TTS](https://www.reddit.com/r/MachineLearning/comments/1jwlaq9/d_need_opensource_tts/)
 - [[P] [D] Creating golden dataset for AI classifier](https://www.reddit.com/r/MachineLearning/comments/1jwh66n/p_d_creating_golden_dataset_for_ai_classifier/)
 - [[D] Dynamic patch weighting in ViTs](https://www.reddit.com/r/MachineLearning/comments/1jwg9fj/d_dynamic_patch_weighting_in_vits/)
 - [[D] Dynamic patch weighting in ViTs](https://www.reddit.com/r/MachineLearning/comments/1jwg8ec/d_dynamic_patch_weighting_in_vits/)
 - [[D] Best Sentiment Analysis Model for Reddit](https://www.reddit.com/r/MachineLearning/comments/1jw8d2x/d_best_sentiment_analysis_model_for_reddit/)
-- [Previewing parquet directly from the OS [Discussion]](https://www.reddit.com/r/MachineLearning/comments/1jw79pp/previewing_parquet_directly_from_the_os_discussion/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
