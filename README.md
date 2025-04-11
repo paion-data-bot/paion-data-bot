@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [From endpoint to XDR: Operationalize SentinelOne data in Elastic Security](https://www.elastic.co/blog/operationalize-sentinelone-data)
-- [From endpoint to XDR: Operationalize CrowdStrike data in Elastic Security](https://www.elastic.co/blog/operationalize-data-elastic-security)
-- [Elasticsearch runs up to 40% faster on Google Axion Processors &lpar;C4A&rpar;](https://www.elastic.co/blog/elasticsearch-runs-faster-google-axion-processors)
-- [From endpoint to XDR: Operationalize Microsoft Defender for Endpoint data in Elastic Security](https://www.elastic.co/blog/defender-endpoint-data)
-- [From endpoint to XDR: Operationalize SentinelOne data in Elastic Security](https://www.elastic.co/blog/operationalize-sentinelone-data)
+- [AI, compliance, and innovation: A roadmap for financial services](https://www.elastic.co/blog/roadmap-financial-services)
+- [The hidden costs of tool sprawl: An SRE&#39;s guide to observability consolidation](https://www.elastic.co/blog/guide-observability-consolidation)
+- [AI assistant: From generalist to specialist](https://www.elastic.co/blog/ai-assistant-from-generalist-to-specialist)
+- [AI, compliance, and innovation: A roadmap for financial services](https://www.elastic.co/blog/roadmap-financial-services)
+- [The hidden costs of tool sprawl: An SRE&#39;s guide to observability consolidation](https://www.elastic.co/blog/guide-observability-consolidation)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
