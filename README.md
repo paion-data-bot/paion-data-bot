@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P]We built an OS-like runtime for LLMs — curious if anyone else is doing something similar?](https://www.reddit.com/r/MachineLearning/comments/1jwxght/pwe_built_an_oslike_runtime_for_llms_curious_if/)
 - [Building AI agent for mincraft [P]](https://www.reddit.com/r/MachineLearning/comments/1jwwscp/building_ai_agent_for_mincraft_p/)
 - [[P] Sub-2s cold starts for 13B+ LLMs + 50+ models per GPU — curious how others are tackling orchestration?](https://www.reddit.com/r/MachineLearning/comments/1jww7nn/p_sub2s_cold_starts_for_13b_llms_50_models_per/)
 - [[Project] I created a crop generator that you might want to use.](https://www.reddit.com/r/MachineLearning/comments/1jwv8qp/project_i_created_a_crop_generator_that_you_might/)
 - [[D] Looking for a good Speech-to-Speech interactive model &lpar;non-cascading&rpar; that supports fine-tuning for other languages](https://www.reddit.com/r/MachineLearning/comments/1jwt68o/d_looking_for_a_good_speechtospeech_interactive/)
-- [[P] A lightweight open-source model for generating manga](https://www.reddit.com/r/MachineLearning/comments/1jws42t/p_a_lightweight_opensource_model_for_generating/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
