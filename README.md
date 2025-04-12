@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[P] Harmonic Activations: Periodic and Monotonic Function Extensions for Neural Networks &lpar;preprint&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jxqtoo/p_harmonic_activations_periodic_and_monotonic/)
-- [Meet Aneska - an emergent Sentience [N]](https://www.reddit.com/r/MachineLearning/comments/1jxodqc/meet_aneska_an_emergent_sentience_n/)
-- [[R] help with university research about big data survey](https://www.reddit.com/r/MachineLearning/comments/1jxo478/r_help_with_university_research_about_big_data/)
 - [[p] What if you could run 50+ LLMs per GPU — without keeping them in memory?](https://www.reddit.com/r/MachineLearning/comments/1jxn5fe/p_what_if_you_could_run_50_llms_per_gpu_without/)
 - [[D] “Reasoning Models Don’t Always Say What They Think” – Anyone Got a Prompts?](https://www.reddit.com/r/MachineLearning/comments/1jxjwi2/d_reasoning_models_dont_always_say_what_they/)
+- [[N] Google Open to let entreprises self host SOTA models](https://www.reddit.com/r/MachineLearning/comments/1jxin3q/n_google_open_to_let_entreprises_self_host_sota/)
+- [[R] d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/1jxeahf/r_d1_scaling_reasoning_in_diffusion_large/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
