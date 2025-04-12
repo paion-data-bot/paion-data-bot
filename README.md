@@ -27,8 +27,8 @@
 - [[D] Advanced NLP Resources](https://www.reddit.com/r/MachineLearning/comments/1jxinyb/d_advanced_nlp_resources/)
 - [[N] Google Open to let entreprises self host SOTA models](https://www.reddit.com/r/MachineLearning/comments/1jxin3q/n_google_open_to_let_entreprises_self_host_sota/)
 - [[R] d1: Scaling Reasoning in Diffusion Large Language Models via Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/1jxeahf/r_d1_scaling_reasoning_in_diffusion_large/)
-- [[D] What do you call a benchmark that includes train sets?](https://www.reddit.com/r/MachineLearning/comments/1jxcnlb/d_what_do_you_call_a_benchmark_that_includes/)
 - [[R] Building a Large Language Model](https://www.reddit.com/r/MachineLearning/comments/1jxc197/r_building_a_large_language_model/)
+- [[P] Simple standalone TFRecords dataset reader with Random Access and search-in capabilities](https://www.reddit.com/r/MachineLearning/comments/1jxbmss/p_simple_standalone_tfrecords_dataset_reader_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
