@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] How many databases for you use for your AI/LLM system?](https://www.reddit.com/r/MachineLearning/comments/1jxuvi3/d_how_many_databases_for_you_use_for_your_aillm/)
+- [[D] Will traditional machine learning algorithms &lpar;such as neural nets, logistic regressions, trees&rpar; be replaced by LLM? So data scientists will lose our jobs?](https://www.reddit.com/r/MachineLearning/comments/1jxwklu/d_will_traditional_machine_learning_algorithms/)
 - [[P] Harmonic Activations: Periodic and Monotonic Function Extensions for Neural Networks &lpar;preprint&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jxqtoo/p_harmonic_activations_periodic_and_monotonic/)
 - [[p] What if you could run 50+ LLMs per GPU — without keeping them in memory?](https://www.reddit.com/r/MachineLearning/comments/1jxn5fe/p_what_if_you_could_run_50_llms_per_gpu_without/)
 - [[D] “Reasoning Models Don’t Always Say What They Think” – Anyone Got a Prompts?](https://www.reddit.com/r/MachineLearning/comments/1jxjwi2/d_reasoning_models_dont_always_say_what_they/)
