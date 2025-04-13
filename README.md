@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Best Open-Source Task Management Software for AI? [P] [D]](https://www.reddit.com/r/MachineLearning/comments/1jyczpc/best_opensource_task_management_software_for_ai_p/)
 - [[R] LLMs are bad at writing performant code](https://www.reddit.com/r/MachineLearning/comments/1jya9sx/r_llms_are_bad_at_writing_performant_code/)
 - [[D]Kaggle competition is it worthwhile for PhD student ?](https://www.reddit.com/r/MachineLearning/comments/1jy9hp7/dkaggle_competition_is_it_worthwhile_for_phd/)
 - [[Research] How I use knowledge graphs to steer LLM&#39;s thinking process: helps me to focus it on specific ideas or a topic](https://www.reddit.com/r/MachineLearning/comments/1jy6mgq/research_how_i_use_knowledge_graphs_to_steer_llms/)
 - [[P] TikTok BrainRot Generator Update](https://www.reddit.com/r/MachineLearning/comments/1jy5w5l/p_tiktok_brainrot_generator_update/)
-- [[D] How do you manage experiments with ML models at work?](https://www.reddit.com/r/MachineLearning/comments/1jy5ue4/d_how_do_you_manage_experiments_with_ml_models_at/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
