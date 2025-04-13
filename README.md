@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] I don&#39;t understand, why don&#39;t the big models just eat the rest of the smaller models? [Rant]](https://www.reddit.com/r/MachineLearning/comments/1jyes3u/d_i_dont_understand_why_dont_the_big_models_just/)
 - [[D] Did I get flagged for “cheating” on my CoderByte AI/ML assessment?](https://www.reddit.com/r/MachineLearning/comments/1jye7zk/d_did_i_get_flagged_for_cheating_on_my_coderbyte/)
 - [[D] ICML 2025: A Shift Toward Correctness Over SOTA?](https://www.reddit.com/r/MachineLearning/comments/1jydy3j/d_icml_2025_a_shift_toward_correctness_over_sota/)
 - [Best Open-Source Task Management Software for AI? [P] [D]](https://www.reddit.com/r/MachineLearning/comments/1jyczpc/best_opensource_task_management_software_for_ai_p/)
 - [[R] LLMs are bad at writing performant code](https://www.reddit.com/r/MachineLearning/comments/1jya9sx/r_llms_are_bad_at_writing_performant_code/)
-- [[D]Kaggle competition is it worthwhile for PhD student ?](https://www.reddit.com/r/MachineLearning/comments/1jy9hp7/dkaggle_competition_is_it_worthwhile_for_phd/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
