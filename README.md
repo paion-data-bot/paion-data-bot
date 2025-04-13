@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Inference and fine-tuning are converging — is anyone else thinking about this?](https://www.reddit.com/r/MachineLearning/comments/1jyilsf/p_inference_and_finetuning_are_converging_is/)
+- [[D] Looking to get into machine learning, not sure which scheduling structure to take to go about doing so. I&#39;ve crafted two undergraduate schedules - one with major SWE principles in mind and one with many theoretical aspects of AI/ML in mind. Which one should I go about taking?](https://www.reddit.com/r/MachineLearning/comments/1jyihzz/d_looking_to_get_into_machine_learning_not_sure/)
 - [[P] Dogs + AI + doing good — help build a public dataset](https://www.reddit.com/r/MachineLearning/comments/1jyf21o/p_dogs_ai_doing_good_help_build_a_public_dataset/)
 - [[D] I don&#39;t understand, why don&#39;t the big models just eat the rest of the smaller models? [Rant]](https://www.reddit.com/r/MachineLearning/comments/1jyes3u/d_i_dont_understand_why_dont_the_big_models_just/)
 - [[D] Did I get flagged for “cheating” on my CoderByte AI/ML assessment?](https://www.reddit.com/r/MachineLearning/comments/1jye7zk/d_did_i_get_flagged_for_cheating_on_my_coderbyte/)
-- [[D] ICML 2025: A Shift Toward Correctness Over SOTA?](https://www.reddit.com/r/MachineLearning/comments/1jydy3j/d_icml_2025_a_shift_toward_correctness_over_sota/)
-- [Best Open-Source Task Management Software for AI? [P] [D]](https://www.reddit.com/r/MachineLearning/comments/1jyczpc/best_opensource_task_management_software_for_ai_p/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
