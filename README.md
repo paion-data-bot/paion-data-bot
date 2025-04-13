@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] TikTok BrainRot Generator Update](https://www.reddit.com/r/MachineLearning/comments/1jy5w5l/p_tiktok_brainrot_generator_update/)
 - [[D] How do you manage experiments with ML models at work?](https://www.reddit.com/r/MachineLearning/comments/1jy5ue4/d_how_do_you_manage_experiments_with_ml_models_at/)
 - [[D] The ML Paradox: When Better Metrics Lead to Worse Outcomes – Have You Faced This?](https://www.reddit.com/r/MachineLearning/comments/1jy4odf/d_the_ml_paradox_when_better_metrics_lead_to/)
 - [[D] Will traditional machine learning algorithms &lpar;such as neural nets, logistic regressions, trees&rpar; be replaced by LLM? So data scientists will lose our jobs?](https://www.reddit.com/r/MachineLearning/comments/1jxwklu/d_will_traditional_machine_learning_algorithms/)
 - [[P] Harmonic Activations: Periodic and Monotonic Function Extensions for Neural Networks &lpar;preprint&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jxqtoo/p_harmonic_activations_periodic_and_monotonic/)
-- [[p] What if you could run 50+ LLMs per GPU — without keeping them in memory?](https://www.reddit.com/r/MachineLearning/comments/1jxn5fe/p_what_if_you_could_run_50_llms_per_gpu_without/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
