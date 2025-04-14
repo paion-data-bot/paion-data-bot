@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What if we paused and resumed LLMs like OS processes?](https://www.reddit.com/r/MachineLearning/comments/1jz4p54/d_what_if_we_paused_and_resumed_llms_like_os/)
 - [[D] We built an autonomous debugging agent. Here’s how it grokked a $100 bug](https://www.reddit.com/r/MachineLearning/comments/1jz30ax/d_we_built_an_autonomous_debugging_agent_heres/)
 - [[D] Outlier analysis in machine learning](https://www.reddit.com/r/MachineLearning/comments/1jz0qlk/d_outlier_analysis_in_machine_learning/)
 - [[D] How to extract the table from the PDF like this?](https://www.reddit.com/r/MachineLearning/comments/1jyzqq5/d_how_to_extract_the_table_from_the_pdf_like_this/)
 - [[D] Latest TTS for voice cloning](https://www.reddit.com/r/MachineLearning/comments/1jyzamc/d_latest_tts_for_voice_cloning/)
-- [[D] What happened to KANs? &lpar;Kolmogorov-Arnold Networks&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jyz2vg/d_what_happened_to_kans_kolmogorovarnold_networks/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
