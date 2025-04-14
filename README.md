@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Latest TTS for voice cloning](https://www.reddit.com/r/MachineLearning/comments/1jyzamc/d_latest_tts_for_voice_cloning/)
+- [[D] What happened to KANs? &lpar;Kolmogorov-Arnold Networks&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jyz2vg/d_what_happened_to_kans_kolmogorovarnold_networks/)
 - [[D] Ideas for an NLP/LLM related project for my portfolio](https://www.reddit.com/r/MachineLearning/comments/1jyx7u0/d_ideas_for_an_nlpllm_related_project_for_my/)
 - [[P] Rust binary and library crate for semantic code retrieval](https://www.reddit.com/r/MachineLearning/comments/1jys6sr/p_rust_binary_and_library_crate_for_semantic_code/)
 - [[D] Distillation is underrated. I replicated GPT-4o&#39;s capability in a 14x cheaper model](https://www.reddit.com/r/MachineLearning/comments/1jyr6ah/d_distillation_is_underrated_i_replicated_gpt4os/)
-- [[D] Unable to replicate reported results when training MMPose models from scratch](https://www.reddit.com/r/MachineLearning/comments/1jypxab/d_unable_to_replicate_reported_results_when/)
-- [[Project] anyone needs compute for their passion AI projects?](https://www.reddit.com/r/MachineLearning/comments/1jyp3g3/project_anyone_needs_compute_for_their_passion_ai/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
