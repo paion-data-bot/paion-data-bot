@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://www.reddit.com/r/MachineLearning/comments/1jzdgyk/r_the_ai_scientistv2_workshoplevel_automated/)
 - [[D] Advice on building Random Forest/XGBoost model](https://www.reddit.com/r/MachineLearning/comments/1jz8boa/d_advice_on_building_random_forestxgboost_model/)
 - [Do You Still Use Human Data to Pre-Train Your Models? [D]](https://www.reddit.com/r/MachineLearning/comments/1jz819a/do_you_still_use_human_data_to_pretrain_your/)
 - [[D] [P] List of LLM architectures. I am collecting arxiv papers on LLM architectures- looking for any I&#39;m missing.](https://www.reddit.com/r/MachineLearning/comments/1jz80xq/d_p_list_of_llm_architectures_i_am_collecting/)
 - [How I Warped Your Noise: a Temporally-Correlated Noise Prior for Diffusion Models [R]](https://www.reddit.com/r/MachineLearning/comments/1jz6shu/how_i_warped_your_noise_a_temporallycorrelated/)
-- [[D] What if we paused and resumed LLMs like OS processes?](https://www.reddit.com/r/MachineLearning/comments/1jz4p54/d_what_if_we_paused_and_resumed_llms_like_os/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
