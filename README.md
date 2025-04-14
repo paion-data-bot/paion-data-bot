@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Unable to replicate reported results when training MMPose models from scratch](https://www.reddit.com/r/MachineLearning/comments/1jypxab/d_unable_to_replicate_reported_results_when/)
 - [[D] Just open-sourced a financial LLM trained on 10 years of Indian market data — outputs SQL you can run on DuckDB](https://www.reddit.com/r/MachineLearning/comments/1jyjkjf/d_just_opensourced_a_financial_llm_trained_on_10/)
 - [[P] Inference and fine-tuning are converging — is anyone else thinking about this?](https://www.reddit.com/r/MachineLearning/comments/1jyilsf/p_inference_and_finetuning_are_converging_is/)
 - [[D] ICML 2025: A Shift Toward Correctness Over SOTA?](https://www.reddit.com/r/MachineLearning/comments/1jydy3j/d_icml_2025_a_shift_toward_correctness_over_sota/)
 - [[D]Kaggle competition is it worthwhile for PhD student ?](https://www.reddit.com/r/MachineLearning/comments/1jy9hp7/dkaggle_competition_is_it_worthwhile_for_phd/)
-- [[Research] How I use knowledge graphs to steer LLM&#39;s thinking process: helps me to focus it on specific ideas or a topic](https://www.reddit.com/r/MachineLearning/comments/1jy6mgq/research_how_i_use_knowledge_graphs_to_steer_llms/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
