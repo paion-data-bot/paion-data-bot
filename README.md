@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [AI, data, and trust: A leadership view on the future of financial services](https://www.elastic.co/blog/future-financial-services)
+- [Generative AI hype: Debunking 4 myths for IT leaders](https://www.elastic.co/blog/generative-ai-hype-myths-it-leaders)
+- [AI, data, and trust: A leadership view on the future of financial services](https://www.elastic.co/blog/future-financial-services)
+- [Generative AI hype: Debunking 4 myths for IT leaders](https://www.elastic.co/blog/generative-ai-hype-myths-it-leaders)
 - [AI, compliance, and innovation: A roadmap for financial services](https://www.elastic.co/blog/roadmap-financial-services)
-- [The hidden costs of tool sprawl: An SRE&#39;s guide to observability consolidation](https://www.elastic.co/blog/guide-observability-consolidation)
-- [AI assistant: From generalist to specialist](https://www.elastic.co/blog/ai-assistant-from-generalist-to-specialist)
-- [AI, compliance, and innovation: A roadmap for financial services](https://www.elastic.co/blog/roadmap-financial-services)
-- [The hidden costs of tool sprawl: An SRE&#39;s guide to observability consolidation](https://www.elastic.co/blog/guide-observability-consolidation)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
