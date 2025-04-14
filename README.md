@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Rust binary and library crate for semantic code retrieval](https://www.reddit.com/r/MachineLearning/comments/1jys6sr/p_rust_binary_and_library_crate_for_semantic_code/)
 - [[D] Distillation is underrated. I replicated GPT-4o&#39;s capability in a 14x cheaper model](https://www.reddit.com/r/MachineLearning/comments/1jyr6ah/d_distillation_is_underrated_i_replicated_gpt4os/)
 - [[D] Unable to replicate reported results when training MMPose models from scratch](https://www.reddit.com/r/MachineLearning/comments/1jypxab/d_unable_to_replicate_reported_results_when/)
-- [[D] Just open-sourced a financial LLM trained on 10 years of Indian market data — outputs SQL you can run on DuckDB](https://www.reddit.com/r/MachineLearning/comments/1jyjkjf/d_just_opensourced_a_financial_llm_trained_on_10/)
-- [[P] Inference and fine-tuning are converging — is anyone else thinking about this?](https://www.reddit.com/r/MachineLearning/comments/1jyilsf/p_inference_and_finetuning_are_converging_is/)
-- [[D] ICML 2025: A Shift Toward Correctness Over SOTA?](https://www.reddit.com/r/MachineLearning/comments/1jydy3j/d_icml_2025_a_shift_toward_correctness_over_sota/)
+- [[Project] anyone needs compute for their passion AI projects?](https://www.reddit.com/r/MachineLearning/comments/1jyp3g3/project_anyone_needs_compute_for_their_passion_ai/)
+- [[D] First-time arXiv submitter: Need endorsement for cs.AI](https://www.reddit.com/r/MachineLearning/comments/1jyo8fd/d_firsttime_arxiv_submitter_need_endorsement_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
