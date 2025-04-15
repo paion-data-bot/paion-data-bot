@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Creating my own AI model from scratch, is it worth it?](https://www.reddit.com/r/MachineLearning/comments/1k00wm0/d_creating_my_own_ai_model_from_scratch_is_it/)
 - [[R] Scaling Laws of Synthetic Data for Language Models](https://www.reddit.com/r/MachineLearning/comments/1jzyl0s/r_scaling_laws_of_synthetic_data_for_language/)
 - [[P] LightlyTrain: Open-source SSL pretraining for better vision models &lpar;beats ImageNet&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jzs47u/p_lightlytrain_opensource_ssl_pretraining_for/)
 - [So, your LLM app works... But is it reliable? [D]](https://www.reddit.com/r/MachineLearning/comments/1jzqr94/so_your_llm_app_works_but_is_it_reliable_d/)
 - [[R] Neuron Alignment Isn’t Fundamental — It’s a Side-Effect of ReLU &amp; Tanh Geometry, Says New Interpretability Method](https://www.reddit.com/r/MachineLearning/comments/1jzpkyj/r_neuron_alignment_isnt_fundamental_its_a/)
-- [[D] Are you guys still developing inhouse NLP models?](https://www.reddit.com/r/MachineLearning/comments/1jzpb75/d_are_you_guys_still_developing_inhouse_nlp_models/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
