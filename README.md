@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [So, your LLM app works... But is it reliable? [D]](https://www.reddit.com/r/MachineLearning/comments/1jzqr94/so_your_llm_app_works_but_is_it_reliable_d/)
 - [[R] Neuron Alignment Isn’t Fundamental — It’s a Side-Effect of ReLU &amp; Tanh Geometry, Says New Interpretability Method](https://www.reddit.com/r/MachineLearning/comments/1jzpkyj/r_neuron_alignment_isnt_fundamental_its_a/)
 - [[D] Are you guys still developing inhouse NLP models?](https://www.reddit.com/r/MachineLearning/comments/1jzpb75/d_are_you_guys_still_developing_inhouse_nlp_models/)
 - [[D] How to train this model with constrained resources?](https://www.reddit.com/r/MachineLearning/comments/1jzp9d0/d_how_to_train_this_model_with_constrained/)
 - [[D] Adress &amp; names matching technique recommendations](https://www.reddit.com/r/MachineLearning/comments/1jzobwq/d_adress_names_matching_technique_recommendations/)
-- [[D] Creating AI Avatars from Scratch](https://www.reddit.com/r/MachineLearning/comments/1jzkzh6/d_creating_ai_avatars_from_scratch/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
