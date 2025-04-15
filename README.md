@@ -26,9 +26,9 @@
 <!-- REDDIT-ML:START -->
 - [[D] Experiment tracking for student researchers - WandB, Neptune, or Comet ML?](https://www.reddit.com/r/MachineLearning/comments/1jzjy7f/d_experiment_tracking_for_student_researchers/)
 - [[N][D] EurAI Summer school in Bratislava](https://www.reddit.com/r/MachineLearning/comments/1jzjd4q/nd_eurai_summer_school_in_bratislava/)
-- [[P] Machine Learning project - Lung Cancer Detection](https://www.reddit.com/r/MachineLearning/comments/1jziiy6/p_machine_learning_project_lung_cancer_detection/)
 - [[D] Building a marketplace for 100K+ hours of high-quality, ethically sourced video data—looking for feedback from AI researchers](https://www.reddit.com/r/MachineLearning/comments/1jzffw1/d_building_a_marketplace_for_100k_hours_of/)
 - [[R] The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://www.reddit.com/r/MachineLearning/comments/1jzdgyk/r_the_ai_scientistv2_workshoplevel_automated/)
+- [[D] Advice on building Random Forest/XGBoost model](https://www.reddit.com/r/MachineLearning/comments/1jz8boa/d_advice_on_building_random_forestxgboost_model/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
