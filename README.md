@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] LoRA Vs Task Vectors](https://www.reddit.com/r/MachineLearning/comments/1k02geq/d_lora_vs_task_vectors/)
 - [Mathematics for machine learning](https://www.reddit.com/r/MachineLearning/comments/1k01dce/mathematics_for_machine_learning/)
 - [Deep Dive into [R]WKV-7 with Author Eugene Cheah](https://www.reddit.com/r/MachineLearning/comments/1k01cfy/deep_dive_into_rwkv7_with_author_eugene_cheah/)
 - [[D] Are Our Machine Learning Models Mirroring or Magnifying Our Cognitive Biases?](https://www.reddit.com/r/MachineLearning/comments/1k015fh/d_are_our_machine_learning_models_mirroring_or/)
 - [[D] Creating my own AI model from scratch, is it worth it?](https://www.reddit.com/r/MachineLearning/comments/1k00wm0/d_creating_my_own_ai_model_from_scratch_is_it/)
-- [[R] Scaling Laws of Synthetic Data for Language Models](https://www.reddit.com/r/MachineLearning/comments/1jzyl0s/r_scaling_laws_of_synthetic_data_for_language/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
