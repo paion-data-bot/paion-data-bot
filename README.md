@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] multiple queries one prompt : benchmark](https://www.reddit.com/r/MachineLearning/comments/1jzmhc5/d_multiple_queries_one_prompt_benchmark/)
 - [[D] Creating AI Avatars from Scratch](https://www.reddit.com/r/MachineLearning/comments/1jzkzh6/d_creating_ai_avatars_from_scratch/)
 - [[D] Experiment tracking for student researchers - WandB, Neptune, or Comet ML?](https://www.reddit.com/r/MachineLearning/comments/1jzjy7f/d_experiment_tracking_for_student_researchers/)
 - [[D] Building a marketplace for 100K+ hours of high-quality, ethically sourced video data—looking for feedback from AI researchers](https://www.reddit.com/r/MachineLearning/comments/1jzffw1/d_building_a_marketplace_for_100k_hours_of/)
 - [[R] The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search](https://www.reddit.com/r/MachineLearning/comments/1jzdgyk/r_the_ai_scientistv2_workshoplevel_automated/)
+- [[D] Is fractional differencing helpful for ML outside of economics?](https://www.reddit.com/r/MachineLearning/comments/1jzauh4/d_is_fractional_differencing_helpful_for_ml/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
