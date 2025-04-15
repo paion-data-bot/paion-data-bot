@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [Evaluating NL Crowdsourcing Data -- &#39;directly&#39; or Training LLMs? [R]](https://www.reddit.com/r/MachineLearning/comments/1jztv1u/evaluating_nl_crowdsourcing_data_directly_or/)
+- [[P] I built Eden: an AI that evolves, self-codes, remembers you, reflects on its own purpose, and talks to multiple LLMs like they’re coworkers](https://www.reddit.com/r/MachineLearning/comments/1jzufjo/p_i_built_eden_an_ai_that_evolves_selfcodes/)
 - [[P] LightlyTrain: Open-source SSL pretraining for better vision models &lpar;beats ImageNet&rpar;](https://www.reddit.com/r/MachineLearning/comments/1jzs47u/p_lightlytrain_opensource_ssl_pretraining_for/)
 - [[R] Recall: A Framework for Long-Term AI Memory](https://www.reddit.com/r/MachineLearning/comments/1jzs3k0/r_recall_a_framework_for_longterm_ai_memory/)
 - [So, your LLM app works... But is it reliable? [D]](https://www.reddit.com/r/MachineLearning/comments/1jzqr94/so_your_llm_app_works_but_is_it_reliable_d/)
