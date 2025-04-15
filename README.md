@@ -54,10 +54,10 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [Elasticsearch 9.0 &amp; 8.18: Cooked for developers, with another helping of blazing-fast BBQ — 5x faster than OpenSearch](https://www.elastic.co/blog/whats-new-elastic-search-9-0-0)
-- [Elastic 9.0/8.18: BBQ, EDOT &amp; LLM observability, Attack Discovery, Auto Import, and ES|QL JOIN](https://www.elastic.co/blog/whats-new-elastic-9-0-0)
-- [Elastic Platform 8.18 and 9.0: ES|QL Lookup Joins are here and Lucene 10!](https://www.elastic.co/blog/whats-new-elastic-platform-9-0-0)
 - [Elastic Security simplifies customization of prebuilt SIEM detection rules](https://www.elastic.co/blog/security-prebuilt-rules-editing)
+- [Elastic 9.0/8.18: BBQ, EDOT &amp; LLM observability, Attack Discovery, Auto Import, and ES|QL JOIN](https://www.elastic.co/blog/whats-new-elastic-9-0-0)
+- [Elasticsearch 9.0 &amp; 8.18: Cooked for developers, with another helping of blazing-fast BBQ — 5x faster than OpenSearch](https://www.elastic.co/blog/whats-new-elastic-search-9-0-0)
+- [ES|QL Joins are here! Yes, Joins!](https://www.elastic.co/blog/esql-lookup-join-elasticsearch)
 - [Elastic Observability 9.0/8.18: Elastic Distributions of OpenTelemetry &lpar;EDOT&rpar; now GA, LLM observability, and more](https://www.elastic.co/blog/whats-new-elastic-observability-9-0-0)
 <!-- ELASTIC-BLOGS:END -->
 
