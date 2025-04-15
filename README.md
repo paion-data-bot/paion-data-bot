@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] How and should I use Deepgaze pytorch? - Saliency Maps](https://www.reddit.com/r/MachineLearning/comments/1k040es/p_how_and_should_i_use_deepgaze_pytorch_saliency/)
 - [[P] I fine-tuned GPT-2 and GPT-J to mimic Mr. Darcy. Results were a mixture of promising and strange.](https://www.reddit.com/r/MachineLearning/comments/1k03i0k/p_i_finetuned_gpt2_and_gptj_to_mimic_mr_darcy/)
 - [[D] LoRA Vs Task Vectors](https://www.reddit.com/r/MachineLearning/comments/1k02geq/d_lora_vs_task_vectors/)
 - [Mathematics for machine learning](https://www.reddit.com/r/MachineLearning/comments/1k01dce/mathematics_for_machine_learning/)
 - [Deep Dive into [R]WKV-7 with Author Eugene Cheah](https://www.reddit.com/r/MachineLearning/comments/1k01cfy/deep_dive_into_rwkv7_with_author_eugene_cheah/)
-- [[D] Are Our Machine Learning Models Mirroring or Magnifying Our Cognitive Biases?](https://www.reddit.com/r/MachineLearning/comments/1k015fh/d_are_our_machine_learning_models_mirroring_or/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
