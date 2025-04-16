@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning](https://www.reddit.com/r/MachineLearning/comments/1k0mg13/r_two_heads_are_better_than_one_testtime_scaling/)
 - [[D]Mistake accesor model](https://www.reddit.com/r/MachineLearning/comments/1k0fx5b/dmistake_accesor_model/)
 - [[D] Google just released a new generation of TPUs. Who actually uses TPUs in production?](https://www.reddit.com/r/MachineLearning/comments/1k0fg57/d_google_just_released_a_new_generation_of_tpus/)
 - [[D] Contrastive Learning &lpar;SimCLR, MoCo&rpar; vs. Non-Contrastive Pretext Tasks &lpar;Rotation, Inpainting&rpar;: When/Why Does One Approach Dominate?](https://www.reddit.com/r/MachineLearning/comments/1k0fbvq/d_contrastive_learning_simclr_moco_vs/)
 - [MODE: A Lightweight TraditionalRAG Alternative &lpar;Looking for arXiv Endorsement&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/1k0dov1/mode_a_lightweight_traditionalrag_alternative/)
-- [[D] ACL 2025 Meta Reviews Discussion](https://www.reddit.com/r/MachineLearning/comments/1k0a3r7/d_acl_2025_meta_reviews_discussion/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
