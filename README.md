@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Empowering US federal AI initiatives: How Elastic helps agencies comply with M-25-21 and M-25-22](https://www.elastic.co/blog/federal-ai-initiatives-comply-m-25-21-m-25-22)
+- [Elastic Stack 8.17.5 released](https://www.elastic.co/blog/elastic-stack-8-17-5-released)
 - [The power of a single view: Unifying security and observability in banking](https://www.elastic.co/blog/unifying-security-observability-banking)
-- [The power of a single view: Unifying security and observability in banking](https://www.elastic.co/blog/unifying-security-observability-banking)
-- [Elastic Security simplifies customization of prebuilt SIEM detection rules](https://www.elastic.co/blog/security-prebuilt-rules-editing)
-- [Elastic 9.0/8.18: BBQ, EDOT &amp; LLM observability, Attack Discovery, Auto Import, and ES|QL JOIN](https://www.elastic.co/blog/whats-new-elastic-9-0-0)
-- [ES|QL Joins are here! Yes, Joins!](https://www.elastic.co/blog/esql-lookup-join-elasticsearch)
+- [Empowering US federal AI initiatives: How Elastic helps agencies comply with M-25-21 and M-25-22](https://www.elastic.co/blog/federal-ai-initiatives-comply-m-25-21-m-25-22)
+- [Elastic Stack 8.17.5 released](https://www.elastic.co/blog/elastic-stack-8-17-5-released)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
