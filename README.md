@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Using CSS backdrop-filter for UI Effects](https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/)
 - [Next Level CSS Styling for Cursors](https://css-tricks.com/next-level-css-styling-for-cursors/)
 - [CSS-Tricks Chronicles XLIII](https://css-tricks.com/css-tricks-chronicles-xliii/)
 - [Tailwind’s @apply Feature is Better Than it Sounds](https://css-tricks.com/tailwinds-apply-feature-is-better-than-it-sounds/)
 - [Cascading Layouts: A Workshop on Resilient CSS Layouts](https://css-tricks.com/cascading-layouts-a-workshop-on-resilient-css-layouts/)
-- [CSS Carousels](https://css-tricks.com/css-carousels/)
 <!-- CSS-TRIKCS:END -->
