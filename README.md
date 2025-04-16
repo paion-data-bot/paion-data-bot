@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Releasing RepAlignLoss &lpar;Custom Perceptual loss function used on my software&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k0qfhi/p_releasing_repalignloss_custom_perceptual_loss/)
+- [[D] Frontier AI Models Still Fail at Basic Physical Tasks: A Manufacturing Case Study](https://www.reddit.com/r/MachineLearning/comments/1k0qc7v/d_frontier_ai_models_still_fail_at_basic_physical/)
 - [[R] Beyond-NanoGPT: Go From LLM Noob to AI Researcher!](https://www.reddit.com/r/MachineLearning/comments/1k0npdk/r_beyondnanogpt_go_from_llm_noob_to_ai_researcher/)
 - [[R] Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning](https://www.reddit.com/r/MachineLearning/comments/1k0mg13/r_two_heads_are_better_than_one_testtime_scaling/)
 - [[D]Mistake accesor model](https://www.reddit.com/r/MachineLearning/comments/1k0fx5b/dmistake_accesor_model/)
-- [[D] Google just released a new generation of TPUs. Who actually uses TPUs in production?](https://www.reddit.com/r/MachineLearning/comments/1k0fg57/d_google_just_released_a_new_generation_of_tpus/)
-- [[D] Contrastive Learning &lpar;SimCLR, MoCo&rpar; vs. Non-Contrastive Pretext Tasks &lpar;Rotation, Inpainting&rpar;: When/Why Does One Approach Dominate?](https://www.reddit.com/r/MachineLearning/comments/1k0fbvq/d_contrastive_learning_simclr_moco_vs/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
