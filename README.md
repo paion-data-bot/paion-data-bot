@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Contrastive Learning &lpar;SimCLR, MoCo&rpar; vs. Non-Contrastive Pretext Tasks &lpar;Rotation, Inpainting&rpar;: When/Why Does One Approach Dominate?](https://www.reddit.com/r/MachineLearning/comments/1k0fbvq/d_contrastive_learning_simclr_moco_vs/)
 - [MODE: A Lightweight TraditionalRAG Alternative &lpar;Looking for arXiv Endorsement&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/1k0dov1/mode_a_lightweight_traditionalrag_alternative/)
 - [[D] ACL 2025 Meta Reviews Discussion](https://www.reddit.com/r/MachineLearning/comments/1k0a3r7/d_acl_2025_meta_reviews_discussion/)
 - [[D] We’re running 50+ LLMs per GPU by snapshotting GPU memory like a process fork](https://www.reddit.com/r/MachineLearning/comments/1k06yrh/d_were_running_50_llms_per_gpu_by_snapshotting/)
 - [[P] How and should I use Deepgaze pytorch? - Saliency Maps](https://www.reddit.com/r/MachineLearning/comments/1k040es/p_how_and_should_i_use_deepgaze_pytorch_saliency/)
-- [[P] I fine-tuned GPT-2 and GPT-J to mimic Mr. Darcy. Results were a mixture of promising and strange.](https://www.reddit.com/r/MachineLearning/comments/1k03i0k/p_i_finetuned_gpt2_and_gptj_to_mimic_mr_darcy/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
