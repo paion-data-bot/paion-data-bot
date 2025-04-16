@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Deploy Neo4j on Google Distributed Cloud](https://www.youtube.com/watch?v=oqQ4OiBv-Wk)
-- [Explore No-Code GraphRAG Agents in 10 Minutes on Your Own Data](https://www.youtube.com/watch?v=0LJuGTsgTgw)
-- [Emil Eifrem at HumanX](https://www.youtube.com/watch?v=P2bV0OhSsdU)
-- [Neo4j for Fraud Detection](https://www.youtube.com/watch?v=r5ghMhQOFh0)
-- [Fika Interview with Lisa Cao](https://www.youtube.com/watch?v=TXmP8oxt5y8)
+- [FikaAI Interview with Adam Miller](https://www.youtube.com/watch?v=fP8lp9trs_Q)
+- [FikaAI Interview with Erik Kaunismaki](https://www.youtube.com/watch?v=o5dZxVaZJ58)
+- [FikaAI Interview with Ben Hindman](https://www.youtube.com/watch?v=zQQ4puDYY1g)
+- [FikaAI Interview with Eze Lanza](https://www.youtube.com/watch?v=cYYWMpsZfzY)
+- [FikaAI Interview with Richard Sikang Bian](https://www.youtube.com/watch?v=Yc1ur4KF6W4)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
