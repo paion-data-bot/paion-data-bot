@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[P] Today, to give back to the open source community, I release my first paper- a novel attention mechanism, Context-Aggregated Linear Attention, or CALA.](https://www.reddit.com/r/MachineLearning/comments/1k0yafe/p_today_to_give_back_to_the_open_source_community/)
-- [[D] Which AI Model is best for Emoji/Sticker Generation?](https://www.reddit.com/r/MachineLearning/comments/1k0vs90/d_which_ai_model_is_best_for_emojisticker/)
 - [[P] Releasing RepAlignLoss &lpar;Custom Perceptual loss function used on my software&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k0qfhi/p_releasing_repalignloss_custom_perceptual_loss/)
 - [[D] Frontier AI Models Still Fail at Basic Physical Tasks: A Manufacturing Case Study](https://www.reddit.com/r/MachineLearning/comments/1k0qc7v/d_frontier_ai_models_still_fail_at_basic_physical/)
 - [[R] Beyond-NanoGPT: Go From LLM Noob to AI Researcher!](https://www.reddit.com/r/MachineLearning/comments/1k0npdk/r_beyondnanogpt_go_from_llm_noob_to_ai_researcher/)
+- [[R] Two Heads are Better Than One: Test-time Scaling of Multi-agent Collaborative Reasoning](https://www.reddit.com/r/MachineLearning/comments/1k0mg13/r_two_heads_are_better_than_one_testtime_scaling/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
