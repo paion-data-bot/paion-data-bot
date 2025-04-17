@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Difference between ACL main, ACL Findings, and NeurIPS?](https://www.reddit.com/r/MachineLearning/comments/1k1as1l/d_difference_between_acl_main_acl_findings_and/)
 - [[D] Pros &amp; Cons of different similarity measures between Key and Query in Attention Mechanisms](https://www.reddit.com/r/MachineLearning/comments/1k1an3a/d_pros_cons_of_different_similarity_measures/)
 - [[D] Tuning a Multiclass Classifier](https://www.reddit.com/r/MachineLearning/comments/1k18hw5/d_tuning_a_multiclass_classifier/)
 - [[D] When will reasoning models hit a wall?](https://www.reddit.com/r/MachineLearning/comments/1k1606o/d_when_will_reasoning_models_hit_a_wall/)
 - [[P]Best models to read codes from small torn paper snippets](https://www.reddit.com/r/MachineLearning/comments/1k156uu/pbest_models_to_read_codes_from_small_torn_paper/)
-- [[P] Releasing RepAlignLoss &lpar;Custom Perceptual loss function used on my software&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k0qfhi/p_releasing_repalignloss_custom_perceptual_loss/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
