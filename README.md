@@ -14,11 +14,11 @@
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [Introducing Gemini 2.5 Flash](https://deepmind.google/discover/blog/introducing-gemini-2-5-flash/)
 - [Generate videos in Gemini and Whisk with Veo 2](https://deepmind.google/discover/blog/generate-videos-in-gemini-and-whisk-with-veo-2/)
 - [DolphinGemma: How Google AI is helping decode dolphin communication](https://deepmind.google/discover/blog/dolphingemma-how-google-ai-is-helping-decode-dolphin-communication/)
 - [Taking a responsible path to AGI](https://deepmind.google/discover/blog/taking-a-responsible-path-to-agi/)
 - [Evaluating potential cybersecurity threats of advanced AI](https://deepmind.google/discover/blog/evaluating-potential-cybersecurity-threats-of-advanced-ai/)
-- [Gemini 2.5: Our most intelligent AI model](https://deepmind.google/discover/blog/gemini-2-5-our-most-intelligent-ai-model/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
