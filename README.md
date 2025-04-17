@@ -98,11 +98,11 @@
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Guiding an LLM for Robust Java ByteBuffer Code](https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html)
 - [Updating yesterday&#39;s post on social media engagement](https://martinfowler.com/articles/2025-social-traffic.html)
 - [Social Media Engagement in Early 2025](https://martinfowler.com/articles/2025-social-traffic.html)
 - [I&#39;ve been kidnapped by Robert Caro](https://martinfowler.com/articles/2025-caro.html)
 - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
-- [Commenting on removing &quot;X&quot; on US passports](https://martinfowler.com/articles/2025-passport-x.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 ### [CSS-Trikcs](https://css-tricks.com/)
