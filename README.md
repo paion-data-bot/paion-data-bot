@@ -55,10 +55,10 @@
 
 <!-- ELASTIC-BLOGS:START -->
 - [From silos to synergy: How FSIs can optimize their cloud strategies](https://www.elastic.co/blog/financial-services-optimize-cloud-strategies)
+- [Hunting with Elastic Security: Detecting command and scripting interpreter execution](https://www.elastic.co/blog/detecting-command-scripting-interpreter)
 - [From silos to synergy: How FSIs can optimize their cloud strategies](https://www.elastic.co/blog/financial-services-optimize-cloud-strategies)
-- [Elastic Stack 8.17.5 released](https://www.elastic.co/blog/elastic-stack-8-17-5-released)
+- [Hunting with Elastic Security: Detecting command and scripting interpreter execution](https://www.elastic.co/blog/detecting-command-scripting-interpreter)
 - [The power of a single view: Unifying security and observability in banking](https://www.elastic.co/blog/unifying-security-observability-banking)
-- [Empowering US federal AI initiatives: How Elastic helps agencies comply with M-25-21 and M-25-22](https://www.elastic.co/blog/federal-ai-initiatives-comply-m-25-21-m-25-22)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
