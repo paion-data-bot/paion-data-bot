@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Master&#39;s in AI. Where to go?](https://www.reddit.com/r/MachineLearning/comments/1k24uwx/d_masters_in_ai_where_to_go/)
 - [[D] A very nice blog post from Sander Dielman on VAEs and other stuff.](https://www.reddit.com/r/MachineLearning/comments/1k235gk/d_a_very_nice_blog_post_from_sander_dielman_on/)
 - [arXiv moving from Cornell servers to Google Cloud](https://www.reddit.com/r/MachineLearning/comments/1k22p74/arxiv_moving_from_cornell_servers_to_google_cloud/)
+- [[N] Semantic Memory Layer for LLMs – from long-form GPT interaction](https://www.reddit.com/r/MachineLearning/comments/1k2178l/n_semantic_memory_layer_for_llms_from_longform/)
 - [Memorization vs Reasoning [D]](https://www.reddit.com/r/MachineLearning/comments/1k1z8tc/memorization_vs_reasoning_d/)
-- [[P] Gym retro issues](https://www.reddit.com/r/MachineLearning/comments/1k1z3vw/p_gym_retro_issues/)
-- [[D]Seeking Ideas: How to Build a Highly Accurate OCR for Short Alphanumeric Codes?](https://www.reddit.com/r/MachineLearning/comments/1k1ynyt/dseeking_ideas_how_to_build_a_highly_accurate_ocr/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
