@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] arXiv submission](https://www.reddit.com/r/MachineLearning/comments/1k2i413/r_arxiv_submission/)
 - [[D] How can I export an encoder-decoder PyTorch model into a single ONNX file?](https://www.reddit.com/r/MachineLearning/comments/1k2gjz2/d_how_can_i_export_an_encoderdecoder_pytorch/)
 - [[D] How can you teach normality to a Large VLM during SFT?](https://www.reddit.com/r/MachineLearning/comments/1k2bsdk/d_how_can_you_teach_normality_to_a_large_vlm/)
 - [[D] How does the current USA policy changes affect grad school applications?](https://www.reddit.com/r/MachineLearning/comments/1k26r61/d_how_does_the_current_usa_policy_changes_affect/)
 - [[P] How to handle highly imbalanced biological dataset](https://www.reddit.com/r/MachineLearning/comments/1k26joo/p_how_to_handle_highly_imbalanced_biological/)
-- [[D] A very nice blog post from Sander Dielman on VAEs and other stuff.](https://www.reddit.com/r/MachineLearning/comments/1k235gk/d_a_very_nice_blog_post_from_sander_dielman_on/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
