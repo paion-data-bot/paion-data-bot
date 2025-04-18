@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Memorization vs Reasoning [D]](https://www.reddit.com/r/MachineLearning/comments/1k1z8tc/memorization_vs_reasoning_d/)
 - [[P] Gym retro issues](https://www.reddit.com/r/MachineLearning/comments/1k1z3vw/p_gym_retro_issues/)
 - [[D]Seeking Ideas: How to Build a Highly Accurate OCR for Short Alphanumeric Codes?](https://www.reddit.com/r/MachineLearning/comments/1k1ynyt/dseeking_ideas_how_to_build_a_highly_accurate_ocr/)
 - [[D]Need advice regarding sentence embedding](https://www.reddit.com/r/MachineLearning/comments/1k1w0fj/dneed_advice_regarding_sentence_embedding/)
 - [Time Series forecasting [P]](https://www.reddit.com/r/MachineLearning/comments/1k1v3f9/time_series_forecasting_p/)
-- [[D] A new DINO Training Framework](https://www.reddit.com/r/MachineLearning/comments/1k1taxr/d_a_new_dino_training_framework/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
