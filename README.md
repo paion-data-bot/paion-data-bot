@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Strengthening cyber resilience with Elastic Security and Observability](https://www.elastic.co/blog/strengthening-cyber-resilience-with-elastic-security-and-observability)
+- [Hunting with Elastic Security: Exfiltration over C2 channel](https://www.elastic.co/blog/security-exfiltration)
+- [Strengthening cyber resilience with Elastic Security and Observability](https://www.elastic.co/blog/strengthening-cyber-resilience-with-elastic-security-and-observability)
+- [Hunting with Elastic Security: Exfiltration over C2 channel](https://www.elastic.co/blog/security-exfiltration)
 - [From silos to synergy: How FSIs can optimize their cloud strategies](https://www.elastic.co/blog/financial-services-optimize-cloud-strategies)
-- [Hunting with Elastic Security: Detecting command and scripting interpreter execution](https://www.elastic.co/blog/detecting-command-scripting-interpreter)
-- [From silos to synergy: How FSIs can optimize their cloud strategies](https://www.elastic.co/blog/financial-services-optimize-cloud-strategies)
-- [Hunting with Elastic Security: Detecting command and scripting interpreter execution](https://www.elastic.co/blog/detecting-command-scripting-interpreter)
-- [The power of a single view: Unifying security and observability in banking](https://www.elastic.co/blog/unifying-security-observability-banking)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
