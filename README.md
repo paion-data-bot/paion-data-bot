@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[D]Need advice regarding sentence embedding](https://www.reddit.com/r/MachineLearning/comments/1k1w0fj/dneed_advice_regarding_sentence_embedding/)
-- [[D] How do I get into machine learning?](https://www.reddit.com/r/MachineLearning/comments/1k1vudr/d_how_do_i_get_into_machine_learning/)
 - [Time Series forecasting [P]](https://www.reddit.com/r/MachineLearning/comments/1k1v3f9/time_series_forecasting_p/)
 - [[D] A new DINO Training Framework](https://www.reddit.com/r/MachineLearning/comments/1k1taxr/d_a_new_dino_training_framework/)
 - [[D] Val loss not drop, in different lr ,loss always around 0.8.](https://www.reddit.com/r/MachineLearning/comments/1k1ss3n/d_val_loss_not_drop_in_different_lr_loss_always/)
+- [[D] Sharing dataset splits: What are the standard practices &lpar;if any&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1k1qsqu/d_sharing_dataset_splits_what_are_the_standard/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
