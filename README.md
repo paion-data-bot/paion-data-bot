@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Time Series forecasting [P]](https://www.reddit.com/r/MachineLearning/comments/1k1v3f9/time_series_forecasting_p/)
 - [[D] A new DINO Training Framework](https://www.reddit.com/r/MachineLearning/comments/1k1taxr/d_a_new_dino_training_framework/)
 - [[D] Val loss not drop, in different lr ,loss always around 0.8.](https://www.reddit.com/r/MachineLearning/comments/1k1ss3n/d_val_loss_not_drop_in_different_lr_loss_always/)
 - [[D] Sharing dataset splits: What are the standard practices &lpar;if any&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1k1qsqu/d_sharing_dataset_splits_what_are_the_standard/)
 - [[N] We just made scikit-learn, UMAP, and HDBSCAN run on GPUs with zero code changes! 🚀](https://www.reddit.com/r/MachineLearning/comments/1k1nn8d/n_we_just_made_scikitlearn_umap_and_hdbscan_run/)
-- [[R] Algorithm for rotation images in 3D](https://www.reddit.com/r/MachineLearning/comments/1k1ncne/r_algorithm_for_rotation_images_in_3d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
