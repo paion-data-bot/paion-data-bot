@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How does the current USA policy changes affect grad school applications?](https://www.reddit.com/r/MachineLearning/comments/1k26r61/d_how_does_the_current_usa_policy_changes_affect/)
 - [[P] How to handle highly imbalanced biological dataset](https://www.reddit.com/r/MachineLearning/comments/1k26joo/p_how_to_handle_highly_imbalanced_biological/)
 - [[D] Master&#39;s in AI. Where to go?](https://www.reddit.com/r/MachineLearning/comments/1k24uwx/d_masters_in_ai_where_to_go/)
 - [[D] A very nice blog post from Sander Dielman on VAEs and other stuff.](https://www.reddit.com/r/MachineLearning/comments/1k235gk/d_a_very_nice_blog_post_from_sander_dielman_on/)
 - [arXiv moving from Cornell servers to Google Cloud](https://www.reddit.com/r/MachineLearning/comments/1k22p74/arxiv_moving_from_cornell_servers_to_google_cloud/)
-- [[N] Semantic Memory Layer for LLMs – from long-form GPT interaction](https://www.reddit.com/r/MachineLearning/comments/1k2178l/n_semantic_memory_layer_for_llms_from_longform/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
