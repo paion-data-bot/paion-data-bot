@@ -56,9 +56,9 @@
 <!-- ELASTIC-BLOGS:START -->
 - [Strengthening cyber resilience with Elastic Security and Observability](https://www.elastic.co/blog/strengthening-cyber-resilience-with-elastic-security-and-observability)
 - [Hunting with Elastic Security: Exfiltration over C2 channel](https://www.elastic.co/blog/security-exfiltration)
+- [Powering the future of financial services with AI-driven intelligence](https://www.elastic.co/blog/ai-driven-intelligence)
 - [Strengthening cyber resilience with Elastic Security and Observability](https://www.elastic.co/blog/strengthening-cyber-resilience-with-elastic-security-and-observability)
 - [Hunting with Elastic Security: Exfiltration over C2 channel](https://www.elastic.co/blog/security-exfiltration)
-- [From silos to synergy: How FSIs can optimize their cloud strategies](https://www.elastic.co/blog/financial-services-optimize-cloud-strategies)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
