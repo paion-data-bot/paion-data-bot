@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Creepy AI Voice Mode Glitch—Seemingly Reveals Hidden Features &lpar;Voice Cloning, Music Generation, Internal Dialogue&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k34xsj/d_creepy_ai_voice_mode_glitchseemingly_reveals/)
 - [[R] Biologically-inspired architecture with simple mechanisms shows strong long-range memory &lpar;O&lpar;n&rpar; complexity&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k33k1i/r_biologicallyinspired_architecture_with_simple/)
 - [[D] Any Bulk Image Editor for Image Cleaning?](https://www.reddit.com/r/MachineLearning/comments/1k32wrk/d_any_bulk_image_editor_for_image_cleaning/)
 - [[D] how to counter variable input length during inference in gpt?](https://www.reddit.com/r/MachineLearning/comments/1k2w1th/d_how_to_counter_variable_input_length_during/)
 - [[P] Training an LLM to play the board game Hex, using self-play to improve performance](https://www.reddit.com/r/MachineLearning/comments/1k2vx1g/p_training_an_llm_to_play_the_board_game_hex/)
-- [[P] I built an Image Search Tool with PyQt5 and MobileNetV2—Feedback welcome!](https://www.reddit.com/r/MachineLearning/comments/1k2vss4/p_i_built_an_image_search_tool_with_pyqt5_and/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
