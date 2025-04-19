@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Training an LLM to play the board game Hex, using self-play to improve performance](https://www.reddit.com/r/MachineLearning/comments/1k2vx1g/p_training_an_llm_to_play_the_board_game_hex/)
+- [[P] I built an Image Search Tool with PyQt5 and MobileNetV2—Feedback welcome!](https://www.reddit.com/r/MachineLearning/comments/1k2vss4/p_i_built_an_image_search_tool_with_pyqt5_and/)
 - [[P] Introducing Nebulla: A Lightweight Text Embedding Model in Rust 🌌](https://www.reddit.com/r/MachineLearning/comments/1k2p4fh/p_introducing_nebulla_a_lightweight_text/)
 - [[P] Gotta love inefficiency!](https://www.reddit.com/r/MachineLearning/comments/1k2ohe5/p_gotta_love_inefficiency/)
 - [[R] Need arXiv Endorsement for cs.AI – Thesis on LLMs &lpar;Beyond GPT&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k2jklh/r_need_arxiv_endorsement_for_csai_thesis_on_llms/)
-- [[D] How can I export an encoder-decoder PyTorch model into a single ONNX file?](https://www.reddit.com/r/MachineLearning/comments/1k2gjz2/d_how_can_i_export_an_encoderdecoder_pytorch/)
-- [[D] How can you teach normality to a Large VLM during SFT?](https://www.reddit.com/r/MachineLearning/comments/1k2bsdk/d_how_can_you_teach_normality_to_a_large_vlm/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
