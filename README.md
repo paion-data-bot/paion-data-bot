@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Continue with Data Science masters or switch to Masters in Statistics?](https://www.reddit.com/r/MachineLearning/comments/1k2s0gf/d_continue_with_data_science_masters_or_switch_to/)
+- [[P] Introducing Nebulla: A Lightweight Text Embedding Model in Rust 🌌](https://www.reddit.com/r/MachineLearning/comments/1k2p4fh/p_introducing_nebulla_a_lightweight_text/)
 - [[P] Gotta love inefficiency!](https://www.reddit.com/r/MachineLearning/comments/1k2ohe5/p_gotta_love_inefficiency/)
 - [[R] Need arXiv Endorsement for cs.AI – Thesis on LLMs &lpar;Beyond GPT&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k2jklh/r_need_arxiv_endorsement_for_csai_thesis_on_llms/)
 - [[D] How can I export an encoder-decoder PyTorch model into a single ONNX file?](https://www.reddit.com/r/MachineLearning/comments/1k2gjz2/d_how_can_i_export_an_encoderdecoder_pytorch/)
