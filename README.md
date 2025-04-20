@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] The State of Reinforcement Learning for LLM Reasoning](https://www.reddit.com/r/MachineLearning/comments/1k3qaql/p_the_state_of_reinforcement_learning_for_llm/)
+- [[P] Building and deploying a scalable agent.](https://www.reddit.com/r/MachineLearning/comments/1k3q4ob/p_building_and_deploying_a_scalable_agent/)
 - [Why no one was talking about this paper?](https://www.reddit.com/r/MachineLearning/comments/1k3pzfh/why_no_one_was_talking_about_this_paper/)
 - [[D] Good literature/resources on GNNs](https://www.reddit.com/r/MachineLearning/comments/1k3op73/d_good_literatureresources_on_gnns/)
 - [[D] Is this build &lpar;Ryzen 9950X + 128GB RAM + RTX 5070 Ti&rpar; suitable for hybrid ML?](https://www.reddit.com/r/MachineLearning/comments/1k3o5sz/d_is_this_build_ryzen_9950x_128gb_ram_rtx_5070_ti/)
-- [[P] EyesOff - A privacy focus macOS app which utilises a locally running neural net](https://www.reddit.com/r/MachineLearning/comments/1k3niyp/p_eyesoff_a_privacy_focus_macos_app_which/)
-- [[R] It’s All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization](https://www.reddit.com/r/MachineLearning/comments/1k3n0tq/r_its_all_connected_a_journey_through_testtime/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
