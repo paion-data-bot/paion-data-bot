@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] A naturally emergent, dominant latent attractor in a proprietary model behaving like a semi-autonomous aesthetic agent](https://www.reddit.com/r/MachineLearning/comments/1k3mb7s/d_a_naturally_emergent_dominant_latent_attractor/)
+- [[P] How to predict F1 race results?](https://www.reddit.com/r/MachineLearning/comments/1k3m3uc/p_how_to_predict_f1_race_results/)
 - [[R] Unifying Flow Matching and Energy-Based Models for Generative Modeling](https://www.reddit.com/r/MachineLearning/comments/1k3l87t/r_unifying_flow_matching_and_energybased_models/)
 - [[P] I built an Image Search Tool with PyQt5 and MobileNetV2—Feedback welcome!](https://www.reddit.com/r/MachineLearning/comments/1k3j46h/p_i_built_an_image_search_tool_with_pyqt5_and/)
 - [[D] New AI‑Powered IDE for Data Science &amp; ML Engineers—Would You Switch?](https://www.reddit.com/r/MachineLearning/comments/1k3itpl/d_new_aipowered_ide_for_data_science_ml/)
-- [[P] F1 Race Prediction Model for the 2025 Saudi Arabian GP – Building on My Shanghai &amp; Suzuka Forecasts](https://www.reddit.com/r/MachineLearning/comments/1k3hcnp/p_f1_race_prediction_model_for_the_2025_saudi/)
-- [[D] Gemini 2.5 Flash Reasoning vs Non reasoning Experiments](https://www.reddit.com/r/MachineLearning/comments/1k3gupd/d_gemini_25_flash_reasoning_vs_non_reasoning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
