@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Gemini 2.5 Flash Reasoning vs Non reasoning Experiments](https://www.reddit.com/r/MachineLearning/comments/1k3gupd/d_gemini_25_flash_reasoning_vs_non_reasoning/)
 - [[D][Discussion] - Model Context Protocol - Exhaustively Explained](https://www.reddit.com/r/MachineLearning/comments/1k3dxbc/ddiscussion_model_context_protocol_exhaustively/)
 - [[P] I built a Docker Container for Computer-Use AI Agents in Python.](https://www.reddit.com/r/MachineLearning/comments/1k3ag7e/p_i_built_a_docker_container_for_computeruse_ai/)
 - [[R] Hey there! I made a research proposal for a master programme application and I want some opinion about it. I wanted to develop an emotion embedded AI model that can generate back response to the recipients](https://www.reddit.com/r/MachineLearning/comments/1k36v8k/r_hey_there_i_made_a_research_proposal_for_a/)
 - [[R] Biologically-inspired architecture with simple mechanisms shows strong long-range memory &lpar;O&lpar;n&rpar; complexity&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k33k1i/r_biologicallyinspired_architecture_with_simple/)
-- [[D] Any Bulk Image Editor for Image Cleaning?](https://www.reddit.com/r/MachineLearning/comments/1k32wrk/d_any_bulk_image_editor_for_image_cleaning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
