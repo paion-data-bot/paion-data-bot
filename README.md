@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] EyesOff - A privacy focus macOS app which utilises a locally running neural net](https://www.reddit.com/r/MachineLearning/comments/1k3niyp/p_eyesoff_a_privacy_focus_macos_app_which/)
 - [[R] It’s All Connected: A Journey Through Test-Time Memorization, Attentional Bias, Retention, and Online Optimization](https://www.reddit.com/r/MachineLearning/comments/1k3n0tq/r_its_all_connected_a_journey_through_testtime/)
 - [[P] An AI judges a person&#39;s character based on video input](https://www.reddit.com/r/MachineLearning/comments/1k3mq5c/p_an_ai_judges_a_persons_character_based_on_video/)
 - [[D] A naturally emergent, dominant latent attractor in a proprietary model behaving like a semi-autonomous aesthetic agent](https://www.reddit.com/r/MachineLearning/comments/1k3mb7s/d_a_naturally_emergent_dominant_latent_attractor/)
 - [[P] How to predict F1 race results?](https://www.reddit.com/r/MachineLearning/comments/1k3m3uc/p_how_to_predict_f1_race_results/)
-- [[R] Unifying Flow Matching and Energy-Based Models for Generative Modeling](https://www.reddit.com/r/MachineLearning/comments/1k3l87t/r_unifying_flow_matching_and_energybased_models/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
