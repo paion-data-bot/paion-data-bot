@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] An AI judges a person&#39;s character based on video input](https://www.reddit.com/r/MachineLearning/comments/1k3mq5c/p_an_ai_judges_a_persons_character_based_on_video/)
 - [[D] A naturally emergent, dominant latent attractor in a proprietary model behaving like a semi-autonomous aesthetic agent](https://www.reddit.com/r/MachineLearning/comments/1k3mb7s/d_a_naturally_emergent_dominant_latent_attractor/)
 - [[P] How to predict F1 race results?](https://www.reddit.com/r/MachineLearning/comments/1k3m3uc/p_how_to_predict_f1_race_results/)
 - [[R] Unifying Flow Matching and Energy-Based Models for Generative Modeling](https://www.reddit.com/r/MachineLearning/comments/1k3l87t/r_unifying_flow_matching_and_energybased_models/)
 - [[P] I built an Image Search Tool with PyQt5 and MobileNetV2—Feedback welcome!](https://www.reddit.com/r/MachineLearning/comments/1k3j46h/p_i_built_an_image_search_tool_with_pyqt5_and/)
-- [[D] New AI‑Powered IDE for Data Science &amp; ML Engineers—Would You Switch?](https://www.reddit.com/r/MachineLearning/comments/1k3itpl/d_new_aipowered_ide_for_data_science_ml/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
