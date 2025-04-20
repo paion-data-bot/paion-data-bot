@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[R]I have made an AI model that can reason using the attention mechanism and here is the following benchmark](https://www.reddit.com/r/MachineLearning/comments/1k3tnog/ri_have_made_an_ai_model_that_can_reason_using/)
 - [[P] The State of Reinforcement Learning for LLM Reasoning](https://www.reddit.com/r/MachineLearning/comments/1k3qaql/p_the_state_of_reinforcement_learning_for_llm/)
 - [[P] Building and deploying a scalable agent.](https://www.reddit.com/r/MachineLearning/comments/1k3q4ob/p_building_and_deploying_a_scalable_agent/)
 - [Why no one was talking about this paper?](https://www.reddit.com/r/MachineLearning/comments/1k3pzfh/why_no_one_was_talking_about_this_paper/)
 - [[D] Good literature/resources on GNNs](https://www.reddit.com/r/MachineLearning/comments/1k3op73/d_good_literatureresources_on_gnns/)
+- [[D] Is this build &lpar;Ryzen 9950X + 128GB RAM + RTX 5070 Ti&rpar; suitable for hybrid ML?](https://www.reddit.com/r/MachineLearning/comments/1k3o5sz/d_is_this_build_ryzen_9950x_128gb_ram_rtx_5070_ti/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
