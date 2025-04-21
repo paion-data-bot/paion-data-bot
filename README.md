@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Artificial intelligence](https://www.reddit.com/r/MachineLearning/comments/1k40ggm/d_artificial_intelligence/)
+- [[D] Opening range b/o prediction](https://www.reddit.com/r/MachineLearning/comments/1k43l0c/d_opening_range_bo_prediction/)
+- [[D] What are the best tools/utilities/libraries for consistent face generation in AI image workflows &lpar;for album covers + artist press shots&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1k43cdl/d_what_are_the_best_toolsutilitieslibraries_for/)
+- [[P] Prompting Alone Couldn’t Save My GPT-4 Agent](https://www.reddit.com/r/MachineLearning/comments/1k42xmd/p_prompting_alone_couldnt_save_my_gpt4_agent/)
 - [[D] How are you training YOLO?](https://www.reddit.com/r/MachineLearning/comments/1k40fxp/d_how_are_you_training_yolo/)
 - [[D] The potential of embodied agents to automate cooking](https://www.reddit.com/r/MachineLearning/comments/1k3vlaa/d_the_potential_of_embodied_agents_to_automate/)
-- [[P] The State of Reinforcement Learning for LLM Reasoning](https://www.reddit.com/r/MachineLearning/comments/1k3qaql/p_the_state_of_reinforcement_learning_for_llm/)
-- [[P] Building and deploying a scalable agent.](https://www.reddit.com/r/MachineLearning/comments/1k3q4ob/p_building_and_deploying_a_scalable_agent/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
