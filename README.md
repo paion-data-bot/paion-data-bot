@@ -64,11 +64,11 @@
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Streamlining OpenStack Upgrades: A Case Study of Indiana University’s Efficient Upgrade Strategy](https://superuser.openinfra.org/articles/streamlining-openstack-upgrades-a-case-study-of-indiana-universitys-efficient-upgrade-strategy/)
 - [How OpenStack Powers BT Group’s 5G Network Transformation](https://superuser.openinfra.org/articles/how-openstack-powers-bt-groups-5g-network-transformation/)
 - [How To Set Up a Virtual Machine With VirtualBox](https://superuser.openinfra.org/articles/how-to-set-up-a-virtual-machine-with-virtualbox/)
 - [OpenStack Delivers Efficiency, Cost Savings for Powering AI Workloads](https://superuser.openinfra.org/articles/openstack-delivers-efficiency-cost-savings-for-powering-ai-workloads/)
 - [Simplifying Infrastructure with OpenStack – Telekom Networks Malawi’s Transformation](https://superuser.openinfra.org/articles/simplifying-infrastructure-with-openstack-telekom-networks-malawis-transformation/)
-- [Using Kata Containers as a Container Runtime in OpenStack Zun](https://superuser.openinfra.org/articles/using-kata-containers-as-a-container-runtime-in-openstack-zun/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h3><a href="https://www.docker.com/blog/">Docker Blogs</a></h3>
