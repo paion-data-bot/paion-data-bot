@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Avoiding cold starts with model snapshots — 2 GPUs, 50 LLMs, no containers](https://www.reddit.com/r/MachineLearning/comments/1k4e7pt/d_avoiding_cold_starts_with_model_snapshots_2/)
 - [[D] Feature Importance in case of multiple seeds](https://www.reddit.com/r/MachineLearning/comments/1k4dszf/d_feature_importance_in_case_of_multiple_seeds/)
 - [[D] Combine XGBoost &amp; GNNs - but how?](https://www.reddit.com/r/MachineLearning/comments/1k4cqb4/d_combine_xgboost_gnns_but_how/)
 - [[D] What&#39;s the Deal with World Models, Foundation World Models, and All These Confusing Terms? Help!](https://www.reddit.com/r/MachineLearning/comments/1k4bawr/d_whats_the_deal_with_world_models_foundation/)
 - [[D] ICCNT Conference or Book Chapter of Taylors and Francis](https://www.reddit.com/r/MachineLearning/comments/1k48ne4/d_iccnt_conference_or_book_chapter_of_taylors_and/)
+- [[D] image-to-image models – how to use and finetune Flux for preserving face ID?](https://www.reddit.com/r/MachineLearning/comments/1k46ha9/d_imagetoimage_models_how_to_use_and_finetune/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
