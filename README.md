@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] When does IJCNN registration open?](https://www.reddit.com/r/MachineLearning/comments/1k44hv8/d_when_does_ijcnn_registration_open/)
+- [[P] How to measure similarity between sentences in LLMs](https://www.reddit.com/r/MachineLearning/comments/1k44hfj/p_how_to_measure_similarity_between_sentences_in/)
 - [Has anyone successfully set up a real-time AI feedback system using screen sharing or livestreams? [R]](https://www.reddit.com/r/MachineLearning/comments/1k443q0/has_anyone_successfully_set_up_a_realtime_ai/)
 - [[D] Opening range b/o prediction](https://www.reddit.com/r/MachineLearning/comments/1k43l0c/d_opening_range_bo_prediction/)
 - [[D] What are the best tools/utilities/libraries for consistent face generation in AI image workflows &lpar;for album covers + artist press shots&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1k43cdl/d_what_are_the_best_toolsutilitieslibraries_for/)
-- [[P] Prompting Alone Couldn’t Save My GPT-4 Agent](https://www.reddit.com/r/MachineLearning/comments/1k42xmd/p_prompting_alone_couldnt_save_my_gpt4_agent/)
-- [[D] How are you training YOLO?](https://www.reddit.com/r/MachineLearning/comments/1k40fxp/d_how_are_you_training_yolo/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
