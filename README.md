@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Artificial intelligence](https://www.reddit.com/r/MachineLearning/comments/1k40ggm/d_artificial_intelligence/)
+- [[D] How are you training YOLO?](https://www.reddit.com/r/MachineLearning/comments/1k40fxp/d_how_are_you_training_yolo/)
 - [[D] The potential of embodied agents to automate cooking](https://www.reddit.com/r/MachineLearning/comments/1k3vlaa/d_the_potential_of_embodied_agents_to_automate/)
 - [[P] The State of Reinforcement Learning for LLM Reasoning](https://www.reddit.com/r/MachineLearning/comments/1k3qaql/p_the_state_of_reinforcement_learning_for_llm/)
 - [[P] Building and deploying a scalable agent.](https://www.reddit.com/r/MachineLearning/comments/1k3q4ob/p_building_and_deploying_a_scalable_agent/)
-- [Why no one was talking about this paper?](https://www.reddit.com/r/MachineLearning/comments/1k3pzfh/why_no_one_was_talking_about_this_paper/)
-- [[D] Good literature/resources on GNNs](https://www.reddit.com/r/MachineLearning/comments/1k3op73/d_good_literatureresources_on_gnns/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
