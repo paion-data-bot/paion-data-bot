@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What are the current research gaps on GNN?](https://www.reddit.com/r/MachineLearning/comments/1k4oxgo/d_what_are_the_current_research_gaps_on_gnn/)
 - [-how can i pretend to be just fine with the absurd arxiv filenames on download? [R]](https://www.reddit.com/r/MachineLearning/comments/1k4mt0q/how_can_i_pretend_to_be_just_fine_with_the_absurd/)
 - [[N] Google Succeeds With LLMs While Meta and OpenAI Stumble](https://www.reddit.com/r/MachineLearning/comments/1k4hec0/n_google_succeeds_with_llms_while_meta_and_openai/)
 - [[D] Feature Importance in case of multiple seeds](https://www.reddit.com/r/MachineLearning/comments/1k4dszf/d_feature_importance_in_case_of_multiple_seeds/)
 - [[D] Combine XGBoost &amp; GNNs - but how?](https://www.reddit.com/r/MachineLearning/comments/1k4cqb4/d_combine_xgboost_gnns_but_how/)
-- [[D] What&#39;s the Deal with World Models, Foundation World Models, and All These Confusing Terms? Help!](https://www.reddit.com/r/MachineLearning/comments/1k4bawr/d_whats_the_deal_with_world_models_foundation/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
