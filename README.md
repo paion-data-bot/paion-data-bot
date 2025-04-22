@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [Which AI are you using for help and which one for you is the best and why? [D]](https://www.reddit.com/r/MachineLearning/comments/1k5gycb/which_ai_are_you_using_for_help_and_which_one_for/)
 - [Properly handling missing values [D]](https://www.reddit.com/r/MachineLearning/comments/1k5fw24/properly_handling_missing_values_d/)
 - [[R] One Embedding to Rule Them All](https://www.reddit.com/r/MachineLearning/comments/1k5b3ni/r_one_embedding_to_rule_them_all/)
 - [Google AI Training Concerns [D]](https://www.reddit.com/r/MachineLearning/comments/1k5az2g/google_ai_training_concerns_d/)
 - [[P] How do I detect cancelled text](https://www.reddit.com/r/MachineLearning/comments/1k51qlv/p_how_do_i_detect_cancelled_text/)
+- [[R] [DeepMind] Welcome to the Era of Experience](https://www.reddit.com/r/MachineLearning/comments/1k4zr1i/r_deepmind_welcome_to_the_era_of_experience/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
