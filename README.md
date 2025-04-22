@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
+- [FikaAI Interview with Mattias Karlsson](https://www.youtube.com/watch?v=vcU9XGaBUqA)
 - [FikaAI Interview with Michael Redlich](https://www.youtube.com/watch?v=vqAdzVUjVaM)
 - [FikaAI Interview with Michele Catasta](https://www.youtube.com/watch?v=cuTx5u-uAbk)
 - [FikaAI Interview with Orlando Valdez](https://www.youtube.com/watch?v=iJQDkYSNQac)
 - [FikaAI Interview with Thierry Damiba](https://www.youtube.com/watch?v=PG378pZf42c)
-- [FikaAI Interview with Adam Miller](https://www.youtube.com/watch?v=fP8lp9trs_Q)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
