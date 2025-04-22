@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Properly handling missing values [D]](https://www.reddit.com/r/MachineLearning/comments/1k5fw24/properly_handling_missing_values_d/)
 - [[R] One Embedding to Rule Them All](https://www.reddit.com/r/MachineLearning/comments/1k5b3ni/r_one_embedding_to_rule_them_all/)
 - [Google AI Training Concerns [D]](https://www.reddit.com/r/MachineLearning/comments/1k5az2g/google_ai_training_concerns_d/)
 - [[P] How do I detect cancelled text](https://www.reddit.com/r/MachineLearning/comments/1k51qlv/p_how_do_i_detect_cancelled_text/)
 - [[R] [DeepMind] Welcome to the Era of Experience](https://www.reddit.com/r/MachineLearning/comments/1k4zr1i/r_deepmind_welcome_to_the_era_of_experience/)
-- [[D] New masters thesis student and need access to cloud GPUs](https://www.reddit.com/r/MachineLearning/comments/1k4za4g/d_new_masters_thesis_student_and_need_access_to/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
