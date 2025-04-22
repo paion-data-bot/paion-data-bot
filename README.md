@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] [DeepMind] Welcome to the Era of Experience](https://www.reddit.com/r/MachineLearning/comments/1k4zr1i/r_deepmind_welcome_to_the_era_of_experience/)
 - [[D] New masters thesis student and need access to cloud GPUs](https://www.reddit.com/r/MachineLearning/comments/1k4za4g/d_new_masters_thesis_student_and_need_access_to/)
 - [[D] Two basic questions about GNN](https://www.reddit.com/r/MachineLearning/comments/1k4yay1/d_two_basic_questions_about_gnn/)
 - [[D] How is SAE / cross layer transcoder trained?](https://www.reddit.com/r/MachineLearning/comments/1k4tvlu/d_how_is_sae_cross_layer_transcoder_trained/)
 - [[D] How much more improvment can you squeeze out by fine tuning large language models](https://www.reddit.com/r/MachineLearning/comments/1k4tn68/d_how_much_more_improvment_can_you_squeeze_out_by/)
-- [[Research] Resonant Structural Emulation: Toward Recursive Coherence in Reflective AI](https://www.reddit.com/r/MachineLearning/comments/1k4rude/research_resonant_structural_emulation_toward/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
