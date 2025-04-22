@@ -88,11 +88,11 @@
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Kubernetes Multicontainer Pods: An Overview](https://kubernetes.io/blog/2025/04/22/multi-container-pods-overview/)
 - [Introducing kube-scheduler-simulator](https://kubernetes.io/blog/2025/04/07/introducing-kube-scheduler-simulator/)
 - [Kubernetes v1.33 sneak peek](https://kubernetes.io/blog/2025/03/26/kubernetes-v1-33-upcoming-changes/)
 - [Fresh Swap Features for Linux Users in Kubernetes 1.32](https://kubernetes.io/blog/2025/03/25/swap-linux-improvements/)
 - [Ingress-nginx CVE-2025-1974: What You Need to Know](https://kubernetes.io/blog/2025/03/24/ingress-nginx-cve-2025-1974/)
-- [Introducing JobSet](https://kubernetes.io/blog/2025/03/23/introducing-jobset/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
