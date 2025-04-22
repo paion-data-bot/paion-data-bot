@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Can’t Train LoRA + Phi-2 on 2x GPUs with FSDP — Keep Getting PyArrow ArrowInvalid, DTensor, and Tokenization Errors](https://www.reddit.com/r/MachineLearning/comments/1k5jhub/r_cant_train_lora_phi2_on_2x_gpus_with_fsdp_keep/)
 - [Properly handling missing values [D]](https://www.reddit.com/r/MachineLearning/comments/1k5fw24/properly_handling_missing_values_d/)
 - [[R] One Embedding to Rule Them All](https://www.reddit.com/r/MachineLearning/comments/1k5b3ni/r_one_embedding_to_rule_them_all/)
 - [Google AI Training Concerns [D]](https://www.reddit.com/r/MachineLearning/comments/1k5az2g/google_ai_training_concerns_d/)
 - [[P] How do I detect cancelled text](https://www.reddit.com/r/MachineLearning/comments/1k51qlv/p_how_do_i_detect_cancelled_text/)
-- [[R] [DeepMind] Welcome to the Era of Experience](https://www.reddit.com/r/MachineLearning/comments/1k4zr1i/r_deepmind_welcome_to_the_era_of_experience/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
