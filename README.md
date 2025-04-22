@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Two basic questions about GNN](https://www.reddit.com/r/MachineLearning/comments/1k4yay1/d_two_basic_questions_about_gnn/)
 - [[D] How is SAE / cross layer transcoder trained?](https://www.reddit.com/r/MachineLearning/comments/1k4tvlu/d_how_is_sae_cross_layer_transcoder_trained/)
 - [[D] How much more improvment can you squeeze out by fine tuning large language models](https://www.reddit.com/r/MachineLearning/comments/1k4tn68/d_how_much_more_improvment_can_you_squeeze_out_by/)
 - [[Research] Resonant Structural Emulation: Toward Recursive Coherence in Reflective AI](https://www.reddit.com/r/MachineLearning/comments/1k4rude/research_resonant_structural_emulation_toward/)
 - [[D] What are the current research gaps on GNN?](https://www.reddit.com/r/MachineLearning/comments/1k4oxgo/d_what_are_the_current_research_gaps_on_gnn/)
-- [-how can i pretend to be just fine with the absurd arxiv filenames on download? [R]](https://www.reddit.com/r/MachineLearning/comments/1k4mt0q/how_can_i_pretend_to_be_just_fine_with_the_absurd/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
