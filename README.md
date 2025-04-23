@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Use Cases for Video Mapping/Timestamping Software for ML Training?](https://www.reddit.com/r/MachineLearning/comments/1k69uex/d_use_cases_for_video_mappingtimestamping/)
+- [Looking for collaboration [R]](https://www.reddit.com/r/MachineLearning/comments/1k69pq4/looking_for_collaboration_r/)
 - [[P] Clustering time-series data into seasonal and no-seasonal types](https://www.reddit.com/r/MachineLearning/comments/1k6741d/p_clustering_timeseries_data_into_seasonal_and/)
 - [[D] Is cold start still a pain point in multi-model LLM inference?](https://www.reddit.com/r/MachineLearning/comments/1k661v7/d_is_cold_start_still_a_pain_point_in_multimodel/)
 - [[D] Is my take on transformers in time series reasonable / where is it wrong?](https://www.reddit.com/r/MachineLearning/comments/1k63r4a/d_is_my_take_on_transformers_in_time_series/)
-- [[D] Spotify 100,000 Podcasts Dataset availability](https://www.reddit.com/r/MachineLearning/comments/1k5zvbf/d_spotify_100000_podcasts_dataset_availability/)
-- [[P] I built a self-hosted version of DataBricks for research](https://www.reddit.com/r/MachineLearning/comments/1k5viph/p_i_built_a_selfhosted_version_of_databricks_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
