@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [Less noise, more signal: How Elastic Defend slashed event volume](https://www.elastic.co/blog/elastic-defend-data-volume)
+- [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
+- [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
 - [How a global bank turned a search engine into its data backbone](https://www.elastic.co/blog/bank-search-engine-data)
 - [Less noise, more signal: How Elastic Defend slashed event volume](https://www.elastic.co/blog/elastic-defend-data-volume)
 - [How a global bank turned a search engine into its data backbone](https://www.elastic.co/blog/bank-search-engine-data)
-- [When your bank understands you: How GenAI is changing financial services](https://www.elastic.co/blog/genai-changing-financial-services)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
