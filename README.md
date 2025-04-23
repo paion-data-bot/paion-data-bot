@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] What AI model should I train for this use case?](https://www.reddit.com/r/MachineLearning/comments/1k5mcj0/p_what_ai_model_should_i_train_for_this_use_case/)
+- [[D] Would multiple NVIDIA Tesla P100&#39;s be cost effective for model training?](https://www.reddit.com/r/MachineLearning/comments/1k5ley3/d_would_multiple_nvidia_tesla_p100s_be_cost/)
 - [[R] Can’t Train LoRA + Phi-2 on 2x GPUs with FSDP — Keep Getting PyArrow ArrowInvalid, DTensor, and Tokenization Errors](https://www.reddit.com/r/MachineLearning/comments/1k5jhub/r_cant_train_lora_phi2_on_2x_gpus_with_fsdp_keep/)
 - [Properly handling missing values [D]](https://www.reddit.com/r/MachineLearning/comments/1k5fw24/properly_handling_missing_values_d/)
 - [[R] One Embedding to Rule Them All](https://www.reddit.com/r/MachineLearning/comments/1k5b3ni/r_one_embedding_to_rule_them_all/)
-- [Google AI Training Concerns [D]](https://www.reddit.com/r/MachineLearning/comments/1k5az2g/google_ai_training_concerns_d/)
-- [[P] How do I detect cancelled text](https://www.reddit.com/r/MachineLearning/comments/1k51qlv/p_how_do_i_detect_cancelled_text/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
