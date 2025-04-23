@@ -55,10 +55,10 @@
 
 <!-- ELASTIC-BLOGS:START -->
 - [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
+- [Detecting privileged access activity: A new Kibana integration](https://www.elastic.co/blog/detecting-privileged-access-activity-kibana-integration)
 - [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
-- [How a global bank turned a search engine into its data backbone](https://www.elastic.co/blog/bank-search-engine-data)
+- [Detecting privileged access activity: A new Kibana integration](https://www.elastic.co/blog/detecting-privileged-access-activity-kibana-integration)
 - [Less noise, more signal: How Elastic Defend slashed event volume](https://www.elastic.co/blog/elastic-defend-data-volume)
-- [How a global bank turned a search engine into its data backbone](https://www.elastic.co/blog/bank-search-engine-data)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
