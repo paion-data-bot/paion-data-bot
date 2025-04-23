@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[D] Is my take on transformers in time series reasonable / where is it wrong?](https://www.reddit.com/r/MachineLearning/comments/1k63r4a/d_is_my_take_on_transformers_in_time_series/)
-- [[D] The Only Way We Can &quot;Humanize&quot; LLMs&#39; Output is by Using Real Human Data During All Training Stages](https://www.reddit.com/r/MachineLearning/comments/1k631ua/d_the_only_way_we_can_humanize_llms_output_is_by/)
 - [[D] Spotify 100,000 Podcasts Dataset availability](https://www.reddit.com/r/MachineLearning/comments/1k5zvbf/d_spotify_100000_podcasts_dataset_availability/)
 - [[P] I built a self-hosted version of DataBricks for research](https://www.reddit.com/r/MachineLearning/comments/1k5viph/p_i_built_a_selfhosted_version_of_databricks_for/)
 - [[P] Volga - On-Demand Compute in Real-Time AI/ML - Overview and Architecture](https://www.reddit.com/r/MachineLearning/comments/1k5vht4/p_volga_ondemand_compute_in_realtime_aiml/)
+- [Visual Theory of Mind Enables the Invention of Proto-Writing](https://www.reddit.com/r/MachineLearning/comments/1k5tfu5/visual_theory_of_mind_enables_the_invention_of/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
