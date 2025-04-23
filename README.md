@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Visual Theory of Mind Enables the Invention of Proto-Writing](https://www.reddit.com/r/MachineLearning/comments/1k5tfu5/visual_theory_of_mind_enables_the_invention_of/)
 - [[P] What AI model should I train for this use case?](https://www.reddit.com/r/MachineLearning/comments/1k5mcj0/p_what_ai_model_should_i_train_for_this_use_case/)
 - [[D] Would multiple NVIDIA Tesla P100&#39;s be cost effective for model training?](https://www.reddit.com/r/MachineLearning/comments/1k5ley3/d_would_multiple_nvidia_tesla_p100s_be_cost/)
 - [[R] Can’t Train LoRA + Phi-2 on 2x GPUs with FSDP — Keep Getting PyArrow ArrowInvalid, DTensor, and Tokenization Errors](https://www.reddit.com/r/MachineLearning/comments/1k5jhub/r_cant_train_lora_phi2_on_2x_gpus_with_fsdp_keep/)
 - [Properly handling missing values [D]](https://www.reddit.com/r/MachineLearning/comments/1k5fw24/properly_handling_missing_values_d/)
-- [[R] One Embedding to Rule Them All](https://www.reddit.com/r/MachineLearning/comments/1k5b3ni/r_one_embedding_to_rule_them_all/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
