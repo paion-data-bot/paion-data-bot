@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ICCV 2025 desk rejection email](https://www.reddit.com/r/MachineLearning/comments/1k6p1ob/d_iccv_2025_desk_rejection_email/)
 - [[R][P] Byte-level LLaMA and Gemma via cross-tokenizer distillation &lpar;with open-source toolkit&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k6oxvq/rp_bytelevel_llama_and_gemma_via_crosstokenizer/)
 - [[D] A Bourgain-Embedding approach for abstract-board games?](https://www.reddit.com/r/MachineLearning/comments/1k6o6z2/d_a_bourgainembedding_approach_for_abstractboard/)
 - [[D] What are the best subreddits you follow for AI/ML/LLMs/NLP/Agentic AI etc?](https://www.reddit.com/r/MachineLearning/comments/1k6npzp/d_what_are_the_best_subreddits_you_follow_for/)
 - [[D] What are the current applications of AI in automotive and motorsport industries? Any companies, labs or professors actively working at the intersection?](https://www.reddit.com/r/MachineLearning/comments/1k6j4qu/d_what_are_the_current_applications_of_ai_in/)
-- [Help with mentorship [d]](https://www.reddit.com/r/MachineLearning/comments/1k6idnf/help_with_mentorship_d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
