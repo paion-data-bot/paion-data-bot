@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Elastic Security Labs provides an under-the-hood look at its detection engineering processes](https://www.elastic.co/blog/state-of-detection-engineering-at-elastic-2025)
+- [Elastic Security Labs provides an under-the-hood look at its detection engineering processes](https://www.elastic.co/blog/state-of-detection-engineering-at-elastic-2025)
 - [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
 - [Detecting privileged access activity: A new Kibana integration](https://www.elastic.co/blog/detecting-privileged-access-activity-kibana-integration)
 - [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
-- [Detecting privileged access activity: A new Kibana integration](https://www.elastic.co/blog/detecting-privileged-access-activity-kibana-integration)
-- [Less noise, more signal: How Elastic Defend slashed event volume](https://www.elastic.co/blog/elastic-defend-data-volume)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
