@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Is the future of coding agents self-learning LLMs using KGs to shape their reward functions?](https://www.reddit.com/r/MachineLearning/comments/1k6ra2p/discussion_is_the_future_of_coding_agents/)
 - [[R] We&#39;ve implemented Python’s ChatterBot inside Java for lightweight, local NLP Integration](https://www.reddit.com/r/MachineLearning/comments/1k6qwtv/r_weve_implemented_pythons_chatterbot_inside_java/)
 - [[D] OpenAI&#39;s Access Model is Vulnerable by Design: Centralized, Abusable, and Environmentally Blind](https://www.reddit.com/r/MachineLearning/comments/1k6pelx/d_openais_access_model_is_vulnerable_by_design/)
 - [[D] ICCV 2025 desk rejection email](https://www.reddit.com/r/MachineLearning/comments/1k6p1ob/d_iccv_2025_desk_rejection_email/)
 - [[R][P] Byte-level LLaMA and Gemma via cross-tokenizer distillation &lpar;with open-source toolkit&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k6oxvq/rp_bytelevel_llama_and_gemma_via_crosstokenizer/)
-- [[D] A Bourgain-Embedding approach for abstract-board games?](https://www.reddit.com/r/MachineLearning/comments/1k6o6z2/d_a_bourgainembedding_approach_for_abstractboard/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
