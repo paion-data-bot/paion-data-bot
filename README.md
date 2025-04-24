@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Help with mentorship [d]](https://www.reddit.com/r/MachineLearning/comments/1k6idnf/help_with_mentorship_d/)
+- [[D] Lightning/Other high-level frameworks for distributed training?](https://www.reddit.com/r/MachineLearning/comments/1k6i3e7/d_lightningother_highlevel_frameworks_for/)
+- [[D] Most widely used open-source decoder-only transformer?](https://www.reddit.com/r/MachineLearning/comments/1k6i2c8/d_most_widely_used_opensource_decoderonly/)
 - [[R] Pushing the Limits of Large Language Model Quantization via the Linearity Theorem](https://www.reddit.com/r/MachineLearning/comments/1k6gotp/r_pushing_the_limits_of_large_language_model/)
 - [[D] Use Cases for Video Mapping/Timestamping Software for ML Training?](https://www.reddit.com/r/MachineLearning/comments/1k69uex/d_use_cases_for_video_mappingtimestamping/)
-- [Looking for collaboration [R]](https://www.reddit.com/r/MachineLearning/comments/1k69pq4/looking_for_collaboration_r/)
-- [[P] Clustering time-series data into seasonal and no-seasonal types](https://www.reddit.com/r/MachineLearning/comments/1k6741d/p_clustering_timeseries_data_into_seasonal_and/)
-- [[D] Is cold start still a pain point in multi-model LLM inference?](https://www.reddit.com/r/MachineLearning/comments/1k661v7/d_is_cold_start_still_a_pain_point_in_multimodel/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
