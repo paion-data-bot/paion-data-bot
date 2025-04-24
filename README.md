@@ -55,9 +55,9 @@
 
 <!-- ELASTIC-BLOGS:START -->
 - [Elastic Security Labs provides an under-the-hood look at its detection engineering processes](https://www.elastic.co/blog/state-of-detection-engineering-at-elastic-2025)
+- [Elastic Cloud Serverless now generally available on Google Cloud](https://www.elastic.co/blog/elastic-cloud-serverless-google-cloud-general-availability)
 - [Elastic Security Labs provides an under-the-hood look at its detection engineering processes](https://www.elastic.co/blog/state-of-detection-engineering-at-elastic-2025)
-- [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
-- [Detecting privileged access activity: A new Kibana integration](https://www.elastic.co/blog/detecting-privileged-access-activity-kibana-integration)
+- [Elastic Cloud Serverless now generally available on Google Cloud](https://www.elastic.co/blog/elastic-cloud-serverless-google-cloud-general-availability)
 - [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
 <!-- ELASTIC-BLOGS:END -->
 
