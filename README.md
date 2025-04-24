@@ -88,11 +88,11 @@
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Continuing the transition from Endpoints to EndpointSlices](https://kubernetes.io/blog/2025/04/24/endpoints-deprecation/)
 - [Kubernetes v1.33: Octarine](https://kubernetes.io/blog/2025/04/23/kubernetes-v1-33-release/)
 - [Kubernetes Multicontainer Pods: An Overview](https://kubernetes.io/blog/2025/04/22/multi-container-pods-overview/)
 - [Introducing kube-scheduler-simulator](https://kubernetes.io/blog/2025/04/07/introducing-kube-scheduler-simulator/)
 - [Kubernetes v1.33 sneak peek](https://kubernetes.io/blog/2025/03/26/kubernetes-v1-33-upcoming-changes/)
-- [Fresh Swap Features for Linux Users in Kubernetes 1.32](https://kubernetes.io/blog/2025/03/25/swap-linux-improvements/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
