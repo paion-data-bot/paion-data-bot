@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ICCV desk rejecting papers because co-authors did not submit their reviews](https://www.reddit.com/r/MachineLearning/comments/1k6y42x/d_iccv_desk_rejecting_papers_because_coauthors/)
 - [[D]Designing a vector dataset for hierarchical semantic search](https://www.reddit.com/r/MachineLearning/comments/1k6xnvr/ddesigning_a_vector_dataset_for_hierarchical/)
 - [[Discussion] Contnual learning for Retrieval augmented generation?](https://www.reddit.com/r/MachineLearning/comments/1k6wgfr/discussion_contnual_learning_for_retrieval/)
 - [[P] Goolge A2A protocol with Langgraph](https://www.reddit.com/r/MachineLearning/comments/1k6s1at/p_goolge_a2a_protocol_with_langgraph/)
 - [[Discussion] Is the future of coding agents self-learning LLMs using KGs to shape their reward functions?](https://www.reddit.com/r/MachineLearning/comments/1k6ra2p/discussion_is_the_future_of_coding_agents/)
-- [[R] We&#39;ve implemented Python’s ChatterBot inside Java for lightweight, local NLP Integration](https://www.reddit.com/r/MachineLearning/comments/1k6qwtv/r_weve_implemented_pythons_chatterbot_inside_java/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
