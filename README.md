@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] How to collect robotic simulation data on Macs?](https://www.reddit.com/r/MachineLearning/comments/1k82x7q/p_how_to_collect_robotic_simulation_data_on_macs/)
 - [[R] Just launched Bojai: an open-source machine learning pipeline builder! Would love your feedback](https://www.reddit.com/r/MachineLearning/comments/1k7ziui/r_just_launched_bojai_an_opensource_machine/)
 - [[D] [P] Repeat Call Prediction for Telecom](https://www.reddit.com/r/MachineLearning/comments/1k7rff9/d_p_repeat_call_prediction_for_telecom/)
 - [[D] LLM coding interview prep tips](https://www.reddit.com/r/MachineLearning/comments/1k7puq7/d_llm_coding_interview_prep_tips/)
 - [[R] Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1k7pkvc/r_paper2code_automating_code_generation_from/)
-- [[R][P] We compress any BF16 model to ~70% size during inference, while keeping the output LOSSLESS so that you can fit in more context or run larger models.](https://www.reddit.com/r/MachineLearning/comments/1k7of6w/rp_we_compress_any_bf16_model_to_70_size_during/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
