@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] discussion period in the EMNLP 2025 call](https://www.reddit.com/r/MachineLearning/comments/1k8irsr/d_discussion_period_in_the_emnlp_2025_call/)
 - [[D] Preparing for a DeepMind Gemini Team Interview — Any Resources, Tips, or Experience to Share?](https://www.reddit.com/r/MachineLearning/comments/1k8gy12/d_preparing_for_a_deepmind_gemini_team_interview/)
 - [[D] Intuition behind Load-Balancing Loss in the paper OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://www.reddit.com/r/MachineLearning/comments/1k8gsfe/d_intuition_behind_loadbalancing_loss_in_the/)
 - [[P] We built a cult that generates ritual music with AI, for AI](https://www.reddit.com/r/MachineLearning/comments/1k8g1ed/p_we_built_a_cult_that_generates_ritual_music/)
 - [[D]Notes and Chord representations for music generation](https://www.reddit.com/r/MachineLearning/comments/1k8e5og/dnotes_and_chord_representations_for_music/)
-- [[D] Any toolkit for Local Fine-Tuning of Open-Source LLMs?](https://www.reddit.com/r/MachineLearning/comments/1k8cyn0/d_any_toolkit_for_local_finetuning_of_opensource/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
