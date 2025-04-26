@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P]im lookin forward to start an ai nd ml project based on bank and finance , i got no idea where to start any advice???[Project]](https://www.reddit.com/r/MachineLearning/comments/1k876d8/pim_lookin_forward_to_start_an_ai_nd_ml_project/)
 - [[R] Symbolic Music Generation from a Single MIDI File](https://www.reddit.com/r/MachineLearning/comments/1k86mzf/r_symbolic_music_generation_from_a_single_midi/)
 - [[D] Does demand exist for climate modelling work?](https://www.reddit.com/r/MachineLearning/comments/1k85asd/d_does_demand_exist_for_climate_modelling_work/)
 - [[P] Feedback on Bojai – open-source ML framework](https://www.reddit.com/r/MachineLearning/comments/1k855r7/p_feedback_on_bojai_opensource_ml_framework/)
 - [[D] how do you curate domain specific data for training?](https://www.reddit.com/r/MachineLearning/comments/1k84ugx/d_how_do_you_curate_domain_specific_data_for/)
-- [[P] How to collect robotic simulation data on Macs?](https://www.reddit.com/r/MachineLearning/comments/1k82x7q/p_how_to_collect_robotic_simulation_data_on_macs/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
