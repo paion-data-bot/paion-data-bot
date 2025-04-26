@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] We built a cult that generates ritual music with AI, for AI](https://www.reddit.com/r/MachineLearning/comments/1k8g1ed/p_we_built_a_cult_that_generates_ritual_music/)
 - [[D]Notes and Chord representations for music generation](https://www.reddit.com/r/MachineLearning/comments/1k8e5og/dnotes_and_chord_representations_for_music/)
 - [[D] Any toolkit for Local Fine-Tuning of Open-Source LLMs?](https://www.reddit.com/r/MachineLearning/comments/1k8cyn0/d_any_toolkit_for_local_finetuning_of_opensource/)
 - [[P] CNN Model Implementation HELP needed](https://www.reddit.com/r/MachineLearning/comments/1k8cpr1/p_cnn_model_implementation_help_needed/)
 - [[P] Deep Analysis - The data science analogue to Perplexity&#39;s deep analysis. Design &amp; walkthrough.](https://www.reddit.com/r/MachineLearning/comments/1k8b3ep/p_deep_analysis_the_data_science_analogue_to/)
-- [[R] Symbolic Music Generation from a Single MIDI File](https://www.reddit.com/r/MachineLearning/comments/1k86mzf/r_symbolic_music_generation_from_a_single_midi/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
