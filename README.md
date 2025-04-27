@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is any lab working on ALMs? Action Language Models?](https://www.reddit.com/r/MachineLearning/comments/1k9d1na/d_is_any_lab_working_on_alms_action_language/)
+- [[P] Tips for hackathon](https://www.reddit.com/r/MachineLearning/comments/1k9cz2s/p_tips_for_hackathon/)
 - [[D] Open source CCR for Image to LaTeX conversion](https://www.reddit.com/r/MachineLearning/comments/1k9bc3z/d_open_source_ccr_for_image_to_latex_conversion/)
 - [[R] Seeking arXiv Endorsement](https://www.reddit.com/r/MachineLearning/comments/1k97klt/r_seeking_arxiv_endorsement/)
 - [Intel Neural Compute Stick 2, Opinion? [D]](https://www.reddit.com/r/MachineLearning/comments/1k97icq/intel_neural_compute_stick_2_opinion_d/)
-- [[P] I made a bug-finding agent that knows your codebase](https://www.reddit.com/r/MachineLearning/comments/1k95w5u/p_i_made_a_bugfinding_agent_that_knows_your/)
-- [[D] Ignoring AI/ML in my MVP — Here’s how I fixed it &lpar;and why your startup should care&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k94nj1/d_ignoring_aiml_in_my_mvp_heres_how_i_fixed_it/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
