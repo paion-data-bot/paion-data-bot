@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Introducing Plexe AI - worlds first ML Engineering Agent](https://www.reddit.com/r/MachineLearning/comments/1k9ebqy/p_introducing_plexe_ai_worlds_first_ml/)
+- [[P] accidentally built an ml engineer lol](https://www.reddit.com/r/MachineLearning/comments/1k9eq9t/p_accidentally_built_an_ml_engineer_lol/)
 - [[D] Is any lab working on ALMs? Action Language Models?](https://www.reddit.com/r/MachineLearning/comments/1k9d1na/d_is_any_lab_working_on_alms_action_language/)
 - [[P] Tips for hackathon](https://www.reddit.com/r/MachineLearning/comments/1k9cz2s/p_tips_for_hackathon/)
 - [[D] Open source CCR for Image to LaTeX conversion](https://www.reddit.com/r/MachineLearning/comments/1k9bc3z/d_open_source_ccr_for_image_to_latex_conversion/)
