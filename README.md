@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] 62.3% Validation Accuracy on Sequential CIFAR-10 &lpar;3072 length&rpar; With Custom RNN Architecture – Is it Worth Attention?](https://www.reddit.com/r/MachineLearning/comments/1k910g9/r_623_validation_accuracy_on_sequential_cifar10/)
 - [[D]What are the best practices for getting information from the internet to train an AI model for commercial use?](https://www.reddit.com/r/MachineLearning/comments/1k8sn51/dwhat_are_the_best_practices_for_getting/)
 - [[D] [P] Research Paper and Presentation about Multi-Agent Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/1k8lbro/d_p_research_paper_and_presentation_about/)
 - [[D] discussion period in the EMNLP 2025 call](https://www.reddit.com/r/MachineLearning/comments/1k8irsr/d_discussion_period_in_the_emnlp_2025_call/)
 - [[D] Preparing for a DeepMind Gemini Team Interview — Any Resources, Tips, or Experience to Share?](https://www.reddit.com/r/MachineLearning/comments/1k8gy12/d_preparing_for_a_deepmind_gemini_team_interview/)
-- [[D] Intuition behind Load-Balancing Loss in the paper OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://www.reddit.com/r/MachineLearning/comments/1k8gsfe/d_intuition_behind_loadbalancing_loss_in_the/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
