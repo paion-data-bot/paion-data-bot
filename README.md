@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Open source CCR for Image to LaTeX conversion](https://www.reddit.com/r/MachineLearning/comments/1k9bc3z/d_open_source_ccr_for_image_to_latex_conversion/)
 - [Intel Neural Compute Stick 2, Opinion? [D]](https://www.reddit.com/r/MachineLearning/comments/1k97icq/intel_neural_compute_stick_2_opinion_d/)
 - [[P] I made a bug-finding agent that knows your codebase](https://www.reddit.com/r/MachineLearning/comments/1k95w5u/p_i_made_a_bugfinding_agent_that_knows_your/)
 - [[D] Ignoring AI/ML in my MVP — Here’s how I fixed it &lpar;and why your startup should care&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k94nj1/d_ignoring_aiml_in_my_mvp_heres_how_i_fixed_it/)
 - [[R] 62.3% Validation Accuracy on Sequential CIFAR-10 &lpar;3072 length&rpar; With Custom RNN Architecture – Is it Worth Attention?](https://www.reddit.com/r/MachineLearning/comments/1k910g9/r_623_validation_accuracy_on_sequential_cifar10/)
-- [[D]What are the best practices for getting information from the internet to train an AI model for commercial use?](https://www.reddit.com/r/MachineLearning/comments/1k8sn51/dwhat_are_the_best_practices_for_getting/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
