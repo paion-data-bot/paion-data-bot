@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
+- [FikaAI Interview with Gabriela de Queiroz](https://www.youtube.com/watch?v=eS7F8k6kW2c)
 - [FikaAI Interview with Ivar Grimstad](https://www.youtube.com/watch?v=51jdwU1XRXY)
 - [FikaAI Interview with Jeanne Boyarsky](https://www.youtube.com/watch?v=w0_jJ9JAe5U)
 - [FikaAI Interview with Kito Mann](https://www.youtube.com/watch?v=JIn6QQeT7sE)
 - [Future-Proof Your GenAI with Neo4j and AWS: Boost Accuracy &amp; Explainability](https://www.youtube.com/watch?v=bikCiSZ43rU)
-- [FikaAI Interview with Mattias Karlsson](https://www.youtube.com/watch?v=vcU9XGaBUqA)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
