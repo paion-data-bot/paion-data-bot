@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Anchor Positioning Just Don’t Care About Source Order](https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/)
 - [The Lost CSS Tricks of Cohost.org](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/)
 - [“Pretty” is in the eye of the beholder](https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/)
 - [So, You Want to Give Up CSS Pre- and Post-Processors…](https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/)
 - [Using CSS backdrop-filter for UI Effects](https://css-tricks.com/using-css-backdrop-filter-for-ui-effects/)
-- [Next Level CSS Styling for Cursors](https://css-tricks.com/next-level-css-styling-for-cursors/)
 <!-- CSS-TRIKCS:END -->
