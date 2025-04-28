@@ -28,7 +28,7 @@
 - [[D] How do you think the recent trend of multimodal LLMs will impact audio-based applications?](https://www.reddit.com/r/MachineLearning/comments/1ka2bf3/d_how_do_you_think_the_recent_trend_of_multimodal/)
 - [[R] Looking for TensorFlow C++ 2.18.0 Prebuilt Libraries for macOS &lpar;M2 Chip&rpar;](https://www.reddit.com/r/MachineLearning/comments/1k9zbto/r_looking_for_tensorflow_c_2180_prebuilt/)
 - [[P] I built a chrome extension that detects and redacts sensitive information from your AI prompts](https://www.reddit.com/r/MachineLearning/comments/1k9ynbh/p_i_built_a_chrome_extension_that_detects_and/)
-- [[D] How to choose a good research group to join and do research w/ them as a research assistant?](https://www.reddit.com/r/MachineLearning/comments/1k9xllg/d_how_to_choose_a_good_research_group_to_join_and/)
+- [[D] How could a MLP replicate the operations of an attention head?](https://www.reddit.com/r/MachineLearning/comments/1k9x817/d_how_could_a_mlp_replicate_the_operations_of_an/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
