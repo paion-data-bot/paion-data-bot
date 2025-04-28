@@ -88,11 +88,11 @@
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Kubernetes v1.33: HorizontalPodAutoscaler Configurable Tolerance](https://kubernetes.io/blog/2025/04/28/kubernetes-v1-33-hpa-configurable-tolerance/)
 - [Kubernetes v1.33: User Namespaces enabled by default!](https://kubernetes.io/blog/2025/04/25/userns-enabled-by-default/)
 - [Continuing the transition from Endpoints to EndpointSlices](https://kubernetes.io/blog/2025/04/24/endpoints-deprecation/)
 - [Kubernetes v1.33: Octarine](https://kubernetes.io/blog/2025/04/23/kubernetes-v1-33-release/)
 - [Kubernetes Multicontainer Pods: An Overview](https://kubernetes.io/blog/2025/04/22/multi-container-pods-overview/)
-- [Introducing kube-scheduler-simulator](https://kubernetes.io/blog/2025/04/07/introducing-kube-scheduler-simulator/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
