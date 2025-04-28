@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How could a MLP replicate the operations of an attention head?](https://www.reddit.com/r/MachineLearning/comments/1k9x817/d_how_could_a_mlp_replicate_the_operations_of_an/)
 - [[D] IJCAI 2025 Paper Result &amp; Discussion](https://www.reddit.com/r/MachineLearning/comments/1k9twhg/d_ijcai_2025_paper_result_discussion/)
 - [[D] Is Starting as a Data Engineer a Good Path to Become an ML Engineer Later?](https://www.reddit.com/r/MachineLearning/comments/1k9t02p/d_is_starting_as_a_data_engineer_a_good_path_to/)
 - [[P] Looking for advice: Best AI approach to automatically predict task dependencies and optimize industrial project schedules?](https://www.reddit.com/r/MachineLearning/comments/1k9rqr4/p_looking_for_advice_best_ai_approach_to/)
 - [[P] Autonomous Driving project - F1 will never be the same!](https://www.reddit.com/r/MachineLearning/comments/1k9rjyc/p_autonomous_driving_project_f1_will_never_be_the/)
-- [[R] Work in Progress: Advanced Conformal Prediction – Practical Machine Learning with Distribution-Free Guarantees](https://www.reddit.com/r/MachineLearning/comments/1k9qg7d/r_work_in_progress_advanced_conformal_prediction/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
