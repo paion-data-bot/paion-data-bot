@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] There is a hunt for reasoning datasets beyond math, science and coding. Much needed initiative](https://www.reddit.com/r/MachineLearning/comments/1k9njht/p_there_is_a_hunt_for_reasoning_datasets_beyond/)
 - [[P] Top open chart-understanding model upto 8B and performs on par with much larger models. Try it](https://www.reddit.com/r/MachineLearning/comments/1k9kv6m/p_top_open_chartunderstanding_model_upto_8b_and/)
 - [[D] A reactive computation library for Python that might be helpful for data science workflows - thoughts from experts?](https://www.reddit.com/r/MachineLearning/comments/1k9fhm8/d_a_reactive_computation_library_for_python_that/)
 - [[D] Is any lab working on ALMs? Action Language Models?](https://www.reddit.com/r/MachineLearning/comments/1k9d1na/d_is_any_lab_working_on_alms_action_language/)
 - [[P] Tips for hackathon](https://www.reddit.com/r/MachineLearning/comments/1k9cz2s/p_tips_for_hackathon/)
-- [[D] Open source CCR for Image to LaTeX conversion](https://www.reddit.com/r/MachineLearning/comments/1k9bc3z/d_open_source_ccr_for_image_to_latex_conversion/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
