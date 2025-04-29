@@ -76,11 +76,11 @@
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Docker Desktop 4.41: Docker Model Runner supports Windows, Compose, and Testcontainers integrations, Docker Desktop on the Microsoft Store](https://www.docker.com/blog/docker-desktop-4-41/)
 - [How to build and deliver an MCP server for production](https://www.docker.com/blog/build-to-prod-mcp-servers-with-docker/)
 - [Dockerizing MCP – Bringing Discovery, Simplicity, and Trust to the Ecosystem](https://www.docker.com/blog/introducing-docker-mcp-catalog-and-toolkit/)
 - [Docker Desktop for Mac: QEMU Virtualization Option to be Deprecated in 90 Days](https://www.docker.com/blog/docker-desktop-for-mac-qemu-virtualization-option-to-be-deprecated-in-90-days/)
 - [New Docker Extension for Visual Studio Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code/)
-- [Run Gemma 3 with Docker Model Runner: Fully Local GenAI Developer Experience](https://www.docker.com/blog/run-gemma-3-locally-with-docker-model-runner/)
 <!-- DOCKER-BLOG:END -->
 
 <h3><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h3>
