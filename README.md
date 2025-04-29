@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [Employ AI to accelerate your switch from your current SIEM to Elastic Security](https://www.elastic.co/blog/automatic-migration-ai-rule-translation)
 - [Strengthening financial services with AI fraud detection](https://www.elastic.co/blog/financial-services-ai-fraud-detection)
 - [Employ AI to accelerate your switch from your current SIEM to Elastic Security](https://www.elastic.co/blog/automatic-migration-ai-rule-translation)
+- [Threat hunting in Elastic with JOINs!](https://www.elastic.co/blog/threat-hunting-with-joins)
 - [Strengthening financial services with AI fraud detection](https://www.elastic.co/blog/financial-services-ai-fraud-detection)
-- [How to achieve full-spectrum financial risk detection with AI and unified data](https://www.elastic.co/blog/financial-risk-detection-ai)
+- [Employ AI to accelerate your switch from your current SIEM to Elastic Security](https://www.elastic.co/blog/automatic-migration-ai-rule-translation)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
