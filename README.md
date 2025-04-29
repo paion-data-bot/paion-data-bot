@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Model complexity vs readability in safety critical systems?](https://www.reddit.com/r/MachineLearning/comments/1katkki/d_model_complexity_vs_readability_in_safety/)
 - [[D] Is My Model Actually Learning?” How did you learn to tell when training is helping vs. hurting?](https://www.reddit.com/r/MachineLearning/comments/1kar6ro/d_is_my_model_actually_learning_how_did_you_learn/)
 - [Non Smooth ROC Curve[R], [N], [P],](https://www.reddit.com/r/MachineLearning/comments/1kam9t2/non_smooth_roc_curver_n_p/)
 - [[P] hacking on graph-grounded retrieval for SEC filings + an AI “legal pen-tester”—looking for feedback &amp; maybe collaborators](https://www.reddit.com/r/MachineLearning/comments/1kag8w2/p_hacking_on_graphgrounded_retrieval_for_sec/)
 - [[Discussion] Ideas for how to train AI to behave how we want an AI to behave, rather than how we want humans to behave.](https://www.reddit.com/r/MachineLearning/comments/1kafuuj/discussion_ideas_for_how_to_train_ai_to_behave/)
-- [[P] Training F5 TTS Model in Kannada and Voice Cloning – DM Me!](https://www.reddit.com/r/MachineLearning/comments/1kaf15w/p_training_f5_tts_model_in_kannada_and_voice/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
