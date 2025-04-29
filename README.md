@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] ML Books recommendations](https://www.reddit.com/r/MachineLearning/comments/1kaiu0d/d_ml_books_recommendations/)
+- [[D] Mac Mini M4 or a Custom Build](https://www.reddit.com/r/MachineLearning/comments/1kajx7n/d_mac_mini_m4_or_a_custom_build/)
 - [[P] hacking on graph-grounded retrieval for SEC filings + an AI “legal pen-tester”—looking for feedback &amp; maybe collaborators](https://www.reddit.com/r/MachineLearning/comments/1kag8w2/p_hacking_on_graphgrounded_retrieval_for_sec/)
 - [[Discussion] Ideas for how to train AI to behave how we want an AI to behave, rather than how we want humans to behave.](https://www.reddit.com/r/MachineLearning/comments/1kafuuj/discussion_ideas_for_how_to_train_ai_to_behave/)
 - [[P] Training F5 TTS Model in Kannada and Voice Cloning – DM Me!](https://www.reddit.com/r/MachineLearning/comments/1kaf15w/p_training_f5_tts_model_in_kannada_and_voice/)
