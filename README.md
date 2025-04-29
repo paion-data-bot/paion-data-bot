@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Employ AI to accelerate your switch from your current SIEM to Elastic Security](https://www.elastic.co/blog/automatic-migration-ai-rule-translation)
+- [Strengthening financial services with AI fraud detection](https://www.elastic.co/blog/financial-services-ai-fraud-detection)
+- [Employ AI to accelerate your switch from your current SIEM to Elastic Security](https://www.elastic.co/blog/automatic-migration-ai-rule-translation)
+- [Strengthening financial services with AI fraud detection](https://www.elastic.co/blog/financial-services-ai-fraud-detection)
 - [How to achieve full-spectrum financial risk detection with AI and unified data](https://www.elastic.co/blog/financial-risk-detection-ai)
-- [How to achieve full-spectrum financial risk detection with AI and unified data](https://www.elastic.co/blog/financial-risk-detection-ai)
-- [Elastic Cloud Serverless now generally available on Google Cloud](https://www.elastic.co/blog/elastic-cloud-serverless-google-cloud-general-availability)
-- [Elastic Security Labs provides an under-the-hood look at its detection engineering processes](https://www.elastic.co/blog/state-of-detection-engineering-at-elastic-2025)
-- [Elastic Cloud Serverless now generally available on Google Cloud](https://www.elastic.co/blog/elastic-cloud-serverless-google-cloud-general-availability)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
