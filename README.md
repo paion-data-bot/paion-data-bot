@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [Elastic Security Labs provides an under-the-hood look at its detection engineering processes](https://www.elastic.co/blog/state-of-detection-engineering-at-elastic-2025)
+- [How to achieve full-spectrum financial risk detection with AI and unified data](https://www.elastic.co/blog/financial-risk-detection-ai)
+- [How to achieve full-spectrum financial risk detection with AI and unified data](https://www.elastic.co/blog/financial-risk-detection-ai)
 - [Elastic Cloud Serverless now generally available on Google Cloud](https://www.elastic.co/blog/elastic-cloud-serverless-google-cloud-general-availability)
 - [Elastic Security Labs provides an under-the-hood look at its detection engineering processes](https://www.elastic.co/blog/state-of-detection-engineering-at-elastic-2025)
 - [Elastic Cloud Serverless now generally available on Google Cloud](https://www.elastic.co/blog/elastic-cloud-serverless-google-cloud-general-availability)
-- [Smarter banking experiences: GenAI and semantic search in action](https://www.elastic.co/blog/banking-genai-semantic-search)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
