@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Mac Mini M4 or a Custom Build](https://www.reddit.com/r/MachineLearning/comments/1kajx7n/d_mac_mini_m4_or_a_custom_build/)
 - [[P] hacking on graph-grounded retrieval for SEC filings + an AI “legal pen-tester”—looking for feedback &amp; maybe collaborators](https://www.reddit.com/r/MachineLearning/comments/1kag8w2/p_hacking_on_graphgrounded_retrieval_for_sec/)
 - [[Discussion] Ideas for how to train AI to behave how we want an AI to behave, rather than how we want humans to behave.](https://www.reddit.com/r/MachineLearning/comments/1kafuuj/discussion_ideas_for_how_to_train_ai_to_behave/)
 - [[P] Training F5 TTS Model in Kannada and Voice Cloning – DM Me!](https://www.reddit.com/r/MachineLearning/comments/1kaf15w/p_training_f5_tts_model_in_kannada_and_voice/)
 - [[D] How do you evaluate your RAGs?](https://www.reddit.com/r/MachineLearning/comments/1ka2gx9/d_how_do_you_evaluate_your_rags/)
+- [[D] How do you think the recent trend of multimodal LLMs will impact audio-based applications?](https://www.reddit.com/r/MachineLearning/comments/1ka2bf3/d_how_do_you_think_the_recent_trend_of_multimodal/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
