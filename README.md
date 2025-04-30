@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] CVPR 2025: email says no authors registered despite my registration](https://www.reddit.com/r/MachineLearning/comments/1kbcsxp/r_cvpr_2025_email_says_no_authors_registered/)
 - [Suggestions on stockout &amp; aging inventory probability prediction [D]](https://www.reddit.com/r/MachineLearning/comments/1kb52du/suggestions_on_stockout_aging_inventory/)
 - [Incoming ICML results [D]](https://www.reddit.com/r/MachineLearning/comments/1kb21lx/incoming_icml_results_d/)
 - [[D] Divergence in a NN, Reinforcement Learning](https://www.reddit.com/r/MachineLearning/comments/1kb0zqa/d_divergence_in_a_nn_reinforcement_learning/)
 - [🔍 Contribute to research on Fairness, Accountability, and Transparency in Generative AI! [R]](https://www.reddit.com/r/MachineLearning/comments/1kb0pls/contribute_to_research_on_fairness_accountability/)
-- [[D] NeurIPS 2025 rebuttal period?](https://www.reddit.com/r/MachineLearning/comments/1kayz63/d_neurips_2025_rebuttal_period/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
