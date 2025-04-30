@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Revisiting Image Maps](https://css-tricks.com/revisiting-image-maps/)
 - [Open Up With Brad Frost, Episode 2](https://css-tricks.com/open-up-with-brad-frost-episode-2/)
 - [Anchor Positioning Just Don’t Care About Source Order](https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/)
 - [The Lost CSS Tricks of Cohost.org](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/)
 - [“Pretty” is in the eye of the beholder](https://css-tricks.com/pretty-is-in-the-eye-of-the-beholder/)
-- [So, You Want to Give Up CSS Pre- and Post-Processors…](https://css-tricks.com/so-you-want-to-give-up-css-pre-and-post-processors/)
 <!-- CSS-TRIKCS:END -->
