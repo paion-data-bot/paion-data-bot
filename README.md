@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Eyebrow Simulation using AR and Facial Recognition](https://www.reddit.com/r/MachineLearning/comments/1kbuv64/d_eyebrow_simulation_using_ar_and_facial/)
 - [[R] The Leaderboard Illusion](https://www.reddit.com/r/MachineLearning/comments/1kbug62/r_the_leaderboard_illusion/)
 - [[D] WGAN-GP loss stuck and not converging.](https://www.reddit.com/r/MachineLearning/comments/1kbsxyu/d_wgangp_loss_stuck_and_not_converging/)
 - [How to handle imbalanced output scales in PINN/PI-DeepONet loss function? [R]](https://www.reddit.com/r/MachineLearning/comments/1kboofc/how_to_handle_imbalanced_output_scales_in/)
 - [[Discussion]I trained a 7B LLM with only 8GB of VRAM using symbolic compression MemoryCore benchmark results](https://www.reddit.com/r/MachineLearning/comments/1kbij9t/discussioni_trained_a_7b_llm_with_only_8gb_of/)
-- [Whisper Translation Finetuning [P]](https://www.reddit.com/r/MachineLearning/comments/1kbhyon/whisper_translation_finetuning_p/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
