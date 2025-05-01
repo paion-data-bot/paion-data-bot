@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[D] On the field of Alignment](https://www.reddit.com/r/MachineLearning/comments/1kcc7qb/d_on_the_field_of_alignment/)
-- [[P] My weekend project: LangChain + Gemini-powered Postgres assistant](https://www.reddit.com/r/MachineLearning/comments/1kcbg89/p_my_weekend_project_langchain_geminipowered/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/1kcauvb/d_simple_questions_thread/)
 - [SEFA: A Self-Calibrating Framework for Detecting Structure in Complex Data [Code Included] [R]](https://www.reddit.com/r/MachineLearning/comments/1kc8yeh/sefa_a_selfcalibrating_framework_for_detecting/)
 - [[D] ICML 2025 Results Will Be Out Today!](https://www.reddit.com/r/MachineLearning/comments/1kc716l/d_icml_2025_results_will_be_out_today/)
+- [[D] Monthly Who&#39;s Hiring and Who wants to be Hired?](https://www.reddit.com/r/MachineLearning/comments/1kby74x/d_monthly_whos_hiring_and_who_wants_to_be_hired/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
