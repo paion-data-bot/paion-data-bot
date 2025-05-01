@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] My weekend project: LangChain + Gemini-powered Postgres assistant](https://www.reddit.com/r/MachineLearning/comments/1kcbg89/p_my_weekend_project_langchain_geminipowered/)
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/1kcauvb/d_simple_questions_thread/)
 - [SEFA: A Self-Calibrating Framework for Detecting Structure in Complex Data [Code Included] [R]](https://www.reddit.com/r/MachineLearning/comments/1kc8yeh/sefa_a_selfcalibrating_framework_for_detecting/)
 - [[D] ICML 2025 Results Will Be Out Today!](https://www.reddit.com/r/MachineLearning/comments/1kc716l/d_icml_2025_results_will_be_out_today/)
 - [[D] DE vs Gen AI/ML](https://www.reddit.com/r/MachineLearning/comments/1kc677m/d_de_vs_gen_aiml/)
-- [[D] Monthly Who&#39;s Hiring and Who wants to be Hired?](https://www.reddit.com/r/MachineLearning/comments/1kby74x/d_monthly_whos_hiring_and_who_wants_to_be_hired/)
-- [[D] Eyebrow Simulation using AR and Facial Recognition](https://www.reddit.com/r/MachineLearning/comments/1kbuv64/d_eyebrow_simulation_using_ar_and_facial/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
