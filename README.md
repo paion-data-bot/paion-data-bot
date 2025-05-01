@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ICML 2025 Results Will Be Out Today!](https://www.reddit.com/r/MachineLearning/comments/1kc716l/d_icml_2025_results_will_be_out_today/)
 - [[D] DE vs Gen AI/ML](https://www.reddit.com/r/MachineLearning/comments/1kc677m/d_de_vs_gen_aiml/)
 - [[D] Monthly Who&#39;s Hiring and Who wants to be Hired?](https://www.reddit.com/r/MachineLearning/comments/1kby74x/d_monthly_whos_hiring_and_who_wants_to_be_hired/)
 - [[D] Eyebrow Simulation using AR and Facial Recognition](https://www.reddit.com/r/MachineLearning/comments/1kbuv64/d_eyebrow_simulation_using_ar_and_facial/)
 - [[R] The Leaderboard Illusion](https://www.reddit.com/r/MachineLearning/comments/1kbug62/r_the_leaderboard_illusion/)
-- [[D] WGAN-GP loss stuck and not converging.](https://www.reddit.com/r/MachineLearning/comments/1kbsxyu/d_wgangp_loss_stuck_and_not_converging/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
