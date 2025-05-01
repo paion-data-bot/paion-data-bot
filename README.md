@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [How to build a digital customer experience strategy powered by AI](https://www.elastic.co/blog/how-to-create-digital-customer-experience)
+- [How to build a digital customer experience strategy powered by AI](https://www.elastic.co/blog/how-to-create-digital-customer-experience)
 - [Strengthening financial services with AI fraud detection](https://www.elastic.co/blog/financial-services-ai-fraud-detection)
 - [Employ AI to accelerate your switch from your current SIEM to Elastic Security](https://www.elastic.co/blog/automatic-migration-ai-rule-translation)
 - [Threat hunting in Elastic with JOINs!](https://www.elastic.co/blog/threat-hunting-with-joins)
-- [Strengthening financial services with AI fraud detection](https://www.elastic.co/blog/financial-services-ai-fraud-detection)
-- [Employ AI to accelerate your switch from your current SIEM to Elastic Security](https://www.elastic.co/blog/automatic-migration-ai-rule-translation)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
