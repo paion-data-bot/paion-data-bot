@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Don&#39;t remember the name of ML paper about how research done, maybe you know it?](https://www.reddit.com/r/MachineLearning/comments/1kd1399/d_dont_remember_the_name_of_ml_paper_about_how/)
 - [Current data controls against a synthetic flood [D]](https://www.reddit.com/r/MachineLearning/comments/1kd0kk0/current_data_controls_against_a_synthetic_flood_d/)
 - [[D] Best Free AI Tools of 2025](https://www.reddit.com/r/MachineLearning/comments/1kcw7yf/d_best_free_ai_tools_of_2025/)
 - [[D] Are weight offloading / weight streaming approaches like in Deepseek Zero used frequently in practice? &lpar;For enabling inference on disproportionately undersized GPUs&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kctclw/d_are_weight_offloading_weight_streaming/)
 - [[R] Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://www.reddit.com/r/MachineLearning/comments/1kcs82s/r_reinforcement_learning_for_reasoning_in_large/)
-- [[D] Self-Promotion Thread](https://www.reddit.com/r/MachineLearning/comments/1kcq3du/d_selfpromotion_thread/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
