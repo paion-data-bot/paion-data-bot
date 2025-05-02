@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [CSS shape&lpar;&rpar; Commands](https://css-tricks.com/css-shape-commands/)
 - [State of Devs: A Survey for Every Developer](https://css-tricks.com/state-of-devs-a-survey-for-every-developer/)
 - [Revisiting Image Maps](https://css-tricks.com/revisiting-image-maps/)
 - [Open Up With Brad Frost, Episode 2](https://css-tricks.com/open-up-with-brad-frost-episode-2/)
 - [Anchor Positioning Just Don’t Care About Source Order](https://css-tricks.com/anchor-positioning-just-dont-care-about-source-order/)
-- [The Lost CSS Tricks of Cohost.org](https://css-tricks.com/the-lost-css-tricks-of-cohost-org/)
 <!-- CSS-TRIKCS:END -->
