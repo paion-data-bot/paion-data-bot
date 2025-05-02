@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] OpenAI-Evolutionary Strategies on Lunar Lander](https://www.reddit.com/r/MachineLearning/comments/1kddhh3/p_openaievolutionary_strategies_on_lunar_lander/)
 - [[R] Leaderboard Hacking](https://www.reddit.com/r/MachineLearning/comments/1kdabbd/r_leaderboard_hacking/)
 - [[D] Submitting applied ML papers to NeurIPS](https://www.reddit.com/r/MachineLearning/comments/1kd2ze8/d_submitting_applied_ml_papers_to_neurips/)
 - [[P] - Deep reinforcement Learning with Unreal Engine](https://www.reddit.com/r/MachineLearning/comments/1kd1x31/p_deep_reinforcement_learning_with_unreal_engine/)
 - [[D] Don&#39;t remember the name of ML paper about how research done, maybe you know it?](https://www.reddit.com/r/MachineLearning/comments/1kd1399/d_dont_remember_the_name_of_ml_paper_about_how/)
-- [Current data controls against a synthetic flood [D]](https://www.reddit.com/r/MachineLearning/comments/1kd0kk0/current_data_controls_against_a_synthetic_flood_d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
