@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Reinforcement Learning for Reasoning in Large Language Models with One Training Example](https://www.reddit.com/r/MachineLearning/comments/1kcs82s/r_reinforcement_learning_for_reasoning_in_large/)
 - [[D] Self-Promotion Thread](https://www.reddit.com/r/MachineLearning/comments/1kcq3du/d_selfpromotion_thread/)
 - [[R] Meta releases synthetic data kit!!](https://www.reddit.com/r/MachineLearning/comments/1kclkdd/r_meta_releases_synthetic_data_kit/)
 - [[P] Looking for ModaNet dataset](https://www.reddit.com/r/MachineLearning/comments/1kck46j/p_looking_for_modanet_dataset/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/1kcauvb/d_simple_questions_thread/)
-- [SEFA: A Self-Calibrating Framework for Detecting Structure in Complex Data [Code Included] [R]](https://www.reddit.com/r/MachineLearning/comments/1kc8yeh/sefa_a_selfcalibrating_framework_for_detecting/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
