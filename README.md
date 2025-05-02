@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
-- [FikaAI Interview with Erin Schnabel](https://www.youtube.com/watch?v=zfnEuA0qpHk)
 - [FikaAI Interview with Eyal Wirsansky](https://www.youtube.com/watch?v=GUhBEFH-Ftg)
 - [FikaAI Interview with François Martin](https://www.youtube.com/watch?v=Ti6BQtvlD08)
 - [FikaAI Interview with Frank Greco](https://www.youtube.com/watch?v=7BXqVh0QQ-4)
 - [FikaAI Interview with Gabriela de Queiroz](https://www.youtube.com/watch?v=eS7F8k6kW2c)
+- [FikaAI Interview with Ivar Grimstad](https://www.youtube.com/watch?v=51jdwU1XRXY)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
