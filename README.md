@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] logic review for feedback-driven classifier adaptation system &lpar;non-generative, patent prep stage&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ke2axp/project_logic_review_for_feedbackdriven/)
 - [[P] Muyan-TTS: We built an open-source, low-latency, highly customizable TTS model for developers](https://www.reddit.com/r/MachineLearning/comments/1kdvcy6/p_muyantts_we_built_an_opensource_lowlatency/)
 - [[D] Need Advice on Efficiently Handling and Training Large Speech Detection Dataset &lpar;150 GB WAV Files&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kdsd1e/d_need_advice_on_efficiently_handling_and/)
 - [[D] Why do image generation models struggle with rendering coherent and legible text?](https://www.reddit.com/r/MachineLearning/comments/1kds7un/d_why_do_image_generation_models_struggle_with/)
 - [[D] The leaderboard illusion paper is misleading and there are a lot of bad takes because of it](https://www.reddit.com/r/MachineLearning/comments/1kdf8jw/d_the_leaderboard_illusion_paper_is_misleading/)
-- [[D] Papers/ tips for creating an activation-atlas like this google/open-ai one?](https://www.reddit.com/r/MachineLearning/comments/1kdetk9/d_papers_tips_for_creating_an_activationatlas/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
