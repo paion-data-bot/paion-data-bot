@@ -28,7 +28,7 @@
 - [[R] LLM vs Diffusion Models for Image Generation / Multi-Modality](https://www.reddit.com/r/MachineLearning/comments/1kenrvr/r_llm_vs_diffusion_models_for_image_generation/)
 - [[P] I Think I&#39;ve Mastered Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1kemtxn/p_i_think_ive_mastered_machine_learning/)
 - [[D] Unstable training curves for transformers?](https://www.reddit.com/r/MachineLearning/comments/1kekxqg/d_unstable_training_curves_for_transformers/)
-- [[D] How to check how many users my web app can handle?](https://www.reddit.com/r/MachineLearning/comments/1keko01/d_how_to_check_how_many_users_my_web_app_can/)
+- [AI Learns to Play Crash Bandicoot [R] &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kei2sq/ai_learns_to_play_crash_bandicoot_r_deep/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
