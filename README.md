@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] I Think I&#39;ve Mastered Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1kemtxn/p_i_think_ive_mastered_machine_learning/)
 - [[D] Unstable training curves for transformers?](https://www.reddit.com/r/MachineLearning/comments/1kekxqg/d_unstable_training_curves_for_transformers/)
 - [[D] How to check how many users my web app can handle?](https://www.reddit.com/r/MachineLearning/comments/1keko01/d_how_to_check_how_many_users_my_web_app_can/)
 - [[P] Looking for a project partner to join a bold experiment — Python &lpar;Django/DRF&rpar; + AI/ML](https://www.reddit.com/r/MachineLearning/comments/1keiu4o/p_looking_for_a_project_partner_to_join_a_bold/)
 - [AI Learns to Play Crash Bandicoot [R] &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kei2sq/ai_learns_to_play_crash_bandicoot_r_deep/)
-- [[Discussion] Qwen3 - is it ready for driving AI agents?](https://www.reddit.com/r/MachineLearning/comments/1keffjr/discussion_qwen3_is_it_ready_for_driving_ai_agents/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
