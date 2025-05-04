@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] usefulness of learning CUDA/triton](https://www.reddit.com/r/MachineLearning/comments/1kewrqc/d_usefulness_of_learning_cudatriton/)
 - [[P] An Enterprise-level Retrieval-Augmented Generation System &lpar;full code open-sourced and explained&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kew2j5/p_an_enterpriselevel_retrievalaugmented/)
 - [[P] made Medical Transcription--that runs locally](https://www.reddit.com/r/MachineLearning/comments/1kevggq/p_made_medical_transcriptionthat_runs_locally/)
 - [[P] Predicting the 2025 Miami GP](https://www.reddit.com/r/MachineLearning/comments/1kes220/p_predicting_the_2025_miami_gp/)
 - [[R] LLM vs Diffusion Models for Image Generation / Multi-Modality](https://www.reddit.com/r/MachineLearning/comments/1kenrvr/r_llm_vs_diffusion_models_for_image_generation/)
-- [[P] I Think I&#39;ve Mastered Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1kemtxn/p_i_think_ive_mastered_machine_learning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
