@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] Conditional Time Series GAN Training Stalls - Generator &amp; Discriminator Not Improving](https://www.reddit.com/r/MachineLearning/comments/1keer3h/discussion_conditional_time_series_gan_training/)
 - [[D] Good overview of distillation approaches from LLMs?](https://www.reddit.com/r/MachineLearning/comments/1kech8d/d_good_overview_of_distillation_approaches_from/)
 - [[R] Meta: PerceptionLM: Open-Access Data and Models for Detailed Visual Understanding](https://www.reddit.com/r/MachineLearning/comments/1kec7yp/r_meta_perceptionlm_openaccess_data_and_models/)
 - [[Discussion] Learning Dynamics in Standard MuJoCo Environments](https://www.reddit.com/r/MachineLearning/comments/1ke5iib/discussion_learning_dynamics_in_standard_mujoco/)
 - [[Project] logic review for feedback-driven classifier adaptation system &lpar;non-generative, patent prep stage&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ke2axp/project_logic_review_for_feedbackdriven/)
-- [[P] Muyan-TTS: We built an open-source, low-latency, highly customizable TTS model for developers](https://www.reddit.com/r/MachineLearning/comments/1kdvcy6/p_muyantts_we_built_an_opensource_lowlatency/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
