@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] We fit 50+ LLMs on 2 GPUs — here’s how we avoided cold starts](https://www.reddit.com/r/MachineLearning/comments/1kfcbki/d_we_fit_50_llms_on_2_gpus_heres_how_we_avoided/)
 - [[D] Fourier features in Neutral Networks?](https://www.reddit.com/r/MachineLearning/comments/1kf8x0l/d_fourier_features_in_neutral_networks/)
 - [[Project] Overfitting in Encoder-Decoder Seq2Seq.](https://www.reddit.com/r/MachineLearning/comments/1kf7ok9/project_overfitting_in_encoderdecoder_seq2seq/)
 - [[D] New Open Sourced VLA based on Qwen2.5VL!](https://www.reddit.com/r/MachineLearning/comments/1kf69k1/d_new_open_sourced_vla_based_on_qwen25vl/)
 - [[Discussion] Are we relying too much on pre-trained models like GPT these days?](https://www.reddit.com/r/MachineLearning/comments/1kf4mdm/discussion_are_we_relying_too_much_on_pretrained/)
-- [[Discussion] What exactly are World Models in AI? What problems do they solve, and where are they going?](https://www.reddit.com/r/MachineLearning/comments/1kf3pes/discussion_what_exactly_are_world_models_in_ai/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
