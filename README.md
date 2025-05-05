@@ -76,7 +76,7 @@
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
-- [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP Tools](https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/)
+- [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP](https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/)
 - [Simplifying Enterprise Management with Docker Desktop on the Microsoft Store](https://www.docker.com/blog/docker-desktop-on-microsoft-store/)
 - [Update on the Docker DX extension for VS Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code-update/)
 - [Docker Desktop 4.41: Docker Model Runner supports Windows, Compose, and Testcontainers integrations, Docker Desktop on the Microsoft Store](https://www.docker.com/blog/docker-desktop-4-41/)
