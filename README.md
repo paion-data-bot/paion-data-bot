@@ -88,11 +88,11 @@
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Kubernetes v1.33: Prevent PersistentVolume Leaks When Deleting out of Order graduates to GA](https://kubernetes.io/blog/2025/05/05/kubernetes-v1-33-prevent-persistentvolume-leaks-when-deleting-out-of-order-graduate-to-ga/)
 - [Kubernetes v1.33: Mutable CSI Node Allocatable Count](https://kubernetes.io/blog/2025/05/02/kubernetes-1-33-mutable-csi-node-allocatable-count/)
 - [Kubernetes v1.33: New features in DRA](https://kubernetes.io/blog/2025/05/01/kubernetes-v1-33-dra-updates/)
 - [Kubernetes v1.33: Storage Capacity Scoring of Nodes for Dynamic Provisioning &lpar;alpha&rpar;](https://kubernetes.io/blog/2025/04/30/kubernetes-v1-33-storage-capacity-scoring-feature/)
 - [Kubernetes v1.33: Image Volumes graduate to beta!](https://kubernetes.io/blog/2025/04/29/kubernetes-v1-33-image-volume-beta/)
-- [Kubernetes v1.33: HorizontalPodAutoscaler Configurable Tolerance](https://kubernetes.io/blog/2025/04/28/kubernetes-v1-33-hpa-configurable-tolerance/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
