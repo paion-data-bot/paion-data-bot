@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] To Speed up AI, Just Outsource Memory](https://www.reddit.com/r/MachineLearning/comments/1kg854s/n_to_speed_up_ai_just_outsource_memory/)
+- [[D] I struggle with copy-pasting AI context when using different LLMs, so I am building Window](https://www.reddit.com/r/MachineLearning/comments/1kg80vj/d_i_struggle_with_copypasting_ai_context_when/)
 - [[D] How to detect AI generated invoices and receipts?](https://www.reddit.com/r/MachineLearning/comments/1kg6z2m/d_how_to_detect_ai_generated_invoices_and_receipts/)
 - [[D] Does anyone else get dataset anxiety &lpar;lack thereof&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1kg6c0z/d_does_anyone_else_get_dataset_anxiety_lack/)
 - [[D] Presenting Latency Results for Multiple Random Seeds in Dissertation](https://www.reddit.com/r/MachineLearning/comments/1kg4tbh/d_presenting_latency_results_for_multiple_random/)
-- [[D] Top AI Research Tools](https://www.reddit.com/r/MachineLearning/comments/1kfyzzz/d_top_ai_research_tools/)
-- [[P] Human Pose Detection Project &lpar;MediaPipe + YOLO&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kfynlg/p_human_pose_detection_project_mediapipe_yolo/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
