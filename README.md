@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to refer to our model performing well in an ML competition without de-anonymizing our submission?](https://www.reddit.com/r/MachineLearning/comments/1kgd5hx/d_how_to_refer_to_our_model_performing_well_in_an/)
 - [[P] A Python Toolkit for Chain-of-Thought Prompting](https://www.reddit.com/r/MachineLearning/comments/1kg8wcr/p_a_python_toolkit_for_chainofthought_prompting/)
 - [[N] To Speed up AI, Just Outsource Memory](https://www.reddit.com/r/MachineLearning/comments/1kg854s/n_to_speed_up_ai_just_outsource_memory/)
 - [[D] I struggle with copy-pasting AI context when using different LLMs, so I am building Window](https://www.reddit.com/r/MachineLearning/comments/1kg80vj/d_i_struggle_with_copypasting_ai_context_when/)
 - [[D] How to detect AI generated invoices and receipts?](https://www.reddit.com/r/MachineLearning/comments/1kg6z2m/d_how_to_detect_ai_generated_invoices_and_receipts/)
-- [[D] Does anyone else get dataset anxiety &lpar;lack thereof&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1kg6c0z/d_does_anyone_else_get_dataset_anxiety_lack/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
