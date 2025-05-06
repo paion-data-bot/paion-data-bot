@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Does any one have details &lpar;not the solutions&rpar; for Ancient Secrets of Computer Visions assignments ? The one from PjReddie.](https://www.reddit.com/r/MachineLearning/comments/1kfxw1u/d_does_any_one_have_details_not_the_solutions_for/)
 - [[R] Hybrid AI for Generating Programs: a Survey](https://www.reddit.com/r/MachineLearning/comments/1kfx9hw/r_hybrid_ai_for_generating_programs_a_survey/)
 - [[Project] VectorVFS: your filesystem as a vector database](https://www.reddit.com/r/MachineLearning/comments/1kff80h/project_vectorvfs_your_filesystem_as_a_vector/)
 - [[D] Fourier features in Neutral Networks?](https://www.reddit.com/r/MachineLearning/comments/1kf8x0l/d_fourier_features_in_neutral_networks/)
 - [[Project] Overfitting in Encoder-Decoder Seq2Seq.](https://www.reddit.com/r/MachineLearning/comments/1kf7ok9/project_overfitting_in_encoderdecoder_seq2seq/)
-- [[D] New Open Sourced VLA based on Qwen2.5VL!](https://www.reddit.com/r/MachineLearning/comments/1kf69k1/d_new_open_sourced_vla_based_on_qwen25vl/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
