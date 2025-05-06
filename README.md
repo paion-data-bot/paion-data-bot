@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ICCV 2025 Review and Score Discussion Thread](https://www.reddit.com/r/MachineLearning/comments/1kgemvp/d_iccv_2025_review_and_score_discussion_thread/)
 - [[D] Exploring Iterative Distillation with Chain-of-Thought &lpar;CoT&rpar;: Thoughts and Limitations?](https://www.reddit.com/r/MachineLearning/comments/1kgdqgf/d_exploring_iterative_distillation_with/)
 - [[P] Advice Needed on Random Forest Model - Preprocessing &amp; Class Imbalance Issues](https://www.reddit.com/r/MachineLearning/comments/1kgdpjj/p_advice_needed_on_random_forest_model/)
 - [[D] How to refer to our model performing well in an ML competition without de-anonymizing our submission?](https://www.reddit.com/r/MachineLearning/comments/1kgd5hx/d_how_to_refer_to_our_model_performing_well_in_an/)
 - [[P] A Python Toolkit for Chain-of-Thought Prompting](https://www.reddit.com/r/MachineLearning/comments/1kg8wcr/p_a_python_toolkit_for_chainofthought_prompting/)
-- [[N] To Speed up AI, Just Outsource Memory](https://www.reddit.com/r/MachineLearning/comments/1kg854s/n_to_speed_up_ai_just_outsource_memory/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
