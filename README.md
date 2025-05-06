@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [How can we modernize payment infrastructure at a global scale?](https://www.elastic.co/blog/modernize-payment-infrastructure-at-scale)
-- [How can we modernize payment infrastructure at a global scale?](https://www.elastic.co/blog/modernize-payment-infrastructure-at-scale)
-- [Unifying security monitoring with Elastic Security and Microsoft Sentinel](https://www.elastic.co/blog/unifying-security-monitoring)
-- [Tips for choosing an AI-driven SIEM](https://www.elastic.co/blog/ai-driven-siem)
-- [Unifying security monitoring with Elastic Security and Microsoft Sentinel](https://www.elastic.co/blog/unifying-security-monitoring)
+- [Elastic Stack 8.18.1 released](https://www.elastic.co/blog/elastic-stack-8-18-1-released)
+- [Elastic Stack 8.17.6 released](https://www.elastic.co/blog/untitled/blog/elastic-stack-8-17-6-released)
+- [Elastic Stack 9.0.1 released](https://www.elastic.co/blog/elastic-stack-9-0-1-released)
+- [Elastic Stack 8.18.1 released](https://www.elastic.co/blog/elastic-stack-8-18-1-released)
+- [Elastic Stack 8.17.6 released](https://www.elastic.co/blog/untitled/blog/elastic-stack-8-17-6-released)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
