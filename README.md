@@ -34,11 +34,11 @@
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
 
 <!-- ARANGO-BLOGS:START -->
+- [From Sensor Noise to Strategic Insights: How ArangoDB and GraphRAG are Reinventing IoT for Smart Manufacturing](https://arangodb.com/2025/05/from-sensor-noise-to-strategic-insights-how-arangodb-and-graphrag-are-reinventing-iot-for-smart-manufacturing/)
 - [Integrating ArangoDB with Kubernetes for Seamless Deployment](https://arangodb.com/2025/04/integrating-arangodb-with-kubernetes-for-seamless-deployment/)
 - [ArangoDB’s GraphRAG Transforms Healthcare Data Management](https://arangodb.com/2025/04/arangodbs-graphrag-transforms-healthcare-data-management/)
 - [The Transformative Power of ArangoDB GraphRAG in Genomics-Driven Personalized Medicine](https://arangodb.com/2025/04/the-transformative-power-of-arangodb-graphrag-in-genomics-driven-personalized-medicine/)
 - [Benchmark Results – ArangoDB vs. Neo4j : ArangoDB up to 8x faster than Neo4j](https://arangodb.com/2024/12/benchmark-results-arangodb-vs-neo4j-arangodb-up-to-8x-faster-than-neo4j/)
-- [Vector Search in ArangoDB: Practical Insights and Hands-On Examples](https://arangodb.com/2024/11/vector-search-in-arangodb-practical-insights-and-hands-on-examples/)
 <!-- ARANGO-BLOGS:END -->
 
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
