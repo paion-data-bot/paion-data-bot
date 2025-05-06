@@ -76,11 +76,11 @@
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Securing Model Context Protocol: Safer Agentic AI with Containers](https://www.docker.com/blog/whats-next-for-mcp-security/)
 - [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP](https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/)
 - [Simplifying Enterprise Management with Docker Desktop on the Microsoft Store](https://www.docker.com/blog/docker-desktop-on-microsoft-store/)
 - [Update on the Docker DX extension for VS Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code-update/)
 - [Docker Desktop 4.41: Docker Model Runner supports Windows, Compose, and Testcontainers integrations, Docker Desktop on the Microsoft Store](https://www.docker.com/blog/docker-desktop-4-41/)
-- [How to build and deliver an MCP server for production](https://www.docker.com/blog/build-to-prod-mcp-servers-with-docker/)
 <!-- DOCKER-BLOG:END -->
 
 <h3><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h3>
