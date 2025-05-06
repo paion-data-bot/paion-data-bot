@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Human Pose Detection Project &lpar;MediaPipe + YOLO&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kfynlg/p_human_pose_detection_project_mediapipe_yolo/)
 - [[D] Does the NPU Matter on Apple M-Series Chips for AI Inference?](https://www.reddit.com/r/MachineLearning/comments/1kfyd0h/d_does_the_npu_matter_on_apple_mseries_chips_for/)
 - [[D] Does any one have details &lpar;not the solutions&rpar; for Ancient Secrets of Computer Visions assignments ? The one from PjReddie.](https://www.reddit.com/r/MachineLearning/comments/1kfxw1u/d_does_any_one_have_details_not_the_solutions_for/)
 - [[R] Hybrid AI for Generating Programs: a Survey](https://www.reddit.com/r/MachineLearning/comments/1kfx9hw/r_hybrid_ai_for_generating_programs_a_survey/)
 - [[Project] VectorVFS: your filesystem as a vector database](https://www.reddit.com/r/MachineLearning/comments/1kff80h/project_vectorvfs_your_filesystem_as_a_vector/)
-- [[D] Fourier features in Neutral Networks?](https://www.reddit.com/r/MachineLearning/comments/1kf8x0l/d_fourier_features_in_neutral_networks/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
