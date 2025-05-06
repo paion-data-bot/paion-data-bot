@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Does anyone else get dataset anxiety &lpar;lack thereof&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1kg6c0z/d_does_anyone_else_get_dataset_anxiety_lack/)
 - [[D] Presenting Latency Results for Multiple Random Seeds in Dissertation](https://www.reddit.com/r/MachineLearning/comments/1kg4tbh/d_presenting_latency_results_for_multiple_random/)
 - [[D] Top AI Research Tools](https://www.reddit.com/r/MachineLearning/comments/1kfyzzz/d_top_ai_research_tools/)
 - [[P] Human Pose Detection Project &lpar;MediaPipe + YOLO&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kfynlg/p_human_pose_detection_project_mediapipe_yolo/)
 - [[D] Does the NPU Matter on Apple M-Series Chips for AI Inference?](https://www.reddit.com/r/MachineLearning/comments/1kfyd0h/d_does_the_npu_matter_on_apple_mseries_chips_for/)
-- [[D] Does any one have details &lpar;not the solutions&rpar; for Ancient Secrets of Computer Visions assignments ? The one from PjReddie.](https://www.reddit.com/r/MachineLearning/comments/1kfxw1u/d_does_any_one_have_details_not_the_solutions_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
