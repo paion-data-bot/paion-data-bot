@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What does it takes to be a Data Freelancer ? Any advice and suggestions on how to become one](https://www.reddit.com/r/MachineLearning/comments/1kg44t1/d_what_does_it_takes_to_be_a_data_freelancer_any/)
 - [[D] Top AI Research Tools](https://www.reddit.com/r/MachineLearning/comments/1kfyzzz/d_top_ai_research_tools/)
 - [[P] Human Pose Detection Project &lpar;MediaPipe + YOLO&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kfynlg/p_human_pose_detection_project_mediapipe_yolo/)
 - [[D] Does the NPU Matter on Apple M-Series Chips for AI Inference?](https://www.reddit.com/r/MachineLearning/comments/1kfyd0h/d_does_the_npu_matter_on_apple_mseries_chips_for/)
 - [[D] Does any one have details &lpar;not the solutions&rpar; for Ancient Secrets of Computer Visions assignments ? The one from PjReddie.](https://www.reddit.com/r/MachineLearning/comments/1kfxw1u/d_does_any_one_have_details_not_the_solutions_for/)
-- [[R] Hybrid AI for Generating Programs: a Survey](https://www.reddit.com/r/MachineLearning/comments/1kfx9hw/r_hybrid_ai_for_generating_programs_a_survey/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
