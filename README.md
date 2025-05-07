@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [Elastic Stack 8.18.1 released](https://www.elastic.co/blog/elastic-stack-8-18-1-released)
+- [Elastic and Keep join forces to help users manage alerts and automate workflows](https://www.elastic.co/blog/elastic-and-keep-join-forces)
+- [Elastic and Keep join forces to help users manage alerts and automate workflows](https://www.elastic.co/blog/elastic-and-keep-join-forces)
 - [Elastic Stack 8.17.6 released](https://www.elastic.co/blog/untitled/blog/elastic-stack-8-17-6-released)
+- [Elastic Stack 8.18.1 released](https://www.elastic.co/blog/elastic-stack-8-18-1-released)
 - [Elastic Stack 9.0.1 released](https://www.elastic.co/blog/elastic-stack-9-0-1-released)
-- [Elastic Stack 8.18.1 released](https://www.elastic.co/blog/elastic-stack-8-18-1-released)
-- [Elastic Stack 8.17.6 released](https://www.elastic.co/blog/untitled/blog/elastic-stack-8-17-6-released)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
