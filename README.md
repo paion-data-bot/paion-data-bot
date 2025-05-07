@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
-- [FikaAI Interview with Barry Burd and Richard Fichtner](https://www.youtube.com/watch?v=cvO6X-jBDYY)
 - [Neo4j Aura Graph Analytics Demo](https://www.youtube.com/watch?v=06nELYoADnQ)
 - [Web Summit Rio 2025 - Lies, damn lies, and AIs](https://www.youtube.com/watch?v=FR7S41QPgvw)
 - [FikaAI Interview with Brian Fox](https://www.youtube.com/watch?v=6YX2xQC7FOk)
 - [FikaAI Interview with David Parry](https://www.youtube.com/watch?v=x3QDIR4b8HM)
+- [FikaAI Interview with Erin Schnabel](https://www.youtube.com/watch?v=zfnEuA0qpHk)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
