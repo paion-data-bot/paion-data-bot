@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D][URGENT SURVEY] The Growing Divide Between AI Capability and AI Ethics: Join the Discussion! [D]](https://www.reddit.com/r/MachineLearning/comments/1kgprj5/durgent_survey_the_growing_divide_between_ai/)
+- [[D] ML Model to Auto-Classify Bank Transactions in Excel – Which Base Model &amp; How to Start?](https://www.reddit.com/r/MachineLearning/comments/1kgpi5n/d_ml_model_to_autoclassify_bank_transactions_in/)
 - [[P] CUDA OOM error on 3b model while using zero3, qlora, fp16 AND 4 a6000 GPUs!!](https://www.reddit.com/r/MachineLearning/comments/1kgolpu/p_cuda_oom_error_on_3b_model_while_using_zero3/)
 - [[P] Guide on how to build Automatic Speech Recognition model for low-resource language](https://www.reddit.com/r/MachineLearning/comments/1kgnv71/p_guide_on_how_to_build_automatic_speech/)
 - [[P] I wrote a walkthrough post that covers Shape Constrained P-Splines for fitting monotonic relationships in python. I also showed how you can use general purpose optimizers like JAX and Scipy to fit these terms. Hope some of y&#39;all find it helpful!](https://www.reddit.com/r/MachineLearning/comments/1kglxwq/p_i_wrote_a_walkthrough_post_that_covers_shape/)
-- [[D] ICCV 2025 Review and Score Discussion Thread](https://www.reddit.com/r/MachineLearning/comments/1kgemvp/d_iccv_2025_review_and_score_discussion_thread/)
-- [[D] Exploring Iterative Distillation with Chain-of-Thought &lpar;CoT&rpar;: Thoughts and Limitations?](https://www.reddit.com/r/MachineLearning/comments/1kgdqgf/d_exploring_iterative_distillation_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
