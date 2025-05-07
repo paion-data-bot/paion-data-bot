@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What can I do to get into an ML PhD?](https://www.reddit.com/r/MachineLearning/comments/1kgreph/d_what_can_i_do_to_get_into_an_ml_phd/)
 - [[D] Where to do study ML Infra?](https://www.reddit.com/r/MachineLearning/comments/1kgr9ba/d_where_to_do_study_ml_infra/)
 - [[D] How to train a model for food image classification in PyTorch? [D]](https://www.reddit.com/r/MachineLearning/comments/1kgpz73/d_how_to_train_a_model_for_food_image/)
 - [[D][URGENT SURVEY] The Growing Divide Between AI Capability and AI Ethics: Join the Discussion! [D]](https://www.reddit.com/r/MachineLearning/comments/1kgprj5/durgent_survey_the_growing_divide_between_ai/)
 - [[D] ML Model to Auto-Classify Bank Transactions in Excel – Which Base Model &amp; How to Start?](https://www.reddit.com/r/MachineLearning/comments/1kgpi5n/d_ml_model_to_autoclassify_bank_transactions_in/)
-- [[P] CUDA OOM error on 3b model while using zero3, qlora, fp16 AND 4 a6000 GPUs!!](https://www.reddit.com/r/MachineLearning/comments/1kgolpu/p_cuda_oom_error_on_3b_model_while_using_zero3/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
