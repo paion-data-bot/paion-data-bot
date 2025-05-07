@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Guide on how to build Automatic Speech Recognition model for low-resource language](https://www.reddit.com/r/MachineLearning/comments/1kgnv71/p_guide_on_how_to_build_automatic_speech/)
 - [[P] I wrote a walkthrough post that covers Shape Constrained P-Splines for fitting monotonic relationships in python. I also showed how you can use general purpose optimizers like JAX and Scipy to fit these terms. Hope some of y&#39;all find it helpful!](https://www.reddit.com/r/MachineLearning/comments/1kglxwq/p_i_wrote_a_walkthrough_post_that_covers_shape/)
 - [[D] ICCV 2025 Review and Score Discussion Thread](https://www.reddit.com/r/MachineLearning/comments/1kgemvp/d_iccv_2025_review_and_score_discussion_thread/)
 - [[D] Exploring Iterative Distillation with Chain-of-Thought &lpar;CoT&rpar;: Thoughts and Limitations?](https://www.reddit.com/r/MachineLearning/comments/1kgdqgf/d_exploring_iterative_distillation_with/)
 - [[P] Advice Needed on Random Forest Model - Preprocessing &amp; Class Imbalance Issues](https://www.reddit.com/r/MachineLearning/comments/1kgdpjj/p_advice_needed_on_random_forest_model/)
-- [[D] How to refer to our model performing well in an ML competition without de-anonymizing our submission?](https://www.reddit.com/r/MachineLearning/comments/1kgd5hx/d_how_to_refer_to_our_model_performing_well_in_an/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
