@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How many epochs I need for LLM fine-tune?](https://www.reddit.com/r/MachineLearning/comments/1khjfgb/d_how_many_epochs_i_need_for_llm_finetune/)
 - [Tips with AI coding - or AI in general [PROJECT]](https://www.reddit.com/r/MachineLearning/comments/1khg04p/tips_with_ai_coding_or_ai_in_general_project/)
 - [[R] Cracking 40% on SWE-bench with open weights &lpar;!&rpar;: Open-source synth data &amp; model &amp; agent](https://www.reddit.com/r/MachineLearning/comments/1kh18td/r_cracking_40_on_swebench_with_open_weights/)
 - [[P] I wrote a lightweight image classification library for local ML datasets &lpar;Python&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kh007q/p_i_wrote_a_lightweight_image_classification/)
 - [Absolute Zero: Reinforced Self-play Reasoning with Zero Data [R]](https://www.reddit.com/r/MachineLearning/comments/1kgylx3/absolute_zero_reinforced_selfplay_reasoning_with/)
-- [[R] Process Reward Models That Think](https://www.reddit.com/r/MachineLearning/comments/1kgya52/r_process_reward_models_that_think/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
