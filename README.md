@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Please someone build this: Some AI Agent\Tool that can write academic papers for you with the given context &lpar;methodology, graphs, figures, theorems, equations&rpar;](https://www.reddit.com/r/MachineLearning/comments/1khm64t/d_please_someone_build_this_some_ai_agenttool/)
 - [[D] TLMs: Task-Specific Language Models - What are they really?](https://www.reddit.com/r/MachineLearning/comments/1khlp16/d_tlms_taskspecific_language_models_what_are_they/)
 - [[D]Are there any applications for continuous normalizing flow&lpar;CNF&rpar; currently?](https://www.reddit.com/r/MachineLearning/comments/1khjmhj/dare_there_any_applications_for_continuous/)
 - [[D] How many epochs I need for LLM fine-tune?](https://www.reddit.com/r/MachineLearning/comments/1khjfgb/d_how_many_epochs_i_need_for_llm_finetune/)
 - [[D] CS PhD seeking advice: Limited resources &lpar;2x3090&rpar;, how to target better-tier publications?](https://www.reddit.com/r/MachineLearning/comments/1khhzp3/d_cs_phd_seeking_advice_limited_resources_2x3090/)
+- [[D] OpenAI’s Mutually Assured Destruction Strategy: A Systems-Level Analysis of AI Infrastructure Risk](https://www.reddit.com/r/MachineLearning/comments/1khbp80/d_openais_mutually_assured_destruction_strategy_a/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
