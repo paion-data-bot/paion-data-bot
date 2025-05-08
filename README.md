@@ -54,10 +54,10 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Agentic AI in financial services: The rise of autonomous intelligence](https://www.elastic.co/blog/agentic-ai-financial-services)
+- [Agentic AI in financial services: The rise of autonomous intelligence](https://www.elastic.co/blog/agentic-ai-financial-services)
 - [Elastic and Keep join forces to help users manage alerts and automate workflows](https://www.elastic.co/blog/elastic-and-keep-join-forces)
 - [Elastic and Keep join forces to help users manage alerts and automate workflows](https://www.elastic.co/blog/elastic-and-keep-join-forces)
-- [Elastic Stack 8.17.6 released](https://www.elastic.co/blog/elastic-stack-8-17-6-released)
-- [Elastic Stack 8.18.1 released](https://www.elastic.co/blog/elastic-stack-8-18-1-released)
 - [Elastic Stack 9.0.1 released](https://www.elastic.co/blog/elastic-stack-9-0-1-released)
 <!-- ELASTIC-BLOGS:END -->
 
