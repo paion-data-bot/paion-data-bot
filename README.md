@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [CMMC success by design: How Elastic and MAD Security deliver compliance confidence](https://www.elastic.co/blog/cmmc-success-by-design)
 - [Agentic AI in financial services: The rise of autonomous intelligence](https://www.elastic.co/blog/agentic-ai-financial-services)
+- [CMMC success by design: How Elastic and MAD Security deliver compliance confidence](https://www.elastic.co/blog/cmmc-success-by-design)
 - [Agentic AI in financial services: The rise of autonomous intelligence](https://www.elastic.co/blog/agentic-ai-financial-services)
 - [Elastic and Keep join forces to help users manage alerts and automate workflows](https://www.elastic.co/blog/elastic-and-keep-join-forces)
-- [Elastic and Keep join forces to help users manage alerts and automate workflows](https://www.elastic.co/blog/elastic-and-keep-join-forces)
-- [Elastic Stack 9.0.1 released](https://www.elastic.co/blog/elastic-stack-9-0-1-released)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
