@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Has anyone worked with CNNs and geo-spatial data? How do you deal with edge cases and Null/No Data values in CNNs?](https://www.reddit.com/r/MachineLearning/comments/1khqac8/p_has_anyone_worked_with_cnns_and_geospatial_data/)
+- [[P] Introducing the Intelligent Document Processing &lpar;IDP&rpar; Leaderboard – A Unified Benchmark for OCR, KIE, VQA, Table Extraction, and More](https://www.reddit.com/r/MachineLearning/comments/1khpwl3/p_introducing_the_intelligent_document_processing/)
 - [[P] Curated lessons and resources to learn AI in the most efficient way possible](https://www.reddit.com/r/MachineLearning/comments/1khpkmv/p_curated_lessons_and_resources_to_learn_ai_in/)
 - [[P] AI Learns to Dodge Wrecking Balls - Deep reinforcement learning](https://www.reddit.com/r/MachineLearning/comments/1khoyjc/p_ai_learns_to_dodge_wrecking_balls_deep/)
 - [[D] TLMs: Task-Specific Language Models - What are they really?](https://www.reddit.com/r/MachineLearning/comments/1khlp16/d_tlms_taskspecific_language_models_what_are_they/)
-- [[D]Are there any applications for continuous normalizing flow&lpar;CNF&rpar; currently?](https://www.reddit.com/r/MachineLearning/comments/1khjmhj/dare_there_any_applications_for_continuous/)
-- [[D] How many epochs I need for LLM fine-tune?](https://www.reddit.com/r/MachineLearning/comments/1khjfgb/d_how_many_epochs_i_need_for_llm_finetune/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
