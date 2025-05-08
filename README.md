@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] A MoE Model of Manageable Size for Initial Experiments](https://www.reddit.com/r/MachineLearning/comments/1ki2tcs/d_a_moe_model_of_manageable_size_for_initial/)
 - [[R] Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://www.reddit.com/r/MachineLearning/comments/1khzab0/r_block_diffusion_interpolating_between/)
 - [[D] Why is RL in the real-world so hard?](https://www.reddit.com/r/MachineLearning/comments/1khxhz1/d_why_is_rl_in_the_realworld_so_hard/)
 - [[P] Has anyone worked with CNNs and geo-spatial data? How do you deal with edge cases and Null/No Data values in CNNs?](https://www.reddit.com/r/MachineLearning/comments/1khqac8/p_has_anyone_worked_with_cnns_and_geospatial_data/)
 - [[P] Introducing the Intelligent Document Processing &lpar;IDP&rpar; Leaderboard – A Unified Benchmark for OCR, KIE, VQA, Table Extraction, and More](https://www.reddit.com/r/MachineLearning/comments/1khpwl3/p_introducing_the_intelligent_document_processing/)
-- [[P] AI Learns to Dodge Wrecking Balls - Deep reinforcement learning](https://www.reddit.com/r/MachineLearning/comments/1khoyjc/p_ai_learns_to_dodge_wrecking_balls_deep/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
