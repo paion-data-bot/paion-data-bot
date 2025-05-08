@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]Are there any applications for continuous normalizing flow&lpar;CNF&rpar; currently?](https://www.reddit.com/r/MachineLearning/comments/1khjmhj/dare_there_any_applications_for_continuous/)
 - [[D] How many epochs I need for LLM fine-tune?](https://www.reddit.com/r/MachineLearning/comments/1khjfgb/d_how_many_epochs_i_need_for_llm_finetune/)
-- [Tips with AI coding - or AI in general [PROJECT]](https://www.reddit.com/r/MachineLearning/comments/1khg04p/tips_with_ai_coding_or_ai_in_general_project/)
+- [[D] CS PhD seeking advice: Limited resources &lpar;2x3090&rpar;, how to target better-tier publications?](https://www.reddit.com/r/MachineLearning/comments/1khhzp3/d_cs_phd_seeking_advice_limited_resources_2x3090/)
+- [[D] OpenAI’s Mutually Assured Destruction Strategy: A Systems-Level Analysis of AI Infrastructure Risk](https://www.reddit.com/r/MachineLearning/comments/1khbp80/d_openais_mutually_assured_destruction_strategy_a/)
 - [[R] Cracking 40% on SWE-bench with open weights &lpar;!&rpar;: Open-source synth data &amp; model &amp; agent](https://www.reddit.com/r/MachineLearning/comments/1kh18td/r_cracking_40_on_swebench_with_open_weights/)
-- [[P] I wrote a lightweight image classification library for local ML datasets &lpar;Python&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kh007q/p_i_wrote_a_lightweight_image_classification/)
-- [Absolute Zero: Reinforced Self-play Reasoning with Zero Data [R]](https://www.reddit.com/r/MachineLearning/comments/1kgylx3/absolute_zero_reinforced_selfplay_reasoning_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
