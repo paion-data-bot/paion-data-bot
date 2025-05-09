@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is learning_rate=5e-5 &amp; n_epoch=1 has closed effect with learning_rate=5e-6 &amp; n_epochs=10 when loss is high without lr_scheduler?](https://www.reddit.com/r/MachineLearning/comments/1kiankr/d_is_learning_rate5e5_n_epoch1_has_closed_effect/)
 - [[P] The first Multiplayer AI-generated game](https://www.reddit.com/r/MachineLearning/comments/1ki31c0/p_the_first_multiplayer_aigenerated_game/)
 - [[D] A MoE Model of Manageable Size for Initial Experiments](https://www.reddit.com/r/MachineLearning/comments/1ki2tcs/d_a_moe_model_of_manageable_size_for_initial/)
 - [[R] Block Diffusion: Interpolating Between Autoregressive and Diffusion Language Models](https://www.reddit.com/r/MachineLearning/comments/1khzab0/r_block_diffusion_interpolating_between/)
 - [[D] Why is RL in the real-world so hard?](https://www.reddit.com/r/MachineLearning/comments/1khxhz1/d_why_is_rl_in_the_realworld_so_hard/)
-- [[P] Has anyone worked with CNNs and geo-spatial data? How do you deal with edge cases and Null/No Data values in CNNs?](https://www.reddit.com/r/MachineLearning/comments/1khqac8/p_has_anyone_worked_with_cnns_and_geospatial_data/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
