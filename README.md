@@ -24,10 +24,10 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is there any tool to fix cases in references &lpar;LaTeX + BibTeX&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1kiugas/d_is_there_any_tool_to_fix_cases_in_references/)
 - [[D] ICCV 2025 Reviews are out!](https://www.reddit.com/r/MachineLearning/comments/1kit1wy/d_iccv_2025_reviews_are_out/)
 - [[D] Roommate for ICML 2025](https://www.reddit.com/r/MachineLearning/comments/1kirqye/d_roommate_for_icml_2025/)
 - [[R] Spent the last month building a platform to run visual browser agents, what do you think?](https://www.reddit.com/r/MachineLearning/comments/1kiqm44/r_spent_the_last_month_building_a_platform_to_run/)
-- [[D] Interview prep/ mock interview tips](https://www.reddit.com/r/MachineLearning/comments/1kipe7s/d_interview_prep_mock_interview_tips/)
 - [[P] Tensorlink: A Framework for Model Distribution and P2P Resource Sharing in PyTorch](https://www.reddit.com/r/MachineLearning/comments/1kij9hh/p_tensorlink_a_framework_for_model_distribution/)
 <!-- REDDIT-ML:END -->
 
