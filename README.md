@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Spent the last month building a platform to run visual browser agents, what do you think?](https://www.reddit.com/r/MachineLearning/comments/1kiqm44/r_spent_the_last_month_building_a_platform_to_run/)
 - [[D] Interview prep/ mock interview tips](https://www.reddit.com/r/MachineLearning/comments/1kipe7s/d_interview_prep_mock_interview_tips/)
 - [[P] Tensorlink: A Framework for Model Distribution and P2P Resource Sharing in PyTorch](https://www.reddit.com/r/MachineLearning/comments/1kij9hh/p_tensorlink_a_framework_for_model_distribution/)
 - [[D] NLP in languages with gendered speech](https://www.reddit.com/r/MachineLearning/comments/1kiin0g/d_nlp_in_languages_with_gendered_speech/)
 - [[D] suggestions for reflection removal](https://www.reddit.com/r/MachineLearning/comments/1kihtw2/d_suggestions_for_reflection_removal/)
-- [[D] Help me find a model or Service.](https://www.reddit.com/r/MachineLearning/comments/1kiccfj/d_help_me_find_a_model_or_service/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
