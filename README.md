@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] My struggle with &#39;tutorial hell&#39; led me to build this... maybe it can help others learn better?](https://www.reddit.com/r/MachineLearning/comments/1kjgkla/d_my_struggle_with_tutorial_hell_led_me_to_build/)
 - [[D] Curious: Do you prefer buying GPUs or renting them for finetuning/training models?](https://www.reddit.com/r/MachineLearning/comments/1kjf1fc/d_curious_do_you_prefer_buying_gpus_or_renting/)
 - [[D] Should I do a DL based BSc Project in Final Year](https://www.reddit.com/r/MachineLearning/comments/1kjf02s/d_should_i_do_a_dl_based_bsc_project_in_final_year/)
 - [[D] How to find a PhD supervisor at a top-tier conference like ICML?](https://www.reddit.com/r/MachineLearning/comments/1kj9mxa/d_how_to_find_a_phd_supervisor_at_a_toptier/)
 - [[D] Paper for In-Between video generation with diffusion &lpar;or other model&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kj8g1n/d_paper_for_inbetween_video_generation_with/)
-- [[D] Best Way to Incorporate Edge Scores into Transformer After GNN?](https://www.reddit.com/r/MachineLearning/comments/1kj7ylw/d_best_way_to_incorporate_edge_scores_into/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
