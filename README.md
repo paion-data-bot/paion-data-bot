@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Best Way to Incorporate Edge Scores into Transformer After GNN?](https://www.reddit.com/r/MachineLearning/comments/1kj7ylw/d_best_way_to_incorporate_edge_scores_into/)
 - [[D] NeurIPS Funding](https://www.reddit.com/r/MachineLearning/comments/1kj5qle/d_neurips_funding/)
 - [[D] GPU Memory for Image Classification](https://www.reddit.com/r/MachineLearning/comments/1kivomv/d_gpu_memory_for_image_classification/)
 - [[D] Is there any tool to fix cases in references &lpar;LaTeX + BibTeX&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1kiugas/d_is_there_any_tool_to_fix_cases_in_references/)
 - [[D] ICCV 2025 Reviews are out!](https://www.reddit.com/r/MachineLearning/comments/1kit1wy/d_iccv_2025_reviews_are_out/)
-- [[D] Roommate for ICML 2025](https://www.reddit.com/r/MachineLearning/comments/1kirqye/d_roommate_for_icml_2025/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
