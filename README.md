@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Compensation for research roles in US for fresh PhD grad](https://www.reddit.com/r/MachineLearning/comments/1kkevhi/d_compensation_for_research_roles_in_us_for_fresh/)
 - [[D] Small stupid question about Llama 4 implementation](https://www.reddit.com/r/MachineLearning/comments/1kkcvuz/d_small_stupid_question_about_llama_4/)
 - [[P] Plexe: an open-source agent that builds trained ML models from natural language task descriptions](https://www.reddit.com/r/MachineLearning/comments/1kka7qe/p_plexe_an_opensource_agent_that_builds_trained/)
 - [[D] ICCV 2025 rebuttal](https://www.reddit.com/r/MachineLearning/comments/1kk68gy/d_iccv_2025_rebuttal/)
 - [[D] What are common qualities of papers at “top-tier” conferences?](https://www.reddit.com/r/MachineLearning/comments/1kk62xl/d_what_are_common_qualities_of_papers_at_toptier/)
-- [AI Learns to Drive a Car with Gran Turismo [R] &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kk1m05/ai_learns_to_drive_a_car_with_gran_turismo_r_deep/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
