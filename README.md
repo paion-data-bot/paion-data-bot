@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Exploring a New Hierarchical Swarm Optimization Model: Multiple Teams, Managers, and Meta-Memory for Faster and More Robust Convergence [D]](https://www.reddit.com/r/MachineLearning/comments/1kjtudr/exploring_a_new_hierarchical_swarm_optimization/)
 - [[D] Winning the AI Race: what can we learn from the Senate hearing?](https://www.reddit.com/r/MachineLearning/comments/1kjsm0h/d_winning_the_ai_race_what_can_we_learn_from_the/)
 - [[D] Interview prep/ mock interview tips](https://www.reddit.com/r/MachineLearning/comments/1kjrohp/d_interview_prep_mock_interview_tips/)
 - [[R] If you&#39;re building anything in financial Al, where are you sourcing your data?](https://www.reddit.com/r/MachineLearning/comments/1kjroah/r_if_youre_building_anything_in_financial_al/)
 - [[R] The Evolution of RL for Fine-Tuning LLMs &lpar;from REINFORCE to VAPO&rpar; Research](https://www.reddit.com/r/MachineLearning/comments/1kjhsh8/r_the_evolution_of_rl_for_finetuning_llms_from/)
-- [[D] Curious: Do you prefer buying GPUs or renting them for finetuning/training models?](https://www.reddit.com/r/MachineLearning/comments/1kjf1fc/d_curious_do_you_prefer_buying_gpus_or_renting/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
