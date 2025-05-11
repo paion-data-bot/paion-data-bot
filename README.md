@@ -28,7 +28,7 @@
 - [[D] What Yann LeCun means here?](https://www.reddit.com/r/MachineLearning/comments/1kk19ob/d_what_yann_lecun_means_here/)
 - [[D] NeurIPS Abstract Deadline](https://www.reddit.com/r/MachineLearning/comments/1kk02x7/d_neurips_abstract_deadline/)
 - [[D] Simulating Bias with Bayesian Networks - Feedback wanted!](https://www.reddit.com/r/MachineLearning/comments/1kjxz7m/d_simulating_bias_with_bayesian_networks_feedback/)
-- [[R] Research on Audio Generation](https://www.reddit.com/r/MachineLearning/comments/1kjxswl/r_research_on_audio_generation/)
+- [[D] POV: You get this question in your interview. What do you do?](https://www.reddit.com/r/MachineLearning/comments/1kjuoz4/d_pov_you_get_this_question_in_your_interview/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
