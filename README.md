@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] NeurIPS Abstract Deadline](https://www.reddit.com/r/MachineLearning/comments/1kk02x7/d_neurips_abstract_deadline/)
 - [[D] Simulating Bias with Bayesian Networks - Feedback wanted!](https://www.reddit.com/r/MachineLearning/comments/1kjxz7m/d_simulating_bias_with_bayesian_networks_feedback/)
 - [[R] Research on Audio Generation](https://www.reddit.com/r/MachineLearning/comments/1kjxswl/r_research_on_audio_generation/)
 - [[D] POV: You get this question in your interview. What do you do?](https://www.reddit.com/r/MachineLearning/comments/1kjuoz4/d_pov_you_get_this_question_in_your_interview/)
 - [Exploring a New Hierarchical Swarm Optimization Model: Multiple Teams, Managers, and Meta-Memory for Faster and More Robust Convergence [D]](https://www.reddit.com/r/MachineLearning/comments/1kjtudr/exploring_a_new_hierarchical_swarm_optimization/)
-- [[R] If you&#39;re building anything in financial Al, where are you sourcing your data?](https://www.reddit.com/r/MachineLearning/comments/1kjroah/r_if_youre_building_anything_in_financial_al/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
