@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Implementing Local Agent Sample Projects using Google ADK with different LLMs](https://www.reddit.com/r/MachineLearning/comments/1kktwp3/p_implementing_local_agent_sample_projects_using/)
+- [[R] What is the ultimate roadmap for mastering ML/DL 2025?](https://www.reddit.com/r/MachineLearning/comments/1kktrq0/r_what_is_the_ultimate_roadmap_for_mastering_mldl/)
 - [[R] Zero-shot forecasting of chaotic systems &lpar;ICLR 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kksbyn/r_zeroshot_forecasting_of_chaotic_systems_iclr/)
 - [[D] Perception-Informed Neural Networks: Need Some Help!](https://www.reddit.com/r/MachineLearning/comments/1kkqlan/d_perceptioninformed_neural_networks_need_some/)
 - [[D] ICCV Rebuttal suggestions](https://www.reddit.com/r/MachineLearning/comments/1kkmc2l/d_iccv_rebuttal_suggestions/)
-- [[R] Continuous Thought Machines: neural dynamics as representation.](https://www.reddit.com/r/MachineLearning/comments/1kki38w/r_continuous_thought_machines_neural_dynamics_as/)
-- [[D] Compensation for research roles in US for fresh PhD grad](https://www.reddit.com/r/MachineLearning/comments/1kkevhi/d_compensation_for_research_roles_in_us_for_fresh/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
