@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Zero-shot forecasting of chaotic systems &lpar;ICLR 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kksbyn/r_zeroshot_forecasting_of_chaotic_systems_iclr/)
 - [[D] Perception-Informed Neural Networks: Need Some Help!](https://www.reddit.com/r/MachineLearning/comments/1kkqlan/d_perceptioninformed_neural_networks_need_some/)
 - [[D] ICCV Rebuttal suggestions](https://www.reddit.com/r/MachineLearning/comments/1kkmc2l/d_iccv_rebuttal_suggestions/)
 - [[R] Continuous Thought Machines: neural dynamics as representation.](https://www.reddit.com/r/MachineLearning/comments/1kki38w/r_continuous_thought_machines_neural_dynamics_as/)
 - [[D] Compensation for research roles in US for fresh PhD grad](https://www.reddit.com/r/MachineLearning/comments/1kkevhi/d_compensation_for_research_roles_in_us_for_fresh/)
-- [[D] Small stupid question about Llama 4 implementation](https://www.reddit.com/r/MachineLearning/comments/1kkcvuz/d_small_stupid_question_about_llama_4/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
