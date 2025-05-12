@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Continuous Thought Machines: neural dynamics as representation.](https://www.reddit.com/r/MachineLearning/comments/1kki38w/r_continuous_thought_machines_neural_dynamics_as/)
 - [[D] Compensation for research roles in US for fresh PhD grad](https://www.reddit.com/r/MachineLearning/comments/1kkevhi/d_compensation_for_research_roles_in_us_for_fresh/)
 - [[D] Small stupid question about Llama 4 implementation](https://www.reddit.com/r/MachineLearning/comments/1kkcvuz/d_small_stupid_question_about_llama_4/)
 - [[P] Plexe: an open-source agent that builds trained ML models from natural language task descriptions](https://www.reddit.com/r/MachineLearning/comments/1kka7qe/p_plexe_an_opensource_agent_that_builds_trained/)
 - [[D] ICCV 2025 rebuttal](https://www.reddit.com/r/MachineLearning/comments/1kk68gy/d_iccv_2025_rebuttal/)
-- [[D] What are common qualities of papers at “top-tier” conferences?](https://www.reddit.com/r/MachineLearning/comments/1kk62xl/d_what_are_common_qualities_of_papers_at_toptier/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
