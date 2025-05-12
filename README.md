@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] LLMs for image captioning](https://www.reddit.com/r/MachineLearning/comments/1kkw6kt/d_llms_for_image_captioning/)
+- [[P] Llama 3.2 1B-Based Conversational Assistant Fully On-Device &lpar;No Cloud, Works Offline&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kkw6cf/p_llama_32_1bbased_conversational_assistant_fully/)
 - [[D] Researchers in egocentric vision, what papers do you recommend to get started?](https://www.reddit.com/r/MachineLearning/comments/1kkvak9/d_researchers_in_egocentric_vision_what_papers_do/)
 - [[P] Implementing Local Agent Sample Projects using Google ADK with different LLMs](https://www.reddit.com/r/MachineLearning/comments/1kktwp3/p_implementing_local_agent_sample_projects_using/)
 - [[R] Zero-shot forecasting of chaotic systems &lpar;ICLR 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kksbyn/r_zeroshot_forecasting_of_chaotic_systems_iclr/)
-- [[D] Perception-Informed Neural Networks: Need Some Help!](https://www.reddit.com/r/MachineLearning/comments/1kkqlan/d_perceptioninformed_neural_networks_need_some/)
-- [[D] ICCV Rebuttal suggestions](https://www.reddit.com/r/MachineLearning/comments/1kkmc2l/d_iccv_rebuttal_suggestions/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
