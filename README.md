@@ -14,11 +14,11 @@
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
-- [Gemini 2.5 Pro Preview: even better coding performance](https://c7510da-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/gemini-25-pro-preview-even-better-coding-performance/)
-- [Build rich, interactive web apps with an updated Gemini 2.5 Pro](https://c7510da-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/)
-- [Music AI Sandbox, now with new features and broader access](https://c7510da-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
-- [Introducing Gemini 2.5 Flash](https://c7510da-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/introducing-gemini-2-5-flash/)
-- [Generate videos in Gemini and Whisk with Veo 2](https://c7510da-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/generate-videos-in-gemini-and-whisk-with-veo-2/)
+- [Gemini 2.5 Pro Preview: even better coding performance](https://deepmind.google/discover/blog/gemini-25-pro-preview-even-better-coding-performance/)
+- [Build rich, interactive web apps with an updated Gemini 2.5 Pro](https://deepmind.google/discover/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/)
+- [Music AI Sandbox, now with new features and broader access](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
+- [Introducing Gemini 2.5 Flash](https://deepmind.google/discover/blog/introducing-gemini-2-5-flash/)
+- [Generate videos in Gemini and Whisk with Veo 2](https://deepmind.google/discover/blog/generate-videos-in-gemini-and-whisk-with-veo-2/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
