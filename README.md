@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Reviewer cited a newer arXiv paper as prior work and ours was online earlier. How to handle in rebuttal?](https://www.reddit.com/r/MachineLearning/comments/1klppvn/d_reviewer_cited_a_newer_arxiv_paper_as_prior/)
 - [[D] LxMLS 2025 decision](https://www.reddit.com/r/MachineLearning/comments/1klovx6/d_lxmls_2025_decision/)
 - [[D] Why do people &lpar;mostly in media, not in AI/ML research&rpar; talk about Meta as if it is behind in the AI industry?](https://www.reddit.com/r/MachineLearning/comments/1klnby4/d_why_do_people_mostly_in_media_not_in_aiml/)
 - [[D] xAI Releasing Sexual and Romantic Voice Chatbots](https://www.reddit.com/r/MachineLearning/comments/1klm09z/d_xai_releasing_sexual_and_romantic_voice_chatbots/)
 - [[D] Thoughts on use of the term AI &amp; whether LLMs are actually a &#39;step on the way&#39; to advancements in AI?](https://www.reddit.com/r/MachineLearning/comments/1klkqi6/d_thoughts_on_use_of_the_term_ai_whether_llms_are/)
-- [[R] How do I become an AI Engineer from a Computer Engineering background?](https://www.reddit.com/r/MachineLearning/comments/1klisb6/r_how_do_i_become_an_ai_engineer_from_a_computer/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
