@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Direct Random Target Projection [R]](https://www.reddit.com/r/MachineLearning/comments/1klbbjp/direct_random_target_projection_r/)
+- [[P] Open-source RL Model for Predicting Sales Conversion from Conversations + Free Agent Platform &lpar;Dataset, Model, Paper, Demo&rpar;](https://www.reddit.com/r/MachineLearning/comments/1klauer/p_opensource_rl_model_for_predicting_sales/)
 - [[D] MICCAI 2025 Review Results](https://www.reddit.com/r/MachineLearning/comments/1kl4sly/d_miccai_2025_review_results/)
 - [[R] NeurIPS 2025 Appendix Submission](https://www.reddit.com/r/MachineLearning/comments/1kl4n65/r_neurips_2025_appendix_submission/)
 - [[P] Why are two random vectors near orthogonal in high dimensions?](https://www.reddit.com/r/MachineLearning/comments/1kl0yxd/p_why_are_two_random_vectors_near_orthogonal_in/)
-- [[D] ACL 2025 Decision](https://www.reddit.com/r/MachineLearning/comments/1kkynm9/d_acl_2025_decision/)
-- [[P] Llama 3.2 1B-Based Conversational Assistant Fully On-Device &lpar;No Cloud, Works Offline&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kkw6cf/p_llama_32_1bbased_conversational_assistant_fully/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
