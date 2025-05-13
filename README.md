@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] need to find a ds/mle role in bay area](https://www.reddit.com/r/MachineLearning/comments/1kluybk/d_need_to_find_a_dsmle_role_in_bay_area/)
 - [[D] Confused PhD ML Student: Looking for advice on tying research to industry](https://www.reddit.com/r/MachineLearning/comments/1kltq40/d_confused_phd_ml_student_looking_for_advice_on/)
 - [[D] Is topic modelling obsolete?](https://www.reddit.com/r/MachineLearning/comments/1klsnfl/d_is_topic_modelling_obsolete/)
 - [[P] Al Solution for identifying suspicious Audio recordings](https://www.reddit.com/r/MachineLearning/comments/1klrn30/p_al_solution_for_identifying_suspicious_audio/)
 - [[D] Helps in Neurips submission](https://www.reddit.com/r/MachineLearning/comments/1klqq4a/d_helps_in_neurips_submission/)
-- [Customer churn prediction system with imbalanced and overlapping classes [D]](https://www.reddit.com/r/MachineLearning/comments/1klqhj3/customer_churn_prediction_system_with_imbalanced/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
