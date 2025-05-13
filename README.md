@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Fine-tuning help for hierarchy structure generation](https://www.reddit.com/r/MachineLearning/comments/1klf5wf/r_finetuning_help_for_hierarchy_structure/)
+- [[D] Had an AI Engineer interview recently and the startup wanted to fine-tune sub-80b parameter models for their platform, why?](https://www.reddit.com/r/MachineLearning/comments/1klf53p/d_had_an_ai_engineer_interview_recently_and_the/)
 - [[D] How to jump back in??](https://www.reddit.com/r/MachineLearning/comments/1klelyg/d_how_to_jump_back_in/)
 - [Direct Random Target Projection [R]](https://www.reddit.com/r/MachineLearning/comments/1klbbjp/direct_random_target_projection_r/)
 - [[D] MICCAI 2025 Review Results](https://www.reddit.com/r/MachineLearning/comments/1kl4sly/d_miccai_2025_review_results/)
-- [[R] NeurIPS 2025 Appendix Submission](https://www.reddit.com/r/MachineLearning/comments/1kl4n65/r_neurips_2025_appendix_submission/)
-- [[P] Why are two random vectors near orthogonal in high dimensions?](https://www.reddit.com/r/MachineLearning/comments/1kl0yxd/p_why_are_two_random_vectors_near_orthogonal_in/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
