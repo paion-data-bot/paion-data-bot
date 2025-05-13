@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] The Reinforcement Learning and Video Games Workshop @RLC 2025](https://www.reddit.com/r/MachineLearning/comments/1klgyqy/n_the_reinforcement_learning_and_video_games/)
 - [[R] Fine-tuning help for hierarchy structure generation](https://www.reddit.com/r/MachineLearning/comments/1klf5wf/r_finetuning_help_for_hierarchy_structure/)
+- [[P] GNN Link Prediction &lpar;GraphSAGE/PyG&rpar; - Validation AUC Consistently Below 0.5 Despite Overfitting Control](https://www.reddit.com/r/MachineLearning/comments/1klf5vr/p_gnn_link_prediction_graphsagepyg_validation_auc/)
 - [[D] Had an AI Engineer interview recently and the startup wanted to fine-tune sub-80b parameter models for their platform, why?](https://www.reddit.com/r/MachineLearning/comments/1klf53p/d_had_an_ai_engineer_interview_recently_and_the/)
-- [[D] How to jump back in??](https://www.reddit.com/r/MachineLearning/comments/1klelyg/d_how_to_jump_back_in/)
 - [Direct Random Target Projection [R]](https://www.reddit.com/r/MachineLearning/comments/1klbbjp/direct_random_target_projection_r/)
-- [[D] MICCAI 2025 Review Results](https://www.reddit.com/r/MachineLearning/comments/1kl4sly/d_miccai_2025_review_results/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
