@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Career Transition Bootcamp?](https://www.reddit.com/r/MachineLearning/comments/1klrrgq/d_career_transition_bootcamp/)
+- [[D] A question for DataAnnotation coders](https://www.reddit.com/r/MachineLearning/comments/1klrnln/d_a_question_for_dataannotation_coders/)
+- [[P] Al Solution for identifying suspicious Audio recordings](https://www.reddit.com/r/MachineLearning/comments/1klrn30/p_al_solution_for_identifying_suspicious_audio/)
 - [[D] Where to find top talent?](https://www.reddit.com/r/MachineLearning/comments/1klr55q/d_where_to_find_top_talent/)
 - [[D] Helps in Neurips submission](https://www.reddit.com/r/MachineLearning/comments/1klqq4a/d_helps_in_neurips_submission/)
-- [Customer churn prediction system with imbalanced and overlapping classes [D]](https://www.reddit.com/r/MachineLearning/comments/1klqhj3/customer_churn_prediction_system_with_imbalanced/)
-- [[D] Reviewer cited a newer arXiv paper as prior work and ours was online earlier. How to handle in rebuttal?](https://www.reddit.com/r/MachineLearning/comments/1klppvn/d_reviewer_cited_a_newer_arxiv_paper_as_prior/)
-- [[D] LxMLS 2025 decision](https://www.reddit.com/r/MachineLearning/comments/1klovx6/d_lxmls_2025_decision/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
