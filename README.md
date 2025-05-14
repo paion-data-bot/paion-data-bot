@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] I Know Python &amp; Some ML — I Wanna Go God Mode in AI. What Should I Focus On?](https://www.reddit.com/r/MachineLearning/comments/1kmq7tr/d_i_know_python_some_ml_i_wanna_go_god_mode_in_ai/)
+- [[D] How OpenAI&#39;s Memory Systems Work](https://www.reddit.com/r/MachineLearning/comments/1kmq5zh/d_how_openais_memory_systems_work/)
 - [[D] Rejected a Solid Offer Waiting for My &#39;Dream Job&#39;](https://www.reddit.com/r/MachineLearning/comments/1kmpzpy/d_rejected_a_solid_offer_waiting_for_my_dream_job/)
 - [[D] Innocent authors should not be penalized for the misconduct of irresponsible coauthors](https://www.reddit.com/r/MachineLearning/comments/1kmovqt/d_innocent_authors_should_not_be_penalized_for/)
 - [[P] Looking for](https://www.reddit.com/r/MachineLearning/comments/1kmoj1p/p_looking_for/)
-- [[R] Swapping image encoder in VLM](https://www.reddit.com/r/MachineLearning/comments/1kmns1l/r_swapping_image_encoder_in_vlm/)
-- [[D] Can dataset size make up for noisy labels?](https://www.reddit.com/r/MachineLearning/comments/1kmix9x/d_can_dataset_size_make_up_for_noisy_labels/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
