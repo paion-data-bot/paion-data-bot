@@ -98,11 +98,11 @@
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Building Custom Tooling with LLMs](https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html)
 - [Coding Assistants Threaten the Software Supply Chain](https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html)
 - [Function calling using LLMs](https://martinfowler.com/articles/function-call-LLM.html)
 - [Building TMT Mirror Visualization with LLM](https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html)
 - [Additional explanatory material for the Deepseek Overview](https://martinfowler.com/articles/deepseek-papers.html)
-- [Guiding an LLM for Robust Java ByteBuffer Code](https://martinfowler.com/articles/exploring-gen-ai/14-guiding-llm-java-bytebuffer.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 ### [CSS-Trikcs](https://css-tricks.com/)
