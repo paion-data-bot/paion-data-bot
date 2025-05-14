@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Need to train a model for a client whilst proving I never saw the data](https://www.reddit.com/r/MachineLearning/comments/1km7xmu/d_need_to_train_a_model_for_a_client_whilst/)
 - [[Project] OM3 - A modular LSTM-based continuous learning engine for real-time AI experiments &lpar;GitHub release&rpar;](https://www.reddit.com/r/MachineLearning/comments/1km7biz/project_om3_a_modular_lstmbased_continuous/)
 - [[R] Has anyone saved + reloaded a model’s internal state mid-inference to enable agent collaboration?](https://www.reddit.com/r/MachineLearning/comments/1km6ny5/r_has_anyone_saved_reloaded_a_models_internal/)
 - [[D] Hello can we train using google images as they have large images](https://www.reddit.com/r/MachineLearning/comments/1km65v1/d_hello_can_we_train_using_google_images_as_they/)
 - [[D] Trying to make sparse neural retrieval more usable](https://www.reddit.com/r/MachineLearning/comments/1kly39h/d_trying_to_make_sparse_neural_retrieval_more/)
-- [[D] Confused PhD ML Student: Looking for advice on tying research to industry](https://www.reddit.com/r/MachineLearning/comments/1kltq40/d_confused_phd_ml_student_looking_for_advice_on/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
