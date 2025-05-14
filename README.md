@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] LLM - better chunking method](https://www.reddit.com/r/MachineLearning/comments/1kmcf6x/r_llm_better_chunking_method/)
 - [[D] Interviewing a PhD candidate after their speech, what should I ask them](https://www.reddit.com/r/MachineLearning/comments/1kmc1eg/d_interviewing_a_phd_candidate_after_their_speech/)
 - [[N] OpenAI Released a New Prompting Guide and It&#39;s Surprisingly Simple to Use](https://www.reddit.com/r/MachineLearning/comments/1kmbfo3/n_openai_released_a_new_prompting_guide_and_its/)
 - [[D] Overleaf is down?](https://www.reddit.com/r/MachineLearning/comments/1km8d7p/d_overleaf_is_down/)
 - [[D] Need to train a model for a client whilst proving I never saw the data](https://www.reddit.com/r/MachineLearning/comments/1km7xmu/d_need_to_train_a_model_for_a_client_whilst/)
-- [[Project] OM3 - A modular LSTM-based continuous learning engine for real-time AI experiments &lpar;GitHub release&rpar;](https://www.reddit.com/r/MachineLearning/comments/1km7biz/project_om3_a_modular_lstmbased_continuous/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
