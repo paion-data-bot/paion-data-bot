@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Swapping image encoder in VLM](https://www.reddit.com/r/MachineLearning/comments/1kmns1l/r_swapping_image_encoder_in_vlm/)
 - [[D] What’s your favorite podcast covering AI news, trends, technical deep dives and stories?](https://www.reddit.com/r/MachineLearning/comments/1kmm99s/d_whats_your_favorite_podcast_covering_ai_news/)
 - [[R] As a highschool student, how can I get article processing fee waivered?](https://www.reddit.com/r/MachineLearning/comments/1kmkaos/r_as_a_highschool_student_how_can_i_get_article/)
 - [[D] Can dataset size make up for noisy labels?](https://www.reddit.com/r/MachineLearning/comments/1kmix9x/d_can_dataset_size_make_up_for_noisy_labels/)
 - [[R] How the jax.jit&lpar;&rpar; compiler works in jax-js](https://www.reddit.com/r/MachineLearning/comments/1kmhg1h/r_how_the_jaxjit_compiler_works_in_jaxjs/)
-- [[P] Advice on changing models](https://www.reddit.com/r/MachineLearning/comments/1kmhdxf/p_advice_on_changing_models/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
