@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] ViSOR – Dual-Billboard Neural Sheets for Real-Time View Synthesis &lpar;GitHub&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kmg1uu/p_visor_dualbillboard_neural_sheets_for_realtime/)
 - [[R] Neurips Desk Rejected: This submission was identified as a “placeholder” submission](https://www.reddit.com/r/MachineLearning/comments/1kmdibo/r_neurips_desk_rejected_this_submission_was/)
 - [[R] LLM - better chunking method](https://www.reddit.com/r/MachineLearning/comments/1kmcf6x/r_llm_better_chunking_method/)
 - [[D] Interviewing a PhD candidate after their speech, what should I ask them](https://www.reddit.com/r/MachineLearning/comments/1kmc1eg/d_interviewing_a_phd_candidate_after_their_speech/)
 - [[D] Overleaf is down?](https://www.reddit.com/r/MachineLearning/comments/1km8d7p/d_overleaf_is_down/)
-- [[D] Need to train a model for a client whilst proving I never saw the data](https://www.reddit.com/r/MachineLearning/comments/1km7xmu/d_need_to_train_a_model_for_a_client_whilst/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
