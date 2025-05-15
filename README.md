@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Can I build a backend-focused ML-powered Swiggy/Uber-like application with the stack I know?](https://www.reddit.com/r/MachineLearning/comments/1kn9odv/d_can_i_build_a_backendfocused_mlpowered/)
 - [[D] Call for Collaborators: Open Source LLM with Novel Efficient Architecture for Personal Computers](https://www.reddit.com/r/MachineLearning/comments/1kn5phr/d_call_for_collaborators_open_source_llm_with/)
 - [[D] Orthodontic model mesh identification](https://www.reddit.com/r/MachineLearning/comments/1kn4fpp/d_orthodontic_model_mesh_identification/)
 - [[D] LLM Inference Optimization Techniques](https://www.reddit.com/r/MachineLearning/comments/1kn41r2/d_llm_inference_optimization_techniques/)
 - [[R] Am I on the right path in understanding the YoloV4 model?](https://www.reddit.com/r/MachineLearning/comments/1kn13uk/r_am_i_on_the_right_path_in_understanding_the/)
+- [[R] AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://www.reddit.com/r/MachineLearning/comments/1kmzpg0/r_alphaevolve_a_geminipowered_coding_agent_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
