@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is NeurIPS strict about enforcing the style guide?](https://www.reddit.com/r/MachineLearning/comments/1kngo8c/d_is_neurips_strict_about_enforcing_the_style/)
 - [[D] stable diffusion model giving noise output](https://www.reddit.com/r/MachineLearning/comments/1kngljf/d_stable_diffusion_model_giving_noise_output/)
 - [[R] Where to find vin decoded data to use for a dataset?](https://www.reddit.com/r/MachineLearning/comments/1knf95v/r_where_to_find_vin_decoded_data_to_use_for_a/)
 - [[D] US CS programs in Medical Imaging](https://www.reddit.com/r/MachineLearning/comments/1kne9wp/d_us_cs_programs_in_medical_imaging/)
 - [[R] Rethinking Watch Time Optimization: Tubi Finds Tweedie Regression Outperforms Weighted LogLoss for VOD Engagement](https://www.reddit.com/r/MachineLearning/comments/1knbyia/r_rethinking_watch_time_optimization_tubi_finds/)
-- [NovaMem &amp; AIV1 A New Computational Paradigm for AI That Learns Like a Human[R]](https://www.reddit.com/r/MachineLearning/comments/1knb1co/novamem_aiv1_a_new_computational_paradigm_for_ai/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
