@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] At what cost are we training chatbots?](https://www.reddit.com/r/MachineLearning/comments/1knj3bj/d_at_what_cost_are_we_training_chatbots/)
 - [[P] Framework for training AI models with OpenGL](https://www.reddit.com/r/MachineLearning/comments/1knh6pq/p_framework_for_training_ai_models_with_opengl/)
 - [[D] stable diffusion model giving noise output](https://www.reddit.com/r/MachineLearning/comments/1kngljf/d_stable_diffusion_model_giving_noise_output/)
 - [[R] Where to find vin decoded data to use for a dataset?](https://www.reddit.com/r/MachineLearning/comments/1knf95v/r_where_to_find_vin_decoded_data_to_use_for_a/)
 - [[D] US CS programs in Medical Imaging](https://www.reddit.com/r/MachineLearning/comments/1kne9wp/d_us_cs_programs_in_medical_imaging/)
-- [[R] Rethinking Watch Time Optimization: Tubi Finds Tweedie Regression Outperforms Weighted LogLoss for VOD Engagement](https://www.reddit.com/r/MachineLearning/comments/1knbyia/r_rethinking_watch_time_optimization_tubi_finds/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
