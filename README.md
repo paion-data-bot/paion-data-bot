@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Rethinking Watch Time Optimization: Tubi Finds Tweedie Regression Outperforms Weighted LogLoss for VOD Engagement](https://www.reddit.com/r/MachineLearning/comments/1knbyia/r_rethinking_watch_time_optimization_tubi_finds/)
 - [NovaMem &amp; AIV1 A New Computational Paradigm for AI That Learns Like a Human[R]](https://www.reddit.com/r/MachineLearning/comments/1knb1co/novamem_aiv1_a_new_computational_paradigm_for_ai/)
 - [[P] Eek out better performance LSTM](https://www.reddit.com/r/MachineLearning/comments/1knb136/p_eek_out_better_performance_lstm/)
 - [[D] Call for Collaborators: Open Source LLM with Novel Efficient Architecture for Personal Computers](https://www.reddit.com/r/MachineLearning/comments/1kn5phr/d_call_for_collaborators_open_source_llm_with/)
 - [[D] Orthodontic model mesh identification](https://www.reddit.com/r/MachineLearning/comments/1kn4fpp/d_orthodontic_model_mesh_identification/)
-- [[D] LLM Inference Optimization Techniques](https://www.reddit.com/r/MachineLearning/comments/1kn41r2/d_llm_inference_optimization_techniques/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
