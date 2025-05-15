@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://www.reddit.com/r/MachineLearning/comments/1kmzpg0/r_alphaevolve_a_geminipowered_coding_agent_for/)
 - [[D] Timeseries forcaster standard scaling metrics](https://www.reddit.com/r/MachineLearning/comments/1kmy80n/d_timeseries_forcaster_standard_scaling_metrics/)
 - [[R] AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://www.reddit.com/r/MachineLearning/comments/1kmxi4z/r_alphaevolve_a_coding_agent_for_scientific_and/)
 - [[P] I Fine-Tuned a Language Model on CPUs using Nativelink &amp; Bazel](https://www.reddit.com/r/MachineLearning/comments/1kmwzs0/p_i_finetuned_a_language_model_on_cpus_using/)
 - [[D] How to add xla support to a machine that doesn&#39;t have it](https://www.reddit.com/r/MachineLearning/comments/1kmwf4m/d_how_to_add_xla_support_to_a_machine_that_doesnt/)
-- [[D] Too late to fix NeurIPS 2024 paper?](https://www.reddit.com/r/MachineLearning/comments/1kmw6ru/d_too_late_to_fix_neurips_2024_paper/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
