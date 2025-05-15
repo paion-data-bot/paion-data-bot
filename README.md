@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Scroll-Driven Animations Inside a CSS Carousel](https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/)
 - [This Isn’t Supposed to Happen: Troubleshooting the Impossible](https://css-tricks.com/this-isnt-supposed-to-happen-troubleshooting-the-impossible/)
 - [Using Pages CMS for Static Site Content Management](https://css-tricks.com/using-pages-cms-for-static-site-content-management/)
 - [Orbital Mechanics &lpar;or How I Optimized a CSS Keyframes Animation&rpar;](https://css-tricks.com/orbital-mechanics-or-how-i-optimized-a-css-keyframes-animation/)
 - [Why is Nobody Using the hwb&lpar;&rpar; Color Function?](https://css-tricks.com/why-is-nobody-using-the-hwb-color-function/)
-- [GSAP is Now Completely Free, Even for Commercial Use!](https://css-tricks.com/gsap-is-now-completely-free-even-for-commercial-use/)
 <!-- CSS-TRIKCS:END -->
