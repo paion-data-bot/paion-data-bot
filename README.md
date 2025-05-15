@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] AlphaEvolve: A coding agent for scientific and algorithmic discovery](https://www.reddit.com/r/MachineLearning/comments/1kmxi4z/r_alphaevolve_a_coding_agent_for_scientific_and/)
+- [[P] I Fine-Tuned a Language Model on CPUs using Nativelink &amp; Bazel](https://www.reddit.com/r/MachineLearning/comments/1kmwzs0/p_i_finetuned_a_language_model_on_cpus_using/)
+- [[D] How to add xla support to a machine that doesn&#39;t have it](https://www.reddit.com/r/MachineLearning/comments/1kmwf4m/d_how_to_add_xla_support_to_a_machine_that_doesnt/)
+- [[D] Too late to fix NeurIPS 2024 paper?](https://www.reddit.com/r/MachineLearning/comments/1kmw6ru/d_too_late_to_fix_neurips_2024_paper/)
 - [[D] Reverse-engineering OpenAI Memory](https://www.reddit.com/r/MachineLearning/comments/1kmri3v/d_reverseengineering_openai_memory/)
-- [[D] Rejected a Solid Offer Waiting for My &#39;Dream Job&#39;](https://www.reddit.com/r/MachineLearning/comments/1kmpzpy/d_rejected_a_solid_offer_waiting_for_my_dream_job/)
-- [[D] Innocent authors should not be penalized for the misconduct of irresponsible coauthors](https://www.reddit.com/r/MachineLearning/comments/1kmovqt/d_innocent_authors_should_not_be_penalized_for/)
-- [[R] Swapping image encoder in VLM](https://www.reddit.com/r/MachineLearning/comments/1kmns1l/r_swapping_image_encoder_in_vlm/)
-- [[D] Can dataset size make up for noisy labels?](https://www.reddit.com/r/MachineLearning/comments/1kmix9x/d_can_dataset_size_make_up_for_noisy_labels/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
