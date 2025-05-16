@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Is ICDE a good conference?](https://www.reddit.com/r/MachineLearning/comments/1knq02m/r_is_icde_a_good_conference/)
 - [[R] NeurIPS Dataset Anonymization on HuggingFace](https://www.reddit.com/r/MachineLearning/comments/1knkl5g/r_neurips_dataset_anonymization_on_huggingface/)
 - [[R] NeurIPS 2025: Changing Title](https://www.reddit.com/r/MachineLearning/comments/1knjidk/r_neurips_2025_changing_title/)
 - [[D] At what cost are we training chatbots?](https://www.reddit.com/r/MachineLearning/comments/1knj3bj/d_at_what_cost_are_we_training_chatbots/)
 - [[P] Framework for training AI models with OpenGL](https://www.reddit.com/r/MachineLearning/comments/1knh6pq/p_framework_for_training_ai_models_with_opengl/)
-- [[D] stable diffusion model giving noise output](https://www.reddit.com/r/MachineLearning/comments/1kngljf/d_stable_diffusion_model_giving_noise_output/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
