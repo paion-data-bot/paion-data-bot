@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Missed LLM checklist question in NeurIPS 2025 submission - desk rejection risk?](https://www.reddit.com/r/MachineLearning/comments/1ko6b43/r_missed_llm_checklist_question_in_neurips_2025/)
 - [[D] Who do you all follow for genuinely substantial ML/AI content?](https://www.reddit.com/r/MachineLearning/comments/1ko64s6/d_who_do_you_all_follow_for_genuinely_substantial/)
 - [[P] Why I Used CNN+LSTM Over CNN for CCTV Anomaly Detection &lpar;&gt;99% Validation Accuracy&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ko5voc/p_why_i_used_cnnlstm_over_cnn_for_cctv_anomaly/)
 - [[P] TTSDS2 - Multlingual TTS leaderboard](https://www.reddit.com/r/MachineLearning/comments/1knwaf7/p_ttsds2_multlingual_tts_leaderboard/)
 - [[D] presenting a paper virtually in ACL findings - should we?](https://www.reddit.com/r/MachineLearning/comments/1knvsib/d_presenting_a_paper_virtually_in_acl_findings/)
-- [[D] Looking for PhD topic/general future research directions in NLP/ML](https://www.reddit.com/r/MachineLearning/comments/1knv7vy/d_looking_for_phd_topicgeneral_future_research/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
