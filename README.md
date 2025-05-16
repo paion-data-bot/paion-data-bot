@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Requiring help with a study in ML and Space](https://www.reddit.com/r/MachineLearning/comments/1knzdun/r_requiring_help_with_a_study_in_ml_and_space/)
 - [[P] TTSDS2 - Multlingual TTS leaderboard](https://www.reddit.com/r/MachineLearning/comments/1knwaf7/p_ttsds2_multlingual_tts_leaderboard/)
 - [[D] presenting a paper virtually in ACL findings - should we?](https://www.reddit.com/r/MachineLearning/comments/1knvsib/d_presenting_a_paper_virtually_in_acl_findings/)
 - [[D] Looking for PhD topic/general future research directions in NLP/ML](https://www.reddit.com/r/MachineLearning/comments/1knv7vy/d_looking_for_phd_topicgeneral_future_research/)
 - [[D] What is an acceptable Gini impurity threshold for decision tree splits in practice?](https://www.reddit.com/r/MachineLearning/comments/1knutpa/d_what_is_an_acceptable_gini_impurity_threshold/)
-- [[R] Is ICDE a good conference?](https://www.reddit.com/r/MachineLearning/comments/1knq02m/r_is_icde_a_good_conference/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
