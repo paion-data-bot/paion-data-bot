@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Looking for PhD topic/general future research directions in NLP/ML](https://www.reddit.com/r/MachineLearning/comments/1knv7vy/d_looking_for_phd_topicgeneral_future_research/)
 - [[D] What is an acceptable Gini impurity threshold for decision tree splits in practice?](https://www.reddit.com/r/MachineLearning/comments/1knutpa/d_what_is_an_acceptable_gini_impurity_threshold/)
 - [[R] Is ICDE a good conference?](https://www.reddit.com/r/MachineLearning/comments/1knq02m/r_is_icde_a_good_conference/)
 - [[R] NeurIPS Dataset Anonymization on HuggingFace](https://www.reddit.com/r/MachineLearning/comments/1knkl5g/r_neurips_dataset_anonymization_on_huggingface/)
 - [[R] NeurIPS 2025: Changing Title](https://www.reddit.com/r/MachineLearning/comments/1knjidk/r_neurips_2025_changing_title/)
-- [[D] At what cost are we training chatbots?](https://www.reddit.com/r/MachineLearning/comments/1knj3bj/d_at_what_cost_are_we_training_chatbots/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
