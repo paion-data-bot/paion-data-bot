@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] EMNLP submission: Change Reviewer Nomination](https://www.reddit.com/r/MachineLearning/comments/1koaaow/r_emnlp_submission_change_reviewer_nomination/)
+- [[P] Feedbacks/talks around GPUs and scope for price optimization](https://www.reddit.com/r/MachineLearning/comments/1koa9i3/p_feedbackstalks_around_gpus_and_scope_for_price/)
 - [[R] could anyone help tell me what is this onnx file and how to remake it? ive have been trying to figure out for hours with little to nothing to show for it](https://www.reddit.com/r/MachineLearning/comments/1ko9fsq/r_could_anyone_help_tell_me_what_is_this_onnx/)
 - [[P] I trained an AI to beat the first level of Doom!](https://www.reddit.com/r/MachineLearning/comments/1ko83yq/p_i_trained_an_ai_to_beat_the_first_level_of_doom/)
 - [[D]Simple Linear Regression analysis on Python &amp; R](https://www.reddit.com/r/MachineLearning/comments/1ko6q9k/dsimple_linear_regression_analysis_on_python_r/)
-- [[R] Missed LLM checklist question in NeurIPS 2025 submission - desk rejection risk?](https://www.reddit.com/r/MachineLearning/comments/1ko6b43/r_missed_llm_checklist_question_in_neurips_2025/)
-- [[D] Who do you all follow for genuinely substantial ML/AI content?](https://www.reddit.com/r/MachineLearning/comments/1ko64s6/d_who_do_you_all_follow_for_genuinely_substantial/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
