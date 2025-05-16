@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Create the best team possible](https://www.reddit.com/r/MachineLearning/comments/1ko1x6k/p_create_the_best_team_possible/)
 - [[D] An Open Letter From a Mother to the AI Community: Please Help Stop the Exploitation of Children Through Technology](https://www.reddit.com/r/MachineLearning/comments/1ko1gw5/d_an_open_letter_from_a_mother_to_the_ai/)
 - [[R] Requiring help with a study in ML and Space](https://www.reddit.com/r/MachineLearning/comments/1knzdun/r_requiring_help_with_a_study_in_ml_and_space/)
 - [[P] TTSDS2 - Multlingual TTS leaderboard](https://www.reddit.com/r/MachineLearning/comments/1knwaf7/p_ttsds2_multlingual_tts_leaderboard/)
 - [[D] presenting a paper virtually in ACL findings - should we?](https://www.reddit.com/r/MachineLearning/comments/1knvsib/d_presenting_a_paper_virtually_in_acl_findings/)
-- [[D] Looking for PhD topic/general future research directions in NLP/ML](https://www.reddit.com/r/MachineLearning/comments/1knv7vy/d_looking_for_phd_topicgeneral_future_research/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
