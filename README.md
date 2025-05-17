@@ -88,11 +88,11 @@
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Kubernetes v1.33: In-Place Pod Resize Graduated to Beta](https://kubernetes.io/blog/2025/05/16/kubernetes-v1-33-in-place-pod-resize-beta/)
 - [Announcing etcd v3.6.0](https://kubernetes.io/blog/2025/05/15/announcing-etcd-3.6/)
 - [Kubernetes 1.33: Job&#39;s SuccessPolicy Goes GA](https://kubernetes.io/blog/2025/05/15/kubernetes-1-33-jobs-success-policy-goes-ga/)
 - [Kubernetes v1.33: Updates to Container Lifecycle](https://kubernetes.io/blog/2025/05/14/kubernetes-v1-33-updates-to-container-lifecycle/)
 - [Kubernetes v1.33: Job&#39;s Backoff Limit Per Index Goes GA](https://kubernetes.io/blog/2025/05/13/kubernetes-v1-33-jobs-backoff-limit-per-index-goes-ga/)
-- [Kubernetes v1.33: Image Pull Policy the way you always thought it worked!](https://kubernetes.io/blog/2025/05/12/kubernetes-v1-33-ensure-secret-pulled-images-alpha/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
