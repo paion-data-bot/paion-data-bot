@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] coding ML questions for interview preparation](https://www.reddit.com/r/MachineLearning/comments/1kogoxy/d_coding_ml_questions_for_interview_preparation/)
+- [[P] Deep Learning Repository Template](https://www.reddit.com/r/MachineLearning/comments/1kogikd/p_deep_learning_repository_template/)
 - [[D] Which framework should I choose to build my library?](https://www.reddit.com/r/MachineLearning/comments/1kodsjz/d_which_framework_should_i_choose_to_build_my/)
 - [[D] Advice to improve paper writing skills](https://www.reddit.com/r/MachineLearning/comments/1koc1h4/d_advice_to_improve_paper_writing_skills/)
 - [[R] EMNLP submission: Change Reviewer Nomination](https://www.reddit.com/r/MachineLearning/comments/1koaaow/r_emnlp_submission_change_reviewer_nomination/)
-- [[P] Feedbacks/talks around GPUs and scope for price optimization](https://www.reddit.com/r/MachineLearning/comments/1koa9i3/p_feedbackstalks_around_gpus_and_scope_for_price/)
-- [[P] I trained an AI to beat the first level of Doom!](https://www.reddit.com/r/MachineLearning/comments/1ko83yq/p_i_trained_an_ai_to_beat_the_first_level_of_doom/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
