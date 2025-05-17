@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] MICCAI 2025 Rebuttal: additional results](https://www.reddit.com/r/MachineLearning/comments/1koy7yz/d_miccai_2025_rebuttal_additional_results/)
+- [[P] Using OpenTelemetry to Trace GenAI Agent Workflows &lpar;Aspire + Azure Logs&rpar;](https://www.reddit.com/r/MachineLearning/comments/1koxzfp/p_using_opentelemetry_to_trace_genai_agent/)
+- [[D] Is there a desk rejection process for ICCV 2025 rebuttals?](https://www.reddit.com/r/MachineLearning/comments/1koxyko/d_is_there_a_desk_rejection_process_for_iccv_2025/)
 - [[P] cachelm – Semantic Caching for LLMs &lpar;Cut Costs, Boost Speed&rpar;](https://www.reddit.com/r/MachineLearning/comments/1koxlpl/p_cachelm_semantic_caching_for_llms_cut_costs/)
 - [[D] What are the real world problems that machine learning is solving/can solve?](https://www.reddit.com/r/MachineLearning/comments/1kovm11/d_what_are_the_real_world_problems_that_machine/)
-- [[D] Will NeurIPS 2025 acceptance rate drop due to venue limits?](https://www.reddit.com/r/MachineLearning/comments/1koq42d/d_will_neurips_2025_acceptance_rate_drop_due_to/)
-- [[P] Pivotal Token Search &lpar;PTS&rpar;: Optimizing LLMs by targeting the tokens that actually matter](https://www.reddit.com/r/MachineLearning/comments/1komx9e/p_pivotal_token_search_pts_optimizing_llms_by/)
-- [[D] coding ML questions for interview preparation](https://www.reddit.com/r/MachineLearning/comments/1kogoxy/d_coding_ml_questions_for_interview_preparation/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
