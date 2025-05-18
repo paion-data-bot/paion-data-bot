@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Project Feedback Request: Tackling Catastrophic Forgetting with a Modular LLM Approach &lpar;PEFT Router + CL&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kpax4u/p_project_feedback_request_tackling_catastrophic/)
+- [[P] I built a transformer that skips layers per token based on semantic importance](https://www.reddit.com/r/MachineLearning/comments/1kpalhd/p_i_built_a_transformer_that_skips_layers_per/)
 - [[P]Open Source projects](https://www.reddit.com/r/MachineLearning/comments/1kp58hq/popen_source_projects/)
 - [[D] Can we possibly construct an AlphaEvolve@HOME?](https://www.reddit.com/r/MachineLearning/comments/1kp4nxq/d_can_we_possibly_construct_an_alphaevolvehome/)
 - [[R] First Paper Submission](https://www.reddit.com/r/MachineLearning/comments/1kp4fud/r_first_paper_submission/)
-- [[D]Would you use this tool? AI that writes SQL queries from natural language](https://www.reddit.com/r/MachineLearning/comments/1kp43qk/dwould_you_use_this_tool_ai_that_writes_sql/)
-- [[D] How do you dynamically control LLM agents in real-world conversations?](https://www.reddit.com/r/MachineLearning/comments/1kp434k/d_how_do_you_dynamically_control_llm_agents_in/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
