@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Hardware Stuff : Nvidia P104-100 for Machine Learning?](https://www.reddit.com/r/MachineLearning/comments/1kpdqt7/d_hardware_stuff_nvidia_p104100_for_machine/)
 - [[P] Project Feedback Request: Tackling Catastrophic Forgetting with a Modular LLM Approach &lpar;PEFT Router + CL&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kpax4u/p_project_feedback_request_tackling_catastrophic/)
 - [[P] I built a transformer that skips layers per token based on semantic importance](https://www.reddit.com/r/MachineLearning/comments/1kpalhd/p_i_built_a_transformer_that_skips_layers_per/)
 - [[P]Open Source projects](https://www.reddit.com/r/MachineLearning/comments/1kp58hq/popen_source_projects/)
 - [[D] Can we possibly construct an AlphaEvolve@HOME?](https://www.reddit.com/r/MachineLearning/comments/1kp4nxq/d_can_we_possibly_construct_an_alphaevolvehome/)
-- [[R] First Paper Submission](https://www.reddit.com/r/MachineLearning/comments/1kp4fud/r_first_paper_submission/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
