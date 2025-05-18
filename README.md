@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] HeteroGNN Explainer Question](https://www.reddit.com/r/MachineLearning/comments/1kpju4p/r_heterognn_explainer_question/)
 - [[D] ML for Aerospace: any course?](https://www.reddit.com/r/MachineLearning/comments/1kpj59u/d_ml_for_aerospace_any_course/)
 - [[D] Training RT-DETR with MPS on M4 Max&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kpj446/d_training_rtdetr_with_mps_on_m4_max/)
 - [[D] Best tools for academic writing](https://www.reddit.com/r/MachineLearning/comments/1kpi1w9/d_best_tools_for_academic_writing/)
 - [[D] Complete Analysis of System Prompt Leaks from Major LLMs](https://www.reddit.com/r/MachineLearning/comments/1kphqkb/d_complete_analysis_of_system_prompt_leaks_from/)
-- [[D] Has a research field ever been as saturated or competitive as Machine Learning in 2025?](https://www.reddit.com/r/MachineLearning/comments/1kph8k7/d_has_a_research_field_ever_been_as_saturated_or/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
