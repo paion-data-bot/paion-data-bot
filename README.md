@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Any OCR recommendations for financial documents?](https://www.reddit.com/r/MachineLearning/comments/1kpwasd/d_any_ocr_recommendations_for_financial_documents/)
 - [[R] What if only final output of Neural ODE is available for supervision?](https://www.reddit.com/r/MachineLearning/comments/1kpr5pa/r_what_if_only_final_output_of_neural_ode_is/)
 - [[R]I&#39;ve tried many SQL AI tools — here&#39;s what I learned &lpar;and why I built Vaame&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kpr3du/rive_tried_many_sql_ai_tools_heres_what_i_learned/)
 - [[D] Gemini&#39;s Long Context MoE Architecture &lpar;Hypothesized&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kpo5er/d_geminis_long_context_moe_architecture/)
 - [[D] Feed Generation using Vector DB](https://www.reddit.com/r/MachineLearning/comments/1kpnwzg/d_feed_generation_using_vector_db/)
-- [[D] What to expect next for ICCV 2025?](https://www.reddit.com/r/MachineLearning/comments/1kpmlz8/d_what_to_expect_next_for_iccv_2025/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
