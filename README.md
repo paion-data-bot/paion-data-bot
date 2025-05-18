@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Has a research field ever been as saturated or competitive as Machine Learning in 2025?](https://www.reddit.com/r/MachineLearning/comments/1kph8k7/d_has_a_research_field_ever_been_as_saturated_or/)
 - [[D] Is python ever the bottle neck?](https://www.reddit.com/r/MachineLearning/comments/1kpg89p/d_is_python_ever_the_bottle_neck/)
 - [[D] Should I do this PhD?](https://www.reddit.com/r/MachineLearning/comments/1kpg2h8/d_should_i_do_this_phd/)
 - [[D] Inspired by Anthropic’s Biology of an LLM: Exploring Prompt Cues in Two LLMs](https://www.reddit.com/r/MachineLearning/comments/1kpfwfb/d_inspired_by_anthropics_biology_of_an_llm/)
 - [[D] ACL ARR May 2025 Discussion](https://www.reddit.com/r/MachineLearning/comments/1kpeo4i/d_acl_arr_may_2025_discussion/)
-- [[D] Hardware Stuff : Nvidia P104-100 for Machine Learning?](https://www.reddit.com/r/MachineLearning/comments/1kpdqt7/d_hardware_stuff_nvidia_p104100_for_machine/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
