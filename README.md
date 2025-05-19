@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Using MONAI outside of medicine](https://www.reddit.com/r/MachineLearning/comments/1kq2o5b/d_using_monai_outside_of_medicine/)
 - [[D] The Dead Internet Theory: To what extent do its key themes hold up?](https://www.reddit.com/r/MachineLearning/comments/1kq07j3/d_the_dead_internet_theory_to_what_extent_do_its/)
 - [[P] UQLM: Uncertainty Quantification for Language Models](https://www.reddit.com/r/MachineLearning/comments/1kpy5l3/p_uqlm_uncertainty_quantification_for_language/)
 - [[P] Has anyone implemented the POG &lpar;“Personalized Outfit Generation for Fashion Recommendation at Alibaba iFashion”&rpar; paper in a public project?](https://www.reddit.com/r/MachineLearning/comments/1kpwtcc/p_has_anyone_implemented_the_pog_personalized/)
 - [[D] Any OCR recommendations for financial documents?](https://www.reddit.com/r/MachineLearning/comments/1kpwasd/d_any_ocr_recommendations_for_financial_documents/)
-- [[R] What if only final output of Neural ODE is available for supervision?](https://www.reddit.com/r/MachineLearning/comments/1kpr5pa/r_what_if_only_final_output_of_neural_ode_is/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
