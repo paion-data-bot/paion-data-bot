@@ -54,10 +54,10 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Elastic at Microsoft Build 2025 — Developers, developers, developers!](https://www.elastic.co/blog/microsoft-build-2025)
+- [Elastic at Microsoft Build 2025 — Developers, developers, developers!](https://www.elastic.co/blog/microsoft-build-2025)
 - [How to benchmark Elasticsearch performance with ingest pipelines and your own logs](https://www.elastic.co/blog/benchmark-elasticsearch-performance)
 - [How to benchmark Elasticsearch performance with ingest pipelines and your own logs](https://www.elastic.co/blog/benchmark-elasticsearch-performance)
-- [CMMC success by design: How Elastic and MAD Security deliver compliance confidence](https://www.elastic.co/blog/cmmc-success-by-design)
-- [Agentic AI in financial services: The rise of autonomous intelligence](https://www.elastic.co/blog/agentic-ai-financial-services)
 - [CMMC success by design: How Elastic and MAD Security deliver compliance confidence](https://www.elastic.co/blog/cmmc-success-by-design)
 <!-- ELASTIC-BLOGS:END -->
 
