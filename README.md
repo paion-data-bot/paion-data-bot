@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [A Reader’s Question on Nested Lists](https://css-tricks.com/a-readers-question-on-nested-lists/)
 - [HTML Email Accessibility Report 2025](https://css-tricks.com/html-email-accessibility-report-2025/)
 - [Scroll-Driven Animations Inside a CSS Carousel](https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/)
 - [This Isn’t Supposed to Happen: Troubleshooting the Impossible](https://css-tricks.com/this-isnt-supposed-to-happen-troubleshooting-the-impossible/)
 - [Using Pages CMS for Static Site Content Management](https://css-tricks.com/using-pages-cms-for-static-site-content-management/)
-- [Orbital Mechanics &lpar;or How I Optimized a CSS Keyframes Animation&rpar;](https://css-tricks.com/orbital-mechanics-or-how-i-optimized-a-css-keyframes-animation/)
 <!-- CSS-TRIKCS:END -->
