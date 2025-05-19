@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Backcasting Meteorological Time Series from Commodity Prices](https://www.reddit.com/r/MachineLearning/comments/1kq69oo/r_backcasting_meteorological_time_series_from/)
 - [[D] What review scores are typically required for a paper to be accepted at ICCV 2025?](https://www.reddit.com/r/MachineLearning/comments/1kq5cl4/d_what_review_scores_are_typically_required_for_a/)
 - [[D] Scipy Sqp Solver for Optimization](https://www.reddit.com/r/MachineLearning/comments/1kq5api/d_scipy_sqp_solver_for_optimization/)
 - [[D] Using MONAI outside of medicine](https://www.reddit.com/r/MachineLearning/comments/1kq2o5b/d_using_monai_outside_of_medicine/)
 - [[D] The Dead Internet Theory: To what extent do its key themes hold up?](https://www.reddit.com/r/MachineLearning/comments/1kq07j3/d_the_dead_internet_theory_to_what_extent_do_its/)
-- [[P] UQLM: Uncertainty Quantification for Language Models](https://www.reddit.com/r/MachineLearning/comments/1kpy5l3/p_uqlm_uncertainty_quantification_for_language/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
