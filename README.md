@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] We benchmarked gender bias across top LLMs &lpar;GPT-4.5, Claude, LLaMA&rpar;. Results across 6 stereotype categories are live.](https://www.reddit.com/r/MachineLearning/comments/1kqa0v4/n_we_benchmarked_gender_bias_across_top_llms/)
 - [[D] Interspeech 2025 Decisions](https://www.reddit.com/r/MachineLearning/comments/1kq89vk/d_interspeech_2025_decisions/)
 - [[R] Backcasting Meteorological Time Series from Commodity Prices](https://www.reddit.com/r/MachineLearning/comments/1kq69oo/r_backcasting_meteorological_time_series_from/)
 - [[D] What review scores are typically required for a paper to be accepted at ICCV 2025?](https://www.reddit.com/r/MachineLearning/comments/1kq5cl4/d_what_review_scores_are_typically_required_for_a/)
 - [[D] Scipy Sqp Solver for Optimization](https://www.reddit.com/r/MachineLearning/comments/1kq5api/d_scipy_sqp_solver_for_optimization/)
-- [[D] Using MONAI outside of medicine](https://www.reddit.com/r/MachineLearning/comments/1kq2o5b/d_using_monai_outside_of_medicine/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
