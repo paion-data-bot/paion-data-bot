@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] I created a program that create personalized playlist from a large playlist using AI](https://www.reddit.com/r/MachineLearning/comments/1kq3doh/p_i_created_a_program_that_create_personalized/)
+- [[D] Scipy Sqp Solver for Optimization](https://www.reddit.com/r/MachineLearning/comments/1kq5api/d_scipy_sqp_solver_for_optimization/)
 - [[D] Using MONAI outside of medicine](https://www.reddit.com/r/MachineLearning/comments/1kq2o5b/d_using_monai_outside_of_medicine/)
 - [[D] The Dead Internet Theory: To what extent do its key themes hold up?](https://www.reddit.com/r/MachineLearning/comments/1kq07j3/d_the_dead_internet_theory_to_what_extent_do_its/)
 - [[P] UQLM: Uncertainty Quantification for Language Models](https://www.reddit.com/r/MachineLearning/comments/1kpy5l3/p_uqlm_uncertainty_quantification_for_language/)
