@@ -76,11 +76,11 @@
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Introducing Docker Hardened Images: Secure, Minimal, and Ready for Production](https://www.docker.com/blog/introducing-docker-hardened-images/)
 - [Docker at Microsoft Build 2025: Where Secure Software Meets Intelligent Innovation](https://www.docker.com/blog/docker-at-microsoft-build-2025/)
 - [Securing Model Context Protocol: Safer Agentic AI with Containers](https://www.docker.com/blog/whats-next-for-mcp-security/)
 - [Introducing Docker MCP Catalog and Toolkit: The Simple and Secure Way to Power AI Agents with MCP](https://www.docker.com/blog/announcing-docker-mcp-catalog-and-toolkit-beta/)
 - [Simplifying Enterprise Management with Docker Desktop on the Microsoft Store](https://www.docker.com/blog/docker-desktop-on-microsoft-store/)
-- [Update on the Docker DX extension for VS Code](https://www.docker.com/blog/docker-dx-extension-for-vs-code-update/)
 <!-- DOCKER-BLOG:END -->
 
 <h3><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h3>
