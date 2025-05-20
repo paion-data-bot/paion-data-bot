@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Q] [D] Seeking Advice: Building a Research-Level AI Training Server with a $20K Budget](https://www.reddit.com/r/MachineLearning/comments/1kqt947/q_d_seeking_advice_building_a_researchlevel_ai/)
 - [[R] [Q] Why does RoPE need to be decoupled in DeepSeek V2/V3&#39;s MLA? I don&#39;t get why it prevents prefix key reuse](https://www.reddit.com/r/MachineLearning/comments/1kqq26d/r_q_why_does_rope_need_to_be_decoupled_in/)
 - [[D] Can I fine tune an LLM using a codebase &lpar;~4500 lines&rpar; to help me understand and extend it?](https://www.reddit.com/r/MachineLearning/comments/1kqpam7/d_can_i_fine_tune_an_llm_using_a_codebase_4500/)
 - [[D] Seeking Feedback: YouTube Tutorial - Gender Classification with Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1kqdic3/d_seeking_feedback_youtube_tutorial_gender/)
 - [[D] Workstation for prototyping](https://www.reddit.com/r/MachineLearning/comments/1kqchu5/d_workstation_for_prototyping/)
-- [[P] Conversation LLM capable of User Query reformulation](https://www.reddit.com/r/MachineLearning/comments/1kqccni/p_conversation_llm_capable_of_user_query/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
