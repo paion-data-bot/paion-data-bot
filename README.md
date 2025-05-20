@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Suggest chat and voice AI model service](https://www.reddit.com/r/MachineLearning/comments/1kr2ysu/d_suggest_chat_and_voice_ai_model_service/)
 - [[D] YFlow: Alternative to Tensorflow and Pytorch](https://www.reddit.com/r/MachineLearning/comments/1kqy0uu/d_yflow_alternative_to_tensorflow_and_pytorch/)
 - [[R] [Q] Misleading representation for autoencoder](https://www.reddit.com/r/MachineLearning/comments/1kqxnci/r_q_misleading_representation_for_autoencoder/)
 - [[D] [Q] How can I launch a fine-tuned LLM with a WebUI in the cloud?](https://www.reddit.com/r/MachineLearning/comments/1kqwbml/d_q_how_can_i_launch_a_finetuned_llm_with_a_webui/)
 - [Workshop interest for Foundation Models for Physical Industrial Systems [D]](https://www.reddit.com/r/MachineLearning/comments/1kqvzyw/workshop_interest_for_foundation_models_for/)
-- [[Q] [D] Seeking Advice: Building a Research-Level AI Training Server with a $20K Budget](https://www.reddit.com/r/MachineLearning/comments/1kqt947/q_d_seeking_advice_building_a_researchlevel_ai/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
