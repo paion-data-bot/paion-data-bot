@@ -14,11 +14,11 @@
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
-- [AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms](https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/)
-- [Gemini 2.5 Pro Preview: even better coding performance](https://deepmind.google/discover/blog/gemini-25-pro-preview-even-better-coding-performance/)
-- [Build rich, interactive web apps with an updated Gemini 2.5 Pro](https://deepmind.google/discover/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/)
-- [Music AI Sandbox, now with new features and broader access](https://deepmind.google/discover/blog/music-ai-sandbox-now-with-new-features-and-broader-access/)
-- [Introducing Gemini 2.5 Flash](https://deepmind.google/discover/blog/introducing-gemini-2-5-flash/)
+- [Fuel your creativity with new generative media models and tools](https://deepmind.google/discover/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/)
+- [SynthID Detector — a new portal to help identify AI-generated content](https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/)
+- [Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI](https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/)
+- [Advancing Gemini&#39;s security safeguards](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/)
+- [Our vision for building a universal AI assistant](https://deepmind.google/discover/blog/our-vision-for-building-a-universal-ai-assistant/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
