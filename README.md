@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[N][Competition] Join one of the largest medical imaging challenges!](https://www.reddit.com/r/MachineLearning/comments/1krdolh/ncompetition_join_one_of_the_largest_medical/)
 - [[R] Interpretability Report on a NN trained on the heart dataset: exploring critical decision making and biases](https://www.reddit.com/r/MachineLearning/comments/1krdnjl/r_interpretability_report_on_a_nn_trained_on_the/)
 - [[P] OpenEvolve: Open Source Implementation of DeepMind&#39;s AlphaEvolve System](https://www.reddit.com/r/MachineLearning/comments/1kr9w8l/p_openevolve_open_source_implementation_of/)
 - [[D] Is it worth training a Deep RL agent to control DC motors instead of using PID?](https://www.reddit.com/r/MachineLearning/comments/1kr5yer/d_is_it_worth_training_a_deep_rl_agent_to_control/)
 - [[D] Realism for AI Top 20 PhD Programs](https://www.reddit.com/r/MachineLearning/comments/1kr506u/d_realism_for_ai_top_20_phd_programs/)
+- [[D] YFlow: Alternative to Tensorflow and Pytorch](https://www.reddit.com/r/MachineLearning/comments/1kqy0uu/d_yflow_alternative_to_tensorflow_and_pytorch/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
