@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] AI-powered Python CLI that turns your Spotify, Google, and YouTube data into a psychological maze](https://www.reddit.com/r/MachineLearning/comments/1krytmv/p_aipowered_python_cli_that_turns_your_spotify/)
+- [[D] Forecasting with Deep Learning](https://www.reddit.com/r/MachineLearning/comments/1krynb6/d_forecasting_with_deep_learning/)
+- [[D] Looking for topics to dive into while unallocated](https://www.reddit.com/r/MachineLearning/comments/1kryn3n/d_looking_for_topics_to_dive_into_while/)
 - [[D]Any way to filter photos based on text it contains ?](https://www.reddit.com/r/MachineLearning/comments/1krxkzq/dany_way_to_filter_photos_based_on_text_it/)
 - [[D] Do you care about the math behind ML?](https://www.reddit.com/r/MachineLearning/comments/1krtvqt/d_do_you_care_about_the_math_behind_ml/)
-- [[D] Features not making a difference in content based recs?](https://www.reddit.com/r/MachineLearning/comments/1krsmce/d_features_not_making_a_difference_in_content/)
-- [[Project] finally built the dataset generator thing I mentioned earlier](https://www.reddit.com/r/MachineLearning/comments/1krs69e/project_finally_built_the_dataset_generator_thing/)
-- [[D] Best Place to Post Concepts](https://www.reddit.com/r/MachineLearning/comments/1krpm10/d_best_place_to_post_concepts/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
