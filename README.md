@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[D] Do you care about the math behind ML?](https://www.reddit.com/r/MachineLearning/comments/1krtvqt/d_do_you_care_about_the_math_behind_ml/)
-- [[P] Exploring &quot;Bibliotec&quot;: An Idea for an AI-Narrated Audio Library to Enhance Reading 📖🎧](https://www.reddit.com/r/MachineLearning/comments/1krt2ph/p_exploring_bibliotec_an_idea_for_an_ainarrated/)
 - [[D] Features not making a difference in content based recs?](https://www.reddit.com/r/MachineLearning/comments/1krsmce/d_features_not_making_a_difference_in_content/)
 - [[Project] finally built the dataset generator thing I mentioned earlier](https://www.reddit.com/r/MachineLearning/comments/1krs69e/project_finally_built_the_dataset_generator_thing/)
 - [[D] Best Place to Post Concepts](https://www.reddit.com/r/MachineLearning/comments/1krpm10/d_best_place_to_post_concepts/)
+- [[D] Time Series Multi Classification Supervised Neural Network Model Query for Professionals](https://www.reddit.com/r/MachineLearning/comments/1krplw3/d_time_series_multi_classification_supervised/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
