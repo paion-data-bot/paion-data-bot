@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Best Place to Post Concepts](https://www.reddit.com/r/MachineLearning/comments/1krpm10/d_best_place_to_post_concepts/)
+- [[D] Time Series Multi Classification Supervised Neural Network Model Query for Professionals](https://www.reddit.com/r/MachineLearning/comments/1krplw3/d_time_series_multi_classification_supervised/)
 - [[D] AI to cleanup names in csv lead list](https://www.reddit.com/r/MachineLearning/comments/1kroiw5/d_ai_to_cleanup_names_in_csv_lead_list/)
 - [[D] I tested more than 10 online image2latex tools and here is the comparison](https://www.reddit.com/r/MachineLearning/comments/1krm1m3/d_i_tested_more_than_10_online_image2latex_tools/)
 - [[D] How do students have so many top tier conference papers?](https://www.reddit.com/r/MachineLearning/comments/1krkhfl/d_how_do_students_have_so_many_top_tier/)
-- [[R] The Fractured Entangled Representation Hypothesis](https://www.reddit.com/r/MachineLearning/comments/1krgz56/r_the_fractured_entangled_representation/)
-- [[D] Proposal: Hardware-Enforced AI Immunity Inspired by Biology — Seeking Feedback on Safety Architecture](https://www.reddit.com/r/MachineLearning/comments/1krfxqp/d_proposal_hardwareenforced_ai_immunity_inspired/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
