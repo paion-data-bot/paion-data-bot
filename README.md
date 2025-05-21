@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Just a thank you to this wonderful community.](https://www.reddit.com/r/MachineLearning/comments/1ks37mr/d_just_a_thank_you_to_this_wonderful_community/)
 - [[D] RecSys review is out](https://www.reddit.com/r/MachineLearning/comments/1ks22dj/d_recsys_review_is_out/)
 - [Seeking Feedback: Early Concept for Probing LLM Ethical Reasoning via Interaction Trees &lpar;and potential existing work?&rpar; [P]](https://www.reddit.com/r/MachineLearning/comments/1ks0jd4/seeking_feedback_early_concept_for_probing_llm/)
-- [[D] Guidance and Help](https://www.reddit.com/r/MachineLearning/comments/1krziab/d_guidance_and_help/)
-- [[P] AI-powered Python CLI that turns your Spotify, Google, and YouTube data into a psychological maze](https://www.reddit.com/r/MachineLearning/comments/1krytmv/p_aipowered_python_cli_that_turns_your_spotify/)
 - [[D] Forecasting with Deep Learning](https://www.reddit.com/r/MachineLearning/comments/1krynb6/d_forecasting_with_deep_learning/)
+- [[D] Do you care about the math behind ML?](https://www.reddit.com/r/MachineLearning/comments/1krtvqt/d_do_you_care_about_the_math_behind_ml/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
