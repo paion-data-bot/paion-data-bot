@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Enhancing workflow efficiency with Elasticsearch and Red Hat OpenShift AI](https://www.elastic.co/blog/enhancing-workflow-efficiency)
+- [Enhancing workflow efficiency with Elasticsearch and Red Hat OpenShift AI](https://www.elastic.co/blog/enhancing-workflow-efficiency)
 - [Elastic at Microsoft Build 2025 — Developers, developers, developers!](https://www.elastic.co/blog/microsoft-build-2025)
 - [Elastic at Microsoft Build 2025 — Developers, developers, developers!](https://www.elastic.co/blog/microsoft-build-2025)
 - [How to benchmark Elasticsearch performance with ingest pipelines and your own logs](https://www.elastic.co/blog/benchmark-elasticsearch-performance)
-- [How to benchmark Elasticsearch performance with ingest pipelines and your own logs](https://www.elastic.co/blog/benchmark-elasticsearch-performance)
-- [CMMC success by design: How Elastic and MAD Security deliver compliance confidence](https://www.elastic.co/blog/cmmc-success-by-design)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
