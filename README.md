@@ -47,8 +47,8 @@
 - [Using Aura Graph Analytics to Model NYC Subway Disruptions](https://www.youtube.com/watch?v=1qJkTqbpf5k)
 - [FikaAI Interview with A N M Bazlur Rahman](https://www.youtube.com/watch?v=RCNM-LLVMCM)
 - [FikaAI Interview with Abel Fresnillo](https://www.youtube.com/watch?v=e9od8ihGiE8)
-- [FikaAI Interview with Ammar Yusuf](https://www.youtube.com/watch?v=8BEPBY6Oz4Q)
 - [How to Detect Fraud in Peer-to-Peer Networks Using Aura Graph Analytics](https://www.youtube.com/watch?v=GCCRI3MJi_A)
+- [FikaAI Interview with Barry Burd and Richard Fichtner](https://www.youtube.com/watch?v=cvO6X-jBDYY)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
