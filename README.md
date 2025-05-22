@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ICLR submissions should not be public on Openreview](https://www.reddit.com/r/MachineLearning/comments/1ksjgei/d_iclr_submissions_should_not_be_public_on/)
 - [[D] Google already out with a Text- Diffusion Model](https://www.reddit.com/r/MachineLearning/comments/1ksdn9b/d_google_already_out_with_a_text_diffusion_model/)
 - [[P] Smart Data Processor: Turn your text files into AI datasets in seconds](https://www.reddit.com/r/MachineLearning/comments/1ksd3uc/p_smart_data_processor_turn_your_text_files_into/)
 - [[P] Datatune: Transform data with LLMs using natural language](https://www.reddit.com/r/MachineLearning/comments/1ksb9pj/p_datatune_transform_data_with_llms_using_natural/)
 - [[R] Group-based recommendation](https://www.reddit.com/r/MachineLearning/comments/1ksb1vc/r_groupbased_recommendation/)
-- [[P] I&#39;m 16 and building an AI pipeline that segments Bluesky audiences semantically — here&#39;s the full architecture &lpar;Jetstream, Redis, AdonisJS, Python, HDBSCAN&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ks7qhp/p_im_16_and_building_an_ai_pipeline_that_segments/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
