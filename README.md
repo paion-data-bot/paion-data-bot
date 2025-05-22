@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Suggestions for Poster making.](https://www.reddit.com/r/MachineLearning/comments/1ksk7j8/d_suggestions_for_poster_making/)
 - [[D] ICLR submissions should not be public on Openreview](https://www.reddit.com/r/MachineLearning/comments/1ksjgei/d_iclr_submissions_should_not_be_public_on/)
 - [[D] Google already out with a Text- Diffusion Model](https://www.reddit.com/r/MachineLearning/comments/1ksdn9b/d_google_already_out_with_a_text_diffusion_model/)
 - [[P] Smart Data Processor: Turn your text files into AI datasets in seconds](https://www.reddit.com/r/MachineLearning/comments/1ksd3uc/p_smart_data_processor_turn_your_text_files_into/)
 - [[P] Datatune: Transform data with LLMs using natural language](https://www.reddit.com/r/MachineLearning/comments/1ksb9pj/p_datatune_transform_data_with_llms_using_natural/)
-- [[R] Group-based recommendation](https://www.reddit.com/r/MachineLearning/comments/1ksb1vc/r_groupbased_recommendation/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
