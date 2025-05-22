@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [SRE essentials: What to expect in site reliability engineering](https://www.elastic.co/blog/sre-essentials)
 - [How to implement business observability](https://www.elastic.co/blog/how-to-implement-business-observability)
 - [Cyber threats explained: How to safeguard your enterprise](https://www.elastic.co/blog/cybersecurity-threats)
+- [SRE essentials: What to expect in site reliability engineering](https://www.elastic.co/blog/sre-essentials)
 - [How to implement business observability](https://www.elastic.co/blog/how-to-implement-business-observability)
-- [Cyber threats explained: How to safeguard your enterprise](https://www.elastic.co/blog/cybersecurity-threats)
-- [Enhancing workflow efficiency with Elasticsearch and Red Hat OpenShift AI](https://www.elastic.co/blog/enhancing-workflow-efficiency)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
