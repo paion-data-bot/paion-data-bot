@@ -98,11 +98,11 @@
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [Interviewed by James Lewis at goto Copenhagen](https://www.youtube.com/watch?v=xsMUuOwv7IA)
 - [Refresh of Agile Threat Modeling](https://martinfowler.com/articles/agile-threat-modelling.html)
 - [Building Custom Tooling with LLMs](https://martinfowler.com/articles/exploring-gen-ai/16-building-custom-tooling-with-llms.html)
 - [Coding Assistants Threaten the Software Supply Chain](https://martinfowler.com/articles/exploring-gen-ai/software-supply-chain-attack-surface.html)
 - [Function calling using LLMs](https://martinfowler.com/articles/function-call-LLM.html)
-- [Building TMT Mirror Visualization with LLM](https://martinfowler.com/articles/exploring-gen-ai/15-building-tmt-mirror-visualization.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 ### [CSS-Trikcs](https://css-tricks.com/)
