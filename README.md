@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Clustering Learnable Embeddings for Synthetic Group Formation in Recommender Systems](https://www.reddit.com/r/MachineLearning/comments/1ktfcoj/r_clustering_learnable_embeddings_for_synthetic/)
+- [[P] Introducing Promptolution: Modular Framework for Automated Prompt Optimization](https://www.reddit.com/r/MachineLearning/comments/1ktfbhr/p_introducing_promptolution_modular_framework_for/)
 - [[R] Tsinghua University, Stanford University, CMU, and Tencent jointly released a benchmark, named RBench-V, for visual reasoning.](https://www.reddit.com/r/MachineLearning/comments/1kte2nu/r_tsinghua_university_stanford_university_cmu_and/)
 - [[P] Running LLMs on 8× H100s… but sometimes you have to let AI be the artist too](https://www.reddit.com/r/MachineLearning/comments/1ktdryq/p_running_llms_on_8_h100s_but_sometimes_you_have/)
 - [[P][D] LLMs don&#39;t follow their own softmax. I checked. p ≈ 0.](https://www.reddit.com/r/MachineLearning/comments/1ktdpuv/pd_llms_dont_follow_their_own_softmax_i_checked_p/)
-- [[D] OpenReview down?](https://www.reddit.com/r/MachineLearning/comments/1ktd22a/d_openreview_down/)
-- [[R] Best Practices for Image Classification Consensus with Large Annotator Teams](https://www.reddit.com/r/MachineLearning/comments/1ktcodg/r_best_practices_for_image_classification/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
