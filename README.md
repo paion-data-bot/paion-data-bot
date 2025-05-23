@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Replace Attention mechanism with FAVOR +](https://www.reddit.com/r/MachineLearning/comments/1ktp9ew/replace_attention_mechanism_with_favor/)
 - [[N] [D] kumo.ai releases a &quot;Relational Foundation Model&quot;, KumoRFM](https://www.reddit.com/r/MachineLearning/comments/1ktmvkl/n_d_kumoai_releases_a_relational_foundation_model/)
 - [What to prepare before starting a ML PhD - 3 months! [D]](https://www.reddit.com/r/MachineLearning/comments/1ktm35z/what_to_prepare_before_starting_a_ml_phd_3_months/)
 - [[R] Refact.ai is the new open-source SOTA on SWE-bench Verified.](https://www.reddit.com/r/MachineLearning/comments/1ktjdx3/r_refactai_is_the_new_opensource_sota_on_swebench/)
 - [[D] Publication advice](https://www.reddit.com/r/MachineLearning/comments/1ktgdf5/d_publication_advice/)
-- [[D] Researcher communities like this one?](https://www.reddit.com/r/MachineLearning/comments/1ktg0ey/d_researcher_communities_like_this_one/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
