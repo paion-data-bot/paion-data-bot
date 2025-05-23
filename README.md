@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Publication advice](https://www.reddit.com/r/MachineLearning/comments/1ktgdf5/d_publication_advice/)
 - [[D] Researcher communities like this one?](https://www.reddit.com/r/MachineLearning/comments/1ktg0ey/d_researcher_communities_like_this_one/)
 - [[R] Clustering Learnable Embeddings for Synthetic Group Formation in Recommender Systems](https://www.reddit.com/r/MachineLearning/comments/1ktfcoj/r_clustering_learnable_embeddings_for_synthetic/)
 - [[P] Introducing Promptolution: Modular Framework for Automated Prompt Optimization](https://www.reddit.com/r/MachineLearning/comments/1ktfbhr/p_introducing_promptolution_modular_framework_for/)
 - [[R] Tsinghua University, Stanford University, CMU, and Tencent jointly released a benchmark, named RBench-V, for visual reasoning.](https://www.reddit.com/r/MachineLearning/comments/1kte2nu/r_tsinghua_university_stanford_university_cmu_and/)
-- [[P] Running LLMs on 8× H100s… but sometimes you have to let AI be the artist too](https://www.reddit.com/r/MachineLearning/comments/1ktdryq/p_running_llms_on_8_h100s_but_sometimes_you_have/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
