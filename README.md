@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Better CSS Shapes Using shape&lpar;&rpar; — Part 1: Lines and Arcs](https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/)
 - [You can style alt text like any other text](https://css-tricks.com/you-can-style-alt-text-like-any-other-text/)
 - [SVG to CSS Shape Converter](https://css-tricks.com/svg-to-css-shape-converter/)
 - [A Reader’s Question on Nested Lists](https://css-tricks.com/a-readers-question-on-nested-lists/)
 - [HTML Email Accessibility Report 2025](https://css-tricks.com/html-email-accessibility-report-2025/)
-- [Scroll-Driven Animations Inside a CSS Carousel](https://css-tricks.com/scroll-driven-animations-inside-a-css-carousel/)
 <!-- CSS-TRIKCS:END -->
