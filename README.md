@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Running LLMs on 8× H100s… but sometimes you have to let AI be the artist too](https://www.reddit.com/r/MachineLearning/comments/1ktdryq/p_running_llms_on_8_h100s_but_sometimes_you_have/)
 - [[D] OpenReview down?](https://www.reddit.com/r/MachineLearning/comments/1ktd22a/d_openreview_down/)
 - [[R] Convergence of Adam in Deep ReLU Networks via Directional Complexity and Kakeya Bounds](https://www.reddit.com/r/MachineLearning/comments/1kt21ul/r_convergence_of_adam_in_deep_relu_networks_via/)
 - [[D] Feasibility from Ideation to Production](https://www.reddit.com/r/MachineLearning/comments/1ksziad/d_feasibility_from_ideation_to_production/)
 - [[D] Sequential training for deep learning](https://www.reddit.com/r/MachineLearning/comments/1ksz1te/d_sequential_training_for_deep_learning/)
-- [[D] GBMs Explainable AI &lpar;XAI&rpar; Toolbox](https://www.reddit.com/r/MachineLearning/comments/1ksz0c0/d_gbms_explainable_ai_xai_toolbox/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
