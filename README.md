@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [How to find work abroad with relocation support instead of going through scholarships? [D]](https://www.reddit.com/r/MachineLearning/comments/1ktytan/how_to_find_work_abroad_with_relocation_support/)
 - [[D] What are the research papers and methods that led to Deepmind’s Veo 3?](https://www.reddit.com/r/MachineLearning/comments/1ktt2ze/d_what_are_the_research_papers_and_methods_that/)
 - [Replace Attention mechanism with FAVOR +](https://www.reddit.com/r/MachineLearning/comments/1ktp9ew/replace_attention_mechanism_with_favor/)
 - [[N] [D] kumo.ai releases a &quot;Relational Foundation Model&quot;, KumoRFM](https://www.reddit.com/r/MachineLearning/comments/1ktmvkl/n_d_kumoai_releases_a_relational_foundation_model/)
 - [What to prepare before starting a ML PhD - 3 months! [D]](https://www.reddit.com/r/MachineLearning/comments/1ktm35z/what_to_prepare_before_starting_a_ml_phd_3_months/)
-- [[D] Publication advice](https://www.reddit.com/r/MachineLearning/comments/1ktgdf5/d_publication_advice/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
