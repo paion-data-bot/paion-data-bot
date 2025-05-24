@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] MCP server to connect LLM agents to any database](https://www.reddit.com/r/MachineLearning/comments/1kuby03/p_mcp_server_to_connect_llm_agents_to_any_database/)
 - [[P] I made a tool to visualize large codebases](https://www.reddit.com/r/MachineLearning/comments/1kubk0w/p_i_made_a_tool_to_visualize_large_codebases/)
 - [[R]Urgent endorser needed](https://www.reddit.com/r/MachineLearning/comments/1ku9bia/rurgent_endorser_needed/)
 - [[D] LLM long-term memory improvement.](https://www.reddit.com/r/MachineLearning/comments/1ku94s0/d_llm_longterm_memory_improvement/)
 - [[R] The Gamechanger of Performer Attention Mechanism](https://www.reddit.com/r/MachineLearning/comments/1ku5n68/r_the_gamechanger_of_performer_attention_mechanism/)
-- [[N] Claude 4 Opus WMD Safeguards Bypassed](https://www.reddit.com/r/MachineLearning/comments/1ku4kln/n_claude_4_opus_wmd_safeguards_bypassed/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
