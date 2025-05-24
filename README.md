@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Attention as a kernel smoothing problem](https://www.reddit.com/r/MachineLearning/comments/1kuoifv/r_attention_as_a_kernel_smoothing_problem/)
 - [[D] how can one get good at fixing ai models,training etc.?](https://www.reddit.com/r/MachineLearning/comments/1kul9gc/d_how_can_one_get_good_at_fixing_ai/)
 - [[D] Reasoning models reading list](https://www.reddit.com/r/MachineLearning/comments/1kukhw6/d_reasoning_models_reading_list/)
 - [[D] fast nst model not working as expected](https://www.reddit.com/r/MachineLearning/comments/1kukfps/d_fast_nst_model_not_working_as_expected/)
 - [[D] Building a Knowledge Graph for Bone-Conducted &amp; Air-Conducted Fusion AI : Looking for Insights!](https://www.reddit.com/r/MachineLearning/comments/1kukf6v/d_building_a_knowledge_graph_for_boneconducted/)
-- [[R] Evaluation of 8 leading TTS models on research-paper narration](https://www.reddit.com/r/MachineLearning/comments/1kuiew9/r_evaluation_of_8_leading_tts_models_on/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
