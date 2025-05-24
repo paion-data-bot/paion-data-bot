@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How do you do large scale hyper-parameter optimization fast?](https://www.reddit.com/r/MachineLearning/comments/1ku2t9o/d_how_do_you_do_large_scale_hyperparameter/)
 - [[D] Is PhD the new Masters for Machine Learning?](https://www.reddit.com/r/MachineLearning/comments/1ku1r53/d_is_phd_the_new_masters_for_machine_learning/)
 - [[D] Weird soft ticking sound during ML training on M4 Max – SSD or GPU coil whine?](https://www.reddit.com/r/MachineLearning/comments/1ku0jkb/d_weird_soft_ticking_sound_during_ml_training_on/)
 - [How to find work abroad with relocation support instead of going through scholarships? [D]](https://www.reddit.com/r/MachineLearning/comments/1ktytan/how_to_find_work_abroad_with_relocation_support/)
 - [[D] What are the research papers and methods that led to Deepmind’s Veo 3?](https://www.reddit.com/r/MachineLearning/comments/1ktt2ze/d_what_are_the_research_papers_and_methods_that/)
-- [Replace Attention mechanism with FAVOR +](https://www.reddit.com/r/MachineLearning/comments/1ktp9ew/replace_attention_mechanism_with_favor/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
