@@ -24,9 +24,9 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Evaluation of 8 leading TTS models on research-paper narration](https://www.reddit.com/r/MachineLearning/comments/1kuiew9/r_evaluation_of_8_leading_tts_models_on/)
 - [[P] Super simple &lpar;and hopefully fast&rpar; text normalizer!](https://www.reddit.com/r/MachineLearning/comments/1kuhmhq/p_super_simple_and_hopefully_fast_text_normalizer/)
 - [[R] What is stopping us from creating animal simulations?](https://www.reddit.com/r/MachineLearning/comments/1kuhb2j/r_what_is_stopping_us_from_creating_animal/)
-- [[D][R] Completely optimized Transformer architecture and gave it some serious updates](https://www.reddit.com/r/MachineLearning/comments/1kuh2n3/dr_completely_optimized_transformer_architecture/)
 - [[D] Is getting offers for phd in Europe in NLP becoming harder?](https://www.reddit.com/r/MachineLearning/comments/1kufzf2/d_is_getting_offers_for_phd_in_europe_in_nlp/)
 - [[D] Am I the only one noticing a drop in quality for this sub?](https://www.reddit.com/r/MachineLearning/comments/1kuehpl/d_am_i_the_only_one_noticing_a_drop_in_quality/)
 <!-- REDDIT-ML:END -->
