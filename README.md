@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R]Urgent endorser needed](https://www.reddit.com/r/MachineLearning/comments/1ku9bia/rurgent_endorser_needed/)
+- [[D] LLM long-term memory improvement.](https://www.reddit.com/r/MachineLearning/comments/1ku94s0/d_llm_longterm_memory_improvement/)
 - [[R] The Gamechanger of Performer Attention Mechanism](https://www.reddit.com/r/MachineLearning/comments/1ku5n68/r_the_gamechanger_of_performer_attention_mechanism/)
 - [[N] Claude 4 Opus WMD Safeguards Bypassed](https://www.reddit.com/r/MachineLearning/comments/1ku4kln/n_claude_4_opus_wmd_safeguards_bypassed/)
 - [The Gap between ML model performance and user satisfaction [P]](https://www.reddit.com/r/MachineLearning/comments/1ku3tct/the_gap_between_ml_model_performance_and_user/)
-- [[D] How do you do large scale hyper-parameter optimization fast?](https://www.reddit.com/r/MachineLearning/comments/1ku2t9o/d_how_do_you_do_large_scale_hyperparameter/)
-- [[D] Is PhD the new Masters for Machine Learning?](https://www.reddit.com/r/MachineLearning/comments/1ku1r53/d_is_phd_the_new_masters_for_machine_learning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
