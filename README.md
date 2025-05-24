@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is it worth writing technical blogs to educate people?](https://www.reddit.com/r/MachineLearning/comments/1kudanq/d_is_it_worth_writing_technical_blogs_to_educate/)
 - [[D] Is Google Colab Pro worth for my project?](https://www.reddit.com/r/MachineLearning/comments/1kucv55/d_is_google_colab_pro_worth_for_my_project/)
 - [[D] Will the US and Canada be able to survive the AI race without international students?](https://www.reddit.com/r/MachineLearning/comments/1kuch2d/d_will_the_us_and_canada_be_able_to_survive_the/)
 - [[P] MCP server to connect LLM agents to any database](https://www.reddit.com/r/MachineLearning/comments/1kuby03/p_mcp_server_to_connect_llm_agents_to_any_database/)
 - [[P] I made a tool to visualize large codebases](https://www.reddit.com/r/MachineLearning/comments/1kubk0w/p_i_made_a_tool_to_visualize_large_codebases/)
-- [[R]Urgent endorser needed](https://www.reddit.com/r/MachineLearning/comments/1ku9bia/rurgent_endorser_needed/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
