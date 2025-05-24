@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D][R] Completely optimized Transformer architecture and gave it some serious updates](https://www.reddit.com/r/MachineLearning/comments/1kuh2n3/dr_completely_optimized_transformer_architecture/)
 - [[D] Is getting offers for phd in Europe in NLP becoming harder?](https://www.reddit.com/r/MachineLearning/comments/1kufzf2/d_is_getting_offers_for_phd_in_europe_in_nlp/)
 - [[D] Am I the only one noticing a drop in quality for this sub?](https://www.reddit.com/r/MachineLearning/comments/1kuehpl/d_am_i_the_only_one_noticing_a_drop_in_quality/)
 - [[D] Is it worth writing technical blogs to educate people?](https://www.reddit.com/r/MachineLearning/comments/1kudanq/d_is_it_worth_writing_technical_blogs_to_educate/)
 - [[D] Is Google Colab Pro worth for my project?](https://www.reddit.com/r/MachineLearning/comments/1kucv55/d_is_google_colab_pro_worth_for_my_project/)
-- [[P] MCP server to connect LLM agents to any database](https://www.reddit.com/r/MachineLearning/comments/1kuby03/p_mcp_server_to_connect_llm_agents_to_any_database/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
