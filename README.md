@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Help Me Understand My AI Graph](https://www.reddit.com/r/MachineLearning/comments/1kue5yn/p_help_me_understand_my_ai_graph/)
+- [[D] Am I the only one noticing a drop in quality for this sub?](https://www.reddit.com/r/MachineLearning/comments/1kuehpl/d_am_i_the_only_one_noticing_a_drop_in_quality/)
 - [[D] Is it worth writing technical blogs to educate people?](https://www.reddit.com/r/MachineLearning/comments/1kudanq/d_is_it_worth_writing_technical_blogs_to_educate/)
 - [[D] Is Google Colab Pro worth for my project?](https://www.reddit.com/r/MachineLearning/comments/1kucv55/d_is_google_colab_pro_worth_for_my_project/)
 - [[D] Will the US and Canada be able to survive the AI race without international students?](https://www.reddit.com/r/MachineLearning/comments/1kuch2d/d_will_the_us_and_canada_be_able_to_survive_the/)
