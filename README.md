@@ -24,9 +24,9 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Solo dev building a factual AI layer – 50% hallucination detection done, aiming for 100%](https://www.reddit.com/r/MachineLearning/comments/1kvepjw/p_solo_dev_building_a_factual_ai_layer_50/)
 - [[D] ECML 2025 Decisions](https://www.reddit.com/r/MachineLearning/comments/1kvdlzx/d_ecml_2025_decisions/)
 - [[P] I made a OSS alternative to Weights and Biases](https://www.reddit.com/r/MachineLearning/comments/1kvdjet/p_i_made_a_oss_alternative_to_weights_and_biases/)
-- [[R] 🚀 ML Engineers &amp; Data Scientists — I need your input!](https://www.reddit.com/r/MachineLearning/comments/1kvbp87/r_ml_engineers_data_scientists_i_need_your_input/)
 - [[P] AI Learns to Play The Simpsons &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kv4k5a/p_ai_learns_to_play_the_simpsons_deep/)
 - [[R] What Are Good Techniques to Group Users for Recommendation Models?](https://www.reddit.com/r/MachineLearning/comments/1kv2vqe/r_what_are_good_techniques_to_group_users_for/)
 <!-- REDDIT-ML:END -->
