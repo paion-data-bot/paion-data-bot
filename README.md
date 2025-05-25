@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] We taught generative models to segment ONLY furniture and cars, but they somehow generalized to basically everything else....](https://www.reddit.com/r/MachineLearning/comments/1kuq3h0/r_we_taught_generative_models_to_segment_only/)
 - [[P] Prompt Protocol Execution on Gemini &lpar;Google LLM&rpar;: Internal Declaration Generation via Structured Identity Framework](https://www.reddit.com/r/MachineLearning/comments/1kup0h1/p_prompt_protocol_execution_on_gemini_google_llm/)
 - [[D] The responsible use of irresponsible tools](https://www.reddit.com/r/MachineLearning/comments/1kuos6k/d_the_responsible_use_of_irresponsible_tools/)
 - [[R] Attention as a kernel smoothing problem](https://www.reddit.com/r/MachineLearning/comments/1kuoifv/r_attention_as_a_kernel_smoothing_problem/)
 - [[D] how can one get good at fixing ai models,training etc.?](https://www.reddit.com/r/MachineLearning/comments/1kul9gc/d_how_can_one_get_good_at_fixing_ai/)
-- [[D] Reasoning models reading list](https://www.reddit.com/r/MachineLearning/comments/1kukhw6/d_reasoning_models_reading_list/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
