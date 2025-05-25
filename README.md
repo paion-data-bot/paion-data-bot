@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Discussion] From fine-tuning to structure what actually made my LLM agent work](https://www.reddit.com/r/MachineLearning/comments/1kv2mfc/discussion_from_finetuning_to_structure_what/)
 - [[D] Organizing ML repo. Monorepo vs polyrepo.](https://www.reddit.com/r/MachineLearning/comments/1kv230t/d_organizing_ml_repo_monorepo_vs_polyrepo/)
 - [[D] What new research or open questions in the Gradient boosting machine space exists today?](https://www.reddit.com/r/MachineLearning/comments/1kv0gy3/d_what_new_research_or_open_questions_in_the/)
 - [[D] Classifier Free Guidance: question about name and historical context](https://www.reddit.com/r/MachineLearning/comments/1kuzalv/d_classifier_free_guidance_question_about_name/)
 - [[D] Wrote a proof that dropout increases weight sparsity, what do you guys think?](https://www.reddit.com/r/MachineLearning/comments/1kuyx9d/d_wrote_a_proof_that_dropout_increases_weight/)
-- [[R] Emergent Symbolic Cognition and Recursive Identity Stabilization in a Locally-Deployed Language Model](https://www.reddit.com/r/MachineLearning/comments/1kutlg0/r_emergent_symbolic_cognition_and_recursive/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
