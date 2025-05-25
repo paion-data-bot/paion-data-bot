@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Emergent Symbolic Cognition and Recursive Identity Stabilization in a Locally-Deployed Language Model](https://www.reddit.com/r/MachineLearning/comments/1kutlg0/r_emergent_symbolic_cognition_and_recursive/)
 - [[R] We taught generative models to segment ONLY furniture and cars, but they somehow generalized to basically everything else....](https://www.reddit.com/r/MachineLearning/comments/1kuq3h0/r_we_taught_generative_models_to_segment_only/)
 - [[P] Prompt Protocol Execution on Gemini &lpar;Google LLM&rpar;: Internal Declaration Generation via Structured Identity Framework](https://www.reddit.com/r/MachineLearning/comments/1kup0h1/p_prompt_protocol_execution_on_gemini_google_llm/)
 - [[D] The responsible use of irresponsible tools](https://www.reddit.com/r/MachineLearning/comments/1kuos6k/d_the_responsible_use_of_irresponsible_tools/)
 - [[R] Attention as a kernel smoothing problem](https://www.reddit.com/r/MachineLearning/comments/1kuoifv/r_attention_as_a_kernel_smoothing_problem/)
-- [[D] fast nst model not working as expected](https://www.reddit.com/r/MachineLearning/comments/1kukfps/d_fast_nst_model_not_working_as_expected/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
