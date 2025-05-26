@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Panda: A pretrained forecast model for universal representation of chaotic dynamics](https://www.reddit.com/r/MachineLearning/comments/1kw7kip/r_panda_a_pretrained_forecast_model_for_universal/)
+- [[D] How long did it take to get an industry research job after PhD?](https://www.reddit.com/r/MachineLearning/comments/1kw7c3c/d_how_long_did_it_take_to_get_an_industry/)
 - [[D] Сhoosing a video card](https://www.reddit.com/r/MachineLearning/comments/1kw2bem/d_сhoosing_a_video_card/)
 - [[R] ML Engineers and Data Scientists – What are you working on these days?](https://www.reddit.com/r/MachineLearning/comments/1kw1673/r_ml_engineers_and_data_scientists_what_are_you/)
 - [[R] Best loss for binary segmentation where positive samples are 3% of the image?](https://www.reddit.com/r/MachineLearning/comments/1kvx4gl/r_best_loss_for_binary_segmentation_where/)
-- [[D] Grok 3&#39;s Think mode consistently identifies as Claude 3.5 Sonnet](https://www.reddit.com/r/MachineLearning/comments/1kvuvij/d_grok_3s_think_mode_consistently_identifies_as/)
-- [[D] fast nst model not working as expected](https://www.reddit.com/r/MachineLearning/comments/1kvtgh5/d_fast_nst_model_not_working_as_expected/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
