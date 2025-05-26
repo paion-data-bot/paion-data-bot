@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Grok 3&#39;s Think mode consistently identifies as Claude 3.5 Sonnet](https://www.reddit.com/r/MachineLearning/comments/1kvuvij/d_grok_3s_think_mode_consistently_identifies_as/)
 - [[D] fast nst model not working as expected](https://www.reddit.com/r/MachineLearning/comments/1kvtgh5/d_fast_nst_model_not_working_as_expected/)
 - [Which one will you prefer more [P]](https://www.reddit.com/r/MachineLearning/comments/1kvsnmt/which_one_will_you_prefer_more_p/)
 - [[D] Looking for past work of machine learning programs that draw digitally](https://www.reddit.com/r/MachineLearning/comments/1kvqwj8/d_looking_for_past_work_of_machine_learning/)
 - [[D] What would you do differently if you were to start in this field from the beginning in 2025?](https://www.reddit.com/r/MachineLearning/comments/1kvn90u/d_what_would_you_do_differently_if_you_were_to/)
-- [[P] Evolving Text Compression Algorithms by Mutating Code with LLMs](https://www.reddit.com/r/MachineLearning/comments/1kvmtbf/p_evolving_text_compression_algorithms_by/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
