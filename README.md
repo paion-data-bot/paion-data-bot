@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P]Help Me Finalize My Dissertation Topic: Machine Learning in Sports](https://www.reddit.com/r/MachineLearning/comments/1kw4m09/phelp_me_finalize_my_dissertation_topic_machine/)
 - [[D] Сhoosing a video card](https://www.reddit.com/r/MachineLearning/comments/1kw2bem/d_сhoosing_a_video_card/)
 - [[R] ML Engineers and Data Scientists – What are you working on these days?](https://www.reddit.com/r/MachineLearning/comments/1kw1673/r_ml_engineers_and_data_scientists_what_are_you/)
 - [[R] Best loss for binary segmentation where positive samples are 3% of the image?](https://www.reddit.com/r/MachineLearning/comments/1kvx4gl/r_best_loss_for_binary_segmentation_where/)
 - [[D] Grok 3&#39;s Think mode consistently identifies as Claude 3.5 Sonnet](https://www.reddit.com/r/MachineLearning/comments/1kvuvij/d_grok_3s_think_mode_consistently_identifies_as/)
-- [[D] fast nst model not working as expected](https://www.reddit.com/r/MachineLearning/comments/1kvtgh5/d_fast_nst_model_not_working_as_expected/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
