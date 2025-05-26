@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[D] Looking for past work of machine learning programs that draw digitally](https://www.reddit.com/r/MachineLearning/comments/1kvqwj8/d_looking_for_past_work_of_machine_learning/)
-- [[P] I scraped and applied to 7,932 Data Science jobs directly from corporate websites.](https://www.reddit.com/r/MachineLearning/comments/1kvp4aw/p_i_scraped_and_applied_to_7932_data_science_jobs/)
 - [[D] What would you do differently if you were to start in this field from the beginning in 2025?](https://www.reddit.com/r/MachineLearning/comments/1kvn90u/d_what_would_you_do_differently_if_you_were_to/)
 - [[P] Evolving Text Compression Algorithms by Mutating Code with LLMs](https://www.reddit.com/r/MachineLearning/comments/1kvmtbf/p_evolving_text_compression_algorithms_by/)
 - [[D] Need advice on mac](https://www.reddit.com/r/MachineLearning/comments/1kvlmhw/d_need_advice_on_mac/)
+- [[D]Edge Machine learning](https://www.reddit.com/r/MachineLearning/comments/1kvk5p6/dedge_machine_learning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
