@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Need advice on mac](https://www.reddit.com/r/MachineLearning/comments/1kvlmhw/d_need_advice_on_mac/)
 - [[D]Edge Machine learning](https://www.reddit.com/r/MachineLearning/comments/1kvk5p6/dedge_machine_learning/)
 - [[P] How do I extract diagram and question text separately from an image like this? Any dataset?](https://www.reddit.com/r/MachineLearning/comments/1kvk18q/p_how_do_i_extract_diagram_and_question_text/)
 - [[R] Sudoku-Bench: Evaluating creative reasoning with Sudoku variants](https://www.reddit.com/r/MachineLearning/comments/1kvhe71/r_sudokubench_evaluating_creative_reasoning_with/)
 - [[P] Built a comprehensive NLP system with multilingual sentiment analysis and document based QA .. feedback welcome](https://www.reddit.com/r/MachineLearning/comments/1kvfn00/p_built_a_comprehensive_nlp_system_with/)
-- [[D] ECML 2025 Decisions](https://www.reddit.com/r/MachineLearning/comments/1kvdlzx/d_ecml_2025_decisions/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
