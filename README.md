@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Sudoku-Bench: Evaluating creative reasoning with Sudoku variants](https://www.reddit.com/r/MachineLearning/comments/1kvhe71/r_sudokubench_evaluating_creative_reasoning_with/)
 - [[P] Built a comprehensive NLP system with multilingual sentiment analysis and document based QA .. feedback welcome](https://www.reddit.com/r/MachineLearning/comments/1kvfn00/p_built_a_comprehensive_nlp_system_with/)
 - [[D] ECML 2025 Decisions](https://www.reddit.com/r/MachineLearning/comments/1kvdlzx/d_ecml_2025_decisions/)
 - [[P] I made a OSS alternative to Weights and Biases](https://www.reddit.com/r/MachineLearning/comments/1kvdjet/p_i_made_a_oss_alternative_to_weights_and_biases/)
 - [[P] AI Learns to Play The Simpsons &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kv4k5a/p_ai_learns_to_play_the_simpsons_deep/)
-- [[R] What Are Good Techniques to Group Users for Recommendation Models?](https://www.reddit.com/r/MachineLearning/comments/1kv2vqe/r_what_are_good_techniques_to_group_users_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
