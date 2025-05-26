@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] For ICCV 2025, is it a positive sign if a reviewer updates their review after the discussion phase?](https://www.reddit.com/r/MachineLearning/comments/1kvnmf9/d_for_iccv_2025_is_it_a_positive_sign_if_a/)
 - [[D] What would you do differently if you were to start in this field from the beginning in 2025?](https://www.reddit.com/r/MachineLearning/comments/1kvn90u/d_what_would_you_do_differently_if_you_were_to/)
 - [[P] Evolving Text Compression Algorithms by Mutating Code with LLMs](https://www.reddit.com/r/MachineLearning/comments/1kvmtbf/p_evolving_text_compression_algorithms_by/)
 - [[D] Need advice on mac](https://www.reddit.com/r/MachineLearning/comments/1kvlmhw/d_need_advice_on_mac/)
 - [[D]Edge Machine learning](https://www.reddit.com/r/MachineLearning/comments/1kvk5p6/dedge_machine_learning/)
-- [[P] How do I extract diagram and question text separately from an image like this? Any dataset?](https://www.reddit.com/r/MachineLearning/comments/1kvk18q/p_how_do_i_extract_diagram_and_question_text/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
