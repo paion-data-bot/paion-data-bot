@@ -14,11 +14,11 @@
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
-- [Fuel your creativity with new generative media models and tools](https://deepmind.google/discover/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/)
-- [SynthID Detector — a new portal to help identify AI-generated content](https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/)
-- [Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI](https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/)
-- [Advancing Gemini&#39;s security safeguards](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/)
-- [Our vision for building a universal AI assistant](https://deepmind.google/discover/blog/our-vision-for-building-a-universal-ai-assistant/)
+- [Fuel your creativity with new generative media models and tools](https://fe6ba84-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/)
+- [SynthID Detector — a new portal to help identify AI-generated content](https://fe6ba84-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/)
+- [Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI](https://fe6ba84-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/)
+- [Advancing Gemini&#39;s security safeguards](https://fe6ba84-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/advancing-geminis-security-safeguards/)
+- [Our vision for building a universal AI assistant](https://fe6ba84-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/our-vision-for-building-a-universal-ai-assistant/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
