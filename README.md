@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Building a system in AWS Bedrock in &lt; 1 Day?](https://www.reddit.com/r/MachineLearning/comments/1kwv8wm/p_building_a_system_in_aws_bedrock_in_1_day/)
+- [[D] What&#39;s your embedding model update policy? Trying to settle a debate](https://www.reddit.com/r/MachineLearning/comments/1kwv5lx/d_whats_your_embedding_model_update_policy_trying/)
 - [[P] Open Source LLM-Augmented Multi-Agent System &lpar;MAS&rpar; for Automated Claim Extraction, Evidential Verification, and Fact Resolution](https://www.reddit.com/r/MachineLearning/comments/1kwtee7/p_open_source_llmaugmented_multiagent_system_mas/)
 - [[R] AutoThink: Adaptive reasoning technique that improves local LLM performance by 43% on GPQA-Diamond](https://www.reddit.com/r/MachineLearning/comments/1kwqwpr/r_autothink_adaptive_reasoning_technique_that/)
 - [[P] 17-Year-Old Building an AI to Fund Real-World Change — Looking for Support &amp; Advice](https://www.reddit.com/r/MachineLearning/comments/1kwpmaf/p_17yearold_building_an_ai_to_fund_realworld/)
-- [[R] Beyond the Black Box: Interpretability of LLMs in Finance](https://www.reddit.com/r/MachineLearning/comments/1kwp41u/r_beyond_the_black_box_interpretability_of_llms/)
-- [[D] MICCAI 2025 Post-rebuttal reviews](https://www.reddit.com/r/MachineLearning/comments/1kwndoy/d_miccai_2025_postrebuttal_reviews/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
