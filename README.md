@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to use PCA with time series data and regular data?](https://www.reddit.com/r/MachineLearning/comments/1kwjjec/d_how_to_use_pca_with_time_series_data_and/)
 - [RAISE: Realness Assessment for Image Synthesis and Evaluation](https://www.reddit.com/r/MachineLearning/comments/1kwiqcr/raise_realness_assessment_for_image_synthesis_and/)
 - [[R] question about Neurips double-blind policy](https://www.reddit.com/r/MachineLearning/comments/1kwill3/r_question_about_neurips_doubleblind_policy/)
 - [[P] Zasper: an opensource High Performance IDE for Jupyter Notebooks](https://www.reddit.com/r/MachineLearning/comments/1kwic5r/p_zasper_an_opensource_high_performance_ide_for/)
 - [[D] Audio Spectrogram Transformer](https://www.reddit.com/r/MachineLearning/comments/1kwfusu/d_audio_spectrogram_transformer/)
-- [[D] How can I use embedding models to find similar items with controlled attribute variation? For example, finding a similar story where the progtagnist is female instead of male while story is as similar as possible or chicken is replaced by beef in a recipe index?](https://www.reddit.com/r/MachineLearning/comments/1kwfr7f/d_how_can_i_use_embedding_models_to_find_similar/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
