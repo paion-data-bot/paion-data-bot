@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] 17-Year-Old Building an AI to Fund Real-World Change — Looking for Support &amp; Advice](https://www.reddit.com/r/MachineLearning/comments/1kwpmaf/p_17yearold_building_an_ai_to_fund_realworld/)
 - [[R] Beyond the Black Box: Interpretability of LLMs in Finance](https://www.reddit.com/r/MachineLearning/comments/1kwp41u/r_beyond_the_black_box_interpretability_of_llms/)
 - [[D] MICCAI 2025 Post-rebuttal reviews](https://www.reddit.com/r/MachineLearning/comments/1kwndoy/d_miccai_2025_postrebuttal_reviews/)
 - [[D] Thinking about building a peer review tool for the community](https://www.reddit.com/r/MachineLearning/comments/1kwn8q3/d_thinking_about_building_a_peer_review_tool_for/)
 - [[D] The Emergence-Constraint Framework: A Model for Recursive Identity and Symbolic Behaviour in LLMs](https://www.reddit.com/r/MachineLearning/comments/1kwmtlz/d_the_emergenceconstraint_framework_a_model_for/)
-- [[R] Invented a new AI reasoning framework called HDA2A and wrote a basic paper - Potential to be something massive - check it out](https://www.reddit.com/r/MachineLearning/comments/1kwlral/r_invented_a_new_ai_reasoning_framework_called/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
