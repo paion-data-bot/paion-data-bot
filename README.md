@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Bloat in machine learning shared libs is &gt;70%](https://www.reddit.com/r/MachineLearning/comments/1kwxxv2/r_bloat_in_machine_learning_shared_libs_is_70/)
 - [[D] What&#39;s your embedding model update policy? Trying to settle a debate](https://www.reddit.com/r/MachineLearning/comments/1kwv5lx/d_whats_your_embedding_model_update_policy_trying/)
 - [[P] Open Source LLM-Augmented Multi-Agent System &lpar;MAS&rpar; for Automated Claim Extraction, Evidential Verification, and Fact Resolution](https://www.reddit.com/r/MachineLearning/comments/1kwtee7/p_open_source_llmaugmented_multiagent_system_mas/)
 - [[R] AutoThink: Adaptive reasoning technique that improves local LLM performance by 43% on GPQA-Diamond](https://www.reddit.com/r/MachineLearning/comments/1kwqwpr/r_autothink_adaptive_reasoning_technique_that/)
 - [[R] Beyond the Black Box: Interpretability of LLMs in Finance](https://www.reddit.com/r/MachineLearning/comments/1kwp41u/r_beyond_the_black_box_interpretability_of_llms/)
-- [[D] MICCAI 2025 Post-rebuttal reviews](https://www.reddit.com/r/MachineLearning/comments/1kwndoy/d_miccai_2025_postrebuttal_reviews/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
