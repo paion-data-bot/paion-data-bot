@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R]Need arXiv endorsement for cs.AI &lpar;independent researcher&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kwe8fe/rneed_arxiv_endorsement_for_csai_independent/)
 - [[D] in GRPO is the KL divergence penalty applied at the token level or computed once for the whole sequence?](https://www.reddit.com/r/MachineLearning/comments/1kwcg96/d_in_grpo_is_the_kl_divergence_penalty_applied_at/)
 - [[R] Panda: A pretrained forecast model for universal representation of chaotic dynamics](https://www.reddit.com/r/MachineLearning/comments/1kw7kip/r_panda_a_pretrained_forecast_model_for_universal/)
 - [[D] How long did it take to get an industry research job after PhD?](https://www.reddit.com/r/MachineLearning/comments/1kw7c3c/d_how_long_did_it_take_to_get_an_industry/)
 - [[D] Сhoosing a video card](https://www.reddit.com/r/MachineLearning/comments/1kw2bem/d_сhoosing_a_video_card/)
-- [[R] ML Engineers and Data Scientists – What are you working on these days?](https://www.reddit.com/r/MachineLearning/comments/1kw1673/r_ml_engineers_and_data_scientists_what_are_you/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
