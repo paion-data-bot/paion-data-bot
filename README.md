@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Reviews out for MLHC 2025!](https://www.reddit.com/r/MachineLearning/comments/1kx1alb/r_reviews_out_for_mlhc_2025/)
 - [[D] My first blog, PPO to GRPO](https://www.reddit.com/r/MachineLearning/comments/1kx0pgc/d_my_first_blog_ppo_to_grpo/)
 - [[D] UCL Foundational AI PhD](https://www.reddit.com/r/MachineLearning/comments/1kwz9ra/d_ucl_foundational_ai_phd/)
 - [[P]Advice on how to finetune Neural Network to predict Comological Data](https://www.reddit.com/r/MachineLearning/comments/1kwynwb/padvice_on_how_to_finetune_neural_network_to/)
 - [[R] Bloat in machine learning shared libs is &gt;70%](https://www.reddit.com/r/MachineLearning/comments/1kwxxv2/r_bloat_in_machine_learning_shared_libs_is_70/)
-- [[D] What&#39;s your embedding model update policy? Trying to settle a debate](https://www.reddit.com/r/MachineLearning/comments/1kwv5lx/d_whats_your_embedding_model_update_policy_trying/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
