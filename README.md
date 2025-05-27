@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] 🎉 AMD + ROCm Support Now Live in Transformer Lab!](https://www.reddit.com/r/MachineLearning/comments/1kwz3yj/p_amd_rocm_support_now_live_in_transformer_lab/)
+- [[P]Advice on how to finetune Neural Network to predict Comological Data](https://www.reddit.com/r/MachineLearning/comments/1kwynwb/padvice_on_how_to_finetune_neural_network_to/)
+- [[P] We build Curie: The Open-sourced AI Co-Scientist Making ML More Accessible for Your Research](https://www.reddit.com/r/MachineLearning/comments/1kwynb2/p_we_build_curie_the_opensourced_ai_coscientist/)
 - [[R] Bloat in machine learning shared libs is &gt;70%](https://www.reddit.com/r/MachineLearning/comments/1kwxxv2/r_bloat_in_machine_learning_shared_libs_is_70/)
 - [[D] What&#39;s your embedding model update policy? Trying to settle a debate](https://www.reddit.com/r/MachineLearning/comments/1kwv5lx/d_whats_your_embedding_model_update_policy_trying/)
-- [[P] Open Source LLM-Augmented Multi-Agent System &lpar;MAS&rpar; for Automated Claim Extraction, Evidential Verification, and Fact Resolution](https://www.reddit.com/r/MachineLearning/comments/1kwtee7/p_open_source_llmaugmented_multiagent_system_mas/)
-- [[R] AutoThink: Adaptive reasoning technique that improves local LLM performance by 43% on GPQA-Diamond](https://www.reddit.com/r/MachineLearning/comments/1kwqwpr/r_autothink_adaptive_reasoning_technique_that/)
-- [[R] Beyond the Black Box: Interpretability of LLMs in Finance](https://www.reddit.com/r/MachineLearning/comments/1kwp41u/r_beyond_the_black_box_interpretability_of_llms/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
