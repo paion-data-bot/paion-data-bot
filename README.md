@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] EMNLP submission - author registration and desk rejection](https://www.reddit.com/r/MachineLearning/comments/1kx56h5/d_emnlp_submission_author_registration_and_desk/)
+- [[P] I Built a Production Ready Knowledge Retrieval System for Enterprise LLM Applications](https://www.reddit.com/r/MachineLearning/comments/1kx5571/p_i_built_a_production_ready_knowledge_retrieval/)
+- [[P] Arch-Function-Chat - Device friendly LLMs that beat GPT-4 on function calling performance.](https://www.reddit.com/r/MachineLearning/comments/1kx45zc/p_archfunctionchat_device_friendly_llms_that_beat/)
+- [[R] New ICML25 paper: Train and fine-tune large models faster than Adam while using only a fraction of the memory, with guarantees!](https://www.reddit.com/r/MachineLearning/comments/1kx3ve1/r_new_icml25_paper_train_and_finetune_large/)
 - [[R] Reviews out for MLHC 2025!](https://www.reddit.com/r/MachineLearning/comments/1kx1alb/r_reviews_out_for_mlhc_2025/)
-- [[D] My first blog, PPO to GRPO](https://www.reddit.com/r/MachineLearning/comments/1kx0pgc/d_my_first_blog_ppo_to_grpo/)
-- [[D] UCL Foundational AI PhD](https://www.reddit.com/r/MachineLearning/comments/1kwz9ra/d_ucl_foundational_ai_phd/)
-- [[P]Advice on how to finetune Neural Network to predict Comological Data](https://www.reddit.com/r/MachineLearning/comments/1kwynwb/padvice_on_how_to_finetune_neural_network_to/)
-- [[R] Bloat in machine learning shared libs is &gt;70%](https://www.reddit.com/r/MachineLearning/comments/1kwxxv2/r_bloat_in_machine_learning_shared_libs_is_70/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
