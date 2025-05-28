@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[P] Real Time Speaking Avatar](https://www.reddit.com/r/MachineLearning/comments/1kx6kcn/p_real_time_speaking_avatar/)
-- [[D] Anyone come across “Soft Sorted” Attention?](https://www.reddit.com/r/MachineLearning/comments/1kx69t9/d_anyone_come_across_soft_sorted_attention/)
 - [[D] Is it that impossible to get a job abroad](https://www.reddit.com/r/MachineLearning/comments/1kx5zu6/d_is_it_that_impossible_to_get_a_job_abroad/)
 - [[D] AI tools for reading and comparing dense technical papers - how RAGstyle segmentation makes a difference](https://www.reddit.com/r/MachineLearning/comments/1kx5a3l/d_ai_tools_for_reading_and_comparing_dense/)
 - [[D] EMNLP submission - author registration and desk rejection](https://www.reddit.com/r/MachineLearning/comments/1kx56h5/d_emnlp_submission_author_registration_and_desk/)
+- [[P] Arch-Function-Chat - Device friendly LLMs that beat GPT-4 on function calling performance.](https://www.reddit.com/r/MachineLearning/comments/1kx45zc/p_archfunctionchat_device_friendly_llms_that_beat/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
