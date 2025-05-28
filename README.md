@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] A Price Index Could Clarify Opaque GPU Rental Costs for AI](https://www.reddit.com/r/MachineLearning/comments/1kxo2xt/n_a_price_index_could_clarify_opaque_gpu_rental/)
 - [[D] Do all conferences require you to pay to have your paper in their proceedings?](https://www.reddit.com/r/MachineLearning/comments/1kxni6m/d_do_all_conferences_require_you_to_pay_to_have/)
 - [[D] Which open-source models are under-served by APIs and inference providers?](https://www.reddit.com/r/MachineLearning/comments/1kxl4pp/d_which_opensource_models_are_underserved_by_apis/)
 - [[P] Anyone playing with symbolic overlays or memory-routing scaffolds on LLMs?](https://www.reddit.com/r/MachineLearning/comments/1kxjns3/p_anyone_playing_with_symbolic_overlays_or/)
 - [[D] Best Path for University Graduate Moving Forward](https://www.reddit.com/r/MachineLearning/comments/1kxjbws/d_best_path_for_university_graduate_moving_forward/)
-- [VideoGameBench: Can Language Models play Video Games &lpar;arXiv&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxhp7f/videogamebench_can_language_models_play_video/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
