@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Real Time Speaking Avatar](https://www.reddit.com/r/MachineLearning/comments/1kx6kcn/p_real_time_speaking_avatar/)
+- [[D] Anyone come across “Soft Sorted” Attention?](https://www.reddit.com/r/MachineLearning/comments/1kx69t9/d_anyone_come_across_soft_sorted_attention/)
+- [[D] Is it that impossible to get a job abroad](https://www.reddit.com/r/MachineLearning/comments/1kx5zu6/d_is_it_that_impossible_to_get_a_job_abroad/)
+- [[D] AI tools for reading and comparing dense technical papers - how RAGstyle segmentation makes a difference](https://www.reddit.com/r/MachineLearning/comments/1kx5a3l/d_ai_tools_for_reading_and_comparing_dense/)
 - [[D] EMNLP submission - author registration and desk rejection](https://www.reddit.com/r/MachineLearning/comments/1kx56h5/d_emnlp_submission_author_registration_and_desk/)
-- [[P] I Built a Production Ready Knowledge Retrieval System for Enterprise LLM Applications](https://www.reddit.com/r/MachineLearning/comments/1kx5571/p_i_built_a_production_ready_knowledge_retrieval/)
-- [[P] Arch-Function-Chat - Device friendly LLMs that beat GPT-4 on function calling performance.](https://www.reddit.com/r/MachineLearning/comments/1kx45zc/p_archfunctionchat_device_friendly_llms_that_beat/)
-- [[R] New ICML25 paper: Train and fine-tune large models faster than Adam while using only a fraction of the memory, with guarantees!](https://www.reddit.com/r/MachineLearning/comments/1kx3ve1/r_new_icml25_paper_train_and_finetune_large/)
-- [[R] Reviews out for MLHC 2025!](https://www.reddit.com/r/MachineLearning/comments/1kx1alb/r_reviews_out_for_mlhc_2025/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
