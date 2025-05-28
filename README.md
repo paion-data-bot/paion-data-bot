@@ -55,10 +55,10 @@
 
 <!-- ELASTIC-BLOGS:START -->
 - [Elastic and AWS collaborate to bring GenAI to DevOps, security, and search](https://www.elastic.co/blog/elastic-aws-bring-genai-to-devops-security-search)
+- [How the MOD can achieve decision superiority against cyber threats](https://www.elastic.co/blog/decision-superiority-against-cyber-threats)
 - [Elastic and AWS collaborate to bring GenAI to DevOps, security, and search](https://www.elastic.co/blog/elastic-aws-bring-genai-to-devops-security-search)
-- [Cyber threats explained: How to safeguard your enterprise](https://www.elastic.co/blog/cybersecurity-threats)
+- [How the MOD can achieve decision superiority against cyber threats](https://www.elastic.co/blog/decision-superiority-against-cyber-threats)
 - [SRE essentials: What to expect in site reliability engineering](https://www.elastic.co/blog/sre-essentials)
-- [How to implement business observability](https://www.elastic.co/blog/how-to-implement-business-observability)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
