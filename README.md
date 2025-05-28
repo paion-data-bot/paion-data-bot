@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Am I accidentally leaking data by doing hyperparameter search on 100% before splitting?](https://www.reddit.com/r/MachineLearning/comments/1kxekly/d_am_i_accidentally_leaking_data_by_doing/)
+- [Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](https://www.reddit.com/r/MachineLearning/comments/1kxeh6u/gradientbased_program_repair_fixing_bugs_in/)
 - [[P]Using Machine Learning to Compensate for Wind-Induced Noise in Load Cell Measurements in Real Time](https://www.reddit.com/r/MachineLearning/comments/1kxd83f/pusing_machine_learning_to_compensate_for/)
 - [[D] Removing my Authorship After Submission to NeurIPS](https://www.reddit.com/r/MachineLearning/comments/1kxa4wh/d_removing_my_authorship_after_submission_to/)
 - [[D] Low quality research from top labs](https://www.reddit.com/r/MachineLearning/comments/1kx94lp/d_low_quality_research_from_top_labs/)
-- [[R] ICML25 paper | B-score: Detecting Biases in Large Language Models Using Response History](https://www.reddit.com/r/MachineLearning/comments/1kx7woj/r_icml25_paper_bscore_detecting_biases_in_large/)
-- [[D] AI tools for reading and comparing dense technical papers - how RAGstyle segmentation makes a difference](https://www.reddit.com/r/MachineLearning/comments/1kx5a3l/d_ai_tools_for_reading_and_comparing_dense/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
