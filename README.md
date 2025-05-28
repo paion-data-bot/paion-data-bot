@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[N] Chatterbox TTS 0.5B, open source - Claims to beat eleven labs](https://www.reddit.com/r/MachineLearning/comments/1kxusql/n_chatterbox_tts_05b_open_source_claims_to_beat/)
+- [[P] Chatterbox TTS 0.5B - Outperforms ElevenLabs &lpar;MIT Licensed&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxv01f/p_chatterbox_tts_05b_outperforms_elevenlabs_mit/)
 - [[P] Patch to add distributed training to FastText](https://www.reddit.com/r/MachineLearning/comments/1kxukgl/p_patch_to_add_distributed_training_to_fasttext/)
 - [[P] Training / Finetuning Llava or MiniGPT](https://www.reddit.com/r/MachineLearning/comments/1kxsrbr/p_training_finetuning_llava_or_minigpt/)
 - [[R] Can&#39;t attend to present at ICML](https://www.reddit.com/r/MachineLearning/comments/1kxs67w/r_cant_attend_to_present_at_icml/)
