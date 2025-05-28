@@ -27,8 +27,8 @@
 - [[P] Training / Finetuning Llava or MiniGPT](https://www.reddit.com/r/MachineLearning/comments/1kxsrbr/p_training_finetuning_llava_or_minigpt/)
 - [[R] Can&#39;t attend to present at ICML](https://www.reddit.com/r/MachineLearning/comments/1kxs67w/r_cant_attend_to_present_at_icml/)
 - [[P] Davia : build data apps from Python with Auto-Generated UI](https://www.reddit.com/r/MachineLearning/comments/1kxpy96/p_davia_build_data_apps_from_python_with/)
-- [[R] Clean Google Trends data, updated every 15 minutes, useful for anything that needs to stay current](https://www.reddit.com/r/MachineLearning/comments/1kxoswt/r_clean_google_trends_data_updated_every_15/)
 - [[N] A Price Index Could Clarify Opaque GPU Rental Costs for AI](https://www.reddit.com/r/MachineLearning/comments/1kxo2xt/n_a_price_index_could_clarify_opaque_gpu_rental/)
+- [[D] Do all conferences require you to pay to have your paper in their proceedings?](https://www.reddit.com/r/MachineLearning/comments/1kxni6m/d_do_all_conferences_require_you_to_pay_to_have/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
