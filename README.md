@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] I automated calling system](https://www.reddit.com/r/MachineLearning/comments/1kxkbk4/p_i_automated_calling_system/)
+- [[D] Which open-source models are under-served by APIs and inference providers?](https://www.reddit.com/r/MachineLearning/comments/1kxl4pp/d_which_opensource_models_are_underserved_by_apis/)
 - [[P] Anyone playing with symbolic overlays or memory-routing scaffolds on LLMs?](https://www.reddit.com/r/MachineLearning/comments/1kxjns3/p_anyone_playing_with_symbolic_overlays_or/)
 - [[D] Best Path for University Graduate Moving Forward](https://www.reddit.com/r/MachineLearning/comments/1kxjbws/d_best_path_for_university_graduate_moving_forward/)
 - [VideoGameBench: Can Language Models play Video Games &lpar;arXiv&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxhp7f/videogamebench_can_language_models_play_video/)
