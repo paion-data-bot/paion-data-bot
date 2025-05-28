@@ -54,8 +54,8 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [SRE essentials: What to expect in site reliability engineering](https://www.elastic.co/blog/sre-essentials)
-- [How to implement business observability](https://www.elastic.co/blog/how-to-implement-business-observability)
+- [Elastic and AWS collaborate to bring GenAI to DevOps, security, and search](https://www.elastic.co/blog/elastic-aws-bring-genai-to-devops-security-search)
+- [Elastic and AWS collaborate to bring GenAI to DevOps, security, and search](https://www.elastic.co/blog/elastic-aws-bring-genai-to-devops-security-search)
 - [Cyber threats explained: How to safeguard your enterprise](https://www.elastic.co/blog/cybersecurity-threats)
 - [SRE essentials: What to expect in site reliability engineering](https://www.elastic.co/blog/sre-essentials)
 - [How to implement business observability](https://www.elastic.co/blog/how-to-implement-business-observability)
