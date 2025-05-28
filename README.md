@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [VideoGameBench: Can Language Models play Video Games &lpar;arXiv&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxhp7f/videogamebench_can_language_models_play_video/)
 - [[D] Advices for Machine Learning competitions](https://www.reddit.com/r/MachineLearning/comments/1kxhckl/d_advices_for_machine_learning_competitions/)
 - [[D]Where do you save frequently used prompts and how do you use them?](https://www.reddit.com/r/MachineLearning/comments/1kxgncj/dwhere_do_you_save_frequently_used_prompts_and/)
 - [[D] Am I accidentally leaking data by doing hyperparameter search on 100% before splitting?](https://www.reddit.com/r/MachineLearning/comments/1kxekly/d_am_i_accidentally_leaking_data_by_doing/)
 - [Gradient-Based Program Repair: Fixing Bugs in Continuous Program Spaces](https://www.reddit.com/r/MachineLearning/comments/1kxeh6u/gradientbased_program_repair_fixing_bugs_in/)
-- [[P]Using Machine Learning to Compensate for Wind-Induced Noise in Load Cell Measurements in Real Time](https://www.reddit.com/r/MachineLearning/comments/1kxd83f/pusing_machine_learning_to_compensate_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
