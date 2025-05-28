@@ -24,9 +24,9 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How often are you guys leaning on deep mathematic understanding?](https://www.reddit.com/r/MachineLearning/comments/1kxt8ri/d_how_often_are_you_guys_leaning_on_deep/)
 - [[P] Training / Finetuning Llava or MiniGPT](https://www.reddit.com/r/MachineLearning/comments/1kxsrbr/p_training_finetuning_llava_or_minigpt/)
 - [[R] Can&#39;t attend to present at ICML](https://www.reddit.com/r/MachineLearning/comments/1kxs67w/r_cant_attend_to_present_at_icml/)
-- [[N] Fully AI-generated paper was accepted to ACL 2025 main](https://www.reddit.com/r/MachineLearning/comments/1kxryub/n_fully_aigenerated_paper_was_accepted_to_acl/)
 - [[P] Davia : build data apps from Python with Auto-Generated UI](https://www.reddit.com/r/MachineLearning/comments/1kxpy96/p_davia_build_data_apps_from_python_with/)
 - [[R] Clean Google Trends data, updated every 15 minutes, useful for anything that needs to stay current](https://www.reddit.com/r/MachineLearning/comments/1kxoswt/r_clean_google_trends_data_updated_every_15/)
 <!-- REDDIT-ML:END -->
