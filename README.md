@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Using the same LLM as policy and judge in GRPO, good idea or not worth trying?](https://www.reddit.com/r/MachineLearning/comments/1ky7oxd/d_using_the_same_llm_as_policy_and_judge_in_grpo/)
 - [Help regarding my project [P]](https://www.reddit.com/r/MachineLearning/comments/1ky7gl9/help_regarding_my_project_p/)
 - [[Project] Detecting Rooftop Solar Panels in Satellite Images Using Mask R-CNN and TensorFlow](https://www.reddit.com/r/MachineLearning/comments/1ky3wjv/project_detecting_rooftop_solar_panels_in/)
 - [[R] 🎯 Looking for Pretrained ABSA Models That Support Multi-Aspect Sentiment Scoring &lpar;Not Just Classification&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxvpza/r_looking_for_pretrained_absa_models_that_support/)
 - [[P] Chatterbox TTS 0.5B - Outperforms ElevenLabs &lpar;MIT Licensed&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxv01f/p_chatterbox_tts_05b_outperforms_elevenlabs_mit/)
-- [[P] Patch to add distributed training to FastText](https://www.reddit.com/r/MachineLearning/comments/1kxukgl/p_patch_to_add_distributed_training_to_fasttext/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
