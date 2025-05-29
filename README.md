@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [Consistency behaviour from LLM agentin prod? [D]](https://www.reddit.com/r/MachineLearning/comments/1kylt7t/consistency_behaviour_from_llm_agentin_prod_d/)
 - [[D] ACL and Local Conference Double Acceptance](https://www.reddit.com/r/MachineLearning/comments/1kylr2c/d_acl_and_local_conference_double_acceptance/)
 - [[R] How to add confidence intervals to your LLM-as-a-judge](https://www.reddit.com/r/MachineLearning/comments/1kyl04x/r_how_to_add_confidence_intervals_to_your/)
 - [[D] First time ICCV reviewer](https://www.reddit.com/r/MachineLearning/comments/1kyhz44/d_first_time_iccv_reviewer/)
 - [[D] What do you do if ML isn’t working out for a problem at work?](https://www.reddit.com/r/MachineLearning/comments/1kyfinu/d_what_do_you_do_if_ml_isnt_working_out_for_a/)
+- [[D] Audio to Anime video in realtime?](https://www.reddit.com/r/MachineLearning/comments/1kyc1ae/d_audio_to_anime_video_in_realtime/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
