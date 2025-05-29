@@ -14,11 +14,11 @@
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
-- [Fuel your creativity with new generative media models and tools](https://77b50d0-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/)
-- [SynthID Detector — a new portal to help identify AI-generated content](https://77b50d0-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/)
-- [Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI](https://77b50d0-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/)
-- [Advancing Gemini&#39;s security safeguards](https://77b50d0-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/advancing-geminis-security-safeguards/)
-- [Our vision for building a universal AI assistant](https://77b50d0-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/our-vision-for-building-a-universal-ai-assistant/)
+- [Our vision for building a universal AI assistant](https://35d038e-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/our-vision-for-building-a-universal-ai-assistant/)
+- [Advancing Gemini&#39;s security safeguards](https://35d038e-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/advancing-geminis-security-safeguards/)
+- [Gemini 2.5: Our most intelligent models are getting even better](https://35d038e-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/)
+- [SynthID Detector — a new portal to help identify AI-generated content](https://35d038e-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/)
+- [Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI](https://35d038e-dot-gdm-deepmind-com-prod.appspot.com/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
