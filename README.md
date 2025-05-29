@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Anyone else using Claude 4 for long-form stuff?](https://www.reddit.com/r/MachineLearning/comments/1ky9woo/d_anyone_else_using_claude_4_for_longform_stuff/)
+- [[D] Have any of the recent advances in AI led to improved regression models?](https://www.reddit.com/r/MachineLearning/comments/1kyb21a/d_have_any_of_the_recent_advances_in_ai_led_to/)
+- [Open-source AI tool for automating species ID in trail cam footage [Project]](https://www.reddit.com/r/MachineLearning/comments/1kyayvm/opensource_ai_tool_for_automating_species_id_in/)
+- [[D] Education in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1kyam3l/d_education_in_machine_learning/)
 - [[D] ICML Paper Checker Script Error](https://www.reddit.com/r/MachineLearning/comments/1ky8h9q/d_icml_paper_checker_script_error/)
 - [[D] Using the same LLM as policy and judge in GRPO, good idea or not worth trying?](https://www.reddit.com/r/MachineLearning/comments/1ky7oxd/d_using_the_same_llm_as_policy_and_judge_in_grpo/)
-- [[Project] Detecting Rooftop Solar Panels in Satellite Images Using Mask R-CNN and TensorFlow](https://www.reddit.com/r/MachineLearning/comments/1ky3wjv/project_detecting_rooftop_solar_panels_in/)
-- [[R] 🎯 Looking for Pretrained ABSA Models That Support Multi-Aspect Sentiment Scoring &lpar;Not Just Classification&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxvpza/r_looking_for_pretrained_absa_models_that_support/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
