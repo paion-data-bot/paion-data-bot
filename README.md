@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]Sometimes abstraction is the enemy of understanding](https://www.reddit.com/r/MachineLearning/comments/1kydfjy/dsometimes_abstraction_is_the_enemy_of/)
 - [[D] Audio to Anime video in realtime?](https://www.reddit.com/r/MachineLearning/comments/1kyc1ae/d_audio_to_anime_video_in_realtime/)
 - [[D] Have any of the recent advances in AI led to improved regression models?](https://www.reddit.com/r/MachineLearning/comments/1kyb21a/d_have_any_of_the_recent_advances_in_ai_led_to/)
 - [Open-source AI tool for automating species ID in trail cam footage [Project]](https://www.reddit.com/r/MachineLearning/comments/1kyayvm/opensource_ai_tool_for_automating_species_id_in/)
 - [[D] Education in Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1kyam3l/d_education_in_machine_learning/)
-- [[D] ICML Paper Checker Script Error](https://www.reddit.com/r/MachineLearning/comments/1ky8h9q/d_icml_paper_checker_script_error/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
