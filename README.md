@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Elastic Stack 8.18.2 released](https://www.elastic.co/blog/elastic-stack-8-18-2-released)
+- [Elastic Stack 8.18.2 released](https://www.elastic.co/blog/elastic-stack-8-18-2-released)
 - [Elastic and AWS collaborate to bring GenAI to DevOps, security, and search](https://www.elastic.co/blog/elastic-aws-bring-genai-to-devops-security-search)
 - [How the MOD can achieve decision superiority against cyber threats](https://www.elastic.co/blog/decision-superiority-against-cyber-threats)
 - [Elastic and AWS collaborate to bring GenAI to DevOps, security, and search](https://www.elastic.co/blog/elastic-aws-bring-genai-to-devops-security-search)
-- [How the MOD can achieve decision superiority against cyber threats](https://www.elastic.co/blog/decision-superiority-against-cyber-threats)
-- [SRE essentials: What to expect in site reliability engineering](https://www.elastic.co/blog/sre-essentials)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
