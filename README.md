@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Scientific Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1kxvujk/d_scientific_machine_learning/)
 - [[R] 🎯 Looking for Pretrained ABSA Models That Support Multi-Aspect Sentiment Scoring &lpar;Not Just Classification&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxvpza/r_looking_for_pretrained_absa_models_that_support/)
 - [[P] Chatterbox TTS 0.5B - Outperforms ElevenLabs &lpar;MIT Licensed&rpar;](https://www.reddit.com/r/MachineLearning/comments/1kxv01f/p_chatterbox_tts_05b_outperforms_elevenlabs_mit/)
 - [[P] Patch to add distributed training to FastText](https://www.reddit.com/r/MachineLearning/comments/1kxukgl/p_patch_to_add_distributed_training_to_fasttext/)
 - [[P] Training / Finetuning Llava or MiniGPT](https://www.reddit.com/r/MachineLearning/comments/1kxsrbr/p_training_finetuning_llava_or_minigpt/)
+- [[R] Can&#39;t attend to present at ICML](https://www.reddit.com/r/MachineLearning/comments/1kxs67w/r_cant_attend_to_present_at_icml/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
