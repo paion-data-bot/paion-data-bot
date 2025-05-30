@@ -47,8 +47,8 @@
 - [Smarter GenAI with Neo4j AuraDB and Google Cloud](https://www.youtube.com/watch?v=nnnfKMk3hiM)
 - [Using Aura Graph Analytics to Model NYC Subway Disruptions](https://www.youtube.com/watch?v=1qJkTqbpf5k)
 - [FikaAI Interview with A N M Bazlur Rahman](https://www.youtube.com/watch?v=RCNM-LLVMCM)
-- [How to Detect Fraud in Peer-to-Peer Networks Using Aura Graph Analytics](https://www.youtube.com/watch?v=GCCRI3MJi_A)
-- [FikaAI Interview with Barry Burd and Richard Fichtner](https://www.youtube.com/watch?v=cvO6X-jBDYY)
+- [FikaAI Interview with Abel Fresnillo](https://www.youtube.com/watch?v=e9od8ihGiE8)
+- [Neo4j Aura Graph Analytics Demo](https://www.youtube.com/watch?v=06nELYoADnQ)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
