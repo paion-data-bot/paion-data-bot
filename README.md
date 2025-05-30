@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Running Pytorch on Geforce RTX 3070 vs 3090](https://www.reddit.com/r/MachineLearning/comments/1kz046r/d_running_pytorch_on_geforce_rtx_3070_vs_3090/)
+- [[P] Running Local LLM Using 2 Machines on WSL via Ray and vLLM Tutorial](https://www.reddit.com/r/MachineLearning/comments/1kz02o7/p_running_local_llm_using_2_machines_on_wsl_via/)
 - [[P] Semantic Drift Score &lpar;SDS&rpar;: A Simple Metric for Meaning Loss in Text Compression and Transformation](https://www.reddit.com/r/MachineLearning/comments/1kyx49b/p_semantic_drift_score_sds_a_simple_metric_for/)
 - [[P] Open-source project that use LLM as deception system](https://www.reddit.com/r/MachineLearning/comments/1kywv3k/p_opensource_project_that_use_llm_as_deception/)
 - [[D] Claude 4 attempts &quot;Opportunistic Blackmail&quot; to self-preserve](https://www.reddit.com/r/MachineLearning/comments/1kyviz4/d_claude_4_attempts_opportunistic_blackmail_to/)
-- [[R] Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://www.reddit.com/r/MachineLearning/comments/1kyst4a/r_darwin_godel_machine_openended_evolution_of/)
-- [[P] PyTorch Interpretable Image Classification Framework Based on Additive CNNs](https://www.reddit.com/r/MachineLearning/comments/1kyn7k2/p_pytorch_interpretable_image_classification/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
