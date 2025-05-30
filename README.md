@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Which advanced ML network would be best for my use case?](https://www.reddit.com/r/MachineLearning/comments/1kz1xcg/d_which_advanced_ml_network_would_be_best_for_my/)
+- [[R] New Book: &quot;Mastering Modern Time Series Forecasting&quot; – A Hands-On Guide to Statistical, ML, and Deep Learning Models in Python](https://www.reddit.com/r/MachineLearning/comments/1kz1vr4/r_new_book_mastering_modern_time_series/)
 - [[P] Prediction model developed and validated - how to proceed?](https://www.reddit.com/r/MachineLearning/comments/1kz0oni/p_prediction_model_developed_and_validated_how_to/)
 - [[D] Running Pytorch on Geforce RTX 3070 vs 3090](https://www.reddit.com/r/MachineLearning/comments/1kz046r/d_running_pytorch_on_geforce_rtx_3070_vs_3090/)
 - [[P] Running Local LLM Using 2 Machines on WSL via Ray and vLLM Tutorial](https://www.reddit.com/r/MachineLearning/comments/1kz02o7/p_running_local_llm_using_2_machines_on_wsl_via/)
-- [[P] Semantic Drift Score &lpar;SDS&rpar;: A Simple Metric for Meaning Loss in Text Compression and Transformation](https://www.reddit.com/r/MachineLearning/comments/1kyx49b/p_semantic_drift_score_sds_a_simple_metric_for/)
-- [[P] Open-source project that use LLM as deception system](https://www.reddit.com/r/MachineLearning/comments/1kywv3k/p_opensource_project_that_use_llm_as_deception/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
