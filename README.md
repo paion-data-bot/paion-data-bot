@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Research Survey on Developer Collaboration in Decentralized AI](https://www.reddit.com/r/MachineLearning/comments/1kzgm2l/r_research_survey_on_developer_collaboration_in/)
 - [[P] Why does this happen?](https://www.reddit.com/r/MachineLearning/comments/1kzet6v/p_why_does_this_happen/)
 - [[D] Chart shows that FP8 for training becoming more popular](https://www.reddit.com/r/MachineLearning/comments/1kzbphg/d_chart_shows_that_fp8_for_training_becoming_more/)
 - [[R] Improving the Effective Receptive Field of Message-Passing Neural Networks](https://www.reddit.com/r/MachineLearning/comments/1kzauh8/r_improving_the_effective_receptive_field_of/)
 - [[R] HAMburger: Accelerating LLM Inference via Token Smashing](https://www.reddit.com/r/MachineLearning/comments/1kz9saw/r_hamburger_accelerating_llm_inference_via_token/)
-- [[R] LLMs for RecSys: Great at Semantics, But Missing Collaborative Signals? How AdapteRec Injects CF Wisdom](https://www.reddit.com/r/MachineLearning/comments/1kz83rk/r_llms_for_recsys_great_at_semantics_but_missing/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
