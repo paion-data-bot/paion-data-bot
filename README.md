@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Claude 4 attempts &quot;Opportunistic Blackmail&quot; to self-preserve](https://www.reddit.com/r/MachineLearning/comments/1kyviz4/d_claude_4_attempts_opportunistic_blackmail_to/)
 - [[R] Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents](https://www.reddit.com/r/MachineLearning/comments/1kyst4a/r_darwin_godel_machine_openended_evolution_of/)
 - [[P] PyTorch Interpretable Image Classification Framework Based on Additive CNNs](https://www.reddit.com/r/MachineLearning/comments/1kyn7k2/p_pytorch_interpretable_image_classification/)
 - [[D] ACL and Local Conference Double Acceptance](https://www.reddit.com/r/MachineLearning/comments/1kylr2c/d_acl_and_local_conference_double_acceptance/)
 - [[R] How to add confidence intervals to your LLM-as-a-judge](https://www.reddit.com/r/MachineLearning/comments/1kyl04x/r_how_to_add_confidence_intervals_to_your/)
-- [[D] First time ICCV reviewer](https://www.reddit.com/r/MachineLearning/comments/1kyhz44/d_first_time_iccv_reviewer/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
