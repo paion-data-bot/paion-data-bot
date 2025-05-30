@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] HAMburger: Accelerating LLM Inference via Token Smashing](https://www.reddit.com/r/MachineLearning/comments/1kz9saw/r_hamburger_accelerating_llm_inference_via_token/)
 - [[R] LLMs for RecSys: Great at Semantics, But Missing Collaborative Signals? How AdapteRec Injects CF Wisdom](https://www.reddit.com/r/MachineLearning/comments/1kz83rk/r_llms_for_recsys_great_at_semantics_but_missing/)
 - [[R] The Resurrection of the ReLU](https://www.reddit.com/r/MachineLearning/comments/1kz5t16/r_the_resurrection_of_the_relu/)
 - [[P] gvtop: 🎮 Material You TUI for monitoring NVIDIA GPUs](https://www.reddit.com/r/MachineLearning/comments/1kz3k2t/p_gvtop_material_you_tui_for_monitoring_nvidia/)
 - [[D] Building a Local AI Workstation with RTX 5090—Need Real-World Feedback](https://www.reddit.com/r/MachineLearning/comments/1kz2zin/d_building_a_local_ai_workstation_with_rtx/)
-- [[D] Which advanced ML network would be best for my use case?](https://www.reddit.com/r/MachineLearning/comments/1kz1xcg/d_which_advanced_ml_network_would_be_best_for_my/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
