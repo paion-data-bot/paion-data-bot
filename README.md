@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] I am a data scientist preparing for MLE roles. Need roadmap for interview prep.](https://www.reddit.com/r/MachineLearning/comments/1kz6d0t/d_i_am_a_data_scientist_preparing_for_mle_roles/)
 - [[D] Machine Learning resources - Beginners to Advanced](https://www.reddit.com/r/MachineLearning/comments/1kz4rfn/d_machine_learning_resources_beginners_to_advanced/)
 - [[P] gvtop: 🎮 Material You TUI for monitoring NVIDIA GPUs](https://www.reddit.com/r/MachineLearning/comments/1kz3k2t/p_gvtop_material_you_tui_for_monitoring_nvidia/)
 - [[D] Building a Local AI Workstation with RTX 5090—Need Real-World Feedback](https://www.reddit.com/r/MachineLearning/comments/1kz2zin/d_building_a_local_ai_workstation_with_rtx/)
 - [[D] Which advanced ML network would be best for my use case?](https://www.reddit.com/r/MachineLearning/comments/1kz1xcg/d_which_advanced_ml_network_would_be_best_for_my/)
-- [[R] New Book: &quot;Mastering Modern Time Series Forecasting&quot; – A Hands-On Guide to Statistical, ML, and Deep Learning Models in Python](https://www.reddit.com/r/MachineLearning/comments/1kz1vr4/r_new_book_mastering_modern_time_series/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
