@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Why is “everyone” switching to ML?](https://www.reddit.com/r/MachineLearning/comments/1kzms4m/d_why_is_everyone_switching_to_ml/)
+- [[D] Monthly Who&#39;s Hiring and Who wants to be Hired?](https://www.reddit.com/r/MachineLearning/comments/1kzmd2e/d_monthly_whos_hiring_and_who_wants_to_be_hired/)
 - [[D] How Do You Collaborate on AI Models Across Teams or Institutions?](https://www.reddit.com/r/MachineLearning/comments/1kzhpgh/d_how_do_you_collaborate_on_ai_models_across/)
 - [[D] Why are 2025 SOTA LLMs such as Claude and GPT so bad at giving real citations](https://www.reddit.com/r/MachineLearning/comments/1kzh8t7/d_why_are_2025_sota_llms_such_as_claude_and_gpt/)
 - [[R] Research Survey on Developer Collaboration in Decentralized AI](https://www.reddit.com/r/MachineLearning/comments/1kzgm2l/r_research_survey_on_developer_collaboration_in/)
-- [[P] Why does this happen?](https://www.reddit.com/r/MachineLearning/comments/1kzet6v/p_why_does_this_happen/)
-- [[D] Chart shows that FP8 for training becoming more popular](https://www.reddit.com/r/MachineLearning/comments/1kzbphg/d_chart_shows_that_fp8_for_training_becoming_more/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
