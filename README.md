@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] How can I download VFHQ dataset in India?](https://www.reddit.com/r/MachineLearning/comments/1l0718z/r_how_can_i_download_vfhq_dataset_in_india/)
 - [[P] I started building my own AI model at 12. After 3 years of failure, it’s finally done at 15](https://www.reddit.com/r/MachineLearning/comments/1l05vag/p_i_started_building_my_own_ai_model_at_12_after/)
 - [[D] How are you using AI-generated image/video content in your industry?](https://www.reddit.com/r/MachineLearning/comments/1l050tr/d_how_are_you_using_aigenerated_imagevideo/)
 - [[D] Can the future of web search be language-first? Exploring NLWeb + LLM integration](https://www.reddit.com/r/MachineLearning/comments/1l044ke/d_can_the_future_of_web_search_be_languagefirst/)
 - [[D] Tips to start doing open source project](https://www.reddit.com/r/MachineLearning/comments/1l03tm3/d_tips_to_start_doing_open_source_project/)
-- [[D]Help! 0.02 AUPRC of my imbalanced dataset](https://www.reddit.com/r/MachineLearning/comments/1l02joc/dhelp_002_auprc_of_my_imbalanced_dataset/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
