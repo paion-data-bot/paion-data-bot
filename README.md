@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Scholar not recognising my name in my paper on ArXiv](https://www.reddit.com/r/MachineLearning/comments/1l01rsl/r_scholar_not_recognising_my_name_in_my_paper_on/)
 - [[R] Best Model for Sentiment Analysis by Aspect?](https://www.reddit.com/r/MachineLearning/comments/1l000my/r_best_model_for_sentiment_analysis_by_aspect/)
 - [[D]which way do you like to clean your text?](https://www.reddit.com/r/MachineLearning/comments/1kzyhh5/dwhich_way_do_you_like_to_clean_your_text/)
 - [[P] Streamlit Dashboard for Real-Time F1 2025 Season Analysis](https://www.reddit.com/r/MachineLearning/comments/1kzygir/p_streamlit_dashboard_for_realtime_f1_2025_season/)
 - [[D] How chaotic is chaos? How some AI for Science / SciML papers are overstating accuracy claims](https://www.reddit.com/r/MachineLearning/comments/1kzubvr/d_how_chaotic_is_chaos_how_some_ai_for_science/)
-- [[R] Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://www.reddit.com/r/MachineLearning/comments/1kzseyw/r_universal_and_multimodal_style_transfer_based/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
