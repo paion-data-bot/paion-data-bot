@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://www.reddit.com/r/MachineLearning/comments/1kzseyw/r_universal_and_multimodal_style_transfer_based/)
 - [[P] A zero-setup way to test ML models in the browser](https://www.reddit.com/r/MachineLearning/comments/1kzscgu/p_a_zerosetup_way_to_test_ml_models_in_the_browser/)
 - [[R] Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning](https://www.reddit.com/r/MachineLearning/comments/1kzry1w/r_beyond_markovian_reflective_exploration_via/)
 - [[D] Building a PC for training AI, is this a good parts list?](https://www.reddit.com/r/MachineLearning/comments/1kzps17/d_building_a_pc_for_training_ai_is_this_a_good/)
 - [[D] I built VisionCraft to fix LLMs losing repo context during coding – works with Claude, Cursor, Windsurf, and others](https://www.reddit.com/r/MachineLearning/comments/1kzp0g9/d_i_built_visioncraft_to_fix_llms_losing_repo/)
-- [[P] DL based Equity Closing Price Prediction Model with Test R² :.978](https://www.reddit.com/r/MachineLearning/comments/1kzo4pm/p_dl_based_equity_closing_price_prediction_model/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
