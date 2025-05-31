@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How are you using AI-generated image/video content in your industry?](https://www.reddit.com/r/MachineLearning/comments/1l050tr/d_how_are_you_using_aigenerated_imagevideo/)
 - [[D] Can the future of web search be language-first? Exploring NLWeb + LLM integration](https://www.reddit.com/r/MachineLearning/comments/1l044ke/d_can_the_future_of_web_search_be_languagefirst/)
 - [[D] Tips to start doing open source project](https://www.reddit.com/r/MachineLearning/comments/1l03tm3/d_tips_to_start_doing_open_source_project/)
 - [[D]Help! 0.02 AUPRC of my imbalanced dataset](https://www.reddit.com/r/MachineLearning/comments/1l02joc/dhelp_002_auprc_of_my_imbalanced_dataset/)
 - [[D] Learning from social media natives, as we look ahead to AI natives](https://www.reddit.com/r/MachineLearning/comments/1l029rn/d_learning_from_social_media_natives_as_we_look/)
-- [[D] AI Engineer here- our species is already doomed.](https://www.reddit.com/r/MachineLearning/comments/1l01tzu/d_ai_engineer_here_our_species_is_already_doomed/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
