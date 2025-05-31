@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning](https://www.reddit.com/r/MachineLearning/comments/1kzry1w/r_beyond_markovian_reflective_exploration_via/)
 - [[D] Building a PC for training AI, is this a good parts list?](https://www.reddit.com/r/MachineLearning/comments/1kzps17/d_building_a_pc_for_training_ai_is_this_a_good/)
 - [[D] I built VisionCraft to fix LLMs losing repo context during coding – works with Claude, Cursor, Windsurf, and others](https://www.reddit.com/r/MachineLearning/comments/1kzp0g9/d_i_built_visioncraft_to_fix_llms_losing_repo/)
 - [[P] DL based Equity Closing Price Prediction Model with Test R² :.978](https://www.reddit.com/r/MachineLearning/comments/1kzo4pm/p_dl_based_equity_closing_price_prediction_model/)
 - [[D] Why is “everyone” switching to ML?](https://www.reddit.com/r/MachineLearning/comments/1kzms4m/d_why_is_everyone_switching_to_ml/)
-- [[D] Monthly Who&#39;s Hiring and Who wants to be Hired?](https://www.reddit.com/r/MachineLearning/comments/1kzmd2e/d_monthly_whos_hiring_and_who_wants_to_be_hired/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
