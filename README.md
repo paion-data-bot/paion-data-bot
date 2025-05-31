@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]which way do you like to clean your text?](https://www.reddit.com/r/MachineLearning/comments/1kzyhh5/dwhich_way_do_you_like_to_clean_your_text/)
+- [[P] Streamlit Dashboard for Real-Time F1 2025 Season Analysis](https://www.reddit.com/r/MachineLearning/comments/1kzygir/p_streamlit_dashboard_for_realtime_f1_2025_season/)
 - [[D] How chaotic is chaos? How some AI for Science / SciML papers are overstating accuracy claims](https://www.reddit.com/r/MachineLearning/comments/1kzubvr/d_how_chaotic_is_chaos_how_some_ai_for_science/)
 - [[R] Universal and Multimodal Style Transfer Based on Gaussian Splatting](https://www.reddit.com/r/MachineLearning/comments/1kzseyw/r_universal_and_multimodal_style_transfer_based/)
 - [[R] Beyond Markovian: Reflective Exploration via Bayes-Adaptive RL for LLM Reasoning](https://www.reddit.com/r/MachineLearning/comments/1kzry1w/r_beyond_markovian_reflective_exploration_via/)
-- [[D] I built VisionCraft to fix LLMs losing repo context during coding – works with Claude, Cursor, Windsurf, and others](https://www.reddit.com/r/MachineLearning/comments/1kzp0g9/d_i_built_visioncraft_to_fix_llms_losing_repo/)
-- [[P] DL based Equity Closing Price Prediction Model with Test R² :.978](https://www.reddit.com/r/MachineLearning/comments/1kzo4pm/p_dl_based_equity_closing_price_prediction_model/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
