@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Internal transfers to Google Research / DeepMind](https://www.reddit.com/r/MachineLearning/comments/1l090p5/d_internal_transfers_to_google_research_deepmind/)
 - [Views on recent acceptance of LLM written paper at ACL main [D]](https://www.reddit.com/r/MachineLearning/comments/1l074er/views_on_recent_acceptance_of_llm_written_paper/)
 - [[R] How can I download VFHQ dataset in India?](https://www.reddit.com/r/MachineLearning/comments/1l0718z/r_how_can_i_download_vfhq_dataset_in_india/)
 - [[D] Tips to start doing open source project](https://www.reddit.com/r/MachineLearning/comments/1l03tm3/d_tips_to_start_doing_open_source_project/)
 - [[D]Help! 0.02 AUPRC of my imbalanced dataset](https://www.reddit.com/r/MachineLearning/comments/1l02joc/dhelp_002_auprc_of_my_imbalanced_dataset/)
-- [[D] Learning from social media natives, as we look ahead to AI natives](https://www.reddit.com/r/MachineLearning/comments/1l029rn/d_learning_from_social_media_natives_as_we_look/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
