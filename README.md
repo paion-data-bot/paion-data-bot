@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]Help! 0.02 AUPRC of my imbalanced dataset](https://www.reddit.com/r/MachineLearning/comments/1l02joc/dhelp_002_auprc_of_my_imbalanced_dataset/)
+- [[D] Learning from social media natives, as we look ahead to AI natives](https://www.reddit.com/r/MachineLearning/comments/1l029rn/d_learning_from_social_media_natives_as_we_look/)
 - [[D] AI Engineer here- our species is already doomed.](https://www.reddit.com/r/MachineLearning/comments/1l01tzu/d_ai_engineer_here_our_species_is_already_doomed/)
 - [[R] Scholar not recognising my name in my paper on ArXiv](https://www.reddit.com/r/MachineLearning/comments/1l01rsl/r_scholar_not_recognising_my_name_in_my_paper_on/)
 - [[R] Best Model for Sentiment Analysis by Aspect?](https://www.reddit.com/r/MachineLearning/comments/1l000my/r_best_model_for_sentiment_analysis_by_aspect/)
-- [[D]which way do you like to clean your text?](https://www.reddit.com/r/MachineLearning/comments/1kzyhh5/dwhich_way_do_you_like_to_clean_your_text/)
-- [[P] Streamlit Dashboard for Real-Time F1 2025 Season Analysis](https://www.reddit.com/r/MachineLearning/comments/1kzygir/p_streamlit_dashboard_for_realtime_f1_2025_season/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
