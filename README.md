@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Vector database replication [D]](https://www.reddit.com/r/MachineLearning/comments/1l0fccs/vector_database_replication_d/)
+- [[P] AI Learns to Play Final Fight &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l0f1ck/p_ai_learns_to_play_final_fight_deep/)
+- [[R] arXiv endorsement request, Graph NN Model of Human and Mammalian Thought](https://www.reddit.com/r/MachineLearning/comments/1l0evwl/r_arxiv_endorsement_request_graph_nn_model_of/)
 - [[D] Internal transfers to Google Research / DeepMind](https://www.reddit.com/r/MachineLearning/comments/1l090p5/d_internal_transfers_to_google_research_deepmind/)
 - [Views on recent acceptance of LLM written paper at ACL main [D]](https://www.reddit.com/r/MachineLearning/comments/1l074er/views_on_recent_acceptance_of_llm_written_paper/)
-- [[R] How can I download VFHQ dataset in India?](https://www.reddit.com/r/MachineLearning/comments/1l0718z/r_how_can_i_download_vfhq_dataset_in_india/)
-- [[D] Tips to start doing open source project](https://www.reddit.com/r/MachineLearning/comments/1l03tm3/d_tips_to_start_doing_open_source_project/)
-- [[D]Help! 0.02 AUPRC of my imbalanced dataset](https://www.reddit.com/r/MachineLearning/comments/1l02joc/dhelp_002_auprc_of_my_imbalanced_dataset/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
