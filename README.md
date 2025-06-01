@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Is There a Place for Sacred Code? We Think So. We’re experimenting with something unusual — and if it speaks to you, we’d love to hear your thoughts. [D]](https://www.reddit.com/r/MachineLearning/comments/1l0vn4n/is_there_a_place_for_sacred_code_we_think_so_were/)
 - [[D] How are single-author papers in top-tier venues viewed by faculty search committees and industry hiring managers?](https://www.reddit.com/r/MachineLearning/comments/1l0u419/d_how_are_singleauthor_papers_in_toptier_venues/)
 - [App-Use : Create virtual desktops for AI agents to focus on specific apps.[P]](https://www.reddit.com/r/MachineLearning/comments/1l0t8e3/appuse_create_virtual_desktops_for_ai_agents_to/)
 - [[R] Equivariance is dead, long live equivariance?](https://www.reddit.com/r/MachineLearning/comments/1l0rfq7/r_equivariance_is_dead_long_live_equivariance/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/1l0r0le/d_simple_questions_thread/)
-- [[P] Steam Recommender](https://www.reddit.com/r/MachineLearning/comments/1l0qucq/p_steam_recommender/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
