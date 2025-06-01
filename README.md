@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to use LLMs for Data Analysis?](https://www.reddit.com/r/MachineLearning/comments/1l0jq5z/d_how_to_use_llms_for_data_analysis/)
 - [[D] Researchers and engineers in academia as well as industry, which books did you find the most useful in creating your knowledge base and skill set?](https://www.reddit.com/r/MachineLearning/comments/1l0iz76/d_researchers_and_engineers_in_academia_as_well/)
 - [[D] How would you go about implementing the &quot;tab tab tab&quot; feature of AI code editors?](https://www.reddit.com/r/MachineLearning/comments/1l0imny/d_how_would_you_go_about_implementing_the_tab_tab/)
 - [Machine learning copy system [P]](https://www.reddit.com/r/MachineLearning/comments/1l0gp55/machine_learning_copy_system_p/)
 - [[D] Paramorphic Learning](https://www.reddit.com/r/MachineLearning/comments/1l0g19e/d_paramorphic_learning/)
-- [Vector database replication [D]](https://www.reddit.com/r/MachineLearning/comments/1l0fccs/vector_database_replication_d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
