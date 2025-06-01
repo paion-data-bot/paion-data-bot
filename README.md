@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Hiring: [Remote] - Salary:[BASED ON YOUR ESTIMATES] - [Contract] - [Video game - Machine learning AI opponents]](https://www.reddit.com/r/MachineLearning/comments/1l10p7l/p_hiring_remote_salarybased_on_your_estimates/)
+- [[D] LLM Generated Research Paper](https://www.reddit.com/r/MachineLearning/comments/1l129rh/d_llm_generated_research_paper/)
 - [[D] fast nst model not working as expected](https://www.reddit.com/r/MachineLearning/comments/1l1072d/d_fast_nst_model_not_working_as_expected/)
 - [Looking for more image enhancement methods [R]](https://www.reddit.com/r/MachineLearning/comments/1l0ywku/looking_for_more_image_enhancement_methods_r/)
 - [[D] Advice on processing ~1M jobs/month with LLaMA for cost savings](https://www.reddit.com/r/MachineLearning/comments/1l0yak3/d_advice_on_processing_1m_jobsmonth_with_llama/)
