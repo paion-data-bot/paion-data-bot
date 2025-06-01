@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is it possible to create a good ml model all by yourself with limited data](https://www.reddit.com/r/MachineLearning/comments/1l0zo75/d_is_it_possible_to_create_a_good_ml_model_all_by/)
 - [Looking for more image enhancement methods [R]](https://www.reddit.com/r/MachineLearning/comments/1l0ywku/looking_for_more_image_enhancement_methods_r/)
 - [[D] Advice on processing ~1M jobs/month with LLaMA for cost savings](https://www.reddit.com/r/MachineLearning/comments/1l0yak3/d_advice_on_processing_1m_jobsmonth_with_llama/)
 - [[P] Interactive Pytorch visualization package that works in notebooks with 1 line of code](https://www.reddit.com/r/MachineLearning/comments/1l0xvq9/p_interactive_pytorch_visualization_package_that/)
 - [[R] A closer look at the black-box aspects of AI, and the growing field of mechanistic interpretability](https://www.reddit.com/r/MachineLearning/comments/1l0xgsm/r_a_closer_look_at_the_blackbox_aspects_of_ai_and/)
-- [[D] How are single-author papers in top-tier venues viewed by faculty search committees and industry hiring managers?](https://www.reddit.com/r/MachineLearning/comments/1l0u419/d_how_are_singleauthor_papers_in_toptier_venues/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
