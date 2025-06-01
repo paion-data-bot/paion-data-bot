@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How do you see funding into the field changing over the next decade?](https://www.reddit.com/r/MachineLearning/comments/1l0mnbz/d_how_do_you_see_funding_into_the_field_changing/)
 - [[P] OSS Release: LLM Gateway — open-source multi-provider LLM router &lpar;self-host or 5 % flat fee hosted&rpar; Openrouter alternative](https://www.reddit.com/r/MachineLearning/comments/1l0mipk/p_oss_release_llm_gateway_opensource/)
 - [[D] What should be the methodology for forecasting](https://www.reddit.com/r/MachineLearning/comments/1l0mbbk/d_what_should_be_the_methodology_for_forecasting/)
 - [[R] Siamese Neural Network Algorithm](https://www.reddit.com/r/MachineLearning/comments/1l0lype/r_siamese_neural_network_algorithm/)
 - [To all the researchers here! How you approach to AI/ML research of the future?[D]](https://www.reddit.com/r/MachineLearning/comments/1l0l4h9/to_all_the_researchers_here_how_you_approach_to/)
-- [[D] How to use LLMs for Data Analysis?](https://www.reddit.com/r/MachineLearning/comments/1l0jq5z/d_how_to_use_llms_for_data_analysis/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
