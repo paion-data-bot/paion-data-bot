@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Siamese Neural Network Algorithm](https://www.reddit.com/r/MachineLearning/comments/1l0lype/r_siamese_neural_network_algorithm/)
 - [To all the researchers here! How you approach to AI/ML research of the future?[D]](https://www.reddit.com/r/MachineLearning/comments/1l0l4h9/to_all_the_researchers_here_how_you_approach_to/)
 - [[D] How to use LLMs for Data Analysis?](https://www.reddit.com/r/MachineLearning/comments/1l0jq5z/d_how_to_use_llms_for_data_analysis/)
 - [[D] Researchers and engineers in academia as well as industry, which books did you find the most useful in creating your knowledge base and skill set?](https://www.reddit.com/r/MachineLearning/comments/1l0iz76/d_researchers_and_engineers_in_academia_as_well/)
 - [Machine learning copy system [P]](https://www.reddit.com/r/MachineLearning/comments/1l0gp55/machine_learning_copy_system_p/)
-- [[D] Paramorphic Learning](https://www.reddit.com/r/MachineLearning/comments/1l0g19e/d_paramorphic_learning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
