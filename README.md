@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] fast nst model not working as expected](https://www.reddit.com/r/MachineLearning/comments/1l1072d/d_fast_nst_model_not_working_as_expected/)
+- [[D] Anyone using an open source framework to control LLM agent behavior more precisely?](https://www.reddit.com/r/MachineLearning/comments/1l1059u/d_anyone_using_an_open_source_framework_to/)
 - [[D] Is it possible to create a good ml model all by yourself with limited data](https://www.reddit.com/r/MachineLearning/comments/1l0zo75/d_is_it_possible_to_create_a_good_ml_model_all_by/)
 - [Looking for more image enhancement methods [R]](https://www.reddit.com/r/MachineLearning/comments/1l0ywku/looking_for_more_image_enhancement_methods_r/)
 - [[D] Advice on processing ~1M jobs/month with LLaMA for cost savings](https://www.reddit.com/r/MachineLearning/comments/1l0yak3/d_advice_on_processing_1m_jobsmonth_with_llama/)
-- [[P] Interactive Pytorch visualization package that works in notebooks with 1 line of code](https://www.reddit.com/r/MachineLearning/comments/1l0xvq9/p_interactive_pytorch_visualization_package_that/)
-- [[R] A closer look at the black-box aspects of AI, and the growing field of mechanistic interpretability](https://www.reddit.com/r/MachineLearning/comments/1l0xgsm/r_a_closer_look_at_the_blackbox_aspects_of_ai_and/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
