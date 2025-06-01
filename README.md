@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/1l0r0le/d_simple_questions_thread/)
+- [[P] Steam Recommender](https://www.reddit.com/r/MachineLearning/comments/1l0qucq/p_steam_recommender/)
 - [Need recommendations for cheap on-demand single vector embedding [D]](https://www.reddit.com/r/MachineLearning/comments/1l0n3z1/need_recommendations_for_cheap_ondemand_single/)
 - [[D] How do you see funding into the field changing over the next decade?](https://www.reddit.com/r/MachineLearning/comments/1l0mnbz/d_how_do_you_see_funding_into_the_field_changing/)
 - [[P] OSS Release: LLM Gateway — open-source multi-provider LLM router &lpar;self-host or 5 % flat fee hosted&rpar; Openrouter alternative](https://www.reddit.com/r/MachineLearning/comments/1l0mipk/p_oss_release_llm_gateway_opensource/)
-- [[D] What should be the methodology for forecasting](https://www.reddit.com/r/MachineLearning/comments/1l0mbbk/d_what_should_be_the_methodology_for_forecasting/)
-- [[R] Siamese Neural Network Algorithm](https://www.reddit.com/r/MachineLearning/comments/1l0lype/r_siamese_neural_network_algorithm/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
