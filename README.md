@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [App-Use : Create virtual desktops for AI agents to focus on specific apps.[P]](https://www.reddit.com/r/MachineLearning/comments/1l0t8e3/appuse_create_virtual_desktops_for_ai_agents_to/)
 - [[R] Equivariance is dead, long live equivariance?](https://www.reddit.com/r/MachineLearning/comments/1l0rfq7/r_equivariance_is_dead_long_live_equivariance/)
 - [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/1l0r0le/d_simple_questions_thread/)
 - [[P] Steam Recommender](https://www.reddit.com/r/MachineLearning/comments/1l0qucq/p_steam_recommender/)
 - [Need recommendations for cheap on-demand single vector embedding [D]](https://www.reddit.com/r/MachineLearning/comments/1l0n3z1/need_recommendations_for_cheap_ondemand_single/)
-- [[D] How do you see funding into the field changing over the next decade?](https://www.reddit.com/r/MachineLearning/comments/1l0mnbz/d_how_do_you_see_funding_into_the_field_changing/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
