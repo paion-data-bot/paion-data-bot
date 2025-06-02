@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Self-Promotion Thread](https://www.reddit.com/r/MachineLearning/comments/1l16j5k/d_selfpromotion_thread/)
 - [[P] Open Source Photo Quality Analyzer: Get Technical Scores for Your Images &lpar;Python, YOLO, OpenCV CLI&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l14fce/p_open_source_photo_quality_analyzer_get/)
 - [[D] LLM Generated Research Paper](https://www.reddit.com/r/MachineLearning/comments/1l129rh/d_llm_generated_research_paper/)
 - [[D] fast nst model not working as expected](https://www.reddit.com/r/MachineLearning/comments/1l1072d/d_fast_nst_model_not_working_as_expected/)
 - [Looking for more image enhancement methods [R]](https://www.reddit.com/r/MachineLearning/comments/1l0ywku/looking_for_more_image_enhancement_methods_r/)
-- [[D] Advice on processing ~1M jobs/month with LLaMA for cost savings](https://www.reddit.com/r/MachineLearning/comments/1l0yak3/d_advice_on_processing_1m_jobsmonth_with_llama/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
