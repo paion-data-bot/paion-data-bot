@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to train a model for Speech Emotion Recognition without a transformer?](https://www.reddit.com/r/MachineLearning/comments/1l1azju/d_how_to_train_a_model_for_speech_emotion/)
 - [[D] MCP Client with Local Ollama LLM + Multi-Server Tools](https://www.reddit.com/r/MachineLearning/comments/1l18by2/d_mcp_client_with_local_ollama_llm_multiserver/)
 - [[P] Evolving Modular Priors to Actually Solve ARC and Generalize, Not Just Memorize](https://www.reddit.com/r/MachineLearning/comments/1l181y9/p_evolving_modular_priors_to_actually_solve_arc/)
 - [[D] Self-Promotion Thread](https://www.reddit.com/r/MachineLearning/comments/1l16j5k/d_selfpromotion_thread/)
 - [[P] Open Source Photo Quality Analyzer: Get Technical Scores for Your Images &lpar;Python, YOLO, OpenCV CLI&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l14fce/p_open_source_photo_quality_analyzer_get/)
-- [[D] LLM Generated Research Paper](https://www.reddit.com/r/MachineLearning/comments/1l129rh/d_llm_generated_research_paper/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
