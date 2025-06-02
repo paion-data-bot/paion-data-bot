@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[R] Trends in Artificial Intelligence &lpar;AI&rpar; - Bond Capital &lpar;Mary Meeker&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l1me7o/r_trends_in_artificial_intelligence_ai_bond/)
 - [[D] TMLR paper quality seems better than CVPR, ICLR.](https://www.reddit.com/r/MachineLearning/comments/1l1kttb/d_tmlr_paper_quality_seems_better_than_cvpr_iclr/)
 - [[D] Is overfitting still relevant in the era double descent?](https://www.reddit.com/r/MachineLearning/comments/1l1g05b/d_is_overfitting_still_relevant_in_the_era_double/)
 - [[R] System Prompt Learning: A Third Paradigm for LLM Learning Beyond Pretraining and Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/1l1bmev/r_system_prompt_learning_a_third_paradigm_for_llm/)
 - [[D] How to train a model for Speech Emotion Recognition without a transformer?](https://www.reddit.com/r/MachineLearning/comments/1l1azju/d_how_to_train_a_model_for_speech_emotion/)
+- [[D] MCP Client with Local Ollama LLM + Multi-Server Tools](https://www.reddit.com/r/MachineLearning/comments/1l18by2/d_mcp_client_with_local_ollama_llm_multiserver/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
