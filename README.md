@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Looking for a Real-World AI/ML Problem to Solve &lpar;6–8 Month Collaboration as Part of Major Project&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l1jyme/d_looking_for_a_realworld_aiml_problem_to_solve/)
 - [[D] Is overfitting still relevant in the era double descent?](https://www.reddit.com/r/MachineLearning/comments/1l1g05b/d_is_overfitting_still_relevant_in_the_era_double/)
 - [[R] System Prompt Learning: A Third Paradigm for LLM Learning Beyond Pretraining and Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/1l1bmev/r_system_prompt_learning_a_third_paradigm_for_llm/)
 - [[D] How to train a model for Speech Emotion Recognition without a transformer?](https://www.reddit.com/r/MachineLearning/comments/1l1azju/d_how_to_train_a_model_for_speech_emotion/)
 - [[D] MCP Client with Local Ollama LLM + Multi-Server Tools](https://www.reddit.com/r/MachineLearning/comments/1l18by2/d_mcp_client_with_local_ollama_llm_multiserver/)
-- [[P] Evolving Modular Priors to Actually Solve ARC and Generalize, Not Just Memorize](https://www.reddit.com/r/MachineLearning/comments/1l181y9/p_evolving_modular_priors_to_actually_solve_arc/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
