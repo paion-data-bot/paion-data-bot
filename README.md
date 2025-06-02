@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Creating/constructing a basis set from a embedding space?](https://www.reddit.com/r/MachineLearning/comments/1l1rnd9/d_creatingconstructing_a_basis_set_from_a/)
 - [[D] Requesting Feedback: PCA Chapter, From My Upcoming ML Book &lpar;Full PDF Included&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l1qukk/d_requesting_feedback_pca_chapter_from_my/)
 - [[D] Looking for some ideas on what to do with, effectively, a time-series of correlation coefficients](https://www.reddit.com/r/MachineLearning/comments/1l1q527/d_looking_for_some_ideas_on_what_to_do_with/)
 - [[D] TMLR paper quality seems better than CVPR, ICLR.](https://www.reddit.com/r/MachineLearning/comments/1l1kttb/d_tmlr_paper_quality_seems_better_than_cvpr_iclr/)
 - [[D] Is overfitting still relevant in the era double descent?](https://www.reddit.com/r/MachineLearning/comments/1l1g05b/d_is_overfitting_still_relevant_in_the_era_double/)
-- [[R] System Prompt Learning: A Third Paradigm for LLM Learning Beyond Pretraining and Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/1l1bmev/r_system_prompt_learning_a_third_paradigm_for_llm/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
