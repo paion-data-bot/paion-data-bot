@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
-- [Finding Hidden Fraud Networks: Native Graph Analytics in Snowflake with Neo4j](https://www.youtube.com/watch?v=Bd3E4Q_TdF8)
-- [Uncover Hidden Patterns with Neo4j Graph Analytics for Snowflake](https://www.youtube.com/watch?v=11lF_H121x8)
 - [Smarter GenAI with Neo4j AuraDB and Google Cloud](https://www.youtube.com/watch?v=nnnfKMk3hiM)
 - [Using Aura Graph Analytics to Model NYC Subway Disruptions](https://www.youtube.com/watch?v=1qJkTqbpf5k)
 - [FikaAI Interview with A N M Bazlur Rahman](https://www.youtube.com/watch?v=RCNM-LLVMCM)
+- [FikaAI Interview with Abel Fresnillo](https://www.youtube.com/watch?v=e9od8ihGiE8)
+- [FikaAI Interview with Ammar Yusuf](https://www.youtube.com/watch?v=8BEPBY6Oz4Q)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
