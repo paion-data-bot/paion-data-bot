@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Looking for open-source no-code tools for customer support automation and financial data analysis](https://www.reddit.com/r/MachineLearning/comments/1l2amrr/p_looking_for_opensource_nocode_tools_for/)
 - [[D] Stuck with this error in andrew ng&#39;s lab file](https://www.reddit.com/r/MachineLearning/comments/1l281x3/d_stuck_with_this_error_in_andrew_ngs_lab_file/)
 - [[D] What are your experiences with the European ELLIS program and would you recommend it?](https://www.reddit.com/r/MachineLearning/comments/1l27a0y/d_what_are_your_experiences_with_the_european/)
 - [Best way to figure out drawbacks of the methodology from a certain paper [D]](https://www.reddit.com/r/MachineLearning/comments/1l25bae/best_way_to_figure_out_drawbacks_of_the/)
 - [[D] Are recursive thinkers a safety risk in AI alignment no one’s flagged yet? Found a site worth a look…](https://www.reddit.com/r/MachineLearning/comments/1l2031y/d_are_recursive_thinkers_a_safety_risk_in_ai/)
-- [[R] Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space](https://www.reddit.com/r/MachineLearning/comments/1l1zp1f/r_soft_thinking_unlocking_the_reasoning_potential/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
