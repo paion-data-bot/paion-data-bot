@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] CPU time correlates with embedding entropy - related to recent thermodynamic AI work?](https://www.reddit.com/r/MachineLearning/comments/1l2ka52/d_cpu_time_correlates_with_embedding_entropy/)
 - [[R] GuidedQuant: Boost layer-wise PTQ methods using the end loss guidance &lpar;Qwen3, Gemma3, Llama3.3 / 2~4bit quantization&rpar; &lpar;ICML 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l2j8ts/r_guidedquant_boost_layerwise_ptq_methods_using/)
 - [[D]: Tensorboard alternatives](https://www.reddit.com/r/MachineLearning/comments/1l2gqcn/d_tensorboard_alternatives/)
 - [[D] what is the cheapest double descent experiment?](https://www.reddit.com/r/MachineLearning/comments/1l2ea55/d_what_is_the_cheapest_double_descent_experiment/)
 - [Vision Language Models are Biased](https://www.reddit.com/r/MachineLearning/comments/1l2b9av/vision_language_models_are_biased/)
-- [[D] What are your experiences with the European ELLIS program and would you recommend it?](https://www.reddit.com/r/MachineLearning/comments/1l27a0y/d_what_are_your_experiences_with_the_european/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
