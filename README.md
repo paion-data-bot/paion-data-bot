@@ -14,11 +14,11 @@
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
-- [Gemini 2.5: Our most intelligent models are getting even better](https://deepmind.google/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/)
+- [Advanced audio dialog and generation with Gemini 2.5](https://deepmind.google/discover/blog/advanced-audio-dialog-and-generation-with-gemini-25/)
 - [Advancing Gemini&#39;s security safeguards](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/)
+- [Fuel your creativity with new generative media models and tools](https://deepmind.google/discover/blog/fuel-your-creativity-with-new-generative-media-models-and-tools/)
 - [Our vision for building a universal AI assistant](https://deepmind.google/discover/blog/our-vision-for-building-a-universal-ai-assistant/)
 - [SynthID Detector — a new portal to help identify AI-generated content](https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/)
-- [Announcing Gemma 3n preview: Powerful, efficient, mobile-first AI](https://deepmind.google/discover/blog/announcing-gemma-3n-preview-powerful-efficient-mobile-first-ai/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
