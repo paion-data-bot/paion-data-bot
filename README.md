@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Getting Creative With HTML Dialog](https://css-tricks.com/getting-creative-with-html-dialog/)
 - [Better CSS Shapes Using shape&lpar;&rpar; — Part 2: More on Arcs](https://css-tricks.com/better-css-shapes-using-shape-part-2-more-on-arcs/)
 - [What We Know &lpar;So Far&rpar; About CSS Reading Order](https://css-tricks.com/what-we-know-so-far-about-css-reading-order/)
 - [Better CSS Shapes Using shape&lpar;&rpar; — Part 1: Lines and Arcs](https://css-tricks.com/better-css-shapes-using-shape-part-1-lines-and-arcs/)
 - [You can style alt text like any other text](https://css-tricks.com/you-can-style-alt-text-like-any-other-text/)
-- [SVG to CSS Shape Converter](https://css-tricks.com/svg-to-css-shape-converter/)
 <!-- CSS-TRIKCS:END -->
