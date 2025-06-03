@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]: Tensorboard alternatives](https://www.reddit.com/r/MachineLearning/comments/1l2gqcn/d_tensorboard_alternatives/)
 - [[D] what is the cheapest double descent experiment?](https://www.reddit.com/r/MachineLearning/comments/1l2ea55/d_what_is_the_cheapest_double_descent_experiment/)
 - [Vision Language Models are Biased](https://www.reddit.com/r/MachineLearning/comments/1l2b9av/vision_language_models_are_biased/)
 - [[D] What are your experiences with the European ELLIS program and would you recommend it?](https://www.reddit.com/r/MachineLearning/comments/1l27a0y/d_what_are_your_experiences_with_the_european/)
 - [Best way to figure out drawbacks of the methodology from a certain paper [D]](https://www.reddit.com/r/MachineLearning/comments/1l25bae/best_way_to_figure_out_drawbacks_of_the/)
-- [[D] Are recursive thinkers a safety risk in AI alignment no one’s flagged yet? Found a site worth a look…](https://www.reddit.com/r/MachineLearning/comments/1l2031y/d_are_recursive_thinkers_a_safety_risk_in_ai/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
