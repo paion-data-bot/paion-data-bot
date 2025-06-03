@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Implementing Mean Flows For One-Step Generative Modelling](https://www.reddit.com/r/MachineLearning/comments/1l2pxe0/r_implementing_mean_flows_for_onestep_generative/)
 - [[R] SocialSim’25: Social Simulations with LLMs — Call for Papers + Shared Task](https://www.reddit.com/r/MachineLearning/comments/1l2lqbo/r_socialsim25_social_simulations_with_llms_call/)
 - [[D] Poor classification performance but good retrieval performance](https://www.reddit.com/r/MachineLearning/comments/1l2lopo/d_poor_classification_performance_but_good/)
 - [[D] CPU time correlates with embedding entropy - related to recent thermodynamic AI work?](https://www.reddit.com/r/MachineLearning/comments/1l2ka52/d_cpu_time_correlates_with_embedding_entropy/)
 - [[R] GuidedQuant: Boost layer-wise PTQ methods using the end loss guidance &lpar;Qwen3, Gemma3, Llama3.3 / 2~4bit quantization&rpar; &lpar;ICML 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l2j8ts/r_guidedquant_boost_layerwise_ptq_methods_using/)
-- [[D]: Tensorboard alternatives](https://www.reddit.com/r/MachineLearning/comments/1l2gqcn/d_tensorboard_alternatives/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
