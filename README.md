@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [Best way to figure out drawbacks of the methodology from a certain paper [D]](https://www.reddit.com/r/MachineLearning/comments/1l25bae/best_way_to_figure_out_drawbacks_of_the/)
-- [[D] Cost estimation](https://www.reddit.com/r/MachineLearning/comments/1l254rv/d_cost_estimation/)
-- [Pros and Cons of using LLMs to generate learning guides and roadmaps for you? [D]](https://www.reddit.com/r/MachineLearning/comments/1l24fq8/pros_and_cons_of_using_llms_to_generate_learning/)
 - [[D] Are recursive thinkers a safety risk in AI alignment no one’s flagged yet? Found a site worth a look…](https://www.reddit.com/r/MachineLearning/comments/1l2031y/d_are_recursive_thinkers_a_safety_risk_in_ai/)
 - [[R] Soft Thinking: Unlocking the Reasoning Potential of LLMs in Continuous Concept Space](https://www.reddit.com/r/MachineLearning/comments/1l1zp1f/r_soft_thinking_unlocking_the_reasoning_potential/)
+- [[D] Creating/constructing a basis set from a embedding space?](https://www.reddit.com/r/MachineLearning/comments/1l1rnd9/d_creatingconstructing_a_basis_set_from_a/)
+- [[D] Requesting Feedback: PCA Chapter, From My Upcoming ML Book &lpar;Full PDF Included&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l1qukk/d_requesting_feedback_pca_chapter_from_my/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
