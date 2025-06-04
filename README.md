@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Has there been an effective universal method for continual learning/online learning for LLMs?](https://www.reddit.com/r/MachineLearning/comments/1l2v7n9/d_has_there_been_an_effective_universal_method/)
+- [[D] Scale ML research scientist/engineer interviews](https://www.reddit.com/r/MachineLearning/comments/1l2unon/d_scale_ml_research_scientistengineer_interviews/)
+- [[R] Supervised classification on flow cytometry data — small sample size &lpar;50 samples, 3 classes&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l2u8f1/r_supervised_classification_on_flow_cytometry/)
 - [[D] Have we tried Brain simulation/Neural network made of Vectors in Space — Not Layers](https://www.reddit.com/r/MachineLearning/comments/1l2svy2/d_have_we_tried_brain_simulationneural_network/)
 - [[P] SnapViewer – An alternative PyTorch Memory Snapshot Viewer](https://www.reddit.com/r/MachineLearning/comments/1l2rzor/p_snapviewer_an_alternative_pytorch_memory/)
-- [[R] Implementing Mean Flows For One-Step Generative Modelling](https://www.reddit.com/r/MachineLearning/comments/1l2pxe0/r_implementing_mean_flows_for_onestep_generative/)
-- [[R] SocialSim’25: Social Simulations with LLMs — Call for Papers + Shared Task](https://www.reddit.com/r/MachineLearning/comments/1l2lqbo/r_socialsim25_social_simulations_with_llms_call/)
-- [[D] Poor classification performance but good retrieval performance](https://www.reddit.com/r/MachineLearning/comments/1l2lopo/d_poor_classification_performance_but_good/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
