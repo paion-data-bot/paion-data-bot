@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Seeking a career in AI/ML research and MSc with a non-cs degree](https://www.reddit.com/r/MachineLearning/comments/1l3ir0r/d_seeking_a_career_in_aiml_research_and_msc_with/)
-- [[D] 🚫 The Illusion of Machine Learning Mastery](https://www.reddit.com/r/MachineLearning/comments/1l3hhwg/d_the_illusion_of_machine_learning_mastery/)
 - [[P] Responsible Prompting API - Opensource project - Feedback appreciated!](https://www.reddit.com/r/MachineLearning/comments/1l3gjx6/p_responsible_prompting_api_opensource_project/)
 - [[P] Metadata-Augmented Transformers: Early Results &amp; Call for Collaboration](https://www.reddit.com/r/MachineLearning/comments/1l3cws1/p_metadataaugmented_transformers_early_results/)
 - [[Project] Generate MCP tools for Claude and Cursor from any OpenAPI spec &lpar;OSS&rpar; Instantly](https://www.reddit.com/r/MachineLearning/comments/1l3cuqv/project_generate_mcp_tools_for_claude_and_cursor/)
+- [[D] need real advice.. entity matching across messy scraped data, central model? field-by-field logic?](https://www.reddit.com/r/MachineLearning/comments/1l3afa6/d_need_real_advice_entity_matching_across_messy/)
+- [[N] Nvidia’s Blackwell Conquers Largest LLM Training Benchmark](https://www.reddit.com/r/MachineLearning/comments/1l39vua/n_nvidias_blackwell_conquers_largest_llm_training/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
