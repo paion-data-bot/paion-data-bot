@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Project] Generate MCP tools for Claude and Cursor from any OpenAPI spec &lpar;OSS&rpar; Instantly](https://www.reddit.com/r/MachineLearning/comments/1l3cuqv/project_generate_mcp_tools_for_claude_and_cursor/)
 - [[D] need real advice.. entity matching across messy scraped data, central model? field-by-field logic?](https://www.reddit.com/r/MachineLearning/comments/1l3afa6/d_need_real_advice_entity_matching_across_messy/)
 - [[N] Nvidia’s Blackwell Conquers Largest LLM Training Benchmark](https://www.reddit.com/r/MachineLearning/comments/1l39vua/n_nvidias_blackwell_conquers_largest_llm_training/)
 - [[D] Issue in result reproduction of DeepLabV3 model on Cityscapes dataset](https://www.reddit.com/r/MachineLearning/comments/1l38fwd/d_issue_in_result_reproduction_of_deeplabv3_model/)
 - [[D] Latest Work in Transformation-based Models?](https://www.reddit.com/r/MachineLearning/comments/1l3837k/d_latest_work_in_transformationbased_models/)
-- [[D] hosting Deepseek on Prem](https://www.reddit.com/r/MachineLearning/comments/1l37nnu/d_hosting_deepseek_on_prem/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
