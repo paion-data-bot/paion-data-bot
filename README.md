@@ -54,10 +54,10 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Why assigning custom data view IDs matters in Kibana](https://www.elastic.co/blog/custom-data-view-ids)
+- [Why assigning custom data view IDs matters in Kibana](https://www.elastic.co/blog/custom-data-view-ids)
 - [Elastic achieves AWS Education ISV Partner Competency, strengthening education solutions portfolio](https://www.elastic.co/blog/elastic-aws-competency-education)
 - [Elastic achieves AWS Education ISV Partner Competency, strengthening education solutions portfolio](https://www.elastic.co/blog/elastic-aws-competency-education)
-- [Elastic Stack 9.0.2 released](https://www.elastic.co/blog/elastic-stack-9-0-2-released)
-- [Elastic Stack 8.17.7 released](https://www.elastic.co/blog/elastic-stack-8-17-7-released)
 - [Elastic Stack 9.0.2 released](https://www.elastic.co/blog/elastic-stack-9-0-2-released)
 <!-- ELASTIC-BLOGS:END -->
 
