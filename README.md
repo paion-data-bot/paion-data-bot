@@ -24,10 +24,10 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Relevance of NeurIPS competition winners in academia](https://www.reddit.com/r/MachineLearning/comments/1l3me0v/d_relevance_of_neurips_competition_winners_in/)
 - [[P] [Q] HROM-M1 | MoE model by 15 yo dev](https://www.reddit.com/r/MachineLearning/comments/1l3kr57/p_q_hromm1_moe_model_by_15_yo_dev/)
 - [[P] Responsible Prompting API - Opensource project - Feedback appreciated!](https://www.reddit.com/r/MachineLearning/comments/1l3gjx6/p_responsible_prompting_api_opensource_project/)
 - [[P] Metadata-Augmented Transformers: Early Results &amp; Call for Collaboration](https://www.reddit.com/r/MachineLearning/comments/1l3cws1/p_metadataaugmented_transformers_early_results/)
-- [[Project] Generate MCP tools for Claude and Cursor from any OpenAPI spec &lpar;OSS&rpar; Instantly](https://www.reddit.com/r/MachineLearning/comments/1l3cuqv/project_generate_mcp_tools_for_claude_and_cursor/)
 - [[D] need real advice.. entity matching across messy scraped data, central model? field-by-field logic?](https://www.reddit.com/r/MachineLearning/comments/1l3afa6/d_need_real_advice_entity_matching_across_messy/)
 <!-- REDDIT-ML:END -->
 
