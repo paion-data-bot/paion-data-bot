@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P][R]Is Implementing Variational Schrödinger Momentum Diffusion &lpar;VSMD&rpar; a Good ML Project for a new guy in ml? Seeking Learning Resources!](https://www.reddit.com/r/MachineLearning/comments/1l3zykg/pris_implementing_variational_schrödinger/)
 - [[R] Atlas: Learning to Optimally Memorize the Context at Test Time](https://www.reddit.com/r/MachineLearning/comments/1l3wbft/r_atlas_learning_to_optimally_memorize_the/)
 - [[D] PhD in the EU](https://www.reddit.com/r/MachineLearning/comments/1l3tnhh/d_phd_in_the_eu/)
 - [[D] Relevance of NeurIPS competition winners in academia](https://www.reddit.com/r/MachineLearning/comments/1l3me0v/d_relevance_of_neurips_competition_winners_in/)
 - [[P] [Q] HROM-M1 | MoE model by 15 yo dev](https://www.reddit.com/r/MachineLearning/comments/1l3kr57/p_q_hromm1_moe_model_by_15_yo_dev/)
-- [[P] Responsible Prompting API - Opensource project - Feedback appreciated!](https://www.reddit.com/r/MachineLearning/comments/1l3gjx6/p_responsible_prompting_api_opensource_project/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
