@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] As a master’s student aiming for a PhD program, should I care about research internships?](https://www.reddit.com/r/MachineLearning/comments/1l3todn/d_as_a_masters_student_aiming_for_a_phd_program/)
+- [[D] PhD in the EU](https://www.reddit.com/r/MachineLearning/comments/1l3tnhh/d_phd_in_the_eu/)
 - [[D] Relevance of NeurIPS competition winners in academia](https://www.reddit.com/r/MachineLearning/comments/1l3me0v/d_relevance_of_neurips_competition_winners_in/)
 - [[P] [Q] HROM-M1 | MoE model by 15 yo dev](https://www.reddit.com/r/MachineLearning/comments/1l3kr57/p_q_hromm1_moe_model_by_15_yo_dev/)
 - [[P] Responsible Prompting API - Opensource project - Feedback appreciated!](https://www.reddit.com/r/MachineLearning/comments/1l3gjx6/p_responsible_prompting_api_opensource_project/)
-- [[P] Metadata-Augmented Transformers: Early Results &amp; Call for Collaboration](https://www.reddit.com/r/MachineLearning/comments/1l3cws1/p_metadataaugmented_transformers_early_results/)
-- [[D] need real advice.. entity matching across messy scraped data, central model? field-by-field logic?](https://www.reddit.com/r/MachineLearning/comments/1l3afa6/d_need_real_advice_entity_matching_across_messy/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
