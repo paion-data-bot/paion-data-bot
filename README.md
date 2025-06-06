@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] The AI Coding Assistant Wars. Who is Top Dog?](https://www.reddit.com/r/MachineLearning/comments/1l4znn7/d_the_ai_coding_assistant_wars_who_is_top_dog/)
-- [[D] Should I go to the MIT AI + Education Summit?](https://www.reddit.com/r/MachineLearning/comments/1l4yvzg/d_should_i_go_to_the_mit_ai_education_summit/)
+- [[D] Forecasting Wikipedia pageviews with seasonality — best modeling approach?](https://www.reddit.com/r/MachineLearning/comments/1l508o8/d_forecasting_wikipedia_pageviews_with/)
 - [[D] Gemini Diffusion Early Access invitation not working?](https://www.reddit.com/r/MachineLearning/comments/1l4wj5n/d_gemini_diffusion_early_access_invitation_not/)
 - [[R] Better quantization: Yet Another Quantization Algorithm](https://www.reddit.com/r/MachineLearning/comments/1l4we1t/r_better_quantization_yet_another_quantization/)
 - [[P] Built an Open-Source Educational AI Platform](https://www.reddit.com/r/MachineLearning/comments/1l4twdz/p_built_an_opensource_educational_ai_platform/)
+- [[R] LLMs are Locally Linear Mappings: Qwen 3, Gemma 3 and Llama 3 can be converted to exactly equivalent locally linear systems for interpretability](https://www.reddit.com/r/MachineLearning/comments/1l4rpe2/r_llms_are_locally_linear_mappings_qwen_3_gemma_3/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
