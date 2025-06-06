@@ -24,9 +24,9 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How fast can you process images on 4 A100 40 gig gpus?](https://www.reddit.com/r/MachineLearning/comments/1l4gv65/d_how_fast_can_you_process_images_on_4_a100_40/)
 - [[D] Stacking Ensemble Model - Model Selection](https://www.reddit.com/r/MachineLearning/comments/1l4fm0j/d_stacking_ensemble_model_model_selection/)
 - [[R] 100M Open source notebooklm speech model](https://www.reddit.com/r/MachineLearning/comments/1l4dovp/r_100m_open_source_notebooklm_speech_model/)
-- [[R] I’m a bit new to this, had AI write me a paper on the dangers of ai self replicating itself virtually inside its model to circumvent restrictions.](https://www.reddit.com/r/MachineLearning/comments/1l4bpui/r_im_a_bit_new_to_this_had_ai_write_me_a_paper_on/)
 - [[D] Robust ML model producing image feature vector for similarity search.](https://www.reddit.com/r/MachineLearning/comments/1l47n1y/d_robust_ml_model_producing_image_feature_vector/)
 - [[R] Zero-Shot Vision Encoder Grafting via LLM Surrogates](https://www.reddit.com/r/MachineLearning/comments/1l43r5p/r_zeroshot_vision_encoder_grafting_via_llm/)
 <!-- REDDIT-ML:END -->
