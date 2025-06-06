@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Where creativity and code collide: Top Down with Adhish Thite](https://www.elastic.co/blog/top-down-with-adhish-thite)
+- [Where creativity and code collide: Top Down with Adhish Thite](https://www.elastic.co/blog/top-down-with-adhish-thite)
 - [Why assigning custom data view IDs matters in Kibana](https://www.elastic.co/blog/custom-data-view-ids)
 - [Why assigning custom data view IDs matters in Kibana](https://www.elastic.co/blog/custom-data-view-ids)
 - [Elastic achieves AWS Education ISV Partner Competency, strengthening education solutions portfolio](https://www.elastic.co/blog/elastic-aws-competency-education)
-- [Elastic achieves AWS Education ISV Partner Competency, strengthening education solutions portfolio](https://www.elastic.co/blog/elastic-aws-competency-education)
-- [Elastic Stack 9.0.2 released](https://www.elastic.co/blog/elastic-stack-9-0-2-released)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
