@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] LLMs are Locally Linear Mappings: Qwen 3, Gemma 3 and Llama 3 can be converted to exactly equivalent locally linear systems for interpretability](https://www.reddit.com/r/MachineLearning/comments/1l4rpe2/r_llms_are_locally_linear_mappings_qwen_3_gemma_3/)
+- [[P] Scaling LLMs in Production? Introducing Bifrost: A Go-based Proxy with &lt;15µs Overhead at 5000 RPS](https://www.reddit.com/r/MachineLearning/comments/1l4qi1j/p_scaling_llms_in_production_introducing_bifrost/)
 - [[P] EvalGit, A tool to track your model&#39;s performance over time.](https://www.reddit.com/r/MachineLearning/comments/1l4o21m/p_evalgit_a_tool_to_track_your_models_performance/)
 - [[R] What do you all think of the latest Apple paper on current LLM capabilities?](https://www.reddit.com/r/MachineLearning/comments/1l4nk5s/r_what_do_you_all_think_of_the_latest_apple_paper/)
 - [[D] Is there an video or article or book where a lot of real world datasets are used to train industry level LLM with all the code?](https://www.reddit.com/r/MachineLearning/comments/1l4lw22/d_is_there_an_video_or_article_or_book_where_a/)
-- [[D] How fast can you process images on 4 A100 40 gig gpus?](https://www.reddit.com/r/MachineLearning/comments/1l4gv65/d_how_fast_can_you_process_images_on_4_a100_40/)
-- [[D] Stacking Ensemble Model - Model Selection](https://www.reddit.com/r/MachineLearning/comments/1l4fm0j/d_stacking_ensemble_model_model_selection/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
