@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Gemini Diffusion Early Access invitation not working?](https://www.reddit.com/r/MachineLearning/comments/1l4wj5n/d_gemini_diffusion_early_access_invitation_not/)
 - [[R] Better quantization: Yet Another Quantization Algorithm](https://www.reddit.com/r/MachineLearning/comments/1l4we1t/r_better_quantization_yet_another_quantization/)
 - [[D] Which LLM architecture Implementation would you suggest ?](https://www.reddit.com/r/MachineLearning/comments/1l4url3/d_which_llm_architecture_implementation_would_you/)
 - [[P] Built an Open-Source Educational AI Platform](https://www.reddit.com/r/MachineLearning/comments/1l4twdz/p_built_an_opensource_educational_ai_platform/)
 - [[R] LLMs are Locally Linear Mappings: Qwen 3, Gemma 3 and Llama 3 can be converted to exactly equivalent locally linear systems for interpretability](https://www.reddit.com/r/MachineLearning/comments/1l4rpe2/r_llms_are_locally_linear_mappings_qwen_3_gemma_3/)
-- [[P] Scaling LLMs in Production? Introducing Bifrost: A Go-based Proxy with &lt;15µs Overhead at 5000 RPS](https://www.reddit.com/r/MachineLearning/comments/1l4qi1j/p_scaling_llms_in_production_introducing_bifrost/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
