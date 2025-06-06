@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Which LLM architecture Implementation would you suggest ?](https://www.reddit.com/r/MachineLearning/comments/1l4url3/d_which_llm_architecture_implementation_would_you/)
 - [[P] Built an Open-Source Educational AI Platform](https://www.reddit.com/r/MachineLearning/comments/1l4twdz/p_built_an_opensource_educational_ai_platform/)
 - [[R] LLMs are Locally Linear Mappings: Qwen 3, Gemma 3 and Llama 3 can be converted to exactly equivalent locally linear systems for interpretability](https://www.reddit.com/r/MachineLearning/comments/1l4rpe2/r_llms_are_locally_linear_mappings_qwen_3_gemma_3/)
 - [[P] Scaling LLMs in Production? Introducing Bifrost: A Go-based Proxy with &lt;15µs Overhead at 5000 RPS](https://www.reddit.com/r/MachineLearning/comments/1l4qi1j/p_scaling_llms_in_production_introducing_bifrost/)
 - [[P] EvalGit, A tool to track your model&#39;s performance over time.](https://www.reddit.com/r/MachineLearning/comments/1l4o21m/p_evalgit_a_tool_to_track_your_models_performance/)
-- [[R] What do you all think of the latest Apple paper on current LLM capabilities?](https://www.reddit.com/r/MachineLearning/comments/1l4nk5s/r_what_do_you_all_think_of_the_latest_apple_paper/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
