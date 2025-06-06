@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Better CSS Shapes Using shape&lpar;&rpar; — Part 3: Curves](https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/)
 - [Exploring the CSS contrast-color&lpar;&rpar; Function… a Second Time](https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/)
 - [The State of CSS 2025 Survey is out!](https://css-tricks.com/the-state-of-css-2025-survey-is-out/)
 - [Getting Creative With HTML Dialog](https://css-tricks.com/getting-creative-with-html-dialog/)
 - [Better CSS Shapes Using shape&lpar;&rpar; — Part 2: More on Arcs](https://css-tricks.com/better-css-shapes-using-shape-part-2-more-on-arcs/)
-- [What We Know &lpar;So Far&rpar; About CSS Reading Order](https://css-tricks.com/what-we-know-so-far-about-css-reading-order/)
 <!-- CSS-TRIKCS:END -->
