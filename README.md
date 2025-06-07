@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] sqlgen: An open-source C++20 ORM and SQL Generator for building robust ML pipelines, like Python&#39;s SQLAlchemy/SQLModel](https://www.reddit.com/r/MachineLearning/comments/1l5j5k4/p_sqlgen_an_opensource_c20_orm_and_sql_generator/)
 - [[R] Apple Research: The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://www.reddit.com/r/MachineLearning/comments/1l5hzhs/r_apple_research_the_illusion_of_thinking/)
 - [[D] Does anyone have experience with finite-scalar quantization encoders?](https://www.reddit.com/r/MachineLearning/comments/1l5gw1t/d_does_anyone_have_experience_with_finitescalar/)
 - [[R] Log-Linear Attention](https://www.reddit.com/r/MachineLearning/comments/1l5g1mp/r_loglinear_attention/)
 - [[P] H.E.R.C.U.L.E.S. - &lpar;Human-Emulated Recursive Collaborative Unit using Layered Enhanced Simulation&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l5ei1h/p_hercules_humanemulated_recursive_collaborative/)
-- [[D] Dramatizing the Birth of Reinforcement Learning — A Biopic-Style Learning Experience?](https://www.reddit.com/r/MachineLearning/comments/1l5cm9v/d_dramatizing_the_birth_of_reinforcement_learning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
