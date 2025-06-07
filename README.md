@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Log-Linear Attention](https://www.reddit.com/r/MachineLearning/comments/1l5g1mp/r_loglinear_attention/)
 - [[P] H.E.R.C.U.L.E.S. - &lpar;Human-Emulated Recursive Collaborative Unit using Layered Enhanced Simulation&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l5ei1h/p_hercules_humanemulated_recursive_collaborative/)
 - [[D] Dramatizing the Birth of Reinforcement Learning — A Biopic-Style Learning Experience?](https://www.reddit.com/r/MachineLearning/comments/1l5cm9v/d_dramatizing_the_birth_of_reinforcement_learning/)
 - [[P] Building a Multi-Agent AI System with LangGraph and LangSmith](https://www.reddit.com/r/MachineLearning/comments/1l5cdgo/p_building_a_multiagent_ai_system_with_langgraph/)
 - [[D] Reproducing/Implementing Research Papers](https://www.reddit.com/r/MachineLearning/comments/1l5b6p4/d_reproducingimplementing_research_papers/)
-- [[D] 6 AIs Collab on a Full Research Paper Proposing a New Theory of Everything: Quantum Information Field Theory &lpar;QIFT&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l58ni0/d_6_ais_collab_on_a_full_research_paper_proposing/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
