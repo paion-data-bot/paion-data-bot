@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Dramatizing the Birth of Reinforcement Learning — A Biopic-Style Learning Experience?](https://www.reddit.com/r/MachineLearning/comments/1l5cm9v/d_dramatizing_the_birth_of_reinforcement_learning/)
 - [[P] Building a Multi-Agent AI System with LangGraph and LangSmith](https://www.reddit.com/r/MachineLearning/comments/1l5cdgo/p_building_a_multiagent_ai_system_with_langgraph/)
 - [[D] Reproducing/Implementing Research Papers](https://www.reddit.com/r/MachineLearning/comments/1l5b6p4/d_reproducingimplementing_research_papers/)
 - [[D] 6 AIs Collab on a Full Research Paper Proposing a New Theory of Everything: Quantum Information Field Theory &lpar;QIFT&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l58ni0/d_6_ais_collab_on_a_full_research_paper_proposing/)
 - [[R] How to handle internal integrators with linear regression?](https://www.reddit.com/r/MachineLearning/comments/1l523o3/r_how_to_handle_internal_integrators_with_linear/)
-- [[D] Forecasting Wikipedia pageviews with seasonality — best modeling approach?](https://www.reddit.com/r/MachineLearning/comments/1l508o8/d_forecasting_wikipedia_pageviews_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
