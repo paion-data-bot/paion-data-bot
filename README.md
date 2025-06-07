@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Got access to Gemini Diffusion &lpar;text-based&rpar; and it&#39;s lightning fast](https://www.reddit.com/r/MachineLearning/comments/1l5k0nh/d_got_access_to_gemini_diffusion_textbased_and/)
+- [[P] Trouble Importing Partially Annotated YOLO Dataset into Label Studio](https://www.reddit.com/r/MachineLearning/comments/1l5jw1k/p_trouble_importing_partially_annotated_yolo/)
 - [[P] sqlgen: An open-source C++20 ORM and SQL Generator for building robust ML pipelines, like Python&#39;s SQLAlchemy/SQLModel](https://www.reddit.com/r/MachineLearning/comments/1l5j5k4/p_sqlgen_an_opensource_c20_orm_and_sql_generator/)
 - [[R] Apple Research: The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://www.reddit.com/r/MachineLearning/comments/1l5hzhs/r_apple_research_the_illusion_of_thinking/)
 - [[D] Does anyone have experience with finite-scalar quantization encoders?](https://www.reddit.com/r/MachineLearning/comments/1l5gw1t/d_does_anyone_have_experience_with_finitescalar/)
-- [[R] Log-Linear Attention](https://www.reddit.com/r/MachineLearning/comments/1l5g1mp/r_loglinear_attention/)
-- [[P] H.E.R.C.U.L.E.S. - &lpar;Human-Emulated Recursive Collaborative Unit using Layered Enhanced Simulation&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l5ei1h/p_hercules_humanemulated_recursive_collaborative/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
