@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Why does my AI finally stop making things up? &lpar;Open Source COMPASS approach inside&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l6n3oe/p_why_does_my_ai_finally_stop_making_things_up/)
 - [[P] Ai Learns to Play Super Puzzle Fighter 2 &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l6juo3/p_ai_learns_to_play_super_puzzle_fighter_2_deep/)
 - [[N] SIGKDD 2025 Tutorial on Time Series Motifs: Call for Contributions](https://www.reddit.com/r/MachineLearning/comments/1l6j4db/n_sigkdd_2025_tutorial_on_time_series_motifs_call/)
 - [[D] AI Engineer World’s Fair 2025 - Field Notes](https://www.reddit.com/r/MachineLearning/comments/1l6imvb/d_ai_engineer_worlds_fair_2025_field_notes/)
 - [[Discussion] ACM Multimedia 2025 Reviews &amp; Rebuttal](https://www.reddit.com/r/MachineLearning/comments/1l6i3l2/discussion_acm_multimedia_2025_reviews_rebuttal/)
-- [[P]AnnabanAI: Persistence is Key](https://www.reddit.com/r/MachineLearning/comments/1l6hp1r/pannabanai_persistence_is_key/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
