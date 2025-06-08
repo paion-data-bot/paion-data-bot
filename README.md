@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] I Created 50 Different AI Personalities - Here&#39;s What Made Them Feel &#39;Real&#39;](https://www.reddit.com/r/MachineLearning/comments/1l6bjn3/p_i_created_50_different_ai_personalities_heres/)
 - [[D] is there a mistake in the RoPE embedding paper?](https://www.reddit.com/r/MachineLearning/comments/1l6bbyn/d_is_there_a_mistake_in_the_rope_embedding_paper/)
 - [[R] Machine learning with hard constraints: Neural Differential-Algebraic Equations &lpar;DAEs&rpar; as a general formalism](https://www.reddit.com/r/MachineLearning/comments/1l6a307/r_machine_learning_with_hard_constraints_neural/)
 - [[D] help with fixing PRO-GAN](https://www.reddit.com/r/MachineLearning/comments/1l69guu/d_help_with_fixing_progan/)
 - [[D] deepeval LLM evaluation](https://www.reddit.com/r/MachineLearning/comments/1l68vml/d_deepeval_llm_evaluation/)
-- [[P] BERT-Emotion: Lightweight Transformer Model &lpar;~20MB&rpar; for Real-Time Emotion Detection](https://www.reddit.com/r/MachineLearning/comments/1l68rlb/p_bertemotion_lightweight_transformer_model_20mb/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
