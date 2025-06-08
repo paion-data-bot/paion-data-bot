@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] CS Student Transitioning to ML: Course Advice, Progress Tracking, and Learning Strategies?](https://www.reddit.com/r/MachineLearning/comments/1l6es9s/d_cs_student_transitioning_to_ml_course_advice/)
+- [[D] Looking for Intuitive Resources to Understand Flow Matching &lpar;Beyond the Original Paper&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l6ejw9/d_looking_for_intuitive_resources_to_understand/)
+- [[D] Anyone read the book &quot;AI Engineering&quot; by Chip Huyen? How was it? Was it worth buying?](https://www.reddit.com/r/MachineLearning/comments/1l6e6xs/d_anyone_read_the_book_ai_engineering_by_chip/)
 - [[D] is there a mistake in the RoPE embedding paper?](https://www.reddit.com/r/MachineLearning/comments/1l6bbyn/d_is_there_a_mistake_in_the_rope_embedding_paper/)
 - [[R] Machine learning with hard constraints: Neural Differential-Algebraic Equations &lpar;DAEs&rpar; as a general formalism](https://www.reddit.com/r/MachineLearning/comments/1l6a307/r_machine_learning_with_hard_constraints_neural/)
-- [[D] help with fixing PRO-GAN](https://www.reddit.com/r/MachineLearning/comments/1l69guu/d_help_with_fixing_progan/)
-- [[P] BERT-Emotion: Lightweight Transformer Model &lpar;~20MB&rpar; for Real-Time Emotion Detection](https://www.reddit.com/r/MachineLearning/comments/1l68rlb/p_bertemotion_lightweight_transformer_model_20mb/)
-- [An RSI AI Darwin Godel Machine I Built [P]](https://www.reddit.com/r/MachineLearning/comments/1l64crj/an_rsi_ai_darwin_godel_machine_i_built_p/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
