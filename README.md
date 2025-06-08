@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] is there a mistake in the RoPE embedding paper?](https://www.reddit.com/r/MachineLearning/comments/1l6bbyn/d_is_there_a_mistake_in_the_rope_embedding_paper/)
 - [[R] Machine learning with hard constraints: Neural Differential-Algebraic Equations &lpar;DAEs&rpar; as a general formalism](https://www.reddit.com/r/MachineLearning/comments/1l6a307/r_machine_learning_with_hard_constraints_neural/)
 - [[D] help with fixing PRO-GAN](https://www.reddit.com/r/MachineLearning/comments/1l69guu/d_help_with_fixing_progan/)
 - [[D] deepeval LLM evaluation](https://www.reddit.com/r/MachineLearning/comments/1l68vml/d_deepeval_llm_evaluation/)
 - [[P] BERT-Emotion: Lightweight Transformer Model &lpar;~20MB&rpar; for Real-Time Emotion Detection](https://www.reddit.com/r/MachineLearning/comments/1l68rlb/p_bertemotion_lightweight_transformer_model_20mb/)
-- [How can I learn ai ml to execute my ideas??? I genuinely want to develop knack on it [D]](https://www.reddit.com/r/MachineLearning/comments/1l65xlc/how_can_i_learn_ai_ml_to_execute_my_ideas_i/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
