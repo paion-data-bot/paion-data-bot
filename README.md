@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] When to stop? Is it overfitting?](https://www.reddit.com/r/MachineLearning/comments/1l65lif/d_when_to_stop_is_it_overfitting/)
 - [An RSI AI Darwin Godel Machine I Built [P]](https://www.reddit.com/r/MachineLearning/comments/1l64crj/an_rsi_ai_darwin_godel_machine_i_built_p/)
 - [[D] The illusion of &quot;The Illusion of Thinking&quot;](https://www.reddit.com/r/MachineLearning/comments/1l6312h/d_the_illusion_of_the_illusion_of_thinking/)
 - [[R] Geometric Adam Optimizer](https://www.reddit.com/r/MachineLearning/comments/1l60fpl/r_geometric_adam_optimizer/)
 - [[D] AI uses open data every day – but it never says “thanks.” Should it?](https://www.reddit.com/r/MachineLearning/comments/1l5w0xo/d_ai_uses_open_data_every_day_but_it_never_says/)
-- [[P] I Benchmarked 8 Web-Enabled LLMs on Canonical-URL Retrieval](https://www.reddit.com/r/MachineLearning/comments/1l5rpxu/p_i_benchmarked_8_webenabled_llms_on_canonicalurl/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
