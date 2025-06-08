@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Decision Theory + LLMs](https://www.reddit.com/r/MachineLearning/comments/1l6gt8e/d_decision_theory_llms/)
+- [[D] Decision Theory + LLMs](https://www.reddit.com/r/MachineLearning/comments/1l6h4io/d_decision_theory_llms/)
 - [[D] CVPR Virtual Pass: Worth it?](https://www.reddit.com/r/MachineLearning/comments/1l6fx6h/d_cvpr_virtual_pass_worth_it/)
 - [[D] Looking for Intuitive Resources to Understand Flow Matching &lpar;Beyond the Original Paper&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l6ejw9/d_looking_for_intuitive_resources_to_understand/)
 - [[D] is there a mistake in the RoPE embedding paper?](https://www.reddit.com/r/MachineLearning/comments/1l6bbyn/d_is_there_a_mistake_in_the_rope_embedding_paper/)
