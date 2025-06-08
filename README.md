@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [How can I learn ai ml to execute my ideas??? I genuinely want to develop knack on it [D]](https://www.reddit.com/r/MachineLearning/comments/1l65xlc/how_can_i_learn_ai_ml_to_execute_my_ideas_i/)
 - [[D] Should I skip getting a masters degree and jump straight to PhD?](https://www.reddit.com/r/MachineLearning/comments/1l65t1l/d_should_i_skip_getting_a_masters_degree_and_jump/)
 - [[D] When to stop? Is it overfitting?](https://www.reddit.com/r/MachineLearning/comments/1l65lif/d_when_to_stop_is_it_overfitting/)
 - [An RSI AI Darwin Godel Machine I Built [P]](https://www.reddit.com/r/MachineLearning/comments/1l64crj/an_rsi_ai_darwin_godel_machine_i_built_p/)
 - [[D] The illusion of &quot;The Illusion of Thinking&quot;](https://www.reddit.com/r/MachineLearning/comments/1l6312h/d_the_illusion_of_the_illusion_of_thinking/)
-- [[R] Geometric Adam Optimizer](https://www.reddit.com/r/MachineLearning/comments/1l60fpl/r_geometric_adam_optimizer/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
