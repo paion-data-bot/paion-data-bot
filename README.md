@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] SIGKDD 2025 Tutorial on Time Series Motifs: Call for Contributions](https://www.reddit.com/r/MachineLearning/comments/1l6j4db/n_sigkdd_2025_tutorial_on_time_series_motifs_call/)
 - [[D] AI Engineer World’s Fair 2025 - Field Notes](https://www.reddit.com/r/MachineLearning/comments/1l6imvb/d_ai_engineer_worlds_fair_2025_field_notes/)
 - [[Discussion] ACM Multimedia 2025 Reviews &amp; Rebuttal](https://www.reddit.com/r/MachineLearning/comments/1l6i3l2/discussion_acm_multimedia_2025_reviews_rebuttal/)
 - [[P]AnnabanAI: Persistence is Key](https://www.reddit.com/r/MachineLearning/comments/1l6hp1r/pannabanai_persistence_is_key/)
 - [[P]AnnabanAI: Persistence is Key](https://www.reddit.com/r/MachineLearning/comments/1l6ho7o/pannabanai_persistence_is_key/)
-- [[D][R][N] Are current AI&#39;s really reasoning or just memorizing patterns well..](https://www.reddit.com/r/MachineLearning/comments/1l6hipf/drn_are_current_ais_really_reasoning_or_just/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
