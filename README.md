@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] The illusion of &quot;The Illusion of Thinking&quot;](https://www.reddit.com/r/MachineLearning/comments/1l6312h/d_the_illusion_of_the_illusion_of_thinking/)
 - [[R] Geometric Adam Optimizer](https://www.reddit.com/r/MachineLearning/comments/1l60fpl/r_geometric_adam_optimizer/)
 - [[D] AI uses open data every day – but it never says “thanks.” Should it?](https://www.reddit.com/r/MachineLearning/comments/1l5w0xo/d_ai_uses_open_data_every_day_but_it_never_says/)
 - [[P] I Benchmarked 8 Web-Enabled LLMs on Canonical-URL Retrieval](https://www.reddit.com/r/MachineLearning/comments/1l5rpxu/p_i_benchmarked_8_webenabled_llms_on_canonicalurl/)
 - [[D] RL model reasoning and tool use](https://www.reddit.com/r/MachineLearning/comments/1l5po7e/d_rl_model_reasoning_and_tool_use/)
-- [[R] Transferring Pretrained Embeddings](https://www.reddit.com/r/MachineLearning/comments/1l5paxw/r_transferring_pretrained_embeddings/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
