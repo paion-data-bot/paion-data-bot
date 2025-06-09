@@ -28,7 +28,7 @@
 - [[P][R] Sparse Transformers: Run 2x faster LLM with 30% lesser memory](https://www.reddit.com/r/MachineLearning/comments/1l74fv7/pr_sparse_transformers_run_2x_faster_llm_with_30/)
 - [[R][D] Let’s Fork Deep Learning: The Hidden Symmetry Bias No One Talks About](https://www.reddit.com/r/MachineLearning/comments/1l726bp/rd_lets_fork_deep_learning_the_hidden_symmetry/)
 - [[D] BMVC 2025 Reviews Discussion](https://www.reddit.com/r/MachineLearning/comments/1l71jng/d_bmvc_2025_reviews_discussion/)
-- [[D] Has the NELA-GT-2022 dataset been deleted?](https://www.reddit.com/r/MachineLearning/comments/1l70hlo/d_has_the_nelagt2022_dataset_been_deleted/)
+- [[D] JMLR Publishing procedure](https://www.reddit.com/r/MachineLearning/comments/1l70jrl/d_jmlr_publishing_procedure/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
