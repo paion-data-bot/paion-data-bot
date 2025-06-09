@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] [D] Thesis: Offer generator](https://www.reddit.com/r/MachineLearning/comments/1l7b8co/p_d_thesis_offer_generator/)
 - [[D] Is Google colab pro+ sufficient for my project?](https://www.reddit.com/r/MachineLearning/comments/1l7a5xf/d_is_google_colab_pro_sufficient_for_my_project/)
 - [[P] Built a multimodal Avatar, to be my career spokesperson via FineTuned TTS, and LipDubbing audio conditioned model](https://www.reddit.com/r/MachineLearning/comments/1l79flf/p_built_a_multimodal_avatar_to_be_my_career/)
 - [[D] ML Engineer Routine: What Am I Missing?](https://www.reddit.com/r/MachineLearning/comments/1l75f3o/d_ml_engineer_routine_what_am_i_missing/)
 - [[P][R] Sparse Transformers: Run 2x faster LLM with 30% lesser memory](https://www.reddit.com/r/MachineLearning/comments/1l74fv7/pr_sparse_transformers_run_2x_faster_llm_with_30/)
-- [[R][D] Let’s Fork Deep Learning: The Hidden Symmetry Bias No One Talks About](https://www.reddit.com/r/MachineLearning/comments/1l726bp/rd_lets_fork_deep_learning_the_hidden_symmetry/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
