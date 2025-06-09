@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://www.reddit.com/r/MachineLearning/comments/1l7epds/d_the_illusion_of_thinking_understanding_the/)
 - [[P] A chrome extension to remove slop from the internet](https://www.reddit.com/r/MachineLearning/comments/1l7dwjr/p_a_chrome_extension_to_remove_slop_from_the/)
 - [[Discussion] My Thesis: The United States can be modeled as a neural network, and it&#39;s suffering from catastrophic overfitting and data poisoning.](https://www.reddit.com/r/MachineLearning/comments/1l7d3gx/discussion_my_thesis_the_united_states_can_be/)
 - [[D] What underrated ML techniques are better than the defaults](https://www.reddit.com/r/MachineLearning/comments/1l7bo8h/d_what_underrated_ml_techniques_are_better_than/)
 - [[P] [D] Thesis: Offer generator](https://www.reddit.com/r/MachineLearning/comments/1l7b8co/p_d_thesis_offer_generator/)
-- [[D] Is Google colab pro+ sufficient for my project?](https://www.reddit.com/r/MachineLearning/comments/1l7a5xf/d_is_google_colab_pro_sufficient_for_my_project/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
