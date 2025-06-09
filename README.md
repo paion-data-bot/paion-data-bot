@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[p] Looking for someone to teach me fine-tuning techniques hourly — open to paid mentorship](https://www.reddit.com/r/MachineLearning/comments/1l7gp28/p_looking_for_someone_to_teach_me_finetuning/)
 - [[P] A chrome extension to remove slop from the internet](https://www.reddit.com/r/MachineLearning/comments/1l7dwjr/p_a_chrome_extension_to_remove_slop_from_the/)
 - [[D] What underrated ML techniques are better than the defaults](https://www.reddit.com/r/MachineLearning/comments/1l7bo8h/d_what_underrated_ml_techniques_are_better_than/)
 - [[D] Is Google colab pro+ sufficient for my project?](https://www.reddit.com/r/MachineLearning/comments/1l7a5xf/d_is_google_colab_pro_sufficient_for_my_project/)
 - [[P] Built a multimodal Avatar, to be my career spokesperson via FineTuned TTS, and LipDubbing audio conditioned model](https://www.reddit.com/r/MachineLearning/comments/1l79flf/p_built_a_multimodal_avatar_to_be_my_career/)
-- [[D] ML Engineer Routine: What Am I Missing?](https://www.reddit.com/r/MachineLearning/comments/1l75f3o/d_ml_engineer_routine_what_am_i_missing/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
