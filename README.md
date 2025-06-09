@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N][R] Found a really good resource to learn ML online](https://www.reddit.com/r/MachineLearning/comments/1l6x4vc/nr_found_a_really_good_resource_to_learn_ml_online/)
 - [[R] Tokenizing research papers for Fine-tuning](https://www.reddit.com/r/MachineLearning/comments/1l6wzrf/r_tokenizing_research_papers_for_finetuning/)
 - [[P] Cloud Platform leveraing decetralized compute networks - Feedbacks?](https://www.reddit.com/r/MachineLearning/comments/1l6ujn4/p_cloud_platform_leveraing_decetralized_compute/)
 - [[R] [N] A good reminder for reductionists to not get too ambitious with their dismissive concrete claims. We are still actively exploring the true nature of how these models function day-to-day](https://www.reddit.com/r/MachineLearning/comments/1l6tjjz/r_n_a_good_reminder_for_reductionists_to_not_get/)
 - [[R] Plasticity Loss in Deep RL - Why agents stop learning](https://www.reddit.com/r/MachineLearning/comments/1l6qt1s/r_plasticity_loss_in_deep_rl_why_agents_stop/)
-- [[P] Why does my AI finally stop making things up? &lpar;Open Source COMPASS approach inside&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l6n3oe/p_why_does_my_ai_finally_stop_making_things_up/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
