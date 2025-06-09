@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
+- [Neo4j Transaction Graph Demo: How to Uncover Fraud](https://www.youtube.com/watch?v=Z1-qTE2Iji4)
 - [Neo4j Graph Analytics for Snowflake](https://www.youtube.com/watch?v=ZYAtiF-u72Y)
 - [Predictive Maintenance with Neo4j Aura Graph Analytics for Factory Uptime](https://www.youtube.com/watch?v=uxRXiZ1gtw4)
 - [Uncover Hidden Patterns with Neo4j Graph Analytics for Snowflake](https://www.youtube.com/watch?v=11lF_H121x8)
 - [Finding Hidden Fraud Networks: Native Graph Analytics in Snowflake with Neo4j](https://www.youtube.com/watch?v=Bd3E4Q_TdF8)
-- [Smarter GenAI with Neo4j AuraDB and Google Cloud](https://www.youtube.com/watch?v=nnnfKMk3hiM)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
