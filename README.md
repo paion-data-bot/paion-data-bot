@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] Dyna-Q &lpar;RL With Hallucinations&rpar;, Psychosis, Jesus, Religion, Policies](https://www.reddit.com/r/MachineLearning/comments/1l6rpsu/p_dynaq_rl_with_hallucinations_psychosis_jesus/)
+- [[R] [N] A good reminder for reductionists to not get too ambitious with their dismissive concrete claims. We are still actively exploring the true nature of how these models function day-to-day](https://www.reddit.com/r/MachineLearning/comments/1l6tjjz/r_n_a_good_reminder_for_reductionists_to_not_get/)
 - [[R] Plasticity Loss in Deep RL - Why agents stop learning](https://www.reddit.com/r/MachineLearning/comments/1l6qt1s/r_plasticity_loss_in_deep_rl_why_agents_stop/)
 - [[P] Why does my AI finally stop making things up? &lpar;Open Source COMPASS approach inside&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l6n3oe/p_why_does_my_ai_finally_stop_making_things_up/)
 - [[P] Ai Learns to Play Super Puzzle Fighter 2 &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l6juo3/p_ai_learns_to_play_super_puzzle_fighter_2_deep/)
