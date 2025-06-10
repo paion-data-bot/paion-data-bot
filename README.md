@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Getting &lpar;x,y,z&rpar; coordinates from 3d objects in scene.](https://www.reddit.com/r/MachineLearning/comments/1l84p1f/r_getting_xyz_coordinates_from_3d_objects_in_scene/)
 - [[R] LoRMA: Low-Rank Multiplicative Adaptation for LLMs](https://www.reddit.com/r/MachineLearning/comments/1l83qlb/r_lorma_lowrank_multiplicative_adaptation_for_llms/)
 - [[D] Open-Source Base Model Recommendation for Medical Q&amp;A?](https://www.reddit.com/r/MachineLearning/comments/1l8329r/d_opensource_base_model_recommendation_for/)
 - [[P] Built a financial analyzer agent using mcp-agent. Here&#39;s how I got it to produce high-quality reports](https://www.reddit.com/r/MachineLearning/comments/1l815fm/p_built_a_financial_analyzer_agent_using_mcpagent/)
 - [[D] Penalize false negatives](https://www.reddit.com/r/MachineLearning/comments/1l80lj1/d_penalize_false_negatives/)
-- [[Discussion] Supervisor using my conference travel funds to attend ICML](https://www.reddit.com/r/MachineLearning/comments/1l80dwl/discussion_supervisor_using_my_conference_travel/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
