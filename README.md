@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Finding indirect or deep intents from a given keyword](https://www.reddit.com/r/MachineLearning/comments/1l7rxuf/p_finding_indirect_or_deep_intents_from_a_given/)
+- [[D] Should I acquire some professional certificates as mid career-researcher in Generative AI](https://www.reddit.com/r/MachineLearning/comments/1l7rvoo/d_should_i_acquire_some_professional_certificates/)
+- [[P] Detect asyncio issues causing AI agent latency](https://www.reddit.com/r/MachineLearning/comments/1l7rsy6/p_detect_asyncio_issues_causing_ai_agent_latency/)
 - [[P] DAB: A Benchmark for Evaluating AI Robustness to Noisy and Incoherent Queries](https://www.reddit.com/r/MachineLearning/comments/1l7pxs9/p_dab_a_benchmark_for_evaluating_ai_robustness_to/)
 - [[P] Which tool is the best for developing a multi-AI agent system? Have you compare options?](https://www.reddit.com/r/MachineLearning/comments/1l7p3tt/p_which_tool_is_the_best_for_developing_a_multiai/)
-- [[R] The Illusion of Thinking | Apple Machine Learning Research](https://www.reddit.com/r/MachineLearning/comments/1l7ofw0/r_the_illusion_of_thinking_apple_machine_learning/)
-- [[D] Seeking precedent for prompt-driven data mining](https://www.reddit.com/r/MachineLearning/comments/1l7kkat/d_seeking_precedent_for_promptdriven_data_mining/)
-- [[P] A chrome extension to remove slop from the internet](https://www.reddit.com/r/MachineLearning/comments/1l7dwjr/p_a_chrome_extension_to_remove_slop_from_the/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
