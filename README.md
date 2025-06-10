@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] We Need a Birth Certificate for AI Agents — Here’s a Proposal](https://www.reddit.com/r/MachineLearning/comments/1l7w4ol/d_we_need_a_birth_certificate_for_ai_agents_heres/)
+- [[R]Sending Neurips under review article for postdoc positions](https://www.reddit.com/r/MachineLearning/comments/1l7vyv7/rsending_neurips_under_review_article_for_postdoc/)
 - [[D] Creating SLMs from scratch](https://www.reddit.com/r/MachineLearning/comments/1l7uoyc/d_creating_slms_from_scratch/)
 - [[R] Will It Still Be True Tomorrow? Multilingual Evergreen Question Classification to Improve Trustworthy QA](https://www.reddit.com/r/MachineLearning/comments/1l7tpqg/r_will_it_still_be_true_tomorrow_multilingual/)
 - [[P] Finding indirect or deep intents from a given keyword](https://www.reddit.com/r/MachineLearning/comments/1l7rxuf/p_finding_indirect_or_deep_intents_from_a_given/)
-- [[D] Should I acquire some professional certificates as mid career-researcher in Generative AI](https://www.reddit.com/r/MachineLearning/comments/1l7rvoo/d_should_i_acquire_some_professional_certificates/)
-- [[P] Detect asyncio issues causing AI agent latency](https://www.reddit.com/r/MachineLearning/comments/1l7rsy6/p_detect_asyncio_issues_causing_ai_agent_latency/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
