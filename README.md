@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Best papers explaining how transformer based LLMs really work internally](https://www.reddit.com/r/MachineLearning/comments/1l86nbg/d_best_papers_explaining_how_transformer_based/)
+- [[D] Can LLVM IR + ML actually detect logic bugs?Or am i just way off?](https://www.reddit.com/r/MachineLearning/comments/1l86km1/d_can_llvm_ir_ml_actually_detect_logic_bugsor_am/)
+- [[P] Spy-searcher: a open source local host deep research](https://www.reddit.com/r/MachineLearning/comments/1l85zvl/p_spysearcher_a_open_source_local_host_deep/)
 - [[R] LoRMA: Low-Rank Multiplicative Adaptation for LLMs](https://www.reddit.com/r/MachineLearning/comments/1l83qlb/r_lorma_lowrank_multiplicative_adaptation_for_llms/)
 - [[P] Built a financial analyzer agent using mcp-agent. Here&#39;s how I got it to produce high-quality reports](https://www.reddit.com/r/MachineLearning/comments/1l815fm/p_built_a_financial_analyzer_agent_using_mcpagent/)
-- [[D] Penalize false negatives](https://www.reddit.com/r/MachineLearning/comments/1l80lj1/d_penalize_false_negatives/)
-- [[P] GNNs for time series anomaly detection &lpar;Part 2&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l7yhxg/p_gnns_for_time_series_anomaly_detection_part_2/)
-- [[D] We Need a Birth Certificate for AI Agents — Here’s a Proposal](https://www.reddit.com/r/MachineLearning/comments/1l7w4ol/d_we_need_a_birth_certificate_for_ai_agents_heres/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
