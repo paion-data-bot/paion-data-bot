@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] PINNs are driving me crazy. I need some expert opinion](https://www.reddit.com/r/MachineLearning/comments/1l89nfh/r_pinns_are_driving_me_crazy_i_need_some_expert/)
 - [[D] Can LLVM IR + ML actually detect logic bugs?Or am i just way off?](https://www.reddit.com/r/MachineLearning/comments/1l86km1/d_can_llvm_ir_ml_actually_detect_logic_bugsor_am/)
 - [[P] Spy-searcher: a open source local host deep research](https://www.reddit.com/r/MachineLearning/comments/1l85zvl/p_spysearcher_a_open_source_local_host_deep/)
 - [[R] LoRMA: Low-Rank Multiplicative Adaptation for LLMs](https://www.reddit.com/r/MachineLearning/comments/1l83qlb/r_lorma_lowrank_multiplicative_adaptation_for_llms/)
 - [[P] Built a financial analyzer agent using mcp-agent. Here&#39;s how I got it to produce high-quality reports](https://www.reddit.com/r/MachineLearning/comments/1l815fm/p_built_a_financial_analyzer_agent_using_mcpagent/)
-- [[D] Penalize false negatives](https://www.reddit.com/r/MachineLearning/comments/1l80lj1/d_penalize_false_negatives/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
