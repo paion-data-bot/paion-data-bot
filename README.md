@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Which tool is the best for developing a multi-AI agent system? Have you compare options?](https://www.reddit.com/r/MachineLearning/comments/1l7p3tt/p_which_tool_is_the_best_for_developing_a_multiai/)
 - [[R] The Illusion of Thinking | Apple Machine Learning Research](https://www.reddit.com/r/MachineLearning/comments/1l7ofw0/r_the_illusion_of_thinking_apple_machine_learning/)
 - [[D] Seeking precedent for prompt-driven data mining](https://www.reddit.com/r/MachineLearning/comments/1l7kkat/d_seeking_precedent_for_promptdriven_data_mining/)
 - [[P] A chrome extension to remove slop from the internet](https://www.reddit.com/r/MachineLearning/comments/1l7dwjr/p_a_chrome_extension_to_remove_slop_from_the/)
 - [[D] What underrated ML techniques are better than the defaults](https://www.reddit.com/r/MachineLearning/comments/1l7bo8h/d_what_underrated_ml_techniques_are_better_than/)
-- [[D] Is Google colab pro+ sufficient for my project?](https://www.reddit.com/r/MachineLearning/comments/1l7a5xf/d_is_google_colab_pro_sufficient_for_my_project/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
