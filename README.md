@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] &lpar;DAB&rpar; Revolutionary Benchmarks Beyond the Reach of Current AI](https://www.reddit.com/r/MachineLearning/comments/1l7m6mw/p_dab_revolutionary_benchmarks_beyond_the_reach/)
+- [[R] The Illusion of Thinking | Apple Machine Learning Research](https://www.reddit.com/r/MachineLearning/comments/1l7ofw0/r_the_illusion_of_thinking_apple_machine_learning/)
 - [[D] Seeking precedent for prompt-driven data mining](https://www.reddit.com/r/MachineLearning/comments/1l7kkat/d_seeking_precedent_for_promptdriven_data_mining/)
 - [[P] A chrome extension to remove slop from the internet](https://www.reddit.com/r/MachineLearning/comments/1l7dwjr/p_a_chrome_extension_to_remove_slop_from_the/)
 - [[D] What underrated ML techniques are better than the defaults](https://www.reddit.com/r/MachineLearning/comments/1l7bo8h/d_what_underrated_ml_techniques_are_better_than/)
