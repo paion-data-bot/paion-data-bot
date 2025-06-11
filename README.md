@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to speed up Kokoro-TTS?](https://www.reddit.com/r/MachineLearning/comments/1l8n8cd/d_how_to_speed_up_kokorotts/)
+- [[D] Building a PyTorch-like Tensor in C++ — How to support multiple GPU backends beyond CUDA?](https://www.reddit.com/r/MachineLearning/comments/1l8mzsv/d_building_a_pytorchlike_tensor_in_c_how_to/)
 - [[D] AI training colocation](https://www.reddit.com/r/MachineLearning/comments/1l8mfjb/d_ai_training_colocation/)
 - [[P] Just Launched: MNIST From Scratch Digit Recognizer &lpar;Live, No libraries&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l8m520/p_just_launched_mnist_from_scratch_digit/)
 - [[D] In case anyone is curious about ACM MM&#39;25 rating](https://www.reddit.com/r/MachineLearning/comments/1l8kycm/d_in_case_anyone_is_curious_about_acm_mm25_rating/)
-- [[R] Improving large language models with concept-aware fine-tuning](https://www.reddit.com/r/MachineLearning/comments/1l8jul6/r_improving_large_language_models_with/)
-- [[P] Urgent help needed!](https://www.reddit.com/r/MachineLearning/comments/1l8iqst/p_urgent_help_needed/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
