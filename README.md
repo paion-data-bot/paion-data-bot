@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] AI training colocation](https://www.reddit.com/r/MachineLearning/comments/1l8mfjb/d_ai_training_colocation/)
 - [[P] Just Launched: MNIST From Scratch Digit Recognizer &lpar;Live, No libraries&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l8m520/p_just_launched_mnist_from_scratch_digit/)
 - [[D] In case anyone is curious about ACM MM&#39;25 rating](https://www.reddit.com/r/MachineLearning/comments/1l8kycm/d_in_case_anyone_is_curious_about_acm_mm25_rating/)
 - [[R] Improving large language models with concept-aware fine-tuning](https://www.reddit.com/r/MachineLearning/comments/1l8jul6/r_improving_large_language_models_with/)
 - [[P] Urgent help needed!](https://www.reddit.com/r/MachineLearning/comments/1l8iqst/p_urgent_help_needed/)
-- [[D] someone turned &quot;attention is all you need&quot; into a song and it&#39;s surprisingly good](https://www.reddit.com/r/MachineLearning/comments/1l8imqx/d_someone_turned_attention_is_all_you_need_into_a/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
