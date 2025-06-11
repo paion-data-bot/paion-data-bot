@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Juvio - UV Kernel for Jupyter](https://www.reddit.com/r/MachineLearning/comments/1l8xnhk/p_juvio_uv_kernel_for_jupyter/)
 - [[P] Critique my geospatial Machine Learning approach. &lpar;I need second opinions&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l8ukbd/p_critique_my_geospatial_machine_learning/)
 - [[R] Cross-Architecture Embedding Transfer for Reward Modeling: A Controlled Study of Generalization](https://www.reddit.com/r/MachineLearning/comments/1l8ujsf/r_crossarchitecture_embedding_transfer_for_reward/)
 - [[P] Converting the Query, Key, Value Weight Matrices to a single Shared Matrix](https://www.reddit.com/r/MachineLearning/comments/1l8ptrs/p_converting_the_query_key_value_weight_matrices/)
 - [[D] Should I publish single-author papers to explain research output?](https://www.reddit.com/r/MachineLearning/comments/1l8ppzl/d_should_i_publish_singleauthor_papers_to_explain/)
-- [[R] PINNs and Hamiltonian NN are confusing with radar data.](https://www.reddit.com/r/MachineLearning/comments/1l8oybz/r_pinns_and_hamiltonian_nn_are_confusing_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
