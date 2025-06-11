@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Has anyone used LLMs or Transformers to generate planning/schedules from task lists?](https://www.reddit.com/r/MachineLearning/comments/1l8r5ah/r_has_anyone_used_llms_or_transformers_to/)
 - [[P] Converting the Query, Key, Value Weight Matrices to a single Shared Matrix](https://www.reddit.com/r/MachineLearning/comments/1l8ptrs/p_converting_the_query_key_value_weight_matrices/)
 - [[D] Should I publish single-author papers to explain research output?](https://www.reddit.com/r/MachineLearning/comments/1l8ppzl/d_should_i_publish_singleauthor_papers_to_explain/)
 - [[R] PINNs and Hamiltonian NN are confusing with radar data.](https://www.reddit.com/r/MachineLearning/comments/1l8oybz/r_pinns_and_hamiltonian_nn_are_confusing_with/)
 - [[D] How to speed up Kokoro-TTS?](https://www.reddit.com/r/MachineLearning/comments/1l8n8cd/d_how_to_speed_up_kokorotts/)
-- [[D] Building a PyTorch-like Tensor in C++ — How to support multiple GPU backends beyond CUDA?](https://www.reddit.com/r/MachineLearning/comments/1l8mzsv/d_building_a_pytorchlike_tensor_in_c_how_to/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
