@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Portable Air Compressor?](https://www.reddit.com/r/MachineLearning/comments/1l957f6/p_portable_air_compressor/)
 - [[P] Open-source LLM training pipeline](https://www.reddit.com/r/MachineLearning/comments/1l92ao5/p_opensource_llm_training_pipeline/)
 - [[D] What AI industry events are you attending?](https://www.reddit.com/r/MachineLearning/comments/1l923ey/d_what_ai_industry_events_are_you_attending/)
 - [[D] About spatial reasoning VLMs](https://www.reddit.com/r/MachineLearning/comments/1l91u6l/d_about_spatial_reasoning_vlms/)
 - [[D] Can we RL/GRPO a language model to hack its own brain by rewarding for specific measurements inside the transformer architecture during inference?](https://www.reddit.com/r/MachineLearning/comments/1l91li3/d_can_we_rlgrpo_a_language_model_to_hack_its_own/)
-- [[P] [Project] Collager - Turn Your Images/Videos into Dataset Collage!](https://www.reddit.com/r/MachineLearning/comments/1l9150o/p_project_collager_turn_your_imagesvideos_into/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
