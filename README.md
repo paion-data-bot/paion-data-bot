@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] About spatial reasoning VLMs](https://www.reddit.com/r/MachineLearning/comments/1l91u6l/d_about_spatial_reasoning_vlms/)
 - [[D] Can we RL/GRPO a language model to hack its own brain by rewarding for specific measurements inside the transformer architecture during inference?](https://www.reddit.com/r/MachineLearning/comments/1l91li3/d_can_we_rlgrpo_a_language_model_to_hack_its_own/)
 - [[P] [Project] Collager - Turn Your Images/Videos into Dataset Collage!](https://www.reddit.com/r/MachineLearning/comments/1l9150o/p_project_collager_turn_your_imagesvideos_into/)
 - [[P] Juvio - UV Kernel for Jupyter](https://www.reddit.com/r/MachineLearning/comments/1l8xnhk/p_juvio_uv_kernel_for_jupyter/)
 - [[P] Critique my geospatial Machine Learning approach. &lpar;I need second opinions&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l8ukbd/p_critique_my_geospatial_machine_learning/)
-- [[R] Cross-Architecture Embedding Transfer for Reward Modeling: A Controlled Study of Generalization](https://www.reddit.com/r/MachineLearning/comments/1l8ujsf/r_crossarchitecture_embedding_transfer_for_reward/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
