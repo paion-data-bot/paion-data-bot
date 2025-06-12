@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Text-to-LoRA: Instant Transformer Adaption](https://www.reddit.com/r/MachineLearning/comments/1l9cu6j/r_texttolora_instant_transformer_adaption/)
 - [[D] What are the advantages of Monte Carlo Tree Search over flat Monte Carlo?](https://www.reddit.com/r/MachineLearning/comments/1l9a1ec/d_what_are_the_advantages_of_monte_carlo_tree/)
 - [[D] Image generation using latent space learned from similar data](https://www.reddit.com/r/MachineLearning/comments/1l98aqp/d_image_generation_using_latent_space_learned/)
 - [[D] How to integrate Agent-To-Agent protocol in a workflow?](https://www.reddit.com/r/MachineLearning/comments/1l970fh/d_how_to_integrate_agenttoagent_protocol_in_a/)
 - [[P] Portable Air Compressor?](https://www.reddit.com/r/MachineLearning/comments/1l957f6/p_portable_air_compressor/)
-- [[P] Open-source LLM training pipeline](https://www.reddit.com/r/MachineLearning/comments/1l92ao5/p_opensource_llm_training_pipeline/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
