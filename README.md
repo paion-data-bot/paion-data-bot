@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[D] Semantic-Preserving Quantization Theory: A New Approach to Efficient Representation Learning](https://www.reddit.com/r/MachineLearning/comments/1l9ikz9/d_semanticpreserving_quantization_theory_a_new/)
-- [[D] Is Data Labeling Still Worth Big Money in the Age of Large Language Models? Are “Data Asset Premiums” Overhyped?](https://www.reddit.com/r/MachineLearning/comments/1l9ia1o/d_is_data_labeling_still_worth_big_money_in_the/)
 - [[N] Anonymous GitHub Down](https://www.reddit.com/r/MachineLearning/comments/1l9ftdh/n_anonymous_github_down/)
 - [[D] benchmarks for new hires?](https://www.reddit.com/r/MachineLearning/comments/1l9fesa/d_benchmarks_for_new_hires/)
 - [[D] those employed in Deep Learning](https://www.reddit.com/r/MachineLearning/comments/1l9fdu9/d_those_employed_in_deep_learning/)
+- [[D] How to validate a replicated model without the original dataset?](https://www.reddit.com/r/MachineLearning/comments/1l9f042/d_how_to_validate_a_replicated_model_without_the/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
