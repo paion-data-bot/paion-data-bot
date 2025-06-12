@@ -76,11 +76,11 @@
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [How to Build, Run, and Package AI Models Locally with Docker Model Runner](https://www.docker.com/blog/how-to-build-run-and-package-ai-models-locally-with-docker-model-runner/)
 - [Publishing AI models to Docker Hub](https://www.docker.com/blog/publish-ai-models-on-docker-hub/)
 - [Docker Desktop 4.42: Native IPv6, Built-In MCP, and Better Model Packaging](https://www.docker.com/blog/docker-desktop-4-42-native-ipv6-built-in-mcp-and-better-model-packaging/)
 - [Settings Management for Docker Desktop now generally available in the Admin Console](https://www.docker.com/blog/settings-management-for-docker-desktop-now-generally-available-in-the-admin-console/)
 - [How to Make an AI Chatbot from Scratch using Docker Model Runner](https://www.docker.com/blog/how-to-make-ai-chatbot-from-scratch/)
-- [Introducing Docker Hardened Images: Secure, Minimal, and Ready for Production](https://www.docker.com/blog/introducing-docker-hardened-images/)
 <!-- DOCKER-BLOG:END -->
 
 <h3><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h3>
