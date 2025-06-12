@@ -16,9 +16,9 @@
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
 - [How we&#39;re supporting better tropical cyclone prediction with AI](https://deepmind.google/discover/blog/weather-lab-cyclone-predictions-with-ai/)
 - [Advanced audio dialog and generation with Gemini 2.5](https://deepmind.google/discover/blog/advanced-audio-dialog-and-generation-with-gemini-25/)
-- [Advancing Gemini&#39;s security safeguards](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/)
-- [Our vision for building a universal AI assistant](https://deepmind.google/discover/blog/our-vision-for-building-a-universal-ai-assistant/)
+- [SynthID Detector — a new portal to help identify AI-generated content](https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/)
 - [Gemini 2.5: Our most intelligent models are getting even better](https://deepmind.google/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/)
+- [Advancing Gemini&#39;s security safeguards](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
