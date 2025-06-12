@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to validate a replicated model without the original dataset?](https://www.reddit.com/r/MachineLearning/comments/1l9f042/d_how_to_validate_a_replicated_model_without_the/)
 - [[P] How to Approach a 3D Medical Imaging Project? &lpar;RSNA 2023 Trauma Detection&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l9dd18/p_how_to_approach_a_3d_medical_imaging_project/)
 - [[R] Text-to-LoRA: Instant Transformer Adaption](https://www.reddit.com/r/MachineLearning/comments/1l9cu6j/r_texttolora_instant_transformer_adaption/)
 - [[D] What are the advantages of Monte Carlo Tree Search over flat Monte Carlo?](https://www.reddit.com/r/MachineLearning/comments/1l9a1ec/d_what_are_the_advantages_of_monte_carlo_tree/)
 - [[D] Image generation using latent space learned from similar data](https://www.reddit.com/r/MachineLearning/comments/1l98aqp/d_image_generation_using_latent_space_learned/)
-- [[D] How to integrate Agent-To-Agent protocol in a workflow?](https://www.reddit.com/r/MachineLearning/comments/1l970fh/d_how_to_integrate_agenttoagent_protocol_in_a/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
