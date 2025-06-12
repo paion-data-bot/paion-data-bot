@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Quantization-Aware Training + Knowledge Distillation: Practical Insights &amp; a Simple Entropy Trick &lpar;with code&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l9tox3/d_quantizationaware_training_knowledge/)
 - [[P] S-coordinate image divination](https://www.reddit.com/r/MachineLearning/comments/1l9puua/p_scoordinate_image_divination/)
 - [[P] Nanonets-OCR-s: An Open-Source Image-to-Markdown Model with LaTeX, Tables, Signatures, checkboxes &amp; More](https://www.reddit.com/r/MachineLearning/comments/1l9poxd/p_nanonetsocrs_an_opensource_imagetomarkdown/)
 - [[D] Supervised fine-tuning with Alchemist?](https://www.reddit.com/r/MachineLearning/comments/1l9p9hi/d_supervised_finetuning_with_alchemist/)
 - [[R] ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1l9mtu2/r_abba_highly_expressive_hadamard_product/)
-- [[P]: I reimplemented all of frontier deep learning from scratch to help you learn](https://www.reddit.com/r/MachineLearning/comments/1l9lb0c/p_i_reimplemented_all_of_frontier_deep_learning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
