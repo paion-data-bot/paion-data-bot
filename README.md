@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] SWE-rebench Major Update: Tool Usage, Claude Sonnet 3.5/4, OpenAI o3 and May Data](https://www.reddit.com/r/MachineLearning/comments/1l9l5dt/p_swerebench_major_update_tool_usage_claude/)
 - [[D] Semantic-Preserving Quantization Theory: A New Approach to Efficient Representation Learning](https://www.reddit.com/r/MachineLearning/comments/1l9ikz9/d_semanticpreserving_quantization_theory_a_new/)
 - [[N] Anonymous GitHub Down](https://www.reddit.com/r/MachineLearning/comments/1l9ftdh/n_anonymous_github_down/)
 - [[D] benchmarks for new hires?](https://www.reddit.com/r/MachineLearning/comments/1l9fesa/d_benchmarks_for_new_hires/)
 - [[D] those employed in Deep Learning](https://www.reddit.com/r/MachineLearning/comments/1l9fdu9/d_those_employed_in_deep_learning/)
-- [[D] How to validate a replicated model without the original dataset?](https://www.reddit.com/r/MachineLearning/comments/1l9f042/d_how_to_validate_a_replicated_model_without_the/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
