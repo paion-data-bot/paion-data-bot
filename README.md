@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Breaking Boundaries: Building a Tangram Puzzle With &lpar;S&rpar;CSS](https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/)
 - [Creating an Auto-Closing Notification With an HTML Popover](https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/)
 - [Better CSS Shapes Using shape&lpar;&rpar; — Part 3: Curves](https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/)
 - [Exploring the CSS contrast-color&lpar;&rpar; Function… a Second Time](https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/)
 - [The State of CSS 2025 Survey is out!](https://css-tricks.com/the-state-of-css-2025-survey-is-out/)
-- [Getting Creative With HTML Dialog](https://css-tricks.com/getting-creative-with-html-dialog/)
 <!-- CSS-TRIKCS:END -->
