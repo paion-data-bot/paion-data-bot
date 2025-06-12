@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[R] ABBA: Highly Expressive Hadamard Product Adaptation for Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1l9mtu2/r_abba_highly_expressive_hadamard_product/)
-- [[P] Built a tool for AI dialogue research that actually lets you watch conversations in real-time](https://www.reddit.com/r/MachineLearning/comments/1l9loa4/p_built_a_tool_for_ai_dialogue_research_that/)
 - [[P]: I reimplemented all of frontier deep learning from scratch to help you learn](https://www.reddit.com/r/MachineLearning/comments/1l9lb0c/p_i_reimplemented_all_of_frontier_deep_learning/)
 - [[D] Are GNNs/GCNs dead ?](https://www.reddit.com/r/MachineLearning/comments/1l9l86m/d_are_gnnsgcns_dead/)
 - [[P] SWE-rebench Major Update: Tool Usage, Claude Sonnet 3.5/4, OpenAI o3 and May Data](https://www.reddit.com/r/MachineLearning/comments/1l9l5dt/p_swerebench_major_update_tool_usage_claude/)
+- [[D] Semantic-Preserving Quantization Theory: A New Approach to Efficient Representation Learning](https://www.reddit.com/r/MachineLearning/comments/1l9ikz9/d_semanticpreserving_quantization_theory_a_new/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
