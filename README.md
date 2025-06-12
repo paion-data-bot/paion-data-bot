@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]Career Progression advice in ML](https://www.reddit.com/r/MachineLearning/comments/1l9xjm6/dcareer_progression_advice_in_ml/)
 - [[D] ICML Financial Aid - How does it work?](https://www.reddit.com/r/MachineLearning/comments/1l9v4ix/d_icml_financial_aid_how_does_it_work/)
 - [[P] HELP!!! My home crafted neural network simply doesnt want to learn](https://www.reddit.com/r/MachineLearning/comments/1l9u37l/p_help_my_home_crafted_neural_network_simply/)
 - [[P] S-coordinate image divination](https://www.reddit.com/r/MachineLearning/comments/1l9puua/p_scoordinate_image_divination/)
 - [[P] Nanonets-OCR-s: An Open-Source Image-to-Markdown Model with LaTeX, Tables, Signatures, checkboxes &amp; More](https://www.reddit.com/r/MachineLearning/comments/1l9poxd/p_nanonetsocrs_an_opensource_imagetomarkdown/)
-- [[D] Supervised fine-tuning with Alchemist?](https://www.reddit.com/r/MachineLearning/comments/1l9p9hi/d_supervised_finetuning_with_alchemist/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
