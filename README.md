@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] I created NexFace. A High Quality Face Swap to Image and Video](https://www.reddit.com/r/MachineLearning/comments/1ladz9i/p_i_created_nexface_a_high_quality_face_swap_to/)
 - [[D] Why does BPR collapse while Triplet Loss shines in my two-tower recommender?](https://www.reddit.com/r/MachineLearning/comments/1lab3h7/d_why_does_bpr_collapse_while_triplet_loss_shines/)
 - [[R] Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation](https://www.reddit.com/r/MachineLearning/comments/1la9xub/r_finetuning_language_models_to_resist/)
 - [[D] The effectiveness of single latent parameter autoencoders: an interesting observation](https://www.reddit.com/r/MachineLearning/comments/1la6plp/d_the_effectiveness_of_single_latent_parameter/)
 - [[2506.06105] Text-to-LoRA: Instant Transformer Adaption](https://www.reddit.com/r/MachineLearning/comments/1la59kh/250606105_texttolora_instant_transformer_adaption/)
-- [[D] Why Is Enterprise Data Integration Always So Messy? My Clients’ Real-Life Nightmares](https://www.reddit.com/r/MachineLearning/comments/1la46eq/d_why_is_enterprise_data_integration_always_so/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
