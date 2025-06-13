@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Why Is Enterprise Data Integration Always So Messy? My Clients’ Real-Life Nightmares](https://www.reddit.com/r/MachineLearning/comments/1la46eq/d_why_is_enterprise_data_integration_always_so/)
+- [[P] Built a Q&amp;A Clustering System for Chatbots - Groups 3000+ Customer Questions in Seconds!](https://www.reddit.com/r/MachineLearning/comments/1la43n2/p_built_a_qa_clustering_system_for_chatbots/)
+- [[P] Built a Q&amp;A Clustering System for Chatbots - Groups 300+ Customer Questions in Seconds!](https://www.reddit.com/r/MachineLearning/comments/1la41on/p_built_a_qa_clustering_system_for_chatbots/)
+- [[D] Geometric NLP](https://www.reddit.com/r/MachineLearning/comments/1la2t9o/d_geometric_nlp/)
 - [[Project] PySub – Subtitle Generation and Translation Pipeline Using Whisper + OpenAI/Ollama &lpar;Proof of Concept, Feedback Welcome&rpar;](https://www.reddit.com/r/MachineLearning/comments/1l9zqn7/project_pysub_subtitle_generation_and_translation/)
-- [[D] ICML Financial Aid - How does it work?](https://www.reddit.com/r/MachineLearning/comments/1l9v4ix/d_icml_financial_aid_how_does_it_work/)
-- [[P] S-coordinate image divination](https://www.reddit.com/r/MachineLearning/comments/1l9puua/p_scoordinate_image_divination/)
-- [[P] Nanonets-OCR-s: An Open-Source Image-to-Markdown Model with LaTeX, Tables, Signatures, checkboxes &amp; More](https://www.reddit.com/r/MachineLearning/comments/1l9poxd/p_nanonetsocrs_an_opensource_imagetomarkdown/)
-- [[D] Supervised fine-tuning with Alchemist?](https://www.reddit.com/r/MachineLearning/comments/1l9p9hi/d_supervised_finetuning_with_alchemist/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
