@@ -28,7 +28,7 @@
 - [[R] Polynomial Mirrors: Expressing Any Neural Network as Polynomial Compositions](https://www.reddit.com/r/MachineLearning/comments/1lam6ep/r_polynomial_mirrors_expressing_any_neural/)
 - [[D] The Huge Flaw in LLMs’ Logic](https://www.reddit.com/r/MachineLearning/comments/1lal94m/d_the_huge_flaw_in_llms_logic/)
 - [[D][R] Ultralytics YOLO Deformable Convolution](https://www.reddit.com/r/MachineLearning/comments/1lajjo1/dr_ultralytics_yolo_deformable_convolution/)
-- [[P] :AI debug by runtime stack inspection: I build a code agent that can write code and use LLM to debugs itself by driving a runtime debugger](https://www.reddit.com/r/MachineLearning/comments/1laje05/p_ai_debug_by_runtime_stack_inspection_i_build_a/)
+- [[R] A multi-modal, multi-turn instruction grounding dataset on CAD edits](https://www.reddit.com/r/MachineLearning/comments/1lajb3n/r_a_multimodal_multiturn_instruction_grounding/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
