@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] :AI debug by runtime stack inspection: I build a code agent that can write code and use LLM to debugs itself by driving a runtime debugger](https://www.reddit.com/r/MachineLearning/comments/1laje05/p_ai_debug_by_runtime_stack_inspection_i_build_a/)
+- [[R] A multi-modal, multi-turn instruction grounding dataset on CAD edits](https://www.reddit.com/r/MachineLearning/comments/1lajb3n/r_a_multimodal_multiturn_instruction_grounding/)
 - [[D][R] Collaborative Learning in Agentic Systems: A Collective AI is Greater Than the Sum of Its Parts](https://www.reddit.com/r/MachineLearning/comments/1laflyy/dr_collaborative_learning_in_agentic_systems_a/)
 - [[P] Residual Isolation Forest](https://www.reddit.com/r/MachineLearning/comments/1lafghh/p_residual_isolation_forest/)
 - [[P] Live Speech To Text in Arabic](https://www.reddit.com/r/MachineLearning/comments/1laevga/p_live_speech_to_text_in_arabic/)
-- [[P] I created NexFace. A High Quality Face Swap to Image and Video](https://www.reddit.com/r/MachineLearning/comments/1ladz9i/p_i_created_nexface_a_high_quality_face_swap_to/)
-- [[D] Why does BPR collapse while Triplet Loss shines in my two-tower recommender?](https://www.reddit.com/r/MachineLearning/comments/1lab3h7/d_why_does_bpr_collapse_while_triplet_loss_shines/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
