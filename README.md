@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Fine-Tuning Language Models to Resist Hallucination in Retrieval-Augmented Generation](https://www.reddit.com/r/MachineLearning/comments/1la9xub/r_finetuning_language_models_to_resist/)
 - [[D] The effectiveness of single latent parameter autoencoders: an interesting observation](https://www.reddit.com/r/MachineLearning/comments/1la6plp/d_the_effectiveness_of_single_latent_parameter/)
 - [[D]The best place to hide a body is in a cemetery](https://www.reddit.com/r/MachineLearning/comments/1la5twy/dthe_best_place_to_hide_a_body_is_in_a_cemetery/)
 - [[2506.06105] Text-to-LoRA: Instant Transformer Adaption](https://www.reddit.com/r/MachineLearning/comments/1la59kh/250606105_texttolora_instant_transformer_adaption/)
 - [[D] Why Is Enterprise Data Integration Always So Messy? My Clients’ Real-Life Nightmares](https://www.reddit.com/r/MachineLearning/comments/1la46eq/d_why_is_enterprise_data_integration_always_so/)
-- [[D] Geometric NLP](https://www.reddit.com/r/MachineLearning/comments/1la2t9o/d_geometric_nlp/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
