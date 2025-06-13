@@ -14,11 +14,11 @@
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [Behind “ANCESTRA”: combining Veo with live-action filmmaking](https://deepmind.google/discover/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/)
 - [How we&#39;re supporting better tropical cyclone prediction with AI](https://deepmind.google/discover/blog/weather-lab-cyclone-predictions-with-ai/)
 - [Advanced audio dialog and generation with Gemini 2.5](https://deepmind.google/discover/blog/advanced-audio-dialog-and-generation-with-gemini-25/)
+- [Our vision for building a universal AI assistant](https://deepmind.google/discover/blog/our-vision-for-building-a-universal-ai-assistant/)
 - [SynthID Detector — a new portal to help identify AI-generated content](https://deepmind.google/discover/blog/synthid-detector--a-new-portal-to-help-identify-ai-generated-content/)
-- [Gemini 2.5: Our most intelligent models are getting even better](https://deepmind.google/discover/blog/gemini-25-our-world-leading-model-is-getting-even-better/)
-- [Advancing Gemini&#39;s security safeguards](https://deepmind.google/discover/blog/advancing-geminis-security-safeguards/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
