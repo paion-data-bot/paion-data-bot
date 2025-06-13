@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D][R] &lpar;Theoretically&rpar; fixing the LLM Latency Barrier with SF-Diff &lpar;Scaffold-and-Fill Diffusion&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lat7u0/dr_theoretically_fixing_the_llm_latency_barrier/)
 - [[P] 3Blue1Brown Follow-up: From Hypothetical Examples to LLM Circuit Visualization](https://www.reddit.com/r/MachineLearning/comments/1laqsz2/p_3blue1brown_followup_from_hypothetical_examples/)
 - [[R] Polynomial Mirrors: Expressing Any Neural Network as Polynomial Compositions](https://www.reddit.com/r/MachineLearning/comments/1lam6ep/r_polynomial_mirrors_expressing_any_neural/)
 - [[D] The Huge Flaw in LLMs’ Logic](https://www.reddit.com/r/MachineLearning/comments/1lal94m/d_the_huge_flaw_in_llms_logic/)
 - [[D][R] Ultralytics YOLO Deformable Convolution](https://www.reddit.com/r/MachineLearning/comments/1lajjo1/dr_ultralytics_yolo_deformable_convolution/)
-- [[R] A multi-modal, multi-turn instruction grounding dataset on CAD edits](https://www.reddit.com/r/MachineLearning/comments/1lajb3n/r_a_multimodal_multiturn_instruction_grounding/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
