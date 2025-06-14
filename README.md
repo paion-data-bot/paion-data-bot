@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[P] Non Diverse predictions for Time Series Custom Transformer using global Zscore and RevIn](https://www.reddit.com/r/MachineLearning/comments/1lb2eah/p_non_diverse_predictions_for_time_series_custom/)
-- [I Built a CV Matching Tool That Recruiters Say Gives 100% Relevant Results - Here&#39;s How [P]](https://www.reddit.com/r/MachineLearning/comments/1laykad/i_built_a_cv_matching_tool_that_recruiters_say/)
 - [[D] Reading Machine and Deep Learning research papers](https://www.reddit.com/r/MachineLearning/comments/1layeej/d_reading_machine_and_deep_learning_research/)
 - [Question about applied scientist roles at Amazon [D]](https://www.reddit.com/r/MachineLearning/comments/1lavrys/question_about_applied_scientist_roles_at_amazon_d/)
 - [[P] Built mcp-linker: A config manager for Claude Desktop MCP servers + found a crash bug](https://www.reddit.com/r/MachineLearning/comments/1lau5ru/p_built_mcplinker_a_config_manager_for_claude/)
+- [[D][R] &lpar;Theoretically&rpar; fixing the LLM Latency Barrier with SF-Diff &lpar;Scaffold-and-Fill Diffusion&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lat7u0/dr_theoretically_fixing_the_llm_latency_barrier/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
