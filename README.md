@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] How do I test a model&#39;s falloff and recovery](https://www.reddit.com/r/MachineLearning/comments/1lbh1hp/p_how_do_i_test_a_models_falloff_and_recovery/)
 - [[R] CausalPFN: Amortized Causal Effect Estimation via In-Context Learning](https://www.reddit.com/r/MachineLearning/comments/1lbgiua/r_causalpfn_amortized_causal_effect_estimation/)
 - [[D] Could we improve accuracy by training a task specific embeddings model from scratch?](https://www.reddit.com/r/MachineLearning/comments/1lbgg7p/d_could_we_improve_accuracy_by_training_a_task/)
 - [[D] Machine Learning, like many other popular field, has so many pseudo science people on social media](https://www.reddit.com/r/MachineLearning/comments/1lbct3w/d_machine_learning_like_many_other_popular_field/)
 - [[D] Nvidia’s “Join Us or Compete” moment — the GPU cloud stack is collapsing](https://www.reddit.com/r/MachineLearning/comments/1lbccqj/d_nvidias_join_us_or_compete_moment_the_gpu_cloud/)
-- [[P] Looking for contributing to open source projects](https://www.reddit.com/r/MachineLearning/comments/1lbaok2/p_looking_for_contributing_to_open_source_projects/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
