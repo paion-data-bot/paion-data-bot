@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Analyzing paths datapoints take through clustered latent space with LLMs](https://www.reddit.com/r/MachineLearning/comments/1lb8mtg/r_analyzing_paths_datapoints_take_through/)
 - [[D] Research vs industry practices: final training on all data for production models](https://www.reddit.com/r/MachineLearning/comments/1lb7xpn/d_research_vs_industry_practices_final_training/)
 - [[P] Non Diverse predictions for Time Series Custom Transformer using global Zscore and RevIn](https://www.reddit.com/r/MachineLearning/comments/1lb2eah/p_non_diverse_predictions_for_time_series_custom/)
 - [[D] Reading Machine and Deep Learning research papers](https://www.reddit.com/r/MachineLearning/comments/1layeej/d_reading_machine_and_deep_learning_research/)
 - [Question about applied scientist roles at Amazon [D]](https://www.reddit.com/r/MachineLearning/comments/1lavrys/question_about_applied_scientist_roles_at_amazon_d/)
-- [[P] Built mcp-linker: A config manager for Claude Desktop MCP servers + found a crash bug](https://www.reddit.com/r/MachineLearning/comments/1lau5ru/p_built_mcplinker_a_config_manager_for_claude/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
