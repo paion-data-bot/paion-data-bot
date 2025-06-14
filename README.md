@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Could we improve accuracy by training a task specific embeddings model from scratch?](https://www.reddit.com/r/MachineLearning/comments/1lbgg7p/d_could_we_improve_accuracy_by_training_a_task/)
 - [[P] We at Meesho have open-sourced our machine learning platform. Online Feature Store is released !! More incoming](https://www.reddit.com/r/MachineLearning/comments/1lbfffn/p_we_at_meesho_have_opensourced_our_machine/)
 - [[D] Machine Learning, like many other popular field, has so many pseudo science people on social media](https://www.reddit.com/r/MachineLearning/comments/1lbct3w/d_machine_learning_like_many_other_popular_field/)
 - [[D] Nvidia’s “Join Us or Compete” moment — the GPU cloud stack is collapsing](https://www.reddit.com/r/MachineLearning/comments/1lbccqj/d_nvidias_join_us_or_compete_moment_the_gpu_cloud/)
 - [[P] Looking for contributing to open source projects](https://www.reddit.com/r/MachineLearning/comments/1lbaok2/p_looking_for_contributing_to_open_source_projects/)
-- [[P] I built an end-to-end system that converts handwriting into a font using a custom PyTorch model, OpenCV and Fonttools. Open-source.](https://www.reddit.com/r/MachineLearning/comments/1lb9e4c/p_i_built_an_endtoend_system_that_converts/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
