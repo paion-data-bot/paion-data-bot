@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Pytorch-forecasting TFT vs Neuralforecast &lpar;Nixtla&rpar; TFT](https://www.reddit.com/r/MachineLearning/comments/1lbl5vg/d_pytorchforecasting_tft_vs_neuralforecast_nixtla/)
 - [[D] Best websites for Scientific Researching](https://www.reddit.com/r/MachineLearning/comments/1lbivpx/d_best_websites_for_scientific_researching/)
 - [[D] Hardware focused/Embedded engineer seeking advices for moving to Edge AI ML](https://www.reddit.com/r/MachineLearning/comments/1lbinek/d_hardware_focusedembedded_engineer_seeking/)
 - [[P] Best Approach for Accurate Speaker Diarization](https://www.reddit.com/r/MachineLearning/comments/1lbi6aa/p_best_approach_for_accurate_speaker_diarization/)
 - [[D] Switching to AI4CI Master’s at CNAM Paris – Looking for Feedback &amp; Experiences](https://www.reddit.com/r/MachineLearning/comments/1lbhvld/d_switching_to_ai4ci_masters_at_cnam_paris/)
-- [[P] Tabulens: A Vision-LLM Powered PDF Table Extractor](https://www.reddit.com/r/MachineLearning/comments/1lbhqbb/p_tabulens_a_visionllm_powered_pdf_table_extractor/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
