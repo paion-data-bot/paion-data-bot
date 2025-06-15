@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] Open Source Unsiloed AI Chunker &lpar;EF2024&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lbq8hr/n_open_source_unsiloed_ai_chunker_ef2024/)
+- [[P] Use Local LLM&#39;s Watching, Logging and Reacting to your screen &lpar;Open Source Self Hosted project&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lbpbwu/p_use_local_llms_watching_logging_and_reacting_to/)
 - [[D] Asking about equation 55 in the DDIM paper](https://www.reddit.com/r/MachineLearning/comments/1lbor5o/d_asking_about_equation_55_in_the_ddim_paper/)
 - [[P] I built a symbolic operating system for LLMs with deterministic memory, trace logging, and red-teamable audit layers — all in plain text](https://www.reddit.com/r/MachineLearning/comments/1lbo799/p_i_built_a_symbolic_operating_system_for_llms/)
 - [[D] Pytorch-forecasting TFT vs Neuralforecast &lpar;Nixtla&rpar; TFT](https://www.reddit.com/r/MachineLearning/comments/1lbl5vg/d_pytorchforecasting_tft_vs_neuralforecast_nixtla/)
-- [[D] Best websites for Scientific Researching](https://www.reddit.com/r/MachineLearning/comments/1lbivpx/d_best_websites_for_scientific_researching/)
-- [[D] Hardware focused/Embedded engineer seeking advices for moving to Edge AI ML](https://www.reddit.com/r/MachineLearning/comments/1lbinek/d_hardware_focusedembedded_engineer_seeking/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
