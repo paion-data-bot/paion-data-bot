@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D]stationary gan training machine](https://www.reddit.com/r/MachineLearning/comments/1lc4bku/dstationary_gan_training_machine/)
+- [[D] How do you buid your inference pipeline after training?](https://www.reddit.com/r/MachineLearning/comments/1lc46k0/d_how_do_you_buid_your_inference_pipeline_after/)
 - [[P] A web app that uses vision models to teach you sign language spelling](https://www.reddit.com/r/MachineLearning/comments/1lc2aid/p_a_web_app_that_uses_vision_models_to_teach_you/)
 - [[P] AI Learns to Play Cadillacs and Dinosaurs &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lc1p1u/p_ai_learns_to_play_cadillacs_and_dinosaurs_deep/)
 - [[D] What is XAI missing?](https://www.reddit.com/r/MachineLearning/comments/1lc0y8f/d_what_is_xai_missing/)
-- [[D] Q-learning is not yet scalable](https://www.reddit.com/r/MachineLearning/comments/1lbz06m/d_qlearning_is_not_yet_scalable/)
-- [[D] What are some low hanging fruits in ML/DL research that can still be done using small compute &lpar;say a couple of GPUs&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1lbtgeg/d_what_are_some_low_hanging_fruits_in_mldl/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
