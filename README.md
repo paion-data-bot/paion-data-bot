@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models &lpar;and Beyond&rpar; [CVPR 2025]](https://www.reddit.com/r/MachineLearning/comments/1lc7b52/r_zeroshot_image_restoration_using_fewstep/)
+- [[N] &quot;Foundations of Computer Vision&quot; book from MIT](https://www.reddit.com/r/MachineLearning/comments/1lc70jc/n_foundations_of_computer_vision_book_from_mit/)
 - [[P] An open-source policy engine that filters LLM traffic in real-time](https://www.reddit.com/r/MachineLearning/comments/1lc5f2v/p_an_opensource_policy_engine_that_filters_llm/)
 - [[D]stationary gan training machine](https://www.reddit.com/r/MachineLearning/comments/1lc4bku/dstationary_gan_training_machine/)
 - [[D] How do you buid your inference pipeline after training?](https://www.reddit.com/r/MachineLearning/comments/1lc46k0/d_how_do_you_buid_your_inference_pipeline_after/)
-- [[P] A web app that uses vision models to teach you sign language spelling](https://www.reddit.com/r/MachineLearning/comments/1lc2aid/p_a_web_app_that_uses_vision_models_to_teach_you/)
-- [[P] AI Learns to Play Cadillacs and Dinosaurs &lpar;Deep Reinforcement Learning&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lc1p1u/p_ai_learns_to_play_cadillacs_and_dinosaurs_deep/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
