@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Self-Improving Training Data Pipeline: I Wrote A Script That Generates Diverse Tool Examples for Classifier Embedding Without Human Oversight](https://www.reddit.com/r/MachineLearning/comments/1lcctkl/p_selfimproving_training_data_pipeline_i_wrote_a/)
 - [[D] 🚀 ML approaches for voice acceleration: Beyond traditional time-stretching?](https://www.reddit.com/r/MachineLearning/comments/1lcb9f0/d_ml_approaches_for_voice_acceleration_beyond/)
 - [[P] How do I profitably use 2x 12x RTX 4090 servers?](https://www.reddit.com/r/MachineLearning/comments/1lc9dek/p_how_do_i_profitably_use_2x_12x_rtx_4090_servers/)
 - [[D] MICCAI 2025 results are released!?](https://www.reddit.com/r/MachineLearning/comments/1lc92st/d_miccai_2025_results_are_released/)
 - [[R] Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models &lpar;and Beyond&rpar; [CVPR 2025]](https://www.reddit.com/r/MachineLearning/comments/1lc7b52/r_zeroshot_image_restoration_using_fewstep/)
-- [[N] &quot;Foundations of Computer Vision&quot; book from MIT](https://www.reddit.com/r/MachineLearning/comments/1lc70jc/n_foundations_of_computer_vision_book_from_mit/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
