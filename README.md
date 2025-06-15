@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Q-learning is not yet scalable](https://www.reddit.com/r/MachineLearning/comments/1lbz06m/d_qlearning_is_not_yet_scalable/)
 - [[D] What are some low hanging fruits in ML/DL research that can still be done using small compute &lpar;say a couple of GPUs&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1lbtgeg/d_what_are_some_low_hanging_fruits_in_mldl/)
 - [[N] Open Source Unsiloed AI Chunker &lpar;EF2024&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lbq8hr/n_open_source_unsiloed_ai_chunker_ef2024/)
 - [[P] Use Local LLM&#39;s Watching, Logging and Reacting to your screen &lpar;Open Source Self Hosted project&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lbpbwu/p_use_local_llms_watching_logging_and_reacting_to/)
 - [[D] Asking about equation 55 in the DDIM paper](https://www.reddit.com/r/MachineLearning/comments/1lbor5o/d_asking_about_equation_55_in_the_ddim_paper/)
-- [[P] I built a symbolic operating system for LLMs with deterministic memory, trace logging, and red-teamable audit layers — all in plain text](https://www.reddit.com/r/MachineLearning/comments/1lbo799/p_i_built_a_symbolic_operating_system_for_llms/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
