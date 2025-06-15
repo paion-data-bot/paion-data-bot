@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] How do I profitably use 2x 12x RTX 4090 servers?](https://www.reddit.com/r/MachineLearning/comments/1lc9dek/p_how_do_i_profitably_use_2x_12x_rtx_4090_servers/)
 - [[D] MICCAI 2025 results are released!?](https://www.reddit.com/r/MachineLearning/comments/1lc92st/d_miccai_2025_results_are_released/)
 - [[R] Zero-Shot Image Restoration Using Few-Step Guidance of Consistency Models &lpar;and Beyond&rpar; [CVPR 2025]](https://www.reddit.com/r/MachineLearning/comments/1lc7b52/r_zeroshot_image_restoration_using_fewstep/)
 - [[N] &quot;Foundations of Computer Vision&quot; book from MIT](https://www.reddit.com/r/MachineLearning/comments/1lc70jc/n_foundations_of_computer_vision_book_from_mit/)
 - [[P] An open-source policy engine that filters LLM traffic in real-time](https://www.reddit.com/r/MachineLearning/comments/1lc5f2v/p_an_opensource_policy_engine_that_filters_llm/)
-- [[D]stationary gan training machine](https://www.reddit.com/r/MachineLearning/comments/1lc4bku/dstationary_gan_training_machine/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
