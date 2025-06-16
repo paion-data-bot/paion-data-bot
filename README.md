@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Q], [D]: What tools do you use to create informative, visually appealing and above all clear figures for your papers?](https://www.reddit.com/r/MachineLearning/comments/1lcuoah/q_d_what_tools_do_you_use_to_create_informative/)
 - [[R] Which of A star AI ML conferences allow virtual presentation upon acceptance?](https://www.reddit.com/r/MachineLearning/comments/1lcu047/r_which_of_a_star_ai_ml_conferences_allow_virtual/)
 - [I&#39;m not obsolete, am I? [P]](https://www.reddit.com/r/MachineLearning/comments/1lcrsly/im_not_obsolete_am_i_p/)
 - [[D]Done with CS229 what now?](https://www.reddit.com/r/MachineLearning/comments/1lcrgpo/ddone_with_cs229_what_now/)
 - [[D] Language Collapse Reality: A Speculative Model of Language as Escaped Particles from a Semantic Black Hole](https://www.reddit.com/r/MachineLearning/comments/1lcqzr3/d_language_collapse_reality_a_speculative_model/)
-- [[D] Time series Transformers- Autogressive or all at once?](https://www.reddit.com/r/MachineLearning/comments/1lcqcd6/d_time_series_transformers_autogressive_or_all_at/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
