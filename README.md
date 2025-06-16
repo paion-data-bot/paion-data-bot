@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [I&#39;m not obsolete, am I? [P]](https://www.reddit.com/r/MachineLearning/comments/1lcrsly/im_not_obsolete_am_i_p/)
 - [[D]Done with CS229 what now?](https://www.reddit.com/r/MachineLearning/comments/1lcrgpo/ddone_with_cs229_what_now/)
 - [[D] Language Collapse Reality: A Speculative Model of Language as Escaped Particles from a Semantic Black Hole](https://www.reddit.com/r/MachineLearning/comments/1lcqzr3/d_language_collapse_reality_a_speculative_model/)
 - [[D] Time series Transformers- Autogressive or all at once?](https://www.reddit.com/r/MachineLearning/comments/1lcqcd6/d_time_series_transformers_autogressive_or_all_at/)
 - [[D] Transitioning into AI + Healthcare with ML/DL/NLP Skills – Career Advice Needed](https://www.reddit.com/r/MachineLearning/comments/1lcox5r/d_transitioning_into_ai_healthcare_with_mldlnlp/)
-- [[R] Unsupervised Elicitation of Language Models](https://www.reddit.com/r/MachineLearning/comments/1lcnm1k/r_unsupervised_elicitation_of_language_models/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
