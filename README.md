@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[Q], [D] sites to compare two callipraghies](https://www.reddit.com/r/MachineLearning/comments/1ld43ck/q_d_sites_to_compare_two_callipraghies/)
 - [[R] Ambient Diffusion Omni: Training Good Models with Bad Data](https://www.reddit.com/r/MachineLearning/comments/1ld1ayv/r_ambient_diffusion_omni_training_good_models/)
 - [Student Researcher Roles [P]](https://www.reddit.com/r/MachineLearning/comments/1ld14ob/student_researcher_roles_p/)
 - [[R] The Illusion of &quot;The Illusion of Thinking&quot;](https://www.reddit.com/r/MachineLearning/comments/1ld0evr/r_the_illusion_of_the_illusion_of_thinking/)
 - [[P] Stereoscopic 3D image training dataset useful to anyone?](https://www.reddit.com/r/MachineLearning/comments/1lcxqym/p_stereoscopic_3d_image_training_dataset_useful/)
-- [[R] Struggling to Define Novelty in My AI Master’s Thesis](https://www.reddit.com/r/MachineLearning/comments/1lcwnf4/r_struggling_to_define_novelty_in_my_ai_masters/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
