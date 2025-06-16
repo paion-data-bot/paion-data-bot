@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Time series Transformers- Autogressive or all at once?](https://www.reddit.com/r/MachineLearning/comments/1lcqcd6/d_time_series_transformers_autogressive_or_all_at/)
 - [[D] Transitioning into AI + Healthcare with ML/DL/NLP Skills – Career Advice Needed](https://www.reddit.com/r/MachineLearning/comments/1lcox5r/d_transitioning_into_ai_healthcare_with_mldlnlp/)
 - [[R] Unsupervised Elicitation of Language Models](https://www.reddit.com/r/MachineLearning/comments/1lcnm1k/r_unsupervised_elicitation_of_language_models/)
 - [[D] Can I train a model from scratch with NeMo and deploy it with NIM?](https://www.reddit.com/r/MachineLearning/comments/1lcnf55/d_can_i_train_a_model_from_scratch_with_nemo_and/)
 - [[P] Bifrost: A Go-Powered LLM Gateway - 40x Faster than LiteLLM, Built for Scale](https://www.reddit.com/r/MachineLearning/comments/1lcn7ql/p_bifrost_a_gopowered_llm_gateway_40x_faster_than/)
-- [[P] Research Scientists + Engineers for Generative AI at NVIDIA](https://www.reddit.com/r/MachineLearning/comments/1lcmxeb/p_research_scientists_engineers_for_generative_ai/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
