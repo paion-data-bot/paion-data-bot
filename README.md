@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Can I train a model from scratch with NeMo and deploy it with NIM?](https://www.reddit.com/r/MachineLearning/comments/1lcnf55/d_can_i_train_a_model_from_scratch_with_nemo_and/)
+- [[P] Bifrost: A Go-Powered LLM Gateway - 40x Faster than LiteLLM, Built for Scale](https://www.reddit.com/r/MachineLearning/comments/1lcn7ql/p_bifrost_a_gopowered_llm_gateway_40x_faster_than/)
 - [[P] Research Scientists + Engineers for Generative AI at NVIDIA](https://www.reddit.com/r/MachineLearning/comments/1lcmxeb/p_research_scientists_engineers_for_generative_ai/)
 - [[P] Solving SlimeVolley with NEAT](https://www.reddit.com/r/MachineLearning/comments/1lcldz9/p_solving_slimevolley_with_neat/)
 - [[D] HighNoon LLM: Exploring Hierarchical Memory for Efficient NLP](https://www.reddit.com/r/MachineLearning/comments/1lcjjd2/d_highnoon_llm_exploring_hierarchical_memory_for/)
-- [[R] Vision Transformers Don&#39;t Need Trained Registers](https://www.reddit.com/r/MachineLearning/comments/1lcja93/r_vision_transformers_dont_need_trained_registers/)
-- [[P] spy search a llm search engine](https://www.reddit.com/r/MachineLearning/comments/1lcj9wy/p_spy_search_a_llm_search_engine/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
