@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Solving SlimeVolley with NEAT](https://www.reddit.com/r/MachineLearning/comments/1lcldz9/p_solving_slimevolley_with_neat/)
 - [[D] HighNoon LLM: Exploring Hierarchical Memory for Efficient NLP](https://www.reddit.com/r/MachineLearning/comments/1lcjjd2/d_highnoon_llm_exploring_hierarchical_memory_for/)
 - [[R] Vision Transformers Don&#39;t Need Trained Registers](https://www.reddit.com/r/MachineLearning/comments/1lcja93/r_vision_transformers_dont_need_trained_registers/)
 - [[P] spy search a llm search engine](https://www.reddit.com/r/MachineLearning/comments/1lcj9wy/p_spy_search_a_llm_search_engine/)
 - [[P] LLM Debugger – Visualize OpenAI API Conversations](https://www.reddit.com/r/MachineLearning/comments/1lcge6b/p_llm_debugger_visualize_openai_api_conversations/)
-- [ML Research: Industry vs Academia [D]](https://www.reddit.com/r/MachineLearning/comments/1lcfd1d/ml_research_industry_vs_academia_d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
