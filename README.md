@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] The Illusion of &quot;The Illusion of Thinking&quot;](https://www.reddit.com/r/MachineLearning/comments/1ld0evr/r_the_illusion_of_the_illusion_of_thinking/)
 - [[P] Stereoscopic 3D image training dataset useful to anyone?](https://www.reddit.com/r/MachineLearning/comments/1lcxqym/p_stereoscopic_3d_image_training_dataset_useful/)
 - [[R] Struggling to Define Novelty in My AI Master’s Thesis](https://www.reddit.com/r/MachineLearning/comments/1lcwnf4/r_struggling_to_define_novelty_in_my_ai_masters/)
 - [[Q], [D]: What tools do you use to create informative, visually appealing and above all clear figures for your papers?](https://www.reddit.com/r/MachineLearning/comments/1lcuoah/q_d_what_tools_do_you_use_to_create_informative/)
 - [[R] Which of A star AI ML conferences allow virtual presentation upon acceptance?](https://www.reddit.com/r/MachineLearning/comments/1lcu047/r_which_of_a_star_ai_ml_conferences_allow_virtual/)
-- [I&#39;m not obsolete, am I? [P]](https://www.reddit.com/r/MachineLearning/comments/1lcrsly/im_not_obsolete_am_i_p/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
