@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Anyone successfully transitioned from ML engineering to AI building/consulting for SMBs? Looking for insights](https://www.reddit.com/r/MachineLearning/comments/1ld7ynw/d_anyone_successfully_transitioned_from_ml/)
 - [[D] How to train a VLM with a dataset that has text and images?](https://www.reddit.com/r/MachineLearning/comments/1ld5i4t/d_how_to_train_a_vlm_with_a_dataset_that_has_text/)
 - [[R] Ambient Diffusion Omni: Training Good Models with Bad Data](https://www.reddit.com/r/MachineLearning/comments/1ld1ayv/r_ambient_diffusion_omni_training_good_models/)
 - [Student Researcher Roles [P]](https://www.reddit.com/r/MachineLearning/comments/1ld14ob/student_researcher_roles_p/)
 - [[R] The Illusion of &quot;The Illusion of Thinking&quot;](https://www.reddit.com/r/MachineLearning/comments/1ld0evr/r_the_illusion_of_the_illusion_of_thinking/)
-- [[P] Stereoscopic 3D image training dataset useful to anyone?](https://www.reddit.com/r/MachineLearning/comments/1lcxqym/p_stereoscopic_3d_image_training_dataset_useful/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
