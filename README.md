@@ -55,9 +55,9 @@
 
 <!-- ELASTIC-BLOGS:START -->
 - [Elastic Cloud Serverless now available on Google Cloud in Belgium and Mumbai](https://www.elastic.co/blog/elastic-cloud-now-available-gcp-belgium-mumbai)
+- [The hype is over: Generative AI is driving the evolution of search within enterprises](https://www.elastic.co/blog/evolution-search-enterprises)
 - [Elastic Cloud Serverless now available on Google Cloud in Belgium and Mumbai](https://www.elastic.co/blog/elastic-cloud-now-available-gcp-belgium-mumbai)
-- [Breaking cybersecurity silos: Enabling defence data collaboration](https://www.elastic.co/blog/defence-data-collaboration)
-- [AI and ML for mission systems: How AWS, Anthropic, and Elastic can drive resilience for national security](https://www.elastic.co/blog/ai-resilience-national-security)
+- [The hype is over: Generative AI is driving the evolution of search within enterprises](https://www.elastic.co/blog/evolution-search-enterprises)
 - [Breaking cybersecurity silos: Enabling defence data collaboration](https://www.elastic.co/blog/defence-data-collaboration)
 <!-- ELASTIC-BLOGS:END -->
 
