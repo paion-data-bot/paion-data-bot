@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [How the MOD can reduce costs while increasing protection with data mesh](https://www.elastic.co/blog/mod-can-reduce-costs-increase-protection-data-mesh)
+- [AI and ML for mission systems: How AWS, Anthropic, and Elastic can drive resilience for national security](https://www.elastic.co/blog/ai-resilience-national-security)
+- [AI and ML for mission systems: How AWS, Anthropic, and Elastic can drive resilience for national security](https://www.elastic.co/blog/ai-resilience-national-security)
 - [Elastic Security scores 100% in AV-Comparatives Business Security Test](https://www.elastic.co/blog/elastic-security-av-comparatives-business-security-test-2025)
 - [How the MOD can reduce costs while increasing protection with data mesh](https://www.elastic.co/blog/mod-can-reduce-costs-increase-protection-data-mesh)
 - [Elastic Security scores 100% in AV-Comparatives Business Security Test](https://www.elastic.co/blog/elastic-security-av-comparatives-business-security-test-2025)
-- [Where creativity and code collide: Top Down with Adhish Thite](https://www.elastic.co/blog/top-down-with-adhish-thite)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
