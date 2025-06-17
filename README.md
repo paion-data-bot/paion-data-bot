@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [AI and ML for mission systems: How AWS, Anthropic, and Elastic can drive resilience for national security](https://www.elastic.co/blog/ai-resilience-national-security)
+- [Elastic Cloud Serverless now available on Google Cloud in Belgium and Mumbai](https://www.elastic.co/blog/elastic-cloud-now-available-gcp-belgium-mumbai)
+- [Elastic Cloud Serverless now available on Google Cloud in Belgium and Mumbai](https://www.elastic.co/blog/elastic-cloud-now-available-gcp-belgium-mumbai)
 - [Breaking cybersecurity silos: Enabling defence data collaboration](https://www.elastic.co/blog/defence-data-collaboration)
 - [AI and ML for mission systems: How AWS, Anthropic, and Elastic can drive resilience for national security](https://www.elastic.co/blog/ai-resilience-national-security)
 - [Breaking cybersecurity silos: Enabling defence data collaboration](https://www.elastic.co/blog/defence-data-collaboration)
-- [How the MOD can reduce costs while increasing protection with data mesh](https://www.elastic.co/blog/mod-can-reduce-costs-increase-protection-data-mesh)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
