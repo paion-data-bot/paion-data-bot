@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [How to Keep Up With New CSS Features](https://css-tricks.com/how-to-keep-up-with-new-css-features/)
 - [A Better API for the Resize Observer](https://css-tricks.com/a-better-api-for-the-resize-observer/)
 - [Breaking Boundaries: Building a Tangram Puzzle With &lpar;S&rpar;CSS](https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/)
 - [Creating an Auto-Closing Notification With an HTML Popover](https://css-tricks.com/creating-an-auto-closing-notification-with-an-html-popover/)
 - [Better CSS Shapes Using shape&lpar;&rpar; — Part 3: Curves](https://css-tricks.com/better-css-shapes-using-shape-part-3-curves/)
-- [Exploring the CSS contrast-color&lpar;&rpar; Function… a Second Time](https://css-tricks.com/exploring-the-css-contrast-color-function-a-second-time/)
 <!-- CSS-TRIKCS:END -->
