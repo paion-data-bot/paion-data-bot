@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] HAI in Industry Research: Stay or Pivot?](https://www.reddit.com/r/MachineLearning/comments/1ldfi04/d_hai_in_industry_research_stay_or_pivot/)
 - [[R]: Data Leakage - How do I avoid &amp; do I need to reallocate entire dataset into train/val/test?](https://www.reddit.com/r/MachineLearning/comments/1ldf2g7/r_data_leakage_how_do_i_avoid_do_i_need_to/)
 - [[P]: I got tired of wrestling with MCP&#39;s, so I built an HTTP-native, OpenAPI-first alternative to MCP for your LLM agents &lpar;open-source&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lddcjy/p_i_got_tired_of_wrestling_with_mcps_so_i_built/)
 - [[D] Could frame generation beat out code generation for game development?](https://www.reddit.com/r/MachineLearning/comments/1ldaski/d_could_frame_generation_beat_out_code_generation/)
 - [[D] Why Is Data Processing, Especially Labeling, So Expensive? So Many Contractors Seem Like Scammers](https://www.reddit.com/r/MachineLearning/comments/1ldaof1/d_why_is_data_processing_especially_labeling_so/)
-- [[R] Towards Automating Long-Horizon Algorithm Engineering for Hard Optimization Problems](https://www.reddit.com/r/MachineLearning/comments/1ld9hwg/r_towards_automating_longhorizon_algorithm/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
