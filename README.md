@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Looking for GNN based approaches for spatially structured time series classification task](https://www.reddit.com/r/MachineLearning/comments/1ldtvnq/r_looking_for_gnn_based_approaches_for_spatially/)
 - [[D] Do all algorithms produce a model? If yes, a model of what?](https://www.reddit.com/r/MachineLearning/comments/1ldtns0/d_do_all_algorithms_produce_a_model_if_yes_a/)
 - [[P] Struggling with LLM memory drift? I built a free protocol to improve consistency. New patch &lpar;v1.2&rpar; just released](https://www.reddit.com/r/MachineLearning/comments/1ldt7ac/p_struggling_with_llm_memory_drift_i_built_a_free/)
 - [[D] Can masking operations detach the tensors from the computational graph?](https://www.reddit.com/r/MachineLearning/comments/1ldnh5s/d_can_masking_operations_detach_the_tensors_from/)
 - [[D] Burned out mid-PhD: Is it worth pushing through to aim for a Research Scientist role, or should I pivot to industry now?](https://www.reddit.com/r/MachineLearning/comments/1ldmzms/d_burned_out_midphd_is_it_worth_pushing_through/)
-- [[R] KVzip: Query-agnostic KV Cache Eviction — 3~4× memory reduction and 2× lower decoding latency](https://www.reddit.com/r/MachineLearning/comments/1ldmlj4/r_kvzip_queryagnostic_kv_cache_eviction_34_memory/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
