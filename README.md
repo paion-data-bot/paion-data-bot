@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Counting Cars with YOLO [P]](https://www.reddit.com/r/MachineLearning/comments/1ldyjv9/counting_cars_with_yolo_p/)
 - [I want to do something in ml to get selected in companies what should i do[D]](https://www.reddit.com/r/MachineLearning/comments/1ldyhoz/i_want_to_do_something_in_ml_to_get_selected_in/)
 - [[R] Consensus and uncertainty ML research- arXiv endorsement - is it actually possible without affiliation?](https://www.reddit.com/r/MachineLearning/comments/1ldxj8t/r_consensus_and_uncertainty_ml_research_arxiv/)
 - [[R] Looking for GNN based approaches for spatially structured time series classification task](https://www.reddit.com/r/MachineLearning/comments/1ldtvnq/r_looking_for_gnn_based_approaches_for_spatially/)
 - [[D] Do all algorithms produce a model? If yes, a model of what?](https://www.reddit.com/r/MachineLearning/comments/1ldtns0/d_do_all_algorithms_produce_a_model_if_yes_a/)
-- [[P] Struggling with LLM memory drift? I built a free protocol to improve consistency. New patch &lpar;v1.2&rpar; just released](https://www.reddit.com/r/MachineLearning/comments/1ldt7ac/p_struggling_with_llm_memory_drift_i_built_a_free/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
