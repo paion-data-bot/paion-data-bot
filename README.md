@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Nvidia A100 &lpar;40 GB&rpar; is slower than A5000 &lpar;24GB&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ldjz4c/r_nvidia_a100_40_gb_is_slower_than_a5000_24gb/)
 - [TNFR — A symbolic resonance framework for real-time AI reorganization &lpar;Python, pip install tnfr&rpar; [R]](https://www.reddit.com/r/MachineLearning/comments/1ldjqhy/tnfr_a_symbolic_resonance_framework_for_realtime/)
 - [[R] Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://www.reddit.com/r/MachineLearning/comments/1ldjcp7/r_breaking_quadratic_barriers_a_nonattention_llm/)
 - [[R] Variational Encoders &lpar;Without the Auto&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ldi7f7/r_variational_encoders_without_the_auto/)
 - [Best Model For Reddit Lead Generation [D]](https://www.reddit.com/r/MachineLearning/comments/1ldhnlf/best_model_for_reddit_lead_generation_d/)
-- [[D] Page limit in camera-ready version?](https://www.reddit.com/r/MachineLearning/comments/1ldhcu1/d_page_limit_in_cameraready_version/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
