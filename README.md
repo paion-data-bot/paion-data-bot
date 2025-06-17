@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Struggling with LLM memory drift? I built a free protocol to improve consistency. New patch &lpar;v1.2&rpar; just released](https://www.reddit.com/r/MachineLearning/comments/1ldt7ac/p_struggling_with_llm_memory_drift_i_built_a_free/)
 - [[D] Can masking operations detach the tensors from the computational graph?](https://www.reddit.com/r/MachineLearning/comments/1ldnh5s/d_can_masking_operations_detach_the_tensors_from/)
 - [[D] Burned out mid-PhD: Is it worth pushing through to aim for a Research Scientist role, or should I pivot to industry now?](https://www.reddit.com/r/MachineLearning/comments/1ldmzms/d_burned_out_midphd_is_it_worth_pushing_through/)
 - [[R] KVzip: Query-agnostic KV Cache Eviction — 3~4× memory reduction and 2× lower decoding latency](https://www.reddit.com/r/MachineLearning/comments/1ldmlj4/r_kvzip_queryagnostic_kv_cache_eviction_34_memory/)
 - [[D] CausalML : Causal Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1ldlg92/d_causalml_causal_machine_learning/)
-- [Best resources on PyTorch time series forecasting? [D]](https://www.reddit.com/r/MachineLearning/comments/1ldlc6m/best_resources_on_pytorch_time_series_forecasting/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
