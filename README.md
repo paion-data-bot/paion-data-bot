@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] CausalML : Causal Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1ldlg92/d_causalml_causal_machine_learning/)
+- [Best resources on PyTorch time series forecasting? [D]](https://www.reddit.com/r/MachineLearning/comments/1ldlc6m/best_resources_on_pytorch_time_series_forecasting/)
 - [[D] Memory demand of per-layer-embeddings/how would one train a model with it?](https://www.reddit.com/r/MachineLearning/comments/1ldkj1a/d_memory_demand_of_perlayerembeddingshow_would/)
 - [TNFR — A symbolic resonance framework for real-time AI reorganization &lpar;Python, pip install tnfr&rpar; [R]](https://www.reddit.com/r/MachineLearning/comments/1ldjqhy/tnfr_a_symbolic_resonance_framework_for_realtime/)
 - [[R] Breaking Quadratic Barriers: A Non-Attention LLM for Ultra-Long Context Horizons](https://www.reddit.com/r/MachineLearning/comments/1ldjcp7/r_breaking_quadratic_barriers_a_nonattention_llm/)
-- [[R] Variational Encoders &lpar;Without the Auto&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ldi7f7/r_variational_encoders_without_the_auto/)
-- [Best Model For Reddit Lead Generation [D]](https://www.reddit.com/r/MachineLearning/comments/1ldhnlf/best_model_for_reddit_lead_generation_d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
