@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P]: I got tired of wrestling with MCP&#39;s, so I built an HTTP-native, OpenAPI-first alternative to MCP for your LLM agents &lpar;open-source&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lddcjy/p_i_got_tired_of_wrestling_with_mcps_so_i_built/)
 - [[D] Could frame generation beat out code generation for game development?](https://www.reddit.com/r/MachineLearning/comments/1ldaski/d_could_frame_generation_beat_out_code_generation/)
 - [[D] Why Is Data Processing, Especially Labeling, So Expensive? So Many Contractors Seem Like Scammers](https://www.reddit.com/r/MachineLearning/comments/1ldaof1/d_why_is_data_processing_especially_labeling_so/)
 - [[R] Towards Automating Long-Horizon Algorithm Engineering for Hard Optimization Problems](https://www.reddit.com/r/MachineLearning/comments/1ld9hwg/r_towards_automating_longhorizon_algorithm/)
 - [[R] &lpar;Anthropic&rpar; Comment on The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity](https://www.reddit.com/r/MachineLearning/comments/1ld8g97/r_anthropic_comment_on_the_illusion_of_thinking/)
-- [[D] How to train a VLM with a dataset that has text and images?](https://www.reddit.com/r/MachineLearning/comments/1ld5i4t/d_how_to_train_a_vlm_with_a_dataset_that_has_text/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
