@@ -55,10 +55,10 @@
 
 <!-- ELASTIC-BLOGS:START -->
 - [AI and ML for mission systems: How AWS, Anthropic, and Elastic can drive resilience for national security](https://www.elastic.co/blog/ai-resilience-national-security)
+- [Breaking cybersecurity silos: Enabling defence data collaboration](https://www.elastic.co/blog/defence-data-collaboration)
 - [AI and ML for mission systems: How AWS, Anthropic, and Elastic can drive resilience for national security](https://www.elastic.co/blog/ai-resilience-national-security)
-- [Elastic Security scores 100% in AV-Comparatives Business Security Test](https://www.elastic.co/blog/elastic-security-av-comparatives-business-security-test-2025)
+- [Breaking cybersecurity silos: Enabling defence data collaboration](https://www.elastic.co/blog/defence-data-collaboration)
 - [How the MOD can reduce costs while increasing protection with data mesh](https://www.elastic.co/blog/mod-can-reduce-costs-increase-protection-data-mesh)
-- [Elastic Security scores 100% in AV-Comparatives Business Security Test](https://www.elastic.co/blog/elastic-security-av-comparatives-business-security-test-2025)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
