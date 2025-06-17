@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] I moved to Ireland on spouse visa &lpar;stamp 2a- which means i require work sponsorship&rpar; in January 2025. I have been looking for jobs &lpar;via Linkedin&rpar; but so far havent been able to score a single interview. I feel a get auto rejected. Can anyone please have a look at my cv?](https://www.reddit.com/r/MachineLearning/comments/1ldooxo/d_i_moved_to_ireland_on_spouse_visa_stamp_2a/)
 - [[D] Can masking operations detach the tensors from the computational graph?](https://www.reddit.com/r/MachineLearning/comments/1ldnh5s/d_can_masking_operations_detach_the_tensors_from/)
 - [[D] Burned out mid-PhD: Is it worth pushing through to aim for a Research Scientist role, or should I pivot to industry now?](https://www.reddit.com/r/MachineLearning/comments/1ldmzms/d_burned_out_midphd_is_it_worth_pushing_through/)
 - [[R] KVzip: Query-agnostic KV Cache Eviction — 3~4× memory reduction and 2× lower decoding latency](https://www.reddit.com/r/MachineLearning/comments/1ldmlj4/r_kvzip_queryagnostic_kv_cache_eviction_34_memory/)
 - [[D] CausalML : Causal Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1ldlg92/d_causalml_causal_machine_learning/)
+- [Best resources on PyTorch time series forecasting? [D]](https://www.reddit.com/r/MachineLearning/comments/1ldlc6m/best_resources_on_pytorch_time_series_forecasting/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
