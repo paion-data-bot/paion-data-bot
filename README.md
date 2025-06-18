@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D], [Q] Built a model to predict my chances of getting a girlfriend in college - but need 🆘️ with hyperparameters](https://www.reddit.com/r/MachineLearning/comments/1le93f1/d_q_built_a_model_to_predict_my_chances_of/)
 - [[D] Has anyone deployed any apps in the Healthcare space?](https://www.reddit.com/r/MachineLearning/comments/1le8rxr/d_has_anyone_deployed_any_apps_in_the_healthcare/)
 - [Counting Cars with YOLO [P]](https://www.reddit.com/r/MachineLearning/comments/1ldyjv9/counting_cars_with_yolo_p/)
 - [[R] Consensus and uncertainty ML research- arXiv endorsement - is it actually possible without affiliation?](https://www.reddit.com/r/MachineLearning/comments/1ldxj8t/r_consensus_and_uncertainty_ml_research_arxiv/)
 - [[R] Looking for GNN based approaches for spatially structured time series classification task](https://www.reddit.com/r/MachineLearning/comments/1ldtvnq/r_looking_for_gnn_based_approaches_for_spatially/)
-- [[D] Do all algorithms produce a model? If yes, a model of what?](https://www.reddit.com/r/MachineLearning/comments/1ldtns0/d_do_all_algorithms_produce_a_model_if_yes_a/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
