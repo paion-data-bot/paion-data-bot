@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] collection of data quality rules for ML](https://www.reddit.com/r/MachineLearning/comments/1let51w/r_collection_of_data_quality_rules_for_ml/)
+- [[D] 500+ Case Studies of Machine Learning and LLM System Design](https://www.reddit.com/r/MachineLearning/comments/1let433/d_500_case_studies_of_machine_learning_and_llm/)
 - [[D] English conversational and messaging datasets for fine-tuning an LLM?](https://www.reddit.com/r/MachineLearning/comments/1lerktc/d_english_conversational_and_messaging_datasets/)
 - [[R][D] Open topics in ML Engineering suitable for a Master thesis?](https://www.reddit.com/r/MachineLearning/comments/1leol5y/rd_open_topics_in_ml_engineering_suitable_for_a/)
 - [[R] Is anyone else finding it harder to get clean, human-written data for training models?](https://www.reddit.com/r/MachineLearning/comments/1leoita/r_is_anyone_else_finding_it_harder_to_get_clean/)
-- [[P] Moving closer towards fully reliable, production-ready Hindi ASR with just a single RTX 4090](https://www.reddit.com/r/MachineLearning/comments/1leohk1/p_moving_closer_towards_fully_reliable/)
-- [[P] Curated AI tools that 10x software engineering teams](https://www.reddit.com/r/MachineLearning/comments/1lem6aj/p_curated_ai_tools_that_10x_software_engineering/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
