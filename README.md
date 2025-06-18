@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [CPU for AI Workstation &lpar;to be paired with RTX 5090&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/1lefsbq/cpu_for_ai_workstation_to_be_paired_with_rtx_5090/)
 - [[D] Why NFL theorem holds even when we average with a fixed f &lpar;fixed problem&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1lef4wz/d_why_nfl_theorem_holds_even_when_we_average_with/)
 - [[P] Lambda³ Bayesian Jump Event Detector: Minimal, Interpretable, Open-Source &lpar;Zenodo + GitHub&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lef24m/p_lambda³_bayesian_jump_event_detector_minimal/)
 - [[D] What will 10-100x faster and cheaper inference unlock?](https://www.reddit.com/r/MachineLearning/comments/1ledomo/d_what_will_10100x_faster_and_cheaper_inference/)
 - [[D] Is there an algorithm to detect community in voting competition - complete directed weighted graph](https://www.reddit.com/r/MachineLearning/comments/1ledktu/d_is_there_an_algorithm_to_detect_community_in/)
-- [[D] Using TimeGAn to forcast weather variables 25 years horizon](https://www.reddit.com/r/MachineLearning/comments/1lebost/d_using_timegan_to_forcast_weather_variables_25/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
