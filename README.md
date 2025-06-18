@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R][D] Open topics in ML Engineering suitable for a Master thesis?](https://www.reddit.com/r/MachineLearning/comments/1leol5y/rd_open_topics_in_ml_engineering_suitable_for_a/)
+- [[R] Is anyone else finding it harder to get clean, human-written data for training models?](https://www.reddit.com/r/MachineLearning/comments/1leoita/r_is_anyone_else_finding_it_harder_to_get_clean/)
+- [[P] Moving closer towards fully reliable, production-ready Hindi ASR with just a single RTX 4090](https://www.reddit.com/r/MachineLearning/comments/1leohk1/p_moving_closer_towards_fully_reliable/)
 - [[P] Curated AI tools that 10x software engineering teams](https://www.reddit.com/r/MachineLearning/comments/1lem6aj/p_curated_ai_tools_that_10x_software_engineering/)
 - [[R] Towards Universal Semantics with Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1lel027/r_towards_universal_semantics_with_large_language/)
-- [OutOfMemory Error on Collab,Please help me fix this [D]](https://www.reddit.com/r/MachineLearning/comments/1lekmb5/outofmemory_error_on_collabplease_help_me_fix/)
-- [CPU for AI Workstation &lpar;to be paired with RTX 5090&rpar; [D]](https://www.reddit.com/r/MachineLearning/comments/1lefsbq/cpu_for_ai_workstation_to_be_paired_with_rtx_5090/)
-- [[D] Why NFL theorem holds even when we average with a fixed f &lpar;fixed problem&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1lef4wz/d_why_nfl_theorem_holds_even_when_we_average_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
