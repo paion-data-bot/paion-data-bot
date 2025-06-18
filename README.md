@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [Elastic Cloud Serverless now available on Google Cloud in Belgium and Mumbai](https://www.elastic.co/blog/elastic-cloud-now-available-gcp-belgium-mumbai)
+- [Enabling the MOD&#39;s defence data management strategy with intelligent data access](https://www.elastic.co/blog/intelligent-data-access)
+- [Enabling the MOD&#39;s defence data management strategy with intelligent data access](https://www.elastic.co/blog/intelligent-data-access)
 - [The hype is over: Generative AI is driving the evolution of search within enterprises](https://www.elastic.co/blog/evolution-search-enterprises)
 - [Elastic Cloud Serverless now available on Google Cloud in Belgium and Mumbai](https://www.elastic.co/blog/elastic-cloud-now-available-gcp-belgium-mumbai)
 - [The hype is over: Generative AI is driving the evolution of search within enterprises](https://www.elastic.co/blog/evolution-search-enterprises)
-- [Breaking cybersecurity silos: Enabling defence data collaboration](https://www.elastic.co/blog/defence-data-collaboration)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
