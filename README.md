@@ -64,11 +64,11 @@
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
 
 <!-- OPENSTACK-SUPERUSER:START -->
-- [Managed FishOS OpenStack for Climate Research: DKRZ’s Proven Cloud Success](https://superuser.openinfra.org/articles/managed-fishos-openstack-for-climate-research-dkrzs-proven-cloud-success/)
-- [OpenDev and Rackspace: Building Stronger Open Infrastructure Together](https://superuser.openinfra.org/articles/opendev-and-rackspace-building-stronger-open-infrastructure-together/)
-- [Kolla Ansible OpenStack Installation &lpar;Ubuntu 24.04&rpar;](https://superuser.openinfra.org/articles/kolla-ansible-openstack-installation-ubuntu-24-04/)
-- [The Power of OpenStack: How Sicredi Transformed Its Infrastructure to Stay Competitive](https://superuser.openinfra.org/articles/the-power-of-openstack-how-sicredi-transformed-its-infrastructure-to-stay-competitive/)
-- [Streamlining OpenStack Upgrades: A Case Study of Indiana University’s Efficient Upgrade Strategy](https://superuser.openinfra.org/articles/streamlining-openstack-upgrades-a-case-study-of-indiana-universitys-efficient-upgrade-strategy/)
+- [Huawei Telco Intelligent Converged Cloud &lpar;TICC&rpar; solution achieve advanced telco services for world-leading carrier Vodafone](https://superuser.openinfra.org/articles/huawei-telco-intelligent-converged-cloud-ticc-solution-achieve-advanced-telco-services-for-world-leading-carrier-vodafone/)
+- [VMware Migration Case Study: The Wind River Cloud Platform](https://superuser.openinfra.org/articles/vmware-migration-case-study-the-wind-river-cloud-platform/)
+- [Mirantis k0rdent AI Helps Nebul Deliver Sovereign AI Clouds for European Enterprises](https://superuser.openinfra.org/articles/mirantis-k0rdent-ai-helps-nebul-deliver-sovereign-ai-clouds-for-european-enterprises/)
+- [Canonical Helps Customers Looking for an Alternative](https://superuser.openinfra.org/articles/canonical-customers-migrating-from-vmware-to-openstack/)
+- [VMware Migration to OpenStack Case Study: Okestro](https://superuser.openinfra.org/articles/vmware-migration-to-openstack-case-study-okestro/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h3><a href="https://www.docker.com/blog/">Docker Blogs</a></h3>
