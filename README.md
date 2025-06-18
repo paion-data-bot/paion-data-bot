@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[N] Mumbai Devs: Hosting a Deep Dive on Real-World AI Voice Agent Engineering in Andheri &lpar;June 20th&rpar;!](https://www.reddit.com/r/MachineLearning/comments/1leac4u/n_mumbai_devs_hosting_a_deep_dive_on_realworld_ai/)
-- [[D], [Q] Built a model to predict my chances of getting a girlfriend in college - but need 🆘️ with hyperparameters](https://www.reddit.com/r/MachineLearning/comments/1le93f1/d_q_built_a_model_to_predict_my_chances_of/)
 - [[D] Has anyone deployed any apps in the Healthcare space?](https://www.reddit.com/r/MachineLearning/comments/1le8rxr/d_has_anyone_deployed_any_apps_in_the_healthcare/)
 - [Counting Cars with YOLO [P]](https://www.reddit.com/r/MachineLearning/comments/1ldyjv9/counting_cars_with_yolo_p/)
 - [[R] Consensus and uncertainty ML research- arXiv endorsement - is it actually possible without affiliation?](https://www.reddit.com/r/MachineLearning/comments/1ldxj8t/r_consensus_and_uncertainty_ml_research_arxiv/)
+- [[R] Looking for GNN based approaches for spatially structured time series classification task](https://www.reddit.com/r/MachineLearning/comments/1ldtvnq/r_looking_for_gnn_based_approaches_for_spatially/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
