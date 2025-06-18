@@ -76,11 +76,11 @@
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Docker State of App Dev: Security](https://www.docker.com/blog/docker-state-of-app-dev-security/)
 - [Why Docker Chose OCI Artifacts for AI Model Packaging](https://www.docker.com/blog/why-docker-chose-oci-artifacts-for-ai-model-packaging/)
 - [Behind the scenes: How we designed Docker Model Runner and what’s next](https://www.docker.com/blog/behind-the-scenes-how-we-designed-docker-model-runner-and-whats-next/)
 - [How to Build, Run, and Package AI Models Locally with Docker Model Runner](https://www.docker.com/blog/how-to-build-run-and-package-ai-models-locally-with-docker-model-runner/)
 - [Publishing AI models to Docker Hub](https://www.docker.com/blog/publish-ai-models-on-docker-hub/)
-- [Docker Desktop 4.42: Native IPv6, Built-In MCP, and Better Model Packaging](https://www.docker.com/blog/docker-desktop-4-42-native-ipv6-built-in-mcp-and-better-model-packaging/)
 <!-- DOCKER-BLOG:END -->
 
 <h3><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h3>
