@@ -25,10 +25,10 @@
 
 <!-- REDDIT-ML:START -->
 - [[P] InferX is live with its first external pilot -sub-2s cold starts, multi-model orchestration. Thank you r/ML](https://www.reddit.com/r/MachineLearning/comments/1lfcvvu/p_inferx_is_live_with_its_first_external_pilot/)
-- [[D] I&#39;ll bite, why there is a strong rxn when people try to automate trading. ELI5](https://www.reddit.com/r/MachineLearning/comments/1lfc6y1/d_ill_bite_why_there_is_a_strong_rxn_when_people/)
 - [[P] I built a self-hosted Databricks](https://www.reddit.com/r/MachineLearning/comments/1lfbq3m/p_i_built_a_selfhosted_databricks/)
 - [[R] Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing &lpar;presented at ICMLCN 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lf9ce9/r_towards_generative_ray_path_sampling_for_faster/)
 - [[D] DC-GAN Model training](https://www.reddit.com/r/MachineLearning/comments/1lf7qmu/d_dcgan_model_training/)
+- [[D] Time Series Forecasting with Less Data ?](https://www.reddit.com/r/MachineLearning/comments/1lf72cl/d_time_series_forecasting_with_less_data/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
