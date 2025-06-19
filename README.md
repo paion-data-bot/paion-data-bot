@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Integrating machine learning into my coding project.](https://www.reddit.com/r/MachineLearning/comments/1lflclw/p_integrating_machine_learning_into_my_coding/)
 - [[D] Future of RecSys in age of LLM](https://www.reddit.com/r/MachineLearning/comments/1lfijb4/d_future_of_recsys_in_age_of_llm/)
 - [A Single-Use Artifact for Testing Interpretive Recursion in LLMs: Public Demonstration Footage [R]](https://www.reddit.com/r/MachineLearning/comments/1lfiivi/a_singleuse_artifact_for_testing_interpretive/)
 - [[P] Need Suggestions: Building Accurate Multimodal RetrievalAG for SOP PDFs with Screenshot Images &lpar;Azure Stack&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lfeqy3/p_need_suggestions_building_accurate_multimodal/)
 - [[P] I built a self-hosted Databricks](https://www.reddit.com/r/MachineLearning/comments/1lfbq3m/p_i_built_a_selfhosted_databricks/)
-- [[R] Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing &lpar;presented at ICMLCN 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lf9ce9/r_towards_generative_ray_path_sampling_for_faster/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
