@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Asking for ressources to learn academic knwoledge and code practice on image generation using diffusion models](https://www.reddit.com/r/MachineLearning/comments/1lf6evq/d_asking_for_ressources_to_learn_academic/)
+- [[D] Can Transformer Encoder Outputs Be Used to Represent Input Subsequences?](https://www.reddit.com/r/MachineLearning/comments/1lf629g/d_can_transformer_encoder_outputs_be_used_to/)
 - [[R] Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://www.reddit.com/r/MachineLearning/comments/1lf4dxu/r_reasoning_by_superposition_a_theoretical/)
 - [[D] What tasks don’t you trust zero-shot LLMs to handle reliably?](https://www.reddit.com/r/MachineLearning/comments/1lewzg7/d_what_tasks_dont_you_trust_zeroshot_llms_to/)
 - [[D] Should I Discretize Continuous Features for DNNs?](https://www.reddit.com/r/MachineLearning/comments/1leuggm/d_should_i_discretize_continuous_features_for_dnns/)
-- [[D] 500+ Case Studies of Machine Learning and LLM System Design](https://www.reddit.com/r/MachineLearning/comments/1let433/d_500_case_studies_of_machine_learning_and_llm/)
-- [[D] English conversational and messaging datasets for fine-tuning an LLM?](https://www.reddit.com/r/MachineLearning/comments/1lerktc/d_english_conversational_and_messaging_datasets/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
