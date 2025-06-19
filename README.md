@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Future of RecSys in age of LLM](https://www.reddit.com/r/MachineLearning/comments/1lfijb4/d_future_of_recsys_in_age_of_llm/)
+- [A Single-Use Artifact for Testing Interpretive Recursion in LLMs: Public Demonstration Footage [R]](https://www.reddit.com/r/MachineLearning/comments/1lfiivi/a_singleuse_artifact_for_testing_interpretive/)
 - [[P] Need Suggestions: Building Accurate Multimodal RetrievalAG for SOP PDFs with Screenshot Images &lpar;Azure Stack&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lfeqy3/p_need_suggestions_building_accurate_multimodal/)
 - [[P] InferX is live with its first external pilot -sub-2s cold starts, multi-model orchestration. Thank you r/ML](https://www.reddit.com/r/MachineLearning/comments/1lfcvvu/p_inferx_is_live_with_its_first_external_pilot/)
 - [[P] I built a self-hosted Databricks](https://www.reddit.com/r/MachineLearning/comments/1lfbq3m/p_i_built_a_selfhosted_databricks/)
-- [[R] Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing &lpar;presented at ICMLCN 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lf9ce9/r_towards_generative_ray_path_sampling_for_faster/)
-- [[D] DC-GAN Model training](https://www.reddit.com/r/MachineLearning/comments/1lf7qmu/d_dcgan_model_training/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
