@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] EMNLP 2025 initial reviews](https://www.reddit.com/r/MachineLearning/comments/1lf8mpb/d_emnlp_2025_initial_reviews/)
+- [[R] Towards Generative Ray Path Sampling for Faster Point-to-Point Ray Tracing &lpar;presented at ICMLCN 2025&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lf9ce9/r_towards_generative_ray_path_sampling_for_faster/)
 - [[D] DC-GAN Model training](https://www.reddit.com/r/MachineLearning/comments/1lf7qmu/d_dcgan_model_training/)
 - [[D] Time Series Forecasting with Less Data ?](https://www.reddit.com/r/MachineLearning/comments/1lf72cl/d_time_series_forecasting_with_less_data/)
 - [[D] Asking for ressources to learn academic knwoledge and code practice on image generation using diffusion models](https://www.reddit.com/r/MachineLearning/comments/1lf6evq/d_asking_for_ressources_to_learn_academic/)
