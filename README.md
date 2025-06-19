@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What tasks don’t you trust zero-shot LLMs to handle reliably?](https://www.reddit.com/r/MachineLearning/comments/1lewzg7/d_what_tasks_dont_you_trust_zeroshot_llms_to/)
 - [[D] Should I Discretize Continuous Features for DNNs?](https://www.reddit.com/r/MachineLearning/comments/1leuggm/d_should_i_discretize_continuous_features_for_dnns/)
 - [[D] 500+ Case Studies of Machine Learning and LLM System Design](https://www.reddit.com/r/MachineLearning/comments/1let433/d_500_case_studies_of_machine_learning_and_llm/)
 - [[D] English conversational and messaging datasets for fine-tuning an LLM?](https://www.reddit.com/r/MachineLearning/comments/1lerktc/d_english_conversational_and_messaging_datasets/)
 - [[R] Is anyone else finding it harder to get clean, human-written data for training models?](https://www.reddit.com/r/MachineLearning/comments/1leoita/r_is_anyone_else_finding_it_harder_to_get_clean/)
-- [[P] Moving closer towards fully reliable, production-ready Hindi ASR with just a single RTX 4090](https://www.reddit.com/r/MachineLearning/comments/1leohk1/p_moving_closer_towards_fully_reliable/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
