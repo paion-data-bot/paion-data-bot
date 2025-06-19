@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] EMNLP 2025 initial reviews](https://www.reddit.com/r/MachineLearning/comments/1lf8mpb/d_emnlp_2025_initial_reviews/)
 - [[D] DC-GAN Model training](https://www.reddit.com/r/MachineLearning/comments/1lf7qmu/d_dcgan_model_training/)
 - [[D] Time Series Forecasting with Less Data ?](https://www.reddit.com/r/MachineLearning/comments/1lf72cl/d_time_series_forecasting_with_less_data/)
 - [[D] Asking for ressources to learn academic knwoledge and code practice on image generation using diffusion models](https://www.reddit.com/r/MachineLearning/comments/1lf6evq/d_asking_for_ressources_to_learn_academic/)
 - [[D] Can Transformer Encoder Outputs Be Used to Represent Input Subsequences?](https://www.reddit.com/r/MachineLearning/comments/1lf629g/d_can_transformer_encoder_outputs_be_used_to/)
-- [[R] Reasoning by Superposition: A Theoretical Perspective on Chain of Continuous Thought](https://www.reddit.com/r/MachineLearning/comments/1lf4dxu/r_reasoning_by_superposition_a_theoretical/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
