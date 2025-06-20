@@ -54,10 +54,10 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Reclaiming analyst time: Smarter investigations with AI in defence](https://www.elastic.co/blog/ai-in-defence)
+- [Reclaiming analyst time: Smarter investigations with AI in defence](https://www.elastic.co/blog/ai-in-defence)
 - [Enabling the MOD&#39;s defence data management strategy with intelligent data access](https://www.elastic.co/blog/intelligent-data-access)
 - [Enabling the MOD&#39;s defence data management strategy with intelligent data access](https://www.elastic.co/blog/intelligent-data-access)
-- [The hype is over: Generative AI is driving the evolution of search within enterprises](https://www.elastic.co/blog/evolution-search-enterprises)
-- [Elastic Cloud Serverless now available on Google Cloud in Belgium and Mumbai](https://www.elastic.co/blog/elastic-cloud-now-available-gcp-belgium-mumbai)
 - [The hype is over: Generative AI is driving the evolution of search within enterprises](https://www.elastic.co/blog/evolution-search-enterprises)
 <!-- ELASTIC-BLOGS:END -->
 
