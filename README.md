@@ -77,7 +77,7 @@
 
 <!-- DOCKER-BLOG:START -->
 - [Docker State of App Dev: Security](https://www.docker.com/blog/docker-state-of-app-dev-security/)
-- [Why Docker Chose OCI Artifacts for AI Model Packaging](https://www.docker.com/blog/why-docker-chose-oci-artifacts-for-ai-model-packaging/)
+- [Why Docker Chose OCI Artifacts for AI Model Packaging](https://www.docker.com/blog/oci-artifacts-for-ai-model-packaging/)
 - [Behind the scenes: How we designed Docker Model Runner and what’s next](https://www.docker.com/blog/how-we-designed-model-runner-and-whats-next/)
 - [How to Build, Run, and Package AI Models Locally with Docker Model Runner](https://www.docker.com/blog/how-to-build-run-and-package-ai-models-locally-with-docker-model-runner/)
 - [Publishing AI models to Docker Hub](https://www.docker.com/blog/publish-ai-models-on-docker-hub/)
