@@ -26,9 +26,9 @@
 <!-- REDDIT-ML:START -->
 - [[D] Looks like someone is already offering B200 rentals for $1.49/hr — anyone else seen this?](https://www.reddit.com/r/MachineLearning/comments/1lfp5sb/d_looks_like_someone_is_already_offering_b200/)
 - [[D] GPT-2 Small Not Converging Despite Using Same Hyperparams as Karpathy](https://www.reddit.com/r/MachineLearning/comments/1lflwvu/d_gpt2_small_not_converging_despite_using_same/)
-- [[P] Integrating machine learning into my coding project.](https://www.reddit.com/r/MachineLearning/comments/1lflclw/p_integrating_machine_learning_into_my_coding/)
 - [[D] Future of RecSys in age of LLM](https://www.reddit.com/r/MachineLearning/comments/1lfijb4/d_future_of_recsys_in_age_of_llm/)
 - [A Single-Use Artifact for Testing Interpretive Recursion in LLMs: Public Demonstration Footage [R]](https://www.reddit.com/r/MachineLearning/comments/1lfiivi/a_singleuse_artifact_for_testing_interpretive/)
+- [[P] Need Suggestions: Building Accurate Multimodal RetrievalAG for SOP PDFs with Screenshot Images &lpar;Azure Stack&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lfeqy3/p_need_suggestions_building_accurate_multimodal/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
