@@ -26,9 +26,9 @@
 <!-- REDDIT-ML:START -->
 - [[R] Adaptive Classifier: Dynamic Text Classification with Strategic Learning and Continuous Adaptation](https://www.reddit.com/r/MachineLearning/comments/1lg4sjt/r_adaptive_classifier_dynamic_text_classification/)
 - [[R] This is Your AI on Peer Pressure: An Observational Study of Inter-Agent Social Dynamics](https://www.reddit.com/r/MachineLearning/comments/1lg3q0q/r_this_is_your_ai_on_peer_pressure_an/)
-- [[D]Whats next for athletes?](https://www.reddit.com/r/MachineLearning/comments/1lg2apr/dwhats_next_for_athletes/)
 - [Built a cloud GPU price comparison service [P]](https://www.reddit.com/r/MachineLearning/comments/1lg0ywo/built_a_cloud_gpu_price_comparison_service_p/)
 - [[R] MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://www.reddit.com/r/MachineLearning/comments/1lfzox2/r_minimaxm1_scaling_testtime_compute_efficiently/)
+- [[R] WiFiGPT: Using fine-tuned LLM for Indoor Localization Using Raw WiFi Signals &lpar;arXiv:2505.15835&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lfu9bk/r_wifigpt_using_finetuned_llm_for_indoor/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
