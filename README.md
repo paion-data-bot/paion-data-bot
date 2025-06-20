@@ -26,9 +26,9 @@
 <!-- REDDIT-ML:START -->
 - [[R] MiniMax-M1: Scaling Test-Time Compute Efficiently with Lightning Attention](https://www.reddit.com/r/MachineLearning/comments/1lfzox2/r_minimaxm1_scaling_testtime_compute_efficiently/)
 - [[R] WiFiGPT: Using fine-tuned LLM for Indoor Localization Using Raw WiFi Signals &lpar;arXiv:2505.15835&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lfu9bk/r_wifigpt_using_finetuned_llm_for_indoor/)
-- [[D] Looks like someone is already offering B200 rentals for $1.49/hr — anyone else seen this?](https://www.reddit.com/r/MachineLearning/comments/1lfp5sb/d_looks_like_someone_is_already_offering_b200/)
 - [[D] GPT-2 Small Not Converging Despite Using Same Hyperparams as Karpathy](https://www.reddit.com/r/MachineLearning/comments/1lflwvu/d_gpt2_small_not_converging_despite_using_same/)
 - [[D] Future of RecSys in age of LLM](https://www.reddit.com/r/MachineLearning/comments/1lfijb4/d_future_of_recsys_in_age_of_llm/)
+- [A Single-Use Artifact for Testing Interpretive Recursion in LLMs: Public Demonstration Footage [R]](https://www.reddit.com/r/MachineLearning/comments/1lfiivi/a_singleuse_artifact_for_testing_interpretive/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
