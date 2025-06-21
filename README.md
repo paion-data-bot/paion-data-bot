@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Why is Qwen2-0.5B trained on much more data than the larger models? [D]](https://www.reddit.com/r/MachineLearning/comments/1lgp926/why_is_qwen205b_trained_on_much_more_data_than/)
 - [Is ANN Search in a Vector Database a Good Fit for Lead Generation? [R]](https://www.reddit.com/r/MachineLearning/comments/1lgp0va/is_ann_search_in_a_vector_database_a_good_fit_for/)
 - [[D] Low-dimension generative models](https://www.reddit.com/r/MachineLearning/comments/1lgmv76/d_lowdimension_generative_models/)
 - [[R]LLM Realignment Protocol](https://www.reddit.com/r/MachineLearning/comments/1lgmloa/rllm_realignment_protocol/)
 - [[P] Best open-source model to fine-tune for large structured-JSON generation &lpar;15,000-20,000 .json data set, abt 2kb each, $200 cloud budget&rpar; advice wanted!](https://www.reddit.com/r/MachineLearning/comments/1lglt6w/p_best_opensource_model_to_finetune_for_large/)
-- [[D] what&#39;s the best AI model for semantic segmentation right now?](https://www.reddit.com/r/MachineLearning/comments/1lglswu/d_whats_the_best_ai_model_for_semantic/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
