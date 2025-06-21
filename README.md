@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] NYT published a report on chatbot induced psychosis and mental health problems in some users.](https://www.reddit.com/r/MachineLearning/comments/1lgsyry/d_nyt_published_a_report_on_chatbot_induced/)
 - [[R] How is Responsible AI Actually Practiced? Quick Survey for AI Practitioners](https://www.reddit.com/r/MachineLearning/comments/1lgsjof/r_how_is_responsible_ai_actually_practiced_quick/)
 - [[P] RIGEL: Open-source multi-agent AI assistant with LLMs, voice, and system integration](https://www.reddit.com/r/MachineLearning/comments/1lgrwh4/p_rigel_opensource_multiagent_ai_assistant_with/)
 - [[R] What’s better than NeurIPS and ICML?](https://www.reddit.com/r/MachineLearning/comments/1lgruj6/r_whats_better_than_neurips_and_icml/)
 - [[R] A Non-LLM Learning Model Based on Real-Time Sensory Feedback | Requesting Technical Review](https://www.reddit.com/r/MachineLearning/comments/1lgqdyd/r_a_nonllm_learning_model_based_on_realtime/)
-- [[D] Batch shuffle in time series transformer](https://www.reddit.com/r/MachineLearning/comments/1lgpskb/d_batch_shuffle_in_time_series_transformer/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
