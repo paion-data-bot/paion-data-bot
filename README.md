@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] what&#39;s the best AI model for semantic segmentation right now?](https://www.reddit.com/r/MachineLearning/comments/1lglswu/d_whats_the_best_ai_model_for_semantic/)
+- [Quick survey for AI/ML devs – Where do you go for updates, support, and community? [D]](https://www.reddit.com/r/MachineLearning/comments/1lgl1bd/quick_survey_for_aiml_devs_where_do_you_go_for/)
 - [[D] Should I use a dynamic batch size and curriculum learning when pretraining?](https://www.reddit.com/r/MachineLearning/comments/1lgjjhd/d_should_i_use_a_dynamic_batch_size_and/)
 - [AbsenceBench: Language Models Can&#39;t Tell What&#39;s Missing](https://www.reddit.com/r/MachineLearning/comments/1lgimm3/absencebench_language_models_cant_tell_whats/)
 - [Knowledge Distillation Data Leakage? [R]](https://www.reddit.com/r/MachineLearning/comments/1lg9gyb/knowledge_distillation_data_leakage_r/)
-- [[R] Adaptive Classifier: Dynamic Text Classification with Strategic Learning and Continuous Adaptation](https://www.reddit.com/r/MachineLearning/comments/1lg4sjt/r_adaptive_classifier_dynamic_text_classification/)
-- [[R] This is Your AI on Peer Pressure: An Observational Study of Inter-Agent Social Dynamics](https://www.reddit.com/r/MachineLearning/comments/1lg3q0q/r_this_is_your_ai_on_peer_pressure_an/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
