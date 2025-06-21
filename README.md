@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [The Stellar Chant [D]](https://www.reddit.com/r/MachineLearning/comments/1lgy575/the_stellar_chant_d/)
 - [[P] AI Weather Forecasting Using METAR Data with Tensorflow](https://www.reddit.com/r/MachineLearning/comments/1lgy08j/p_ai_weather_forecasting_using_metar_data_with/)
 - [[D] Have there been any new and fundamentally different povs on Machine Learning theory?](https://www.reddit.com/r/MachineLearning/comments/1lgxyw9/d_have_there_been_any_new_and_fundamentally/)
 - [[R] Regarding PCA for group classification](https://www.reddit.com/r/MachineLearning/comments/1lgwow8/r_regarding_pca_for_group_classification/)
-- [Endorsers Co authors for Arxiv benchmark paper [R]](https://www.reddit.com/r/MachineLearning/comments/1lgwjle/endorsers_co_authors_for_arxiv_benchmark_paper_r/)
+- [[P] Qwen3 implemented from scratch in PyTorch](https://www.reddit.com/r/MachineLearning/comments/1lguoax/p_qwen3_implemented_from_scratch_in_pytorch/)
+- [[R] Tree Search for Language Model Agents](https://www.reddit.com/r/MachineLearning/comments/1lgtb0g/r_tree_search_for_language_model_agents/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
