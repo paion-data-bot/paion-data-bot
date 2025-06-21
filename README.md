@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Low-dimension generative models](https://www.reddit.com/r/MachineLearning/comments/1lgmv76/d_lowdimension_generative_models/)
+- [[R]LLM Realignment Protocol](https://www.reddit.com/r/MachineLearning/comments/1lgmloa/rllm_realignment_protocol/)
+- [[P] Best open-source model to fine-tune for large structured-JSON generation &lpar;15,000-20,000 .json data set, abt 2kb each, $200 cloud budget&rpar; advice wanted!](https://www.reddit.com/r/MachineLearning/comments/1lglt6w/p_best_opensource_model_to_finetune_for_large/)
 - [[D] what&#39;s the best AI model for semantic segmentation right now?](https://www.reddit.com/r/MachineLearning/comments/1lglswu/d_whats_the_best_ai_model_for_semantic/)
 - [Quick survey for AI/ML devs – Where do you go for updates, support, and community? [D]](https://www.reddit.com/r/MachineLearning/comments/1lgl1bd/quick_survey_for_aiml_devs_where_do_you_go_for/)
-- [[D] Should I use a dynamic batch size and curriculum learning when pretraining?](https://www.reddit.com/r/MachineLearning/comments/1lgjjhd/d_should_i_use_a_dynamic_batch_size_and/)
-- [AbsenceBench: Language Models Can&#39;t Tell What&#39;s Missing](https://www.reddit.com/r/MachineLearning/comments/1lgimm3/absencebench_language_models_cant_tell_whats/)
-- [Knowledge Distillation Data Leakage? [R]](https://www.reddit.com/r/MachineLearning/comments/1lg9gyb/knowledge_distillation_data_leakage_r/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
