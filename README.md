@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[P] AI tool that turns docs, videos &amp; audio into mind maps, podcasts, decks &amp; more](https://www.reddit.com/r/MachineLearning/comments/1lgupw1/p_ai_tool_that_turns_docs_videos_audio_into_mind/)
 - [[P] Qwen3 implemented from scratch in PyTorch](https://www.reddit.com/r/MachineLearning/comments/1lguoax/p_qwen3_implemented_from_scratch_in_pytorch/)
 - [[R] Tree Search for Language Model Agents](https://www.reddit.com/r/MachineLearning/comments/1lgtb0g/r_tree_search_for_language_model_agents/)
 - [[D] Any good ML conferences coming up?](https://www.reddit.com/r/MachineLearning/comments/1lgt8zn/d_any_good_ml_conferences_coming_up/)
 - [[P] RIGEL: Open-source multi-agent AI assistant with LLMs, voice, and system integration](https://www.reddit.com/r/MachineLearning/comments/1lgrwh4/p_rigel_opensource_multiagent_ai_assistant_with/)
+- [[R] What’s better than NeurIPS and ICML?](https://www.reddit.com/r/MachineLearning/comments/1lgruj6/r_whats_better_than_neurips_and_icml/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
