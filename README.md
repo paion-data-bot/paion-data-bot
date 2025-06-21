@@ -26,9 +26,9 @@
 <!-- REDDIT-ML:START -->
 - [[R] Tree Search for Language Model Agents](https://www.reddit.com/r/MachineLearning/comments/1lgtb0g/r_tree_search_for_language_model_agents/)
 - [[D] Any good ML conferences coming up?](https://www.reddit.com/r/MachineLearning/comments/1lgt8zn/d_any_good_ml_conferences_coming_up/)
-- [[R] How is Responsible AI Actually Practiced? Quick Survey for AI Practitioners](https://www.reddit.com/r/MachineLearning/comments/1lgsjof/r_how_is_responsible_ai_actually_practiced_quick/)
 - [[P] RIGEL: Open-source multi-agent AI assistant with LLMs, voice, and system integration](https://www.reddit.com/r/MachineLearning/comments/1lgrwh4/p_rigel_opensource_multiagent_ai_assistant_with/)
 - [[R] What’s better than NeurIPS and ICML?](https://www.reddit.com/r/MachineLearning/comments/1lgruj6/r_whats_better_than_neurips_and_icml/)
+- [[R] A Non-LLM Learning Model Based on Real-Time Sensory Feedback | Requesting Technical Review](https://www.reddit.com/r/MachineLearning/comments/1lgqdyd/r_a_nonllm_learning_model_based_on_realtime/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
