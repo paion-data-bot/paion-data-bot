@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] RIGEL: Open-source multi-agent AI assistant with LLMs, voice, and system integration](https://www.reddit.com/r/MachineLearning/comments/1lgrwh4/p_rigel_opensource_multiagent_ai_assistant_with/)
 - [[R] What’s better than NeurIPS and ICML?](https://www.reddit.com/r/MachineLearning/comments/1lgruj6/r_whats_better_than_neurips_and_icml/)
 - [[R] A Non-LLM Learning Model Based on Real-Time Sensory Feedback | Requesting Technical Review](https://www.reddit.com/r/MachineLearning/comments/1lgqdyd/r_a_nonllm_learning_model_based_on_realtime/)
 - [[D] Batch shuffle in time series transformer](https://www.reddit.com/r/MachineLearning/comments/1lgpskb/d_batch_shuffle_in_time_series_transformer/)
 - [Why is Qwen2-0.5B trained on much more data than the larger models? [D]](https://www.reddit.com/r/MachineLearning/comments/1lgp926/why_is_qwen205b_trained_on_much_more_data_than/)
-- [Is ANN Search in a Vector Database a Good Fit for Lead Generation? [R]](https://www.reddit.com/r/MachineLearning/comments/1lgp0va/is_ann_search_in_a_vector_database_a_good_fit_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
