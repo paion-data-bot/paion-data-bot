@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [I Built an AI That Learns Language From Scratch, Complete Documentation of Consciousness Emergence [R]](https://www.reddit.com/r/MachineLearning/comments/1lha2s0/i_built_an_ai_that_learns_language_from_scratch/)
 - [[D] RL/GRPO for lossless compression of text passages into &#39;least token representation&#39;, then using this emergent &#39;language&#39; as the basis for reasoning instead of english](https://www.reddit.com/r/MachineLearning/comments/1lh741j/d_rlgrpo_for_lossless_compression_of_text/)
 - [[P] Writing a CNN from scratch in C++ &lpar;no ML/math libs&rpar; - a detailed guide](https://www.reddit.com/r/MachineLearning/comments/1lh6wwb/p_writing_a_cnn_from_scratch_in_c_no_mlmath_libs/)
 - [[P] I built a platform where LLMs debate each other—randomly assigned to the pro and con sides](https://www.reddit.com/r/MachineLearning/comments/1lh6wpz/p_i_built_a_platform_where_llms_debate_each/)
 - [[D]Understanding the model with different embedding dimensions](https://www.reddit.com/r/MachineLearning/comments/1lh2jeh/dunderstanding_the_model_with_different_embedding/)
-- [[P] Autopaste MFA codes from Gmail using Local LLMs](https://www.reddit.com/r/MachineLearning/comments/1lh0rmp/p_autopaste_mfa_codes_from_gmail_using_local_llms/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
