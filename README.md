@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Autopaste MFA codes from Gmail using Local LLMs](https://www.reddit.com/r/MachineLearning/comments/1lh0rmp/p_autopaste_mfa_codes_from_gmail_using_local_llms/)
+- [Model for Audio Speech Emotion Recognition and Paralinguistic Analysis [D]](https://www.reddit.com/r/MachineLearning/comments/1lh0oii/model_for_audio_speech_emotion_recognition_and/)
+- [[D] What&#39;s the best tool for learning A.I.?](https://www.reddit.com/r/MachineLearning/comments/1lh0lxk/d_whats_the_best_tool_for_learning_ai/)
 - [[P] AI Weather Forecasting Using METAR Data with Tensorflow](https://www.reddit.com/r/MachineLearning/comments/1lgy08j/p_ai_weather_forecasting_using_metar_data_with/)
 - [[D] Have there been any new and fundamentally different povs on Machine Learning theory?](https://www.reddit.com/r/MachineLearning/comments/1lgxyw9/d_have_there_been_any_new_and_fundamentally/)
-- [[R] Regarding PCA for group classification](https://www.reddit.com/r/MachineLearning/comments/1lgwow8/r_regarding_pca_for_group_classification/)
-- [[P] Qwen3 implemented from scratch in PyTorch](https://www.reddit.com/r/MachineLearning/comments/1lguoax/p_qwen3_implemented_from_scratch_in_pytorch/)
-- [[R] Tree Search for Language Model Agents](https://www.reddit.com/r/MachineLearning/comments/1lgtb0g/r_tree_search_for_language_model_agents/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
