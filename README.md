@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ECAI 2025 reviews discussion](https://www.reddit.com/r/MachineLearning/comments/1lhs5hm/d_ecai_2025_reviews_discussion/)
 - [[D] How structured prediction differs from classification and regression?](https://www.reddit.com/r/MachineLearning/comments/1lhrwqf/d_how_structured_prediction_differs_from/)
 - [[P] Are my IoT botnet detection results too good to be true?](https://www.reddit.com/r/MachineLearning/comments/1lhplp4/p_are_my_iot_botnet_detection_results_too_good_to/)
 - [[P] Built a Customer Churn Prediction System using XGBoost + SMOTE + Streamlit Project](https://www.reddit.com/r/MachineLearning/comments/1lho4ay/p_built_a_customer_churn_prediction_system_using/)
 - [[P] This has been done like a thousand time before, but here I am presenting my very own image denoising model](https://www.reddit.com/r/MachineLearning/comments/1lhny9b/p_this_has_been_done_like_a_thousand_time_before/)
-- [[R] [MICCAI 2025] U-Net Transplant: The Role of Pre-training for Model Merging in 3D Medical Segmentation](https://www.reddit.com/r/MachineLearning/comments/1lhn3nf/r_miccai_2025_unet_transplant_the_role_of/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
