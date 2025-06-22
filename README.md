@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] difference between R-GCN and HGT](https://www.reddit.com/r/MachineLearning/comments/1li1pmj/r_difference_between_rgcn_and_hgt/)
 - [[D] How can i improve my SWE skills for ML](https://www.reddit.com/r/MachineLearning/comments/1lhxevn/d_how_can_i_improve_my_swe_skills_for_ml/)
 - [[D] How do you keep up with the flood of new ML papers and avoid getting scooped?](https://www.reddit.com/r/MachineLearning/comments/1lhv42l/d_how_do_you_keep_up_with_the_flood_of_new_ml/)
 - [Spam/Fraud Call Detection Using ML [P]](https://www.reddit.com/r/MachineLearning/comments/1lhuztd/spamfraud_call_detection_using_ml_p/)
 - [[P] I made a website to visualize machine learning algorithms + derive math from scratch](https://www.reddit.com/r/MachineLearning/comments/1lhtkr4/p_i_made_a_website_to_visualize_machine_learning/)
-- [[D] ECAI 2025 reviews discussion](https://www.reddit.com/r/MachineLearning/comments/1lhs5hm/d_ecai_2025_reviews_discussion/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
