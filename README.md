@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] I made a website to visualize machine learning algorithms + derive math from scratch](https://www.reddit.com/r/MachineLearning/comments/1lhtkr4/p_i_made_a_website_to_visualize_machine_learning/)
 - [[D] ECAI 2025 reviews discussion](https://www.reddit.com/r/MachineLearning/comments/1lhs5hm/d_ecai_2025_reviews_discussion/)
 - [[D] How structured prediction differs from classification and regression?](https://www.reddit.com/r/MachineLearning/comments/1lhrwqf/d_how_structured_prediction_differs_from/)
 - [[P] Are my IoT botnet detection results too good to be true?](https://www.reddit.com/r/MachineLearning/comments/1lhplp4/p_are_my_iot_botnet_detection_results_too_good_to/)
 - [[P] Built a Customer Churn Prediction System using XGBoost + SMOTE + Streamlit Project](https://www.reddit.com/r/MachineLearning/comments/1lho4ay/p_built_a_customer_churn_prediction_system_using/)
-- [[P] This has been done like a thousand time before, but here I am presenting my very own image denoising model](https://www.reddit.com/r/MachineLearning/comments/1lhny9b/p_this_has_been_done_like_a_thousand_time_before/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
