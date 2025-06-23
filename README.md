@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [A Better API for the Intersection and Mutation Observers](https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/)
 - [Color Everything in CSS](https://css-tricks.com/color-everything-in-css/)
 - [CSS Color Functions](https://css-tricks.com/css-color-functions/)
 - [How to Keep Up With New CSS Features](https://css-tricks.com/how-to-keep-up-with-new-css-features/)
 - [A Better API for the Resize Observer](https://css-tricks.com/a-better-api-for-the-resize-observer/)
-- [Breaking Boundaries: Building a Tangram Puzzle With &lpar;S&rpar;CSS](https://css-tricks.com/breaking-boundaries-building-a-tangram-puzzle-with-scss/)
 <!-- CSS-TRIKCS:END -->
