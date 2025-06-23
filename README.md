@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Conceptually/On a Code Basis - Why does Pytorch work with CUDA out of the box, with minimal setup required, but tensorflow would require all sorts of dependencies?](https://www.reddit.com/r/MachineLearning/comments/1lialoj/d_conceptuallyon_a_code_basis_why_does_pytorch/)
 - [[P] Fenix: An open-source framework using a crew of local LLM agents for financial market analysis &lpar;Visual, Technical &amp; Sentiment&rpar;.](https://www.reddit.com/r/MachineLearning/comments/1li8kwy/p_fenix_an_opensource_framework_using_a_crew_of/)
 - [[D] [Reviewer Question] ACM MM 2025 – Can I update my rating after rebuttal?](https://www.reddit.com/r/MachineLearning/comments/1li7xvi/d_reviewer_question_acm_mm_2025_can_i_update_my/)
 - [[R] Can someone help why I&#39;m getting high RMSE value in the CNN-LSTM ML model.](https://www.reddit.com/r/MachineLearning/comments/1li7r6e/r_can_someone_help_why_im_getting_high_rmse_value/)
 - [[R] Does quantization affect models&#39; performance on long-context tasks?&lpar;arXiv:2505.20276&rpar;](https://www.reddit.com/r/MachineLearning/comments/1li59r6/r_does_quantization_affect_models_performance_on/)
-- [Good Math Heavy Theoretical Textbook on Machine Learning? [D]](https://www.reddit.com/r/MachineLearning/comments/1li3iig/good_math_heavy_theoretical_textbook_on_machine/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
