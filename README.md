@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Implemented RLHF from scratch in notebooks with GPT-2](https://www.reddit.com/r/MachineLearning/comments/1ligpde/p_implemented_rlhf_from_scratch_in_notebooks_with/)
 - [[D] Found an interesting approach to web agent frameworks](https://www.reddit.com/r/MachineLearning/comments/1lifw3w/d_found_an_interesting_approach_to_web_agent/)
 - [[D] Is it possible to convert music audio to guitar tabs or sheet music with transformers?](https://www.reddit.com/r/MachineLearning/comments/1lieh3l/d_is_it_possible_to_convert_music_audio_to_guitar/)
 - [[R] Reinforcement Learning Teachers of Test Time Scaling](https://www.reddit.com/r/MachineLearning/comments/1lid95g/r_reinforcement_learning_teachers_of_test_time/)
 - [[R] Adaptive Hybrid Architectures for Multitask RL via Neurogenetic Layer Selection – My first research paper &lpar;Age 14&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lib6nd/r_adaptive_hybrid_architectures_for_multitask_rl/)
-- [[D] Conceptually/On a Code Basis - Why does Pytorch work with CUDA out of the box, with minimal setup required, but tensorflow would require all sorts of dependencies?](https://www.reddit.com/r/MachineLearning/comments/1lialoj/d_conceptuallyon_a_code_basis_why_does_pytorch/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
