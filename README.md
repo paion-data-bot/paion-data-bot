@@ -64,11 +64,11 @@
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Part One: Getting Started with Standalone OpenStack Ironic](https://superuser.openinfra.org/articles/openstack-ironic-standalone/)
 - [Huawei Telco Intelligent Converged Cloud &lpar;TICC&rpar; solution achieve advanced telco services for world-leading carrier Vodafone](https://superuser.openinfra.org/articles/huawei-telco-intelligent-converged-cloud-ticc-solution-achieve-advanced-telco-services-for-world-leading-carrier-vodafone/)
 - [VMware Migration Case Study: The Wind River Cloud Platform](https://superuser.openinfra.org/articles/vmware-migration-case-study-the-wind-river-cloud-platform/)
 - [Mirantis k0rdent AI Helps Nebul Deliver Sovereign AI Clouds for European Enterprises](https://superuser.openinfra.org/articles/mirantis-k0rdent-ai-helps-nebul-deliver-sovereign-ai-clouds-for-european-enterprises/)
 - [Canonical Helps Customers Looking for an Alternative](https://superuser.openinfra.org/articles/canonical-customers-migrating-from-vmware-to-openstack/)
-- [VMware Migration to OpenStack Case Study: Okestro](https://superuser.openinfra.org/articles/vmware-migration-to-openstack-case-study-okestro/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h3><a href="https://www.docker.com/blog/">Docker Blogs</a></h3>
