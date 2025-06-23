@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] AEMS – Adaptive Efficiency Monitor Simulator: EWMA-Based Timeline Forecasting for Research &amp; Education Use](https://www.reddit.com/r/MachineLearning/comments/1likvqc/p_aems_adaptive_efficiency_monitor_simulator/)
 - [[R] Comparison with literature suggested by the reviewer](https://www.reddit.com/r/MachineLearning/comments/1lihhdb/r_comparison_with_literature_suggested_by_the/)
 - [[D] Do ICCV final decisions ever come out earlier than the announced date?](https://www.reddit.com/r/MachineLearning/comments/1lih3oe/d_do_iccv_final_decisions_ever_come_out_earlier/)
 - [[P] Implemented RLHF from scratch in notebooks with GPT-2](https://www.reddit.com/r/MachineLearning/comments/1ligpde/p_implemented_rlhf_from_scratch_in_notebooks_with/)
 - [[D] Found an interesting approach to web agent frameworks](https://www.reddit.com/r/MachineLearning/comments/1lifw3w/d_found_an_interesting_approach_to_web_agent/)
-- [[D] Is it possible to convert music audio to guitar tabs or sheet music with transformers?](https://www.reddit.com/r/MachineLearning/comments/1lieh3l/d_is_it_possible_to_convert_music_audio_to_guitar/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
