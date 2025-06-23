@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is it possible to convert music audio to guitar tabs or sheet music with transformers?](https://www.reddit.com/r/MachineLearning/comments/1lieh3l/d_is_it_possible_to_convert_music_audio_to_guitar/)
 - [[R] Reinforcement Learning Teachers of Test Time Scaling](https://www.reddit.com/r/MachineLearning/comments/1lid95g/r_reinforcement_learning_teachers_of_test_time/)
 - [[R] Adaptive Hybrid Architectures for Multitask RL via Neurogenetic Layer Selection – My first research paper &lpar;Age 14&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lib6nd/r_adaptive_hybrid_architectures_for_multitask_rl/)
 - [[D] Conceptually/On a Code Basis - Why does Pytorch work with CUDA out of the box, with minimal setup required, but tensorflow would require all sorts of dependencies?](https://www.reddit.com/r/MachineLearning/comments/1lialoj/d_conceptuallyon_a_code_basis_why_does_pytorch/)
 - [[P] Fenix: An open-source framework using a crew of local LLM agents for financial market analysis &lpar;Visual, Technical &amp; Sentiment&rpar;.](https://www.reddit.com/r/MachineLearning/comments/1li8kwy/p_fenix_an_opensource_framework_using_a_crew_of/)
-- [[D] [Reviewer Question] ACM MM 2025 – Can I update my rating after rebuttal?](https://www.reddit.com/r/MachineLearning/comments/1li7xvi/d_reviewer_question_acm_mm_2025_can_i_update_my/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
