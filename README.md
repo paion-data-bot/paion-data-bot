@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ML Noob - Reading Academic Papers vs Focus on Applications](https://www.reddit.com/r/MachineLearning/comments/1liphg4/d_ml_noob_reading_academic_papers_vs_focus_on/)
 - [[D] Active Learning v/s Active Data Curation](https://www.reddit.com/r/MachineLearning/comments/1lilkjl/d_active_learning_vs_active_data_curation/)
 - [[P] AEMS – Adaptive Efficiency Monitor Simulator: EWMA-Based Timeline Forecasting for Research &amp; Education Use](https://www.reddit.com/r/MachineLearning/comments/1likvqc/p_aems_adaptive_efficiency_monitor_simulator/)
 - [[R] Comparison with literature suggested by the reviewer](https://www.reddit.com/r/MachineLearning/comments/1lihhdb/r_comparison_with_literature_suggested_by_the/)
 - [[D] Do ICCV final decisions ever come out earlier than the announced date?](https://www.reddit.com/r/MachineLearning/comments/1lih3oe/d_do_iccv_final_decisions_ever_come_out_earlier/)
-- [[P] Implemented RLHF from scratch in notebooks with GPT-2](https://www.reddit.com/r/MachineLearning/comments/1ligpde/p_implemented_rlhf_from_scratch_in_notebooks_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
