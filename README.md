@@ -55,9 +55,9 @@
 
 <!-- ELASTIC-BLOGS:START -->
 - [Elastic named a Leader in The Forrester Wave™: Security Analytics Platforms, Q2 2025](https://www.elastic.co/blog/forrester-leader-security-analytics-platforms-2025)
+- [GSA and Elastic announce strategic agreement to drive federal cost savings](https://www.elastic.co/blog/gsa-elastic-agreement-federal-cost-savings)
 - [Elastic named a Leader in The Forrester Wave™: Security Analytics Platforms, Q2 2025](https://www.elastic.co/blog/forrester-leader-security-analytics-platforms-2025)
-- [AI, out-of-the-box!](https://www.elastic.co/blog/elastic-out-of-box-genai-capabilities)
-- [You thought Elastic only did SIEM? Think again!](https://www.elastic.co/blog/elastic-extended-security)
+- [GSA and Elastic announce strategic agreement to drive federal cost savings](https://www.elastic.co/blog/gsa-elastic-agreement-federal-cost-savings)
 - [AI, out-of-the-box!](https://www.elastic.co/blog/elastic-out-of-box-genai-capabilities)
 <!-- ELASTIC-BLOGS:END -->
 
