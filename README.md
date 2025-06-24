@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] ICCV api test](https://www.reddit.com/r/MachineLearning/comments/1ljcwfi/d_iccv_api_test/)
+- [[D] PhD &lpar;non-US&rpar; → Research Scientist jobs in CV/DL at top companies—how much DSA grind is essential?](https://www.reddit.com/r/MachineLearning/comments/1ljdjzt/d_phd_nonus_research_scientist_jobs_in_cvdl_at/)
+- [[D] iccv api test.](https://www.reddit.com/r/MachineLearning/comments/1ljdcz5/d_iccv_api_test/)
 - [[P] Practical ReAct agent implementation: solving LLM non-determinism in multi-step reasoning](https://www.reddit.com/r/MachineLearning/comments/1lj4qjh/p_practical_react_agent_implementation_solving/)
 - [[R] Knowledge as an Abstract Structure](https://www.reddit.com/r/MachineLearning/comments/1lj4em5/r_knowledge_as_an_abstract_structure/)
 - [[P] Just open-sourced Eion - a shared memory system for AI agents](https://www.reddit.com/r/MachineLearning/comments/1lj3n3m/p_just_opensourced_eion_a_shared_memory_system/)
-- [[D] What&#39;s happening behind Google&#39;s AI Overviews?](https://www.reddit.com/r/MachineLearning/comments/1lj3e0i/d_whats_happening_behind_googles_ai_overviews/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
