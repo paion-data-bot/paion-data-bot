@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Reasoning on Perturbed Puzzles](https://www.reddit.com/r/MachineLearning/comments/1ljijt0/d_reasoning_on_perturbed_puzzles/)
 - [[P] TinyFT: A lightweight fine-tuning library](https://www.reddit.com/r/MachineLearning/comments/1ljhj1o/p_tinyft_a_lightweight_finetuning_library/)
 - [[D] Best online communities for ML research enthusiasts?](https://www.reddit.com/r/MachineLearning/comments/1ljhfw8/d_best_online_communities_for_ml_research/)
 - [[R]Fine tuning of CLIP on a specific task](https://www.reddit.com/r/MachineLearning/comments/1ljgoqx/rfine_tuning_of_clip_on_a_specific_task/)
 - [[D] Where are the Alpha Evolve Use Cases?](https://www.reddit.com/r/MachineLearning/comments/1ljgiqo/d_where_are_the_alpha_evolve_use_cases/)
-- [[R] A proxy for info encoding: a high condition number indicates that the unit has learned to selectively amplify &amp; compress information. Through the lens of information theory, it indicates the unit&#39;s ability to transform high-entropy, uncertain input into lower-entropy, more predictable output.](https://www.reddit.com/r/MachineLearning/comments/1lje4f5/r_a_proxy_for_info_encoding_a_high_condition/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
