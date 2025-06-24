@@ -55,10 +55,10 @@
 
 <!-- ELASTIC-BLOGS:START -->
 - [Elastic Stack 9.0.3 released](https://www.elastic.co/blog/elastic-stack-9-0-3-released)
-- [Elastic named a Leader in The Forrester Wave™: Security Analytics Platforms, Q2 2025](https://www.elastic.co/blog/forrester-leader-security-analytics-platforms-2025)
+- [Elastic Stack 7.17.29 released](https://www.elastic.co/blog/elastic-stack-7-17-29-released)
 - [Elastic Stack 8.18.3 released](https://www.elastic.co/blog/elastic-stack-8-18-3-released)
+- [Elastic named a Leader in The Forrester Wave™: Security Analytics Platforms, Q2 2025](https://www.elastic.co/blog/forrester-leader-security-analytics-platforms-2025)
 - [GSA and Elastic announce strategic agreement to drive federal cost savings](https://www.elastic.co/blog/gsa-elastic-agreement-federal-cost-savings)
-- [Elastic Stack 8.17.8 released](https://www.elastic.co/blog/elastic-stack-8-17-8-released)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
