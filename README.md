@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Where are the Alpha Evolve Use Cases?](https://www.reddit.com/r/MachineLearning/comments/1ljgiqo/d_where_are_the_alpha_evolve_use_cases/)
 - [[R] A proxy for info encoding: a high condition number indicates that the unit has learned to selectively amplify &amp; compress information. Through the lens of information theory, it indicates the unit&#39;s ability to transform high-entropy, uncertain input into lower-entropy, more predictable output.](https://www.reddit.com/r/MachineLearning/comments/1lje4f5/r_a_proxy_for_info_encoding_a_high_condition/)
 - [[D] PhD &lpar;non-US&rpar; → Research Scientist jobs in CV/DL at top companies—how much DSA grind is essential?](https://www.reddit.com/r/MachineLearning/comments/1ljdjzt/d_phd_nonus_research_scientist_jobs_in_cvdl_at/)
 - [[P] Practical ReAct agent implementation: solving LLM non-determinism in multi-step reasoning](https://www.reddit.com/r/MachineLearning/comments/1lj4qjh/p_practical_react_agent_implementation_solving/)
 - [[R] Knowledge as an Abstract Structure](https://www.reddit.com/r/MachineLearning/comments/1lj4em5/r_knowledge_as_an_abstract_structure/)
-- [[P] Just open-sourced Eion - a shared memory system for AI agents](https://www.reddit.com/r/MachineLearning/comments/1lj3n3m/p_just_opensourced_eion_a_shared_memory_system/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
