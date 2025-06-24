@@ -14,11 +14,11 @@
 <h3><a href="https://www.deepmind.com/blog"><img width="20%" src="./img/google-deepmind.png"></a></h3>
 
 <!-- GOOGLE-DEEPMIND-BLOG:START -->
+- [Gemini Robotics On-Device brings AI to local robotic devices](https://deepmind.google/discover/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/)
 - [Gemini 2.5: Updates to our family of thinking models](https://deepmind.google/discover/blog/gemini-25-updates-to-our-family-of-thinking-models/)
 - [We’re expanding our Gemini 2.5 family of models](https://deepmind.google/discover/blog/were-expanding-our-gemini-25-family-of-models/)
 - [Behind “ANCESTRA”: combining Veo with live-action filmmaking](https://deepmind.google/discover/blog/behind-ancestra-combining-veo-with-live-action-filmmaking/)
 - [How we&#39;re supporting better tropical cyclone prediction with AI](https://deepmind.google/discover/blog/weather-lab-cyclone-predictions-with-ai/)
-- [Advanced audio dialog and generation with Gemini 2.5](https://deepmind.google/discover/blog/advanced-audio-dialog-and-generation-with-gemini-25/)
 <!-- GOOGLE-DEEPMIND-BLOG:END -->
 
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
