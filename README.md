@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] MetaNode SDK – a blockchain-native CLI to manage ML infra &amp; agreements](https://www.reddit.com/r/MachineLearning/comments/1lj0rww/p_metanode_sdk_a_blockchainnative_cli_to_manage/)
+- [[P] A physics engine with reproducible CLI simulations + hash-stamped results — useful for RL training?](https://www.reddit.com/r/MachineLearning/comments/1lj0of9/p_a_physics_engine_with_reproducible_cli/)
+- [[P] A physics engine with reproducible CLI simulations + hash-stamped results — useful for RL training?](https://www.reddit.com/r/MachineLearning/comments/1lj0m50/p_a_physics_engine_with_reproducible_cli/)
 - [[D] Democratizing ML model development](https://www.reddit.com/r/MachineLearning/comments/1lj0akq/d_democratizing_ml_model_development/)
 - [[D] Applying COCONUT continuous reasoning into a learnt linear layer that produces sampling parameters &lpar;temp, top-k, top-p, etc.&rpar; for the current token?](https://www.reddit.com/r/MachineLearning/comments/1livdoh/d_applying_coconut_continuous_reasoning_into_a/)
-- [[D] Anyone else attending the International Joint Conference on Neural Networks &lpar;IJCNN 2025&rpar; Conference in Rome?](https://www.reddit.com/r/MachineLearning/comments/1liuzbb/d_anyone_else_attending_the_international_joint/)
-- [[D] ML Noob - Reading Academic Papers vs Focus on Applications](https://www.reddit.com/r/MachineLearning/comments/1liphg4/d_ml_noob_reading_academic_papers_vs_focus_on/)
-- [[D] Active Learning v/s Active Data Curation](https://www.reddit.com/r/MachineLearning/comments/1lilkjl/d_active_learning_vs_active_data_curation/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
