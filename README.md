@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Elastic named a Leader in The Forrester Wave™: Security Analytics Platforms, Q2 2025](https://www.elastic.co/blog/forrester-leader-security-analytics-platforms-2025)
+- [Elastic named a Leader in The Forrester Wave™: Security Analytics Platforms, Q2 2025](https://www.elastic.co/blog/forrester-leader-security-analytics-platforms-2025)
 - [AI, out-of-the-box!](https://www.elastic.co/blog/elastic-out-of-box-genai-capabilities)
 - [You thought Elastic only did SIEM? Think again!](https://www.elastic.co/blog/elastic-extended-security)
 - [AI, out-of-the-box!](https://www.elastic.co/blog/elastic-out-of-box-genai-capabilities)
-- [You thought Elastic only did SIEM? Think again!](https://www.elastic.co/blog/elastic-extended-security)
-- [Reclaiming analyst time: Smarter investigations with AI in defence](https://www.elastic.co/blog/ai-in-defence)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
