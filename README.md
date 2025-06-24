@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] ICCV api test](https://www.reddit.com/r/MachineLearning/comments/1ljcwfi/d_iccv_api_test/)
 - [[P] Practical ReAct agent implementation: solving LLM non-determinism in multi-step reasoning](https://www.reddit.com/r/MachineLearning/comments/1lj4qjh/p_practical_react_agent_implementation_solving/)
 - [[R] Knowledge as an Abstract Structure](https://www.reddit.com/r/MachineLearning/comments/1lj4em5/r_knowledge_as_an_abstract_structure/)
 - [[P] Just open-sourced Eion - a shared memory system for AI agents](https://www.reddit.com/r/MachineLearning/comments/1lj3n3m/p_just_opensourced_eion_a_shared_memory_system/)
 - [[D] What&#39;s happening behind Google&#39;s AI Overviews?](https://www.reddit.com/r/MachineLearning/comments/1lj3e0i/d_whats_happening_behind_googles_ai_overviews/)
-- [[P] MetaNode SDK – a blockchain-native CLI to manage ML infra &amp; agreements](https://www.reddit.com/r/MachineLearning/comments/1lj0rww/p_metanode_sdk_a_blockchainnative_cli_to_manage/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
