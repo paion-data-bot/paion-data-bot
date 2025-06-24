@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Renting GPU for LLM - CoreWeave vs others](https://www.reddit.com/r/MachineLearning/comments/1ljmcth/p_renting_gpu_for_llm_coreweave_vs_others/)
 - [[P] SAI: A Reinforcement Learning Competition Platform](https://www.reddit.com/r/MachineLearning/comments/1ljjodq/p_sai_a_reinforcement_learning_competition/)
 - [[D] Reasoning on Perturbed Puzzles](https://www.reddit.com/r/MachineLearning/comments/1ljijt0/d_reasoning_on_perturbed_puzzles/)
 - [[P] TinyFT: A lightweight fine-tuning library](https://www.reddit.com/r/MachineLearning/comments/1ljhj1o/p_tinyft_a_lightweight_finetuning_library/)
 - [[D] Best online communities for ML research enthusiasts?](https://www.reddit.com/r/MachineLearning/comments/1ljhfw8/d_best_online_communities_for_ml_research/)
-- [[R]Fine tuning of CLIP on a specific task](https://www.reddit.com/r/MachineLearning/comments/1ljgoqx/rfine_tuning_of_clip_on_a_specific_task/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
