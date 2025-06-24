@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Knowledge as an Abstract Structure](https://www.reddit.com/r/MachineLearning/comments/1lj4em5/r_knowledge_as_an_abstract_structure/)
 - [[P] Just open-sourced Eion - a shared memory system for AI agents](https://www.reddit.com/r/MachineLearning/comments/1lj3n3m/p_just_opensourced_eion_a_shared_memory_system/)
 - [[D] What&#39;s happening behind Google&#39;s AI Overviews?](https://www.reddit.com/r/MachineLearning/comments/1lj3e0i/d_whats_happening_behind_googles_ai_overviews/)
 - [[P] MetaNode SDK – a blockchain-native CLI to manage ML infra &amp; agreements](https://www.reddit.com/r/MachineLearning/comments/1lj0rww/p_metanode_sdk_a_blockchainnative_cli_to_manage/)
 - [[P] A physics engine with reproducible CLI simulations + hash-stamped results — useful for RL training?](https://www.reddit.com/r/MachineLearning/comments/1lj0of9/p_a_physics_engine_with_reproducible_cli/)
-- [[P] A physics engine with reproducible CLI simulations + hash-stamped results — useful for RL training?](https://www.reddit.com/r/MachineLearning/comments/1lj0m50/p_a_physics_engine_with_reproducible_cli/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
