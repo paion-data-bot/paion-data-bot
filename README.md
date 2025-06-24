@@ -98,11 +98,11 @@
 ### Martin Fowler's Blog (**Building Software Effectively**)
 
 <!-- MARTIN-FOWLER-BLOG:START -->
+- [LLMs bring new nature of abstraction](https://martinfowler.com/articles/2025-nature-abstraction.html)
 - [Assessing Expert Generalists](https://martinfowler.com/articles/expert-generalist.html#AssessingExpertGeneralists)
 - [Expert Generalists: three more characteristics](https://martinfowler.com/articles/expert-generalist.html#FavorFundamentalKnowledge)
 - [Expert Generalists: first three characteristics](https://martinfowler.com/articles/expert-generalist.html)
 - [Autonomous coding agents: A Codex example](https://martinfowler.com/articles/exploring-gen-ai/autonomous-agents-codex-example.html)
-- [Should I still use analytics?](https://martinfowler.com/articles/202506-whither-analytics.html)
 <!-- MARTIN-FOWLER-BLOG:END -->
 
 ### [CSS-Trikcs](https://css-tricks.com/)
