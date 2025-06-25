@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] When the ICCV final decisions are expected to be released?](https://www.reddit.com/r/MachineLearning/comments/1ljvxnm/d_when_the_iccv_final_decisions_are_expected_to/)
+- [[D] We created an AI model that does Multi-Stage Reasoning | It outscored many top-tier models in mathematics and logical reasoning](https://www.reddit.com/r/MachineLearning/comments/1ljw1g5/d_we_created_an_ai_model_that_does_multistage/)
 - [[R] OMEGA: Can LLMs Reason Outside the Box in Math?](https://www.reddit.com/r/MachineLearning/comments/1ljsyzg/r_omega_can_llms_reason_outside_the_box_in_math/)
 - [[R] Is this articulation inference task a good fit for Reinforcement Learning?](https://www.reddit.com/r/MachineLearning/comments/1ljsjyz/r_is_this_articulation_inference_task_a_good_fit/)
 - [[D] Masters in CS/AI/ML inquiry](https://www.reddit.com/r/MachineLearning/comments/1ljs8gw/d_masters_in_csaiml_inquiry/)
