@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Is a career in AI/ML becoming more feasible now that AI companies are popping up left and right? [D]](https://www.reddit.com/r/MachineLearning/comments/1lkjev9/is_a_career_in_aiml_becoming_more_feasible_now/)
 - [[D] Feedback on Residual Spatiotemporal GNN for Flood Forecasting](https://www.reddit.com/r/MachineLearning/comments/1lkg2l1/d_feedback_on_residual_spatiotemporal_gnn_for/)
 - [[D] Paperswithcode has been compromised](https://www.reddit.com/r/MachineLearning/comments/1lkedb8/d_paperswithcode_has_been_compromised/)
 - [[D] How to disagree without arguing with a reviewer](https://www.reddit.com/r/MachineLearning/comments/1lkdt1k/d_how_to_disagree_without_arguing_with_a_reviewer/)
 - [[P] Help Regularising Distributed Lag Model?](https://www.reddit.com/r/MachineLearning/comments/1lkdq1w/p_help_regularising_distributed_lag_model/)
-- [[P] Trouble analyzing loss graph.](https://www.reddit.com/r/MachineLearning/comments/1lkd0rb/p_trouble_analyzing_loss_graph/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
