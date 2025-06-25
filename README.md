@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Paperswithcode has been compromised](https://www.reddit.com/r/MachineLearning/comments/1lkedb8/d_paperswithcode_has_been_compromised/)
 - [[D] How to disagree without arguing with a reviewer](https://www.reddit.com/r/MachineLearning/comments/1lkdt1k/d_how_to_disagree_without_arguing_with_a_reviewer/)
 - [[P] Help Regularising Distributed Lag Model?](https://www.reddit.com/r/MachineLearning/comments/1lkdq1w/p_help_regularising_distributed_lag_model/)
 - [[P] Trouble analyzing loss graph.](https://www.reddit.com/r/MachineLearning/comments/1lkd0rb/p_trouble_analyzing_loss_graph/)
 - [[D] Why are there no text auto encoders with reconstruction loss as a primary training objective?](https://www.reddit.com/r/MachineLearning/comments/1lkbsic/d_why_are_there_no_text_auto_encoders_with/)
-- [[D] Thinking of starting an initiative tracing the origin and impact of different ML practices – feedback requested](https://www.reddit.com/r/MachineLearning/comments/1lk9731/d_thinking_of_starting_an_initiative_tracing_the/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
