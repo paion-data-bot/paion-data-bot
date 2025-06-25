@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] When the ICCV final decisions are expected to be released?](https://www.reddit.com/r/MachineLearning/comments/1ljvxnm/d_when_the_iccv_final_decisions_are_expected_to/)
 - [[R] OMEGA: Can LLMs Reason Outside the Box in Math?](https://www.reddit.com/r/MachineLearning/comments/1ljsyzg/r_omega_can_llms_reason_outside_the_box_in_math/)
 - [[R] Is this articulation inference task a good fit for Reinforcement Learning?](https://www.reddit.com/r/MachineLearning/comments/1ljsjyz/r_is_this_articulation_inference_task_a_good_fit/)
 - [[D] Masters in CS/AI/ML inquiry](https://www.reddit.com/r/MachineLearning/comments/1ljs8gw/d_masters_in_csaiml_inquiry/)
 - [[D] how much time do you spend designing your ML problem before starting?](https://www.reddit.com/r/MachineLearning/comments/1ljp4cg/d_how_much_time_do_you_spend_designing_your_ml/)
-- [[D] Old school must read papers in the field](https://www.reddit.com/r/MachineLearning/comments/1ljo5c1/d_old_school_must_read_papers_in_the_field/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
