@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [Poking at the CSS if&lpar;&rpar; Function a Little More: Conditional Color Theming](https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/)
 - [Lightly Poking at the CSS if&lpar;&rpar; Function in Chrome 137](https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/)
 - [A Better API for the Intersection and Mutation Observers](https://css-tricks.com/a-better-api-for-the-intersection-and-mutation-observers/)
 - [Color Everything in CSS](https://css-tricks.com/color-everything-in-css/)
 - [CSS Color Functions](https://css-tricks.com/css-color-functions/)
-- [How to Keep Up With New CSS Features](https://css-tricks.com/how-to-keep-up-with-new-css-features/)
 <!-- CSS-TRIKCS:END -->
