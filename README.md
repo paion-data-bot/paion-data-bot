@@ -88,11 +88,11 @@
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Image Compatibility In Cloud Native Environments](https://kubernetes.io/blog/2025/06/25/image-compatibility-in-cloud-native-environments/)
 - [Changes to Kubernetes Slack](https://kubernetes.io/blog/2025/06/16/changes-to-kubernetes-slack/)
 - [Enhancing Kubernetes Event Management with Custom Aggregation](https://kubernetes.io/blog/2025/06/10/enhancing-kubernetes-event-management-custom-aggregation/)
 - [Introducing Gateway API Inference Extension](https://kubernetes.io/blog/2025/06/05/introducing-gateway-api-inference-extension/)
 - [Start Sidecar First: How To Avoid Snags](https://kubernetes.io/blog/2025/06/03/start-sidecar-first/)
-- [Gateway API v1.3.0: Advancements in Request Mirroring, CORS, Gateway Merging, and Retry Budgets](https://kubernetes.io/blog/2025/06/02/gateway-api-v1-3/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
