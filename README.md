@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Thinking of starting an initiative tracing the origin and impact of different ML practices – feedback requested](https://www.reddit.com/r/MachineLearning/comments/1lk9731/d_thinking_of_starting_an_initiative_tracing_the/)
 - [[P] Stop AI from hallucinating your features: I open-sourced a tool that helps Copilot &amp; Cursor understand your tables](https://www.reddit.com/r/MachineLearning/comments/1lk8vls/p_stop_ai_from_hallucinating_your_features_i/)
 - [[R] Is it true that most of AI is just data cleaning and not fancy models?](https://www.reddit.com/r/MachineLearning/comments/1lk71h6/r_is_it_true_that_most_of_ai_is_just_data/)
 - [[D] Do you guy still have access to paperswithcode.com ?](https://www.reddit.com/r/MachineLearning/comments/1lk4m92/d_do_you_guy_still_have_access_to/)
 - [[D] ICCV 2025 Results Discussion](https://www.reddit.com/r/MachineLearning/comments/1lk38sf/d_iccv_2025_results_discussion/)
-- [[D] Visa sponsorship for AI research roles in America/Europe](https://www.reddit.com/r/MachineLearning/comments/1ljyhny/d_visa_sponsorship_for_ai_research_roles_in/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
