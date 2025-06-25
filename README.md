@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] OMEGA: Can LLMs Reason Outside the Box in Math?](https://www.reddit.com/r/MachineLearning/comments/1ljsyzg/r_omega_can_llms_reason_outside_the_box_in_math/)
+- [[R] Is this articulation inference task a good fit for Reinforcement Learning?](https://www.reddit.com/r/MachineLearning/comments/1ljsjyz/r_is_this_articulation_inference_task_a_good_fit/)
+- [[D] Masters in CS/AI/ML inquiry](https://www.reddit.com/r/MachineLearning/comments/1ljs8gw/d_masters_in_csaiml_inquiry/)
 - [[D] how much time do you spend designing your ML problem before starting?](https://www.reddit.com/r/MachineLearning/comments/1ljp4cg/d_how_much_time_do_you_spend_designing_your_ml/)
 - [[D] Old school must read papers in the field](https://www.reddit.com/r/MachineLearning/comments/1ljo5c1/d_old_school_must_read_papers_in_the_field/)
-- [[D] Extremely low&lpar;&lt;0.2&rpar; train/val loss after 1.96 billion tokens when pretraining GPT-2 small](https://www.reddit.com/r/MachineLearning/comments/1ljnfzy/d_extremely_low02_trainval_loss_after_196_billion/)
-- [[P] Renting GPU for LLM - CoreWeave vs others](https://www.reddit.com/r/MachineLearning/comments/1ljmcth/p_renting_gpu_for_llm_coreweave_vs_others/)
-- [[P] SAI: A Reinforcement Learning Competition Platform](https://www.reddit.com/r/MachineLearning/comments/1ljjodq/p_sai_a_reinforcement_learning_competition/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
