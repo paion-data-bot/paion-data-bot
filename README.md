@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Very odd rumors about AI](https://www.reddit.com/r/MachineLearning/comments/1lkxdw1/d_very_odd_rumors_about_ai/)
 - [[D] Did you get Neurips reviews assignments?](https://www.reddit.com/r/MachineLearning/comments/1lktj7p/d_did_you_get_neurips_reviews_assignments/)
 - [[D] Attention heatmap visualization tools?](https://www.reddit.com/r/MachineLearning/comments/1lksg4d/d_attention_heatmap_visualization_tools/)
 - [[D] Suggestions on dealing with rejections](https://www.reddit.com/r/MachineLearning/comments/1lkq2zw/d_suggestions_on_dealing_with_rejections/)
 - [[D] Alarming amount of schizoid people being validated by LLMs, anyone else experienced this?](https://www.reddit.com/r/MachineLearning/comments/1lkmkuw/d_alarming_amount_of_schizoid_people_being/)
-- [[R] Any proxy methods for labeling indirect/implicit emotions without human annotators?](https://www.reddit.com/r/MachineLearning/comments/1lkkmqw/r_any_proxy_methods_for_labeling_indirectimplicit/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
