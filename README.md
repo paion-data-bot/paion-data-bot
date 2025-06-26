@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] how does the authors of those mind-blowing papers come up with those ideas?](https://www.reddit.com/r/MachineLearning/comments/1ll9c4e/d_how_does_the_authors_of_those_mindblowing/)
+- [[R] Companion AI Research](https://www.reddit.com/r/MachineLearning/comments/1ll9b1d/r_companion_ai_research/)
 - [[D]Benchmarked Google’s new Gemma 3 models on our inference runtime — sub-second cold starts](https://www.reddit.com/r/MachineLearning/comments/1ll8b6e/dbenchmarked_googles_new_gemma_3_models_on_our/)
 - [[R] LLM usage locally in mobile](https://www.reddit.com/r/MachineLearning/comments/1ll7fd6/r_llm_usage_locally_in_mobile/)
 - [[D] EMNLP 2025 Paper Reviews](https://www.reddit.com/r/MachineLearning/comments/1ll6nsq/d_emnlp_2025_paper_reviews/)
-- [[R] You can just predict the optimum &lpar;aka in-context Bayesian optimization&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ll69g0/r_you_can_just_predict_the_optimum_aka_incontext/)
-- [[D] emnlp 2025 review](https://www.reddit.com/r/MachineLearning/comments/1ll5agc/d_emnlp_2025_review/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
