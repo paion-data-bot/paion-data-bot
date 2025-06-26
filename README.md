@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[N] $1M in grants for AI projects advancing truth-seeking, deadline July 1](https://www.reddit.com/r/MachineLearning/comments/1ll1wm9/n_1m_in_grants_for_ai_projects_advancing/)
 - [[D] Budget cut in USA? Impact on conference?](https://www.reddit.com/r/MachineLearning/comments/1ll100q/d_budget_cut_in_usa_impact_on_conference/)
 - [[D] Very odd rumors about AI](https://www.reddit.com/r/MachineLearning/comments/1lkxdw1/d_very_odd_rumors_about_ai/)
 - [[D] Did you get Neurips reviews assignments?](https://www.reddit.com/r/MachineLearning/comments/1lktj7p/d_did_you_get_neurips_reviews_assignments/)
 - [[D] Attention heatmap visualization tools?](https://www.reddit.com/r/MachineLearning/comments/1lksg4d/d_attention_heatmap_visualization_tools/)
-- [[D] Suggestions on dealing with rejections](https://www.reddit.com/r/MachineLearning/comments/1lkq2zw/d_suggestions_on_dealing_with_rejections/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
