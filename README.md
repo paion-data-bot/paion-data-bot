@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Rubrik announces intent to acquire Predibase](https://www.reddit.com/r/MachineLearning/comments/1ll2fb7/d_rubrik_announces_intent_to_acquire_predibase/)
+- [[D] Can split learning impact XAI compared same model trained in central server?](https://www.reddit.com/r/MachineLearning/comments/1ll2wer/d_can_split_learning_impact_xai_compared_same/)
 - [[N] $1M in grants for AI projects advancing truth-seeking, deadline July 1](https://www.reddit.com/r/MachineLearning/comments/1ll1wm9/n_1m_in_grants_for_ai_projects_advancing/)
 - [[D] Budget cut in USA? Impact on conference?](https://www.reddit.com/r/MachineLearning/comments/1ll100q/d_budget_cut_in_usa_impact_on_conference/)
 - [[D] Did you get Neurips reviews assignments?](https://www.reddit.com/r/MachineLearning/comments/1lktj7p/d_did_you_get_neurips_reviews_assignments/)
