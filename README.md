@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [Elastic Cloud Serverless now generally available on Microsoft Azure](https://www.elastic.co/blog/elastic-cloud-serverless-microsoft-azure-generally-available)
 - [Transforming defence analytics with generative AI](https://www.elastic.co/blog/defence-analytics-generative-ai)
+- [Elastic Cloud Serverless now generally available on Microsoft Azure](https://www.elastic.co/blog/elastic-cloud-serverless-microsoft-azure-generally-available)
 - [Transforming defence analytics with generative AI](https://www.elastic.co/blog/defence-analytics-generative-ai)
-- [Elastic Stack 8.18.3 released](https://www.elastic.co/blog/elastic-stack-8-18-3-released)
 - [Elastic Stack 9.0.3 released](https://www.elastic.co/blog/elastic-stack-9-0-3-released)
-- [Elastic Stack 8.17.8 released](https://www.elastic.co/blog/elastic-stack-8-17-8-released)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
