@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Suggestions on dealing with rejections](https://www.reddit.com/r/MachineLearning/comments/1lkq2zw/d_suggestions_on_dealing_with_rejections/)
 - [[D] Alarming amount of schizoid people being validated by LLMs, anyone else experienced this?](https://www.reddit.com/r/MachineLearning/comments/1lkmkuw/d_alarming_amount_of_schizoid_people_being/)
 - [[R] Any proxy methods for labeling indirect/implicit emotions without human annotators?](https://www.reddit.com/r/MachineLearning/comments/1lkkmqw/r_any_proxy_methods_for_labeling_indirectimplicit/)
 - [[D] Feedback on Residual Spatiotemporal GNN for Flood Forecasting](https://www.reddit.com/r/MachineLearning/comments/1lkg2l1/d_feedback_on_residual_spatiotemporal_gnn_for/)
 - [[D] Paperswithcode has been compromised](https://www.reddit.com/r/MachineLearning/comments/1lkedb8/d_paperswithcode_has_been_compromised/)
-- [[D] How to disagree without arguing with a reviewer](https://www.reddit.com/r/MachineLearning/comments/1lkdt1k/d_how_to_disagree_without_arguing_with_a_reviewer/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
