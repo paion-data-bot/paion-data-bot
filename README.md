@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] EMNLP 2025 Paper Reviews](https://www.reddit.com/r/MachineLearning/comments/1ll6nsq/d_emnlp_2025_paper_reviews/)
 - [[R] You can just predict the optimum &lpar;aka in-context Bayesian optimization&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ll69g0/r_you_can_just_predict_the_optimum_aka_incontext/)
 - [[D] emnlp 2025 review](https://www.reddit.com/r/MachineLearning/comments/1ll5agc/d_emnlp_2025_review/)
 - [[D] Can split learning impact XAI compared same model trained in central server?](https://www.reddit.com/r/MachineLearning/comments/1ll2wer/d_can_split_learning_impact_xai_compared_same/)
 - [[N] $1M in grants for AI projects advancing truth-seeking, deadline July 1](https://www.reddit.com/r/MachineLearning/comments/1ll1wm9/n_1m_in_grants_for_ai_projects_advancing/)
-- [[D] Budget cut in USA? Impact on conference?](https://www.reddit.com/r/MachineLearning/comments/1ll100q/d_budget_cut_in_usa_impact_on_conference/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
