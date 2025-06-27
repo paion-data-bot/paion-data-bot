@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
-- [Elastic&#39;s journey to build Elastic Cloud Serverless](https://www.elastic.co/blog/journey-to-build-elastic-cloud-serverless)
-- [Transforming defence analytics with generative AI](https://www.elastic.co/blog/defence-analytics-generative-ai)
-- [Elastic Cloud Serverless now generally available on Microsoft Azure](https://www.elastic.co/blog/elastic-cloud-serverless-microsoft-azure-generally-available)
+- [Airtel is strengthening security operations with Elastic’s AI-driven analytics](https://www.elastic.co/blog/ai-driven-analytics)
+- [Airtel is strengthening security operations with Elastic’s AI-driven analytics](https://www.elastic.co/blog/ai-driven-analytics)
 - [Congratulations to our first Elastic Verified Generative AI Sales Partners](https://www.elastic.co/blog/generative-ai-sales-partners)
 - [Elastic&#39;s journey to build Elastic Cloud Serverless](https://www.elastic.co/blog/journey-to-build-elastic-cloud-serverless)
+- [Elastic Cloud Serverless now generally available on Microsoft Azure](https://www.elastic.co/blog/elastic-cloud-serverless-microsoft-azure-generally-available)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
