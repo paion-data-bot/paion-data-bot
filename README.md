@@ -28,7 +28,7 @@
 - [The Condition Number as a Scale-Invariant Proxy for Information Encoding in Neural Units](https://www.reddit.com/r/MachineLearning/comments/1llo6mr/the_condition_number_as_a_scaleinvariant_proxy/)
 - [[D] Thinking, Fast and Slow](https://www.reddit.com/r/MachineLearning/comments/1llo5nt/d_thinking_fast_and_slow/)
 - [[R] EMNLP 2025: reply to reviewers disabled](https://www.reddit.com/r/MachineLearning/comments/1llhl65/r_emnlp_2025_reply_to_reviewers_disabled/)
-- [[D]Benchmarked Google’s new Gemma 3 models on our inference runtime — sub-second cold starts](https://www.reddit.com/r/MachineLearning/comments/1ll8b6e/dbenchmarked_googles_new_gemma_3_models_on_our/)
+- [[D] EMNLP 2025 Paper Reviews](https://www.reddit.com/r/MachineLearning/comments/1ll6nsq/d_emnlp_2025_paper_reviews/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
