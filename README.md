@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [The Condition Number as a Scale-Invariant Proxy for Information Encoding in Neural Units](https://www.reddit.com/r/MachineLearning/comments/1llo6mr/the_condition_number_as_a_scaleinvariant_proxy/)
+- [[D] Thinking, Fast and Slow](https://www.reddit.com/r/MachineLearning/comments/1llo5nt/d_thinking_fast_and_slow/)
 - [[D] How to have remote GPU resources? Urgent!!!](https://www.reddit.com/r/MachineLearning/comments/1llnav1/d_how_to_have_remote_gpu_resources_urgent/)
 - [[R] [D] Would you start a computer revolution?](https://www.reddit.com/r/MachineLearning/comments/1llm6xk/r_d_would_you_start_a_computer_revolution/)
 - [[P] Open Source Resonant Field Mapping – A Symbolic Emotion Engine for NPCs &lpar;Now on GitHub&rpar;](https://www.reddit.com/r/MachineLearning/comments/1llj5ol/p_open_source_resonant_field_mapping_a_symbolic/)
-- [[R] EMNLP 2025: reply to reviewers disabled](https://www.reddit.com/r/MachineLearning/comments/1llhl65/r_emnlp_2025_reply_to_reviewers_disabled/)
-- [[D]Benchmarked Google’s new Gemma 3 models on our inference runtime — sub-second cold starts](https://www.reddit.com/r/MachineLearning/comments/1ll8b6e/dbenchmarked_googles_new_gemma_3_models_on_our/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
