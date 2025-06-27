@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Built an AI-powered RTOS task scheduler using semi-supervised learning + TinyTransformer](https://www.reddit.com/r/MachineLearning/comments/1llwfn6/p_built_an_aipowered_rtos_task_scheduler_using/)
 - [Learning rate schedulers pytorch [D]](https://www.reddit.com/r/MachineLearning/comments/1lluo3u/learning_rate_schedulers_pytorch_d/)
 - [[R] Enigmata: Scaling Logical Reasoning In LLMs With Synthetic Verifiable Puzzles](https://www.reddit.com/r/MachineLearning/comments/1llqoj1/r_enigmata_scaling_logical_reasoning_in_llms_with/)
 - [The Condition Number as a Scale-Invariant Proxy for Information Encoding in Neural Units](https://www.reddit.com/r/MachineLearning/comments/1llo6mr/the_condition_number_as_a_scaleinvariant_proxy/)
 - [[D] Thinking, Fast and Slow](https://www.reddit.com/r/MachineLearning/comments/1llo5nt/d_thinking_fast_and_slow/)
-- [[R] EMNLP 2025: reply to reviewers disabled](https://www.reddit.com/r/MachineLearning/comments/1llhl65/r_emnlp_2025_reply_to_reviewers_disabled/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
