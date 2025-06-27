@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Open Source Resonant Field Mapping – A Symbolic Emotion Engine for NPCs &lpar;Now on GitHub&rpar;](https://www.reddit.com/r/MachineLearning/comments/1llj5ol/p_open_source_resonant_field_mapping_a_symbolic/)
 - [[R] EMNLP 2025: reply to reviewers disabled](https://www.reddit.com/r/MachineLearning/comments/1llhl65/r_emnlp_2025_reply_to_reviewers_disabled/)
 - [[D]Benchmarked Google’s new Gemma 3 models on our inference runtime — sub-second cold starts](https://www.reddit.com/r/MachineLearning/comments/1ll8b6e/dbenchmarked_googles_new_gemma_3_models_on_our/)
 - [[D] EMNLP 2025 Paper Reviews](https://www.reddit.com/r/MachineLearning/comments/1ll6nsq/d_emnlp_2025_paper_reviews/)
 - [[R] You can just predict the optimum &lpar;aka in-context Bayesian optimization&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ll69g0/r_you_can_just_predict_the_optimum_aka_incontext/)
-- [[D] emnlp 2025 review](https://www.reddit.com/r/MachineLearning/comments/1ll5agc/d_emnlp_2025_review/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
