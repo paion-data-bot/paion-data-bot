@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[R] Parameter-efficient model achieves 81% on CIFAR-10-C &lpar;beats ResNet-18&rpar;, 92.92% on CIFAR-10, and 71% on CIFAR-100 @ 7M params](https://www.reddit.com/r/MachineLearning/comments/1llt4n1/r_parameterefficient_model_achieves_81_on/)
 - [[P] Dissertation project](https://www.reddit.com/r/MachineLearning/comments/1llsd0j/p_dissertation_project/)
 - [[R] Enigmata: Scaling Logical Reasoning In LLMs With Synthetic Verifiable Puzzles](https://www.reddit.com/r/MachineLearning/comments/1llqoj1/r_enigmata_scaling_logical_reasoning_in_llms_with/)
 - [The Condition Number as a Scale-Invariant Proxy for Information Encoding in Neural Units](https://www.reddit.com/r/MachineLearning/comments/1llo6mr/the_condition_number_as_a_scaleinvariant_proxy/)
 - [[D] Thinking, Fast and Slow](https://www.reddit.com/r/MachineLearning/comments/1llo5nt/d_thinking_fast_and_slow/)
+- [[R] EMNLP 2025: reply to reviewers disabled](https://www.reddit.com/r/MachineLearning/comments/1llhl65/r_emnlp_2025_reply_to_reviewers_disabled/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
