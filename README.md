@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] AI Political Scientists](https://www.reddit.com/r/MachineLearning/comments/1lm57re/p_ai_political_scientists/)
 - [[D] Suggestions on dealing with ICCV rejection](https://www.reddit.com/r/MachineLearning/comments/1lm3jlh/d_suggestions_on_dealing_with_iccv_rejection/)
 - [[R] Potemkin Understanding in Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1llzcu1/r_potemkin_understanding_in_large_language_models/)
 - [[P] Built an AI-powered RTOS task scheduler using semi-supervised learning + TinyTransformer](https://www.reddit.com/r/MachineLearning/comments/1llwfn6/p_built_an_aipowered_rtos_task_scheduler_using/)
 - [Learning rate schedulers pytorch [D]](https://www.reddit.com/r/MachineLearning/comments/1lluo3u/learning_rate_schedulers_pytorch_d/)
-- [[R] Enigmata: Scaling Logical Reasoning In LLMs With Synthetic Verifiable Puzzles](https://www.reddit.com/r/MachineLearning/comments/1llqoj1/r_enigmata_scaling_logical_reasoning_in_llms_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
