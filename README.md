@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Hi everyone, I have a problem with fine tuning LLM on law](https://www.reddit.com/r/MachineLearning/comments/1lmjw60/d_hi_everyone_i_have_a_problem_with_fine_tuning/)
 - [[P] Convolutional Neural Network to predict blooming date](https://www.reddit.com/r/MachineLearning/comments/1lmilpz/p_convolutional_neural_network_to_predict/)
 - [[R] Thought Anchors: Which LLM Reasoning Steps Matter?](https://www.reddit.com/r/MachineLearning/comments/1lmg313/r_thought_anchors_which_llm_reasoning_steps_matter/)
 - [[R] Benchmarking LLMs and MLLMs on extracting financial recommendations from YouTube](https://www.reddit.com/r/MachineLearning/comments/1lma7l9/r_benchmarking_llms_and_mllms_on_extracting/)
 - [[D] Suggestions on dealing with ICCV rejection](https://www.reddit.com/r/MachineLearning/comments/1lm3jlh/d_suggestions_on_dealing_with_iccv_rejection/)
-- [[R] Potemkin Understanding in Large Language Models](https://www.reddit.com/r/MachineLearning/comments/1llzcu1/r_potemkin_understanding_in_large_language_models/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
