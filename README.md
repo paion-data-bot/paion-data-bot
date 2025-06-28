@@ -44,11 +44,11 @@
 <h3><img width="20%" src="./img/neo4j-logo.png"></h3>
 
 <!-- NEO4J-YOUTUBE:START -->
+- [How Neo4j Aura Graph Analytics Helps Developers Model Real-World Patient Data](https://www.youtube.com/watch?v=Ff5o0FU0MrQ)
+- [Neo4j Aura Graph Analytics Demo: Fraud Detection in P2P Networks](https://www.youtube.com/watch?v=nI1LlsYdIGY)
 - [Predictive Maintenance for Factory Uptime with Neo4j Graph Analytics for Snowflake](https://www.youtube.com/watch?v=2rksmcCe_tY)
 - [FikaAI Interview with Vasilije Markovic](https://www.youtube.com/watch?v=SDC-M831PcY)
 - [FikaAI Interview with Jacob Lee](https://www.youtube.com/watch?v=MAdgczTYWIw)
-- [FikaAI Interview with Arun Joseph](https://www.youtube.com/watch?v=uCOtd9fFYAs)
-- [FikaAI Interview with Artem Trofimov](https://www.youtube.com/watch?v=elg1InS79GI)
 <!-- NEO4J-YOUTUBE:END -->
 
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
