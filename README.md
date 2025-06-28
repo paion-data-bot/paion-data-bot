@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] 🧩 Introducing CLIP – the Context Link Interface Protocol](https://www.reddit.com/r/MachineLearning/comments/1lmsab1/p_introducing_clip_the_context_link_interface/)
+- [[P] LLM conversation enhance through human-like dialogue simulation](https://www.reddit.com/r/MachineLearning/comments/1lms8te/p_llm_conversation_enhance_through_humanlike/)
 - [[P] project Guidance](https://www.reddit.com/r/MachineLearning/comments/1lmrsvw/p_project_guidance/)
 - [[R] OpenEvolve: Automated GPU Kernel Discovery Outperforms Human Engineers by 21%](https://www.reddit.com/r/MachineLearning/comments/1lmqbzc/r_openevolve_automated_gpu_kernel_discovery/)
 - [[D] Evaluating realism/quality of video generation](https://www.reddit.com/r/MachineLearning/comments/1lmpw9w/d_evaluating_realismquality_of_video_generation/)
-- [[P] How to extract internal references in a document](https://www.reddit.com/r/MachineLearning/comments/1lmnthx/p_how_to_extract_internal_references_in_a_document/)
-- [[R] Ragged - : Leveraging Video Container Formats for Efficient Vector Database Distribution](https://www.reddit.com/r/MachineLearning/comments/1lmk9uo/r_ragged_leveraging_video_container_formats_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
