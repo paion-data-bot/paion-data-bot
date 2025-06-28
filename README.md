@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Curious about invitation as ICML reviewer](https://www.reddit.com/r/MachineLearning/comments/1ln0oka/d_curious_about_invitation_as_icml_reviewer/)
 - [[R] Quantum-Inspired Complex Transformers: A Novel Approach to Neural Networks Using Learnable Imaginary Units - 21% Fewer Parameters, Better Accuracy](https://www.reddit.com/r/MachineLearning/comments/1lmxxkv/r_quantuminspired_complex_transformers_a_novel/)
 - [[D] NVIDIA acquires CentML — what does this mean for inference infra?](https://www.reddit.com/r/MachineLearning/comments/1lmx6f9/d_nvidia_acquires_centml_what_does_this_mean_for/)
 - [[P] Live Face Swap and Voice Cloning](https://www.reddit.com/r/MachineLearning/comments/1lmwoe0/p_live_face_swap_and_voice_cloning/)
 - [[R] Systematic Evaluation of Computational Consciousness Correlates in Economic AI Agents: Applying Butlin et al. &lpar;2023&rpar; Framework to La Serenissima](https://www.reddit.com/r/MachineLearning/comments/1lmw5pg/r_systematic_evaluation_of_computational/)
-- [[P] LLM conversation enhance through human-like dialogue simulation](https://www.reddit.com/r/MachineLearning/comments/1lms8te/p_llm_conversation_enhance_through_humanlike/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
