@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Temperature parameter in AudioGen](https://www.reddit.com/r/MachineLearning/comments/1ln92tv/d_temperature_parameter_in_audiogen/)
 - [[D] SAMformer -- a lesson in reading benchmarks carefully](https://www.reddit.com/r/MachineLearning/comments/1ln8wu8/d_samformer_a_lesson_in_reading_benchmarks/)
 - [[D] Transfer learning v.s. end-to-end training](https://www.reddit.com/r/MachineLearning/comments/1ln8q6d/d_transfer_learning_vs_endtoend_training/)
 - [[R] Breaking LLM Context Limits and Fixing Multi-Turn Conversation Loss Through Human Dialogue Simulation](https://www.reddit.com/r/MachineLearning/comments/1ln8lqt/r_breaking_llm_context_limits_and_fixing/)
 - [[R] Arch-Router - The fastest LLM routing model designed to align to usage preferences](https://www.reddit.com/r/MachineLearning/comments/1ln7c28/r_archrouter_the_fastest_llm_routing_model/)
-- [[D] EMNLP 2025 Discussion Period](https://www.reddit.com/r/MachineLearning/comments/1ln6feb/d_emnlp_2025_discussion_period/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
