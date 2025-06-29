@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] From Big Data to Heavy Data: Rethinking the AI Stack - DataChain](https://www.reddit.com/r/MachineLearning/comments/1ln50bt/d_from_big_data_to_heavy_data_rethinking_the_ai/)
 - [[R] LSTM or Transformer as &quot;malware packer&quot;](https://www.reddit.com/r/MachineLearning/comments/1ln4omn/r_lstm_or_transformer_as_malware_packer/)
 - [[D] NeurIPS 2025 reviews release](https://www.reddit.com/r/MachineLearning/comments/1ln3v8y/d_neurips_2025_reviews_release/)
 - [[D] How do you deal with messy github repo that doesnt work](https://www.reddit.com/r/MachineLearning/comments/1ln19e6/d_how_do_you_deal_with_messy_github_repo_that/)
 - [[D] Curious about invitation as ICML reviewer](https://www.reddit.com/r/MachineLearning/comments/1ln0oka/d_curious_about_invitation_as_icml_reviewer/)
+- [[R] Quantum-Inspired Complex Transformers: A Novel Approach to Neural Networks Using Learnable Imaginary Units - 21% Fewer Parameters, Better Accuracy](https://www.reddit.com/r/MachineLearning/comments/1lmxxkv/r_quantuminspired_complex_transformers_a_novel/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
