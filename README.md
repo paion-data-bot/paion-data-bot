@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] AI Learns to Play X-Men vs Street Fighter | Reinforcement Learning with ...](https://www.reddit.com/r/MachineLearning/comments/1lnsv8n/p_ai_learns_to_play_xmen_vs_street_fighter/)
 - [[D] How should I respond to reviewers when my model is worse than much larger models?](https://www.reddit.com/r/MachineLearning/comments/1lnsph5/d_how_should_i_respond_to_reviewers_when_my_model/)
 - [[D] Review clearly used an LLM, should I report it to AC?](https://www.reddit.com/r/MachineLearning/comments/1lnoqmm/d_review_clearly_used_an_llm_should_i_report_it/)
 - [[D] Automate RL in LLM&#39;s?](https://www.reddit.com/r/MachineLearning/comments/1lnnw7o/d_automate_rl_in_llms/)
 - [[p] decentralized training and inferencing platform](https://www.reddit.com/r/MachineLearning/comments/1lnnts8/p_decentralized_training_and_inferencing_platform/)
-- [[P] Need to train a model that can detect which 2D image a smartphone camera is looking at &lpar;out of about 1000&rpar;.](https://www.reddit.com/r/MachineLearning/comments/1lnnp8u/p_need_to_train_a_model_that_can_detect_which_2d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
