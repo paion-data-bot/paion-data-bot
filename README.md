@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Transfer learning v.s. end-to-end training](https://www.reddit.com/r/MachineLearning/comments/1ln8q6d/d_transfer_learning_vs_endtoend_training/)
+- [[R] Breaking LLM Context Limits and Fixing Multi-Turn Conversation Loss Through Human Dialogue Simulation](https://www.reddit.com/r/MachineLearning/comments/1ln8lqt/r_breaking_llm_context_limits_and_fixing/)
 - [[R] Arch-Router - The fastest LLM routing model designed to align to usage preferences](https://www.reddit.com/r/MachineLearning/comments/1ln7c28/r_archrouter_the_fastest_llm_routing_model/)
 - [[D] EMNLP 2025 Discussion Period](https://www.reddit.com/r/MachineLearning/comments/1ln6feb/d_emnlp_2025_discussion_period/)
 - [[R] LSTM or Transformer as &quot;malware packer&quot;](https://www.reddit.com/r/MachineLearning/comments/1ln4omn/r_lstm_or_transformer_as_malware_packer/)
-- [[D] NeurIPS 2025 reviews release](https://www.reddit.com/r/MachineLearning/comments/1ln3v8y/d_neurips_2025_reviews_release/)
-- [[D] How do you deal with messy github repo that doesnt work](https://www.reddit.com/r/MachineLearning/comments/1ln19e6/d_how_do_you_deal_with_messy_github_repo_that/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
