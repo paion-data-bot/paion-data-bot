@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] How to convert theoretical knowledge to applied skills?](https://www.reddit.com/r/MachineLearning/comments/1lndj1a/d_how_to_convert_theoretical_knowledge_to_applied/)
 - [[P] Simple MARL environment to train quadrotor swarms in UE4](https://www.reddit.com/r/MachineLearning/comments/1lnbdzx/p_simple_marl_environment_to_train_quadrotor/)
 - [[P][Update]Open source astronomy project: need best-fit circle advice](https://www.reddit.com/r/MachineLearning/comments/1lnayg0/pupdateopen_source_astronomy_project_need_bestfit/)
 - [[D] PhD worth it to do RL research?](https://www.reddit.com/r/MachineLearning/comments/1ln9sbq/d_phd_worth_it_to_do_rl_research/)
 - [[D] Loss function for fine tuning in a list of rankings](https://www.reddit.com/r/MachineLearning/comments/1ln9bn4/d_loss_function_for_fine_tuning_in_a_list_of/)
-- [[D] SAMformer -- a lesson in reading benchmarks carefully](https://www.reddit.com/r/MachineLearning/comments/1ln8wu8/d_samformer_a_lesson_in_reading_benchmarks/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
