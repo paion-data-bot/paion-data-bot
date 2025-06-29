@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] I&#39;m scared that while learning ML, I may not have time to make projects.](https://www.reddit.com/r/MachineLearning/comments/1lns8uc/d_im_scared_that_while_learning_ml_i_may_not_have/)
+- [[D] How should I respond to reviewers when my model is worse than much larger models?](https://www.reddit.com/r/MachineLearning/comments/1lnsph5/d_how_should_i_respond_to_reviewers_when_my_model/)
 - [[D] Review clearly used an LLM, should I report it to AC?](https://www.reddit.com/r/MachineLearning/comments/1lnoqmm/d_review_clearly_used_an_llm_should_i_report_it/)
 - [[D] Automate RL in LLM&#39;s?](https://www.reddit.com/r/MachineLearning/comments/1lnnw7o/d_automate_rl_in_llms/)
 - [[p] decentralized training and inferencing platform](https://www.reddit.com/r/MachineLearning/comments/1lnnts8/p_decentralized_training_and_inferencing_platform/)
