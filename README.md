@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [Gameplay to Design DNA? [R]](https://www.reddit.com/r/MachineLearning/comments/1lnllcs/gameplay_to_design_dna_r/)
 - [[D] Is OpenReview Down?](https://www.reddit.com/r/MachineLearning/comments/1lnisl5/d_is_openreview_down/)
 - [[P] I built a new python package to reorder OCR bounding boxes even with folds and distortions](https://www.reddit.com/r/MachineLearning/comments/1lnfd3d/p_i_built_a_new_python_package_to_reorder_ocr/)
 - [[P] I built a Python debugger that you can talk to](https://www.reddit.com/r/MachineLearning/comments/1lnem9e/p_i_built_a_python_debugger_that_you_can_talk_to/)
 - [[D] Position: Machine Learning Conferences Should Establish a “Refutations and Critiques” Track](https://www.reddit.com/r/MachineLearning/comments/1lne9e0/d_position_machine_learning_conferences_should/)
-- [[D] How to convert theoretical knowledge to applied skills?](https://www.reddit.com/r/MachineLearning/comments/1lndj1a/d_how_to_convert_theoretical_knowledge_to_applied/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
