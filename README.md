@@ -76,11 +76,11 @@
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [Tool Calling with Local LLMs: A Practical Evaluation](https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/)
 - [Building an Easy Private AI Assistant with Goose and Docker Model Runner](https://www.docker.com/blog/building-an-ai-assistant-with-goose-and-docker-model-runner/)
 - [Docker State of App Dev: AI](https://www.docker.com/blog/docker-state-of-app-dev-ai/)
 - [Docker State of App Dev: Security](https://www.docker.com/blog/docker-state-of-app-dev-security/)
 - [Why Docker Chose OCI Artifacts for AI Model Packaging](https://www.docker.com/blog/oci-artifacts-for-ai-model-packaging/)
-- [Behind the scenes: How we designed Docker Model Runner and what’s next](https://www.docker.com/blog/how-we-designed-model-runner-and-whats-next/)
 <!-- DOCKER-BLOG:END -->
 
 <h3><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h3>
