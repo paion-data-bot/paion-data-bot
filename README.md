@@ -64,11 +64,11 @@
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
 
 <!-- OPENSTACK-SUPERUSER:START -->
+- [Part Two: Getting Started with Standalone OpenStack Ironic](https://superuser.openinfra.org/articles/part-two-getting-started-with-standalone-openstack-ironic/)
 - [Why NUBO Chose OpenStack to Build a Sovereign, Open Source Cloud Infrastructure](https://superuser.openinfra.org/articles/why-nubo-chose-openstack-to-build-a-sovereign-open-source-cloud-infrastructure/)
 - [Part One: Getting Started with Standalone OpenStack Ironic](https://superuser.openinfra.org/articles/openstack-ironic-standalone/)
 - [Huawei Telco Intelligent Converged Cloud &lpar;TICC&rpar; solution achieve advanced telco services for world-leading carrier Vodafone](https://superuser.openinfra.org/articles/huawei-telco-intelligent-converged-cloud-ticc-solution-achieve-advanced-telco-services-for-world-leading-carrier-vodafone/)
 - [VMware Migration Case Study: The Wind River Cloud Platform](https://superuser.openinfra.org/articles/vmware-migration-case-study-the-wind-river-cloud-platform/)
-- [Mirantis k0rdent AI Helps Nebul Deliver Sovereign AI Clouds for European Enterprises](https://superuser.openinfra.org/articles/mirantis-k0rdent-ai-helps-nebul-deliver-sovereign-ai-clouds-for-european-enterprises/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
 <h3><a href="https://www.docker.com/blog/">Docker Blogs</a></h3>
