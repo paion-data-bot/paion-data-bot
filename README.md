@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Mapping Bloom&#39;s Revised Knowledge Dimensions to Programming Constructs: An Idea for a Natural Language → Code Framework](https://www.reddit.com/r/MachineLearning/comments/1loc9qs/d_mapping_blooms_revised_knowledge_dimensions_to/)
 - [[R] A Layman&#39;s Prompting Framework for Simulating AI R&amp;D: Seeking Expert Feedback on SPIL &lpar;Simulated Parallel Inferential Logic&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lobrn7/r_a_laymans_prompting_framework_for_simulating_ai/)
 - [[P] I wrote PTX Kernels for LLM.c](https://www.reddit.com/r/MachineLearning/comments/1lobiuc/p_i_wrote_ptx_kernels_for_llmc/)
 - [**[R] NGVT: 98.33% on SWE-bench - New SOTA by 2.2×**](https://www.reddit.com/r/MachineLearning/comments/1lobc0j/r_ngvt_9833_on_swebench_new_sota_by_22/)
 - [[R] Has anyone actually gone through an AI readiness assessment with a vendor or consultant? Worth it or just more buzzwords?](https://www.reddit.com/r/MachineLearning/comments/1lo9xuu/r_has_anyone_actually_gone_through_an_ai/)
-- [I would like your opinion!! [D]](https://www.reddit.com/r/MachineLearning/comments/1lo8zhn/i_would_like_your_opinion_d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
