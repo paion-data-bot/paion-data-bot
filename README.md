@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Has anyone actually gone through an AI readiness assessment with a vendor or consultant? Worth it or just more buzzwords?](https://www.reddit.com/r/MachineLearning/comments/1lo9xuu/r_has_anyone_actually_gone_through_an_ai/)
 - [I would like your opinion!! [D]](https://www.reddit.com/r/MachineLearning/comments/1lo8zhn/i_would_like_your_opinion_d/)
 - [[D] machine learning as a mechanical engineer](https://www.reddit.com/r/MachineLearning/comments/1lo8ghn/d_machine_learning_as_a_mechanical_engineer/)
 - [[P] A Neural Network Library from scratch in C++](https://www.reddit.com/r/MachineLearning/comments/1lo7i8e/p_a_neural_network_library_from_scratch_in_c/)
 - [[N] ICONIQ Analytics: The Builder&#39;s Playbook | 2025 State of AI Report](https://www.reddit.com/r/MachineLearning/comments/1lo71ek/n_iconiq_analytics_the_builders_playbook_2025/)
-- [[D] What post-processing tools work well with Tesseract for financial documents?](https://www.reddit.com/r/MachineLearning/comments/1lo2x9f/d_what_postprocessing_tools_work_well_with/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
