@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] BIG-Bench Extra Hard](https://www.reddit.com/r/MachineLearning/comments/1lollc0/r_bigbench_extra_hard/)
+- [[R] Interpreting Large Language Models&#39; Personality through Critical Event Analysis](https://www.reddit.com/r/MachineLearning/comments/1lolkda/r_interpreting_large_language_models_personality/)
 - [[D] Is this PhD in LLM editing a good idea?](https://www.reddit.com/r/MachineLearning/comments/1loi25g/d_is_this_phd_in_llm_editing_a_good_idea/)
 - [[D] Should we petition for requiring reviewers to state conditions for improving scores?](https://www.reddit.com/r/MachineLearning/comments/1lohh1u/d_should_we_petition_for_requiring_reviewers_to/)
 - [[D] Looking for a web annotation tool &lpar;with Chrome extension&rpar; for labeling live websites](https://www.reddit.com/r/MachineLearning/comments/1logp0w/d_looking_for_a_web_annotation_tool_with_chrome/)
-- [[D] Mapping Bloom&#39;s Revised Knowledge Dimensions to Programming Constructs: An Idea for a Natural Language → Code Framework](https://www.reddit.com/r/MachineLearning/comments/1loc9qs/d_mapping_blooms_revised_knowledge_dimensions_to/)
-- [[P] I wrote PTX Kernels for LLM.c](https://www.reddit.com/r/MachineLearning/comments/1lobiuc/p_i_wrote_ptx_kernels_for_llmc/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
