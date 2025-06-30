@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Free access to an H100. What can I build?](https://www.reddit.com/r/MachineLearning/comments/1lnvjin/r_free_access_to_an_h100_what_can_i_build/)
+- [[D] Are online AI certificate programs from universities worth it?](https://www.reddit.com/r/MachineLearning/comments/1lnttqj/d_are_online_ai_certificate_programs_from/)
 - [[P] Code for Fine-Tuning FLUX.1-dev Explained Step by Step With Comments](https://www.reddit.com/r/MachineLearning/comments/1lnt9za/p_code_for_finetuning_flux1dev_explained_step_by/)
-- [[D] How should I respond to this review?](https://www.reddit.com/r/MachineLearning/comments/1lnt83b/d_how_should_i_respond_to_this_review/)
 - [[P] AI Learns to Play X-Men vs Street Fighter | Reinforcement Learning with ...](https://www.reddit.com/r/MachineLearning/comments/1lnsv8n/p_ai_learns_to_play_xmen_vs_street_fighter/)
 - [[D] How should I respond to reviewers when my model is worse than much larger models?](https://www.reddit.com/r/MachineLearning/comments/1lnsph5/d_how_should_i_respond_to_reviewers_when_my_model/)
-- [[D] Review clearly used an LLM, should I report it to AC?](https://www.reddit.com/r/MachineLearning/comments/1lnoqmm/d_review_clearly_used_an_llm_should_i_report_it/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
