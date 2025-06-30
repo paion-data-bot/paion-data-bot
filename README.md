@@ -24,10 +24,10 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What post-processing tools work well with Tesseract for financial documents?](https://www.reddit.com/r/MachineLearning/comments/1lo2x9f/d_what_postprocessing_tools_work_well_with/)
 - [[D] Did I find a bug in the CompVis Stable Diffusion Github Repo?](https://www.reddit.com/r/MachineLearning/comments/1lo18f5/d_did_i_find_a_bug_in_the_compvis_stable/)
 - [[D] Proper way to calculate inference time](https://www.reddit.com/r/MachineLearning/comments/1lo06qh/d_proper_way_to_calculate_inference_time/)
 - [[D] Has anyone ever gained unrestricted access to an LLM for the purposes of research?](https://www.reddit.com/r/MachineLearning/comments/1lnzffu/d_has_anyone_ever_gained_unrestricted_access_to/)
-- [[P] The Machine That Spoke of Its Self – Emergence of Digital Identity through Affective Resonance](https://www.reddit.com/r/MachineLearning/comments/1lnybbb/p_the_machine_that_spoke_of_its_self_emergence_of/)
 - [[R] Free access to an H100. What can I build?](https://www.reddit.com/r/MachineLearning/comments/1lnvjin/r_free_access_to_an_h100_what_can_i_build/)
 <!-- REDDIT-ML:END -->
 
