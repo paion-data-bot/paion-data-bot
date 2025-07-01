@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Recommended preparation material for ML interviews.](https://www.reddit.com/r/MachineLearning/comments/1lp6n1r/d_recommended_preparation_material_for_ml/)
 - [[D] Computing Attention Scores with Long Context LLMs](https://www.reddit.com/r/MachineLearning/comments/1lp5yum/d_computing_attention_scores_with_long_context/)
 - [[D] Looking for AI-powered smart crop library - smartcrop.py isn&#39;t enough](https://www.reddit.com/r/MachineLearning/comments/1lp5c22/d_looking_for_aipowered_smart_crop_library/)
 - [[P] Seeking Feedback: Real-Time Screen + Keystroke Monitoring for AI-Aware Anti-Cheating System &lpar;MVP FYP Project&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lp4ngc/p_seeking_feedback_realtime_screen_keystroke/)
 - [[R] Transition Matching: Scalable and Flexible Generative Modeling](https://www.reddit.com/r/MachineLearning/comments/1lp4lk8/r_transition_matching_scalable_and_flexible/)
-- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/1lp3wla/d_simple_questions_thread/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
