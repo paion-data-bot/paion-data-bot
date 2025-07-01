@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] best chunking method for financial reports?](https://www.reddit.com/r/MachineLearning/comments/1loob3z/d_best_chunking_method_for_financial_reports/)
+- [[D] How far are we from LLM pattern recognition being as good as designed ML models](https://www.reddit.com/r/MachineLearning/comments/1loo8yl/d_how_far_are_we_from_llm_pattern_recognition/)
+- [[P] Pre-processing images from different data sources to feed into deep learning model](https://www.reddit.com/r/MachineLearning/comments/1loo7lv/p_preprocessing_images_from_different_data/)
+- [[P] I&#39;ve built a spec for LLM-to-LLM comms by combining semantic patterns with structured syntax](https://www.reddit.com/r/MachineLearning/comments/1lon6sx/p_ive_built_a_spec_for_llmtollm_comms_by/)
 - [[R] BIG-Bench Extra Hard](https://www.reddit.com/r/MachineLearning/comments/1lollc0/r_bigbench_extra_hard/)
-- [[R] Interpreting Large Language Models&#39; Personality through Critical Event Analysis](https://www.reddit.com/r/MachineLearning/comments/1lolkda/r_interpreting_large_language_models_personality/)
-- [[D] Is this PhD in LLM editing a good idea?](https://www.reddit.com/r/MachineLearning/comments/1loi25g/d_is_this_phd_in_llm_editing_a_good_idea/)
-- [[D] Should we petition for requiring reviewers to state conditions for improving scores?](https://www.reddit.com/r/MachineLearning/comments/1lohh1u/d_should_we_petition_for_requiring_reviewers_to/)
-- [[D] Looking for a web annotation tool &lpar;with Chrome extension&rpar; for labeling live websites](https://www.reddit.com/r/MachineLearning/comments/1logp0w/d_looking_for_a_web_annotation_tool_with_chrome/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
