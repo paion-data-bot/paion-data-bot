@@ -108,9 +108,9 @@
 ### [CSS-Trikcs](https://css-tricks.com/)
 
 <!-- CSS-TRIKCS:START -->
+- [The Gap Strikes Back: Now Stylable](https://css-tricks.com/the-gap-strikes-back-now-stylable/)
 - [Using CSS Cascade Layers With Tailwind Utilities](https://css-tricks.com/using-css-cascade-layers-with-tailwind-utilities/)
 - [CSS Blob Recipes](https://css-tricks.com/css-blob-recipes/)
 - [KelpUI](https://css-tricks.com/kelpui/)
 - [Poking at the CSS if&lpar;&rpar; Function a Little More: Conditional Color Theming](https://css-tricks.com/poking-at-the-css-if-function-a-little-more-conditional-color-theming/)
-- [Lightly Poking at the CSS if&lpar;&rpar; Function in Chrome 137](https://css-tricks.com/lightly-poking-at-the-css-if-function-in-chrome-137/)
 <!-- CSS-TRIKCS:END -->
