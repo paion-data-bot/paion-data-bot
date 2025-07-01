@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] How do you manage research projects and PhD workload?](https://www.reddit.com/r/MachineLearning/comments/1lpcrul/d_how_do_you_manage_research_projects_and_phd/)
 - [[R] Machine Learning Maths](https://www.reddit.com/r/MachineLearning/comments/1lpco10/r_machine_learning_maths/)
 - [[D] Subreviewing for NeurIPS](https://www.reddit.com/r/MachineLearning/comments/1lp9tpp/d_subreviewing_for_neurips/)
 - [[P] Update on loT botnet detection](https://www.reddit.com/r/MachineLearning/comments/1lp95u2/p_update_on_lot_botnet_detection/)
 - [[R] Introducing DreamPRM, a multi-modal LLM reasoning method achieving first place on the MathVista leaderboard](https://www.reddit.com/r/MachineLearning/comments/1lp8umz/r_introducing_dreamprm_a_multimodal_llm_reasoning/)
+- [[D]Looking for Hinglish &lpar;code-mixed Hindi-English&rpar; speech emotion audio datasets — any recommendations?](https://www.reddit.com/r/MachineLearning/comments/1lp7jyb/dlooking_for_hinglish_codemixed_hindienglish/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
