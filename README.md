@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] and possibly [D] tooling in modern ML&lpar;particularly for kaggle competitions&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lp01ds/p_and_possibly_d_tooling_in_modern_mlparticularly/)
 - [[D] Alternatives to segmentation models pytorch?](https://www.reddit.com/r/MachineLearning/comments/1lozmgb/d_alternatives_to_segmentation_models_pytorch/)
 - [[P] I created an open-source tool to analyze 1.5M medical AI papers on PubMed](https://www.reddit.com/r/MachineLearning/comments/1lozfbp/p_i_created_an_opensource_tool_to_analyze_15m/)
 - [[D] Become an RA or stay in industry?](https://www.reddit.com/r/MachineLearning/comments/1loz7lz/d_become_an_ra_or_stay_in_industry/)
 - [[R] What can you do with 1000 neurons?](https://www.reddit.com/r/MachineLearning/comments/1loz4j6/r_what_can_you_do_with_1000_neurons/)
-- [[P] How do I detect whether a person is looking at the screen using OpenCV?](https://www.reddit.com/r/MachineLearning/comments/1louv9e/p_how_do_i_detect_whether_a_person_is_looking_at/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
