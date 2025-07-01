@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] How do I detect whether a person is looking at the screen using OpenCV?](https://www.reddit.com/r/MachineLearning/comments/1louv9e/p_how_do_i_detect_whether_a_person_is_looking_at/)
 - [[D] Any path for a mid career/mid aged MLE to do ML research in the industry](https://www.reddit.com/r/MachineLearning/comments/1lotkac/d_any_path_for_a_mid_careermid_aged_mle_to_do_ml/)
 - [[R] Inference-Time Scaling and Collective Intelligence for Frontier AI](https://www.reddit.com/r/MachineLearning/comments/1los6wj/r_inferencetime_scaling_and_collective/)
 - [[D] Monthly Who&#39;s Hiring and Who wants to be Hired?](https://www.reddit.com/r/MachineLearning/comments/1loqe5e/d_monthly_whos_hiring_and_who_wants_to_be_hired/)
 - [[D] best chunking method for financial reports?](https://www.reddit.com/r/MachineLearning/comments/1loob3z/d_best_chunking_method_for_financial_reports/)
-- [[D] How far are we from LLM pattern recognition being as good as designed ML models](https://www.reddit.com/r/MachineLearning/comments/1loo8yl/d_how_far_are_we_from_llm_pattern_recognition/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
