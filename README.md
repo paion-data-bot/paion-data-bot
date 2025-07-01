@@ -24,8 +24,8 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Simple Questions Thread](https://www.reddit.com/r/MachineLearning/comments/1lp3wla/d_simple_questions_thread/)
 - [[R] The Bitter Lesson is coming for Tokenization](https://www.reddit.com/r/MachineLearning/comments/1lp1lfb/r_the_bitter_lesson_is_coming_for_tokenization/)
-- [[D] Is Kubernetes the right fit for LLM inference?](https://www.reddit.com/r/MachineLearning/comments/1lp11nr/d_is_kubernetes_the_right_fit_for_llm_inference/)
 - [[P] and possibly [D] tooling in modern ML&lpar;particularly for kaggle competitions&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lp01ds/p_and_possibly_d_tooling_in_modern_mlparticularly/)
 - [[D] Alternatives to segmentation models pytorch?](https://www.reddit.com/r/MachineLearning/comments/1lozmgb/d_alternatives_to_segmentation_models_pytorch/)
 - [[P] I created an open-source tool to analyze 1.5M medical AI papers on PubMed](https://www.reddit.com/r/MachineLearning/comments/1lozfbp/p_i_created_an_opensource_tool_to_analyze_15m/)
