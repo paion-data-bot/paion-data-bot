@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Monthly Who&#39;s Hiring and Who wants to be Hired?](https://www.reddit.com/r/MachineLearning/comments/1loqe5e/d_monthly_whos_hiring_and_who_wants_to_be_hired/)
 - [[D] best chunking method for financial reports?](https://www.reddit.com/r/MachineLearning/comments/1loob3z/d_best_chunking_method_for_financial_reports/)
 - [[D] How far are we from LLM pattern recognition being as good as designed ML models](https://www.reddit.com/r/MachineLearning/comments/1loo8yl/d_how_far_are_we_from_llm_pattern_recognition/)
 - [[P] Pre-processing images from different data sources to feed into deep learning model](https://www.reddit.com/r/MachineLearning/comments/1loo7lv/p_preprocessing_images_from_different_data/)
 - [[P] I&#39;ve built a spec for LLM-to-LLM comms by combining semantic patterns with structured syntax](https://www.reddit.com/r/MachineLearning/comments/1lon6sx/p_ive_built_a_spec_for_llmtollm_comms_by/)
-- [[R] BIG-Bench Extra Hard](https://www.reddit.com/r/MachineLearning/comments/1lollc0/r_bigbench_extra_hard/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
