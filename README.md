@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Open-Source: Scaled &amp; Automated Paired Testing for Bias &lpar;NYC LL144 &amp; Beyond&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lq4q34/p_opensource_scaled_automated_paired_testing_for/)
 - [[D] Jupyternaut is anyone using it on their notebooks ?](https://www.reddit.com/r/MachineLearning/comments/1lq1hel/d_jupyternaut_is_anyone_using_it_on_their/)
 - [[D] Do LLMs need experience?](https://www.reddit.com/r/MachineLearning/comments/1lq0sgn/d_do_llms_need_experience/)
 - [[D] Tips / Hints for scaling agents and ML/AI Ops?](https://www.reddit.com/r/MachineLearning/comments/1lpxgsj/d_tips_hints_for_scaling_agents_and_mlai_ops/)
 - [[P] 🧠 ChatNONET – Fully Offline AI Chatbot App for Android &lpar;No Internet Needed&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lpw3ld/p_chatnonet_fully_offline_ai_chatbot_app_for/)
-- [[P] The tabular DL model TabM now has a Python package](https://www.reddit.com/r/MachineLearning/comments/1lpvn4q/p_the_tabular_dl_model_tabm_now_has_a_python/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
