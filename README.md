@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Will the relationship between Meta&#39;s FAIR and Super Intelligence Labs be like that of Google Brain and DeepMind previously?](https://www.reddit.com/r/MachineLearning/comments/1lplwz3/d_will_the_relationship_between_metas_fair_and/)
 - [[D] Best Certifications for an MSCS student?](https://www.reddit.com/r/MachineLearning/comments/1lpk9fa/d_best_certifications_for_an_mscs_student/)
 - [[D] Self-Promotion Thread](https://www.reddit.com/r/MachineLearning/comments/1lpk8ib/d_selfpromotion_thread/)
 - [[D] Classical ML prediction - preventing data leakage from time series process data 🙏](https://www.reddit.com/r/MachineLearning/comments/1lpjc4n/d_classical_ml_prediction_preventing_data_leakage/)
 - [[D] Request for Career Advice – ML PhD non hot topic](https://www.reddit.com/r/MachineLearning/comments/1lphfhf/d_request_for_career_advice_ml_phd_non_hot_topic/)
-- [[P] ML deployment](https://www.reddit.com/r/MachineLearning/comments/1lphavr/p_ml_deployment/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
