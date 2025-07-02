@@ -67,7 +67,7 @@
 - [Part Two: Getting Started with Standalone OpenStack Ironic](https://superuser.openinfra.org/articles/part-two-getting-started-with-standalone-openstack-ironic/)
 - [Why NUBO Chose OpenStack to Build a Sovereign, Open Source Cloud Infrastructure](https://superuser.openinfra.org/articles/why-nubo-chose-openstack-to-build-a-sovereign-open-source-cloud-infrastructure/)
 - [Part One: Getting Started with Standalone OpenStack Ironic](https://superuser.openinfra.org/articles/openstack-ironic-standalone/)
-- [Huawei Telco Intelligent Converged Cloud &lpar;TICC&rpar; solution achieve advanced telco services for world-leading carrier Vodafone](https://superuser.openinfra.org/articles/huawei-telco-intelligent-converged-cloud-ticc-solution-achieve-advanced-telco-services-for-world-leading-carrier-vodafone/)
+- [Huawei Telco Intelligent Converged Cloud &lpar;TICC&rpar; solution achieve advanced telco services for world-leading carrier](https://superuser.openinfra.org/articles/huawei-telco-intelligent-converged-cloud-ticc-solution-achieve-advanced-telco-services-for-world-leading-carrier-vodafone/)
 - [VMware Migration Case Study: The Wind River Cloud Platform](https://superuser.openinfra.org/articles/vmware-migration-case-study-the-wind-river-cloud-platform/)
 <!-- OPENSTACK-SUPERUSER:END -->
 
