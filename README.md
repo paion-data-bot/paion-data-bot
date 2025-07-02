@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] 🧠 ChatNONET – Fully Offline AI Chatbot App for Android &lpar;No Internet Needed&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lpw3ld/p_chatnonet_fully_offline_ai_chatbot_app_for/)
+- [[P] The tabular DL model TabM now has a Python package](https://www.reddit.com/r/MachineLearning/comments/1lpvn4q/p_the_tabular_dl_model_tabm_now_has_a_python/)
+- [LLM Gateway with MCP Integration for Agentic AI in enterprises!!!!! [P]](https://www.reddit.com/r/MachineLearning/comments/1lpv9hu/llm_gateway_with_mcp_integration_for_agentic_ai/)
 - [[R] Seeking Arxiv Endorsements](https://www.reddit.com/r/MachineLearning/comments/1lppyiv/r_seeking_arxiv_endorsements/)
 - [[D] How to become fluent at modifying/designing/improving models?](https://www.reddit.com/r/MachineLearning/comments/1lppyht/d_how_to_become_fluent_at/)
-- [[D] How will LLM companies deal with CloudFlare&#39;s anti-crawler protections, now turned on by default &lpar;opt-out&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1lppvk8/d_how_will_llm_companies_deal_with_cloudflares/)
-- [[D] How Do Decision Trees Work? Can You Build a Decision Tree By Hand?](https://www.reddit.com/r/MachineLearning/comments/1lppr9l/d_how_do_decision_trees_work_can_you_build_a/)
-- [[D] Will the relationship between Meta&#39;s FAIR and Super Intelligence Labs be like that of Google Brain and DeepMind previously?](https://www.reddit.com/r/MachineLearning/comments/1lplwz3/d_will_the_relationship_between_metas_fair_and/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
