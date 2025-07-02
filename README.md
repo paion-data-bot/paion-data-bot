@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Applicability of a Biomedical based AI/ML PhD to other AI/ML fields](https://www.reddit.com/r/MachineLearning/comments/1lqampf/d_applicability_of_a_biomedical_based_aiml_phd_to/)
 - [[D] UofT vs Oxford for an AI/ML PhD](https://www.reddit.com/r/MachineLearning/comments/1lqacfb/d_uoft_vs_oxford_for_an_aiml_phd/)
 - [Looking to make it in the start up game [D]](https://www.reddit.com/r/MachineLearning/comments/1lqa2m2/looking_to_make_it_in_the_start_up_game_d/)
 - [[D] Machine Learning Cheat Sheet Material](https://www.reddit.com/r/MachineLearning/comments/1lq9dh5/d_machine_learning_cheat_sheet_material/)
 - [[P] Brain2Model Transfer: Training sensory and decision models with human neural activity as a teacher](https://www.reddit.com/r/MachineLearning/comments/1lq7lgi/p_brain2model_transfer_training_sensory_and/)
-- [[D] Just saw B200 rentals being offered at $1.99/hr – has anyone else come across this?](https://www.reddit.com/r/MachineLearning/comments/1lq7imi/d_just_saw_b200_rentals_being_offered_at_199hr/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
