@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Best Certifications for an MSCS student?](https://www.reddit.com/r/MachineLearning/comments/1lpk9fa/d_best_certifications_for_an_mscs_student/)
+- [[D] Self-Promotion Thread](https://www.reddit.com/r/MachineLearning/comments/1lpk8ib/d_selfpromotion_thread/)
+- [[D] Classical ML prediction - preventing data leakage from time series process data 🙏](https://www.reddit.com/r/MachineLearning/comments/1lpjc4n/d_classical_ml_prediction_preventing_data_leakage/)
 - [[D] Request for Career Advice – ML PhD non hot topic](https://www.reddit.com/r/MachineLearning/comments/1lphfhf/d_request_for_career_advice_ml_phd_non_hot_topic/)
 - [[P] ML deployment](https://www.reddit.com/r/MachineLearning/comments/1lphavr/p_ml_deployment/)
-- [[D] Subreviewing for NeurIPS](https://www.reddit.com/r/MachineLearning/comments/1lp9tpp/d_subreviewing_for_neurips/)
-- [[P] Update on loT botnet detection](https://www.reddit.com/r/MachineLearning/comments/1lp95u2/p_update_on_lot_botnet_detection/)
-- [[R] Introducing DreamPRM, a multi-modal LLM reasoning method achieving first place on the MathVista leaderboard](https://www.reddit.com/r/MachineLearning/comments/1lp8umz/r_introducing_dreamprm_a_multimodal_llm_reasoning/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
