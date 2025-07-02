@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Brain2Model Transfer: Training sensory and decision models with human neural activity as a teacher](https://www.reddit.com/r/MachineLearning/comments/1lq7lgi/p_brain2model_transfer_training_sensory_and/)
+- [[D] Just saw B200 rentals being offered at $1.99/hr – has anyone else come across this?](https://www.reddit.com/r/MachineLearning/comments/1lq7imi/d_just_saw_b200_rentals_being_offered_at_199hr/)
 - [[D] Understanding DDIM : Accelerated Sampling Case](https://www.reddit.com/r/MachineLearning/comments/1lq66ra/d_understanding_ddim_accelerated_sampling_case/)
 - [[P] Open-Source: Scaled &amp; Automated Paired Testing for Bias &lpar;NYC LL144 &amp; Beyond&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lq4q34/p_opensource_scaled_automated_paired_testing_for/)
 - [[D] Jupyternaut is anyone using it on their notebooks ?](https://www.reddit.com/r/MachineLearning/comments/1lq1hel/d_jupyternaut_is_anyone_using_it_on_their/)
-- [[D] Do LLMs need experience?](https://www.reddit.com/r/MachineLearning/comments/1lq0sgn/d_do_llms_need_experience/)
-- [[D] Tips / Hints for scaling agents and ML/AI Ops?](https://www.reddit.com/r/MachineLearning/comments/1lpxgsj/d_tips_hints_for_scaling_agents_and_mlai_ops/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
