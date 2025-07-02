@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Seeking Arxiv Endorsements](https://www.reddit.com/r/MachineLearning/comments/1lppyiv/r_seeking_arxiv_endorsements/)
+- [[D] How to become fluent at modifying/designing/improving models?](https://www.reddit.com/r/MachineLearning/comments/1lppyht/d_how_to_become_fluent_at/)
+- [[D] How will LLM companies deal with CloudFlare&#39;s anti-crawler protections, now turned on by default &lpar;opt-out&rpar;?](https://www.reddit.com/r/MachineLearning/comments/1lppvk8/d_how_will_llm_companies_deal_with_cloudflares/)
 - [[D] How Do Decision Trees Work? Can You Build a Decision Tree By Hand?](https://www.reddit.com/r/MachineLearning/comments/1lppr9l/d_how_do_decision_trees_work_can_you_build_a/)
 - [[D] Will the relationship between Meta&#39;s FAIR and Super Intelligence Labs be like that of Google Brain and DeepMind previously?](https://www.reddit.com/r/MachineLearning/comments/1lplwz3/d_will_the_relationship_between_metas_fair_and/)
-- [[D] Best Certifications for an MSCS student?](https://www.reddit.com/r/MachineLearning/comments/1lpk9fa/d_best_certifications_for_an_mscs_student/)
-- [[D] Self-Promotion Thread](https://www.reddit.com/r/MachineLearning/comments/1lpk8ib/d_selfpromotion_thread/)
-- [[D] Classical ML prediction - preventing data leakage from time series process data 🙏](https://www.reddit.com/r/MachineLearning/comments/1lpjc4n/d_classical_ml_prediction_preventing_data_leakage/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
