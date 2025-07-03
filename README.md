@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Hyperparameter Optimization with Evolutionary Algorithms: A Biological Approach to Adaptive Search](https://www.reddit.com/r/MachineLearning/comments/1lqw0fj/d_hyperparameter_optimization_with_evolutionary/)
 - [[P] Built a semantic search API](https://www.reddit.com/r/MachineLearning/comments/1lqvfm5/p_built_a_semantic_search_api/)
 - [[D] What operations should I fuse in a transformer?](https://www.reddit.com/r/MachineLearning/comments/1lqupo0/d_what_operations_should_i_fuse_in_a_transformer/)
 - [[D] Looking for Advice from an ML Engineer or AI Architect – Facing Some Challenges](https://www.reddit.com/r/MachineLearning/comments/1lqoxbd/d_looking_for_advice_from_an_ml_engineer_or_ai/)
 - [[P] Looking for Thesis Ideas: Extracting Pipelines](https://www.reddit.com/r/MachineLearning/comments/1lqmzlh/p_looking_for_thesis_ideas_extracting_pipelines/)
-- [[D] Why DragGAN is not going viral as other image models](https://www.reddit.com/r/MachineLearning/comments/1lql7zx/d_why_draggan_is_not_going_viral_as_other_image/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
