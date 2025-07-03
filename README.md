@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Paper with code is completely down](https://www.reddit.com/r/MachineLearning/comments/1lqedrt/d_paper_with_code_is_completely_down/)
+- [[D] What Tool to Use to Create Illustrations Like This?](https://www.reddit.com/r/MachineLearning/comments/1lqe31s/d_what_tool_to_use_to_create_illustrations_like/)
+- [[D] Le Code 19: un défi mathématique perturbant Microsoft Copilot](https://www.reddit.com/r/MachineLearning/comments/1lqdpvw/d_le_code_19_un_défi_mathématique_perturbant/)
+- [[D] Impact du Code 19 sur la logique et la censure dans Microsoft Copilot](https://www.reddit.com/r/MachineLearning/comments/1lqdmpc/d_impact_du_code_19_sur_la_logique_et_la_censure/)
 - [[D] UofT PhD Ranking](https://www.reddit.com/r/MachineLearning/comments/1lqb0uq/d_uoft_phd_ranking/)
-- [[D] Applicability of a Biomedical based AI/ML PhD to other AI/ML fields](https://www.reddit.com/r/MachineLearning/comments/1lqampf/d_applicability_of_a_biomedical_based_aiml_phd_to/)
-- [Looking to make it in the start up game [D]](https://www.reddit.com/r/MachineLearning/comments/1lqa2m2/looking_to_make_it_in_the_start_up_game_d/)
-- [[D] Machine Learning Cheat Sheet Material](https://www.reddit.com/r/MachineLearning/comments/1lq9dh5/d_machine_learning_cheat_sheet_material/)
-- [[P] Brain2Model Transfer: Training sensory and decision models with human neural activity as a teacher](https://www.reddit.com/r/MachineLearning/comments/1lq7lgi/p_brain2model_transfer_training_sensory_and/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
