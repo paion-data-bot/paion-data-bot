@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] AI/ML interviews being more like SWE interviews](https://www.reddit.com/r/MachineLearning/comments/1lqgbdk/d_aiml_interviews_being_more_like_swe_interviews/)
 - [[D] Paper with code is completely down](https://www.reddit.com/r/MachineLearning/comments/1lqedrt/d_paper_with_code_is_completely_down/)
 - [[D] What Tool to Use to Create Illustrations Like This?](https://www.reddit.com/r/MachineLearning/comments/1lqe31s/d_what_tool_to_use_to_create_illustrations_like/)
 - [[D] Le Code 19: un défi mathématique perturbant Microsoft Copilot](https://www.reddit.com/r/MachineLearning/comments/1lqdpvw/d_le_code_19_un_défi_mathématique_perturbant/)
 - [[D] Impact du Code 19 sur la logique et la censure dans Microsoft Copilot](https://www.reddit.com/r/MachineLearning/comments/1lqdmpc/d_impact_du_code_19_sur_la_logique_et_la_censure/)
-- [[D] UofT PhD Ranking](https://www.reddit.com/r/MachineLearning/comments/1lqb0uq/d_uoft_phd_ranking/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
