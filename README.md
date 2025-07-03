@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] A New Approach to AI-Driven R&amp;D: Sharing a Generative Reasoning Framework for Community Stress-Testing](https://www.reddit.com/r/MachineLearning/comments/1lqgtym/r_a_new_approach_to_aidriven_rd_sharing_a/)
+- [[P] What hardware do I need?](https://www.reddit.com/r/MachineLearning/comments/1lqgssw/p_what_hardware_do_i_need/)
 - [[D] AI/ML interviews being more like SWE interviews](https://www.reddit.com/r/MachineLearning/comments/1lqgbdk/d_aiml_interviews_being_more_like_swe_interviews/)
 - [[D] Paper with code is completely down](https://www.reddit.com/r/MachineLearning/comments/1lqedrt/d_paper_with_code_is_completely_down/)
 - [[D] What Tool to Use to Create Illustrations Like This?](https://www.reddit.com/r/MachineLearning/comments/1lqe31s/d_what_tool_to_use_to_create_illustrations_like/)
-- [[D] Le Code 19: un défi mathématique perturbant Microsoft Copilot](https://www.reddit.com/r/MachineLearning/comments/1lqdpvw/d_le_code_19_un_défi_mathématique_perturbant/)
-- [[D] Impact du Code 19 sur la logique et la censure dans Microsoft Copilot](https://www.reddit.com/r/MachineLearning/comments/1lqdmpc/d_impact_du_code_19_sur_la_logique_et_la_censure/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
