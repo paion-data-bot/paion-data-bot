@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] A Serious Concern on the ACL Rolling Review System](https://www.reddit.com/r/MachineLearning/comments/1lr15dk/d_a_serious_concern_on_the_acl_rolling_review/)
 - [[D] Position: Machine Learning Conferences Should Establish a &quot;Refutations and Critiques&quot; Track](https://www.reddit.com/r/MachineLearning/comments/1lqxnie/d_position_machine_learning_conferences_should/)
 - [I need suggestions. Help me out guys [R]](https://www.reddit.com/r/MachineLearning/comments/1lqwxry/i_need_suggestions_help_me_out_guys_r/)
 - [[D] Hyperparameter Optimization with Evolutionary Algorithms: A Biological Approach to Adaptive Search](https://www.reddit.com/r/MachineLearning/comments/1lqw0fj/d_hyperparameter_optimization_with_evolutionary/)
 - [[P] Built a semantic search API](https://www.reddit.com/r/MachineLearning/comments/1lqvfm5/p_built_a_semantic_search_api/)
-- [[D] What operations should I fuse in a transformer?](https://www.reddit.com/r/MachineLearning/comments/1lqupo0/d_what_operations_should_i_fuse_in_a_transformer/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
