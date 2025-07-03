@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] What operations should I fuse in a transformer?](https://www.reddit.com/r/MachineLearning/comments/1lqupo0/d_what_operations_should_i_fuse_in_a_transformer/)
 - [[D] Looking for Advice from an ML Engineer or AI Architect – Facing Some Challenges](https://www.reddit.com/r/MachineLearning/comments/1lqoxbd/d_looking_for_advice_from_an_ml_engineer_or_ai/)
 - [[P] Looking for Thesis Ideas: Extracting Pipelines](https://www.reddit.com/r/MachineLearning/comments/1lqmzlh/p_looking_for_thesis_ideas_extracting_pipelines/)
 - [[D] Why DragGAN is not going viral as other image models](https://www.reddit.com/r/MachineLearning/comments/1lql7zx/d_why_draggan_is_not_going_viral_as_other_image/)
 - [[D] AAAI-2026 2 phase review discussion](https://www.reddit.com/r/MachineLearning/comments/1lqjgjz/d_aaai2026_2_phase_review_discussion/)
-- [[D] Are NLP theory papers helpful for industry research scientist roles?](https://www.reddit.com/r/MachineLearning/comments/1lqhoe2/d_are_nlp_theory_papers_helpful_for_industry/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
