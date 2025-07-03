@@ -54,11 +54,11 @@
 <h3><img width="30%" src="./img/elastic-logo.png"></h3>
 
 <!-- ELASTIC-BLOGS:START -->
+- [APM best practices: Dos and don’ts guide for practitioners](https://www.elastic.co/blog/apm-best-practices)
+- [SOC analyst vs. security analyst: What’s the difference?](https://www.elastic.co/blog/soc-analyst-vs-security-analyst)
+- [APM best practices: Dos and don’ts guide for practitioners](https://www.elastic.co/blog/apm-best-practices)
+- [SOC analyst vs. security analyst: What’s the difference?](https://www.elastic.co/blog/soc-analyst-vs-security-analyst)
 - [How AI and contextual search enhance defence cybersecurity](https://www.elastic.co/blog/ai-contextual-search-defence-cybersecurity)
-- [How AI and contextual search enhance defence cybersecurity](https://www.elastic.co/blog/ai-contextual-search-defence-cybersecurity)
-- [Enhanced monitoring of Amazon EKS with Elastic add-on capabilities](https://www.elastic.co/blog/enhanced-monitoring-of-amazon-eks-with-elastic-add-on-capabilities)
-- [Enhanced monitoring of Amazon EKS with Elastic add-on capabilities](https://www.elastic.co/blog/enhanced-monitoring-of-amazon-eks-with-elastic-add-on-capabilities)
-- [Airtel is strengthening security operations with Elastic’s AI-driven analytics](https://www.elastic.co/blog/ai-driven-analytics)
 <!-- ELASTIC-BLOGS:END -->
 
 <h3><a href="https://superuser.openstack.org/"><img width="30%" src="./img/openstack-logo.png"></a></h3>
