@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Looking for Thesis Ideas: Extracting Pipelines](https://www.reddit.com/r/MachineLearning/comments/1lqmzlh/p_looking_for_thesis_ideas_extracting_pipelines/)
 - [[D] Why DragGAN is not going viral as other image models](https://www.reddit.com/r/MachineLearning/comments/1lql7zx/d_why_draggan_is_not_going_viral_as_other_image/)
 - [[D] AAAI-2026 2 phase review discussion](https://www.reddit.com/r/MachineLearning/comments/1lqjgjz/d_aaai2026_2_phase_review_discussion/)
 - [[D] Are NLP theory papers helpful for industry research scientist roles?](https://www.reddit.com/r/MachineLearning/comments/1lqhoe2/d_are_nlp_theory_papers_helpful_for_industry/)
 - [[R] A New Approach to AI-Driven R&amp;D: Sharing a Generative Reasoning Framework for Community Stress-Testing](https://www.reddit.com/r/MachineLearning/comments/1lqgtym/r_a_new_approach_to_aidriven_rd_sharing_a/)
-- [[D] AI/ML interviews being more like SWE interviews](https://www.reddit.com/r/MachineLearning/comments/1lqgbdk/d_aiml_interviews_being_more_like_swe_interviews/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
