@@ -88,11 +88,11 @@
 <img width="15%" align="right" src="./img/kubernetes-icon.png">
 
 <!-- KUBERNETES-BLOG:START -->
+- [Navigating Failures in Pods With Devices](https://kubernetes.io/blog/2025/07/03/navigating-failures-in-pods-with-devices/)
 - [Image Compatibility In Cloud Native Environments](https://kubernetes.io/blog/2025/06/25/image-compatibility-in-cloud-native-environments/)
 - [Changes to Kubernetes Slack](https://kubernetes.io/blog/2025/06/16/changes-to-kubernetes-slack/)
 - [Enhancing Kubernetes Event Management with Custom Aggregation](https://kubernetes.io/blog/2025/06/10/enhancing-kubernetes-event-management-custom-aggregation/)
 - [Introducing Gateway API Inference Extension](https://kubernetes.io/blog/2025/06/05/introducing-gateway-api-inference-extension/)
-- [Start Sidecar First: How To Avoid Snags](https://kubernetes.io/blog/2025/06/03/start-sidecar-first/)
 <!-- KUBERNETES-BLOG:END -->
 
 ### Martin Fowler's Blog (**Building Software Effectively**)
