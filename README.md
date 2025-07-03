@@ -76,11 +76,11 @@
 <img width="15%" align="right" src="./img/docker-cloud-logo.png">
 
 <!-- DOCKER-BLOG:START -->
+- [5 Best Practices for Building, Testing, and Packaging MCP Servers](https://www.docker.com/blog/mcp-server-best-practices/)
 - [Docker Desktop 4.43: Expanded Model Runner, Reimagined MCP Catalog, MCP Server Submissions, and Smarter Gordon](https://www.docker.com/blog/docker-desktop-4-43/)
 - [Using Gordon to Containerize Your Apps and Work with Containers](https://www.docker.com/blog/containerize-your-apps-with-ask-gordon/)
 - [Docker State of App Dev: Dev Ex &amp; Productivity](https://www.docker.com/blog/docker-state-of-app-dev-dev-ex-productivity/)
 - [The Docker MCP Catalog: the Secure Way to Discover and Run MCP Servers](https://www.docker.com/blog/docker-mcp-catalog-secure-way-to-discover-and-run-mcp-servers/)
-- [Tool Calling with Local LLMs: A Practical Evaluation](https://www.docker.com/blog/local-llm-tool-calling-a-practical-evaluation/)
 <!-- DOCKER-BLOG:END -->
 
 <h3><a href="https://kubernetes.io/blog/">Kubernetes Blogs</a></h3>
