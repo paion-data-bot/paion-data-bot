@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] CMU CS Professor on Founding OctoAI &lpar;Acquired by NVIDIA for $250 Million&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lrfwxf/d_cmu_cs_professor_on_founding_octoai_acquired_by/)
 - [[D] OpenAI Board Member on the Future of Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1lrfedq/d_openai_board_member_on_the_future_of_machine/)
 - [[D] CMU ML Professor on Founding OctoAI &lpar;Acquired for $250 Million&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lrfd9w/d_cmu_ml_professor_on_founding_octoai_acquired/)
 - [[D] Stanford CS Professor on Founding Voyage AI &lpar;Acquired for $220 Million&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lrdqna/d_stanford_cs_professor_on_founding_voyage_ai/)
 - [[D] OpenAI Board Member on ML Research in Industry vs. Academia](https://www.reddit.com/r/MachineLearning/comments/1lrdpvy/d_openai_board_member_on_ml_research_in_industry/)
-- [[P] Why am I getting poor performance with GNNs for edge prediction from node features only?](https://www.reddit.com/r/MachineLearning/comments/1lrcwk1/p_why_am_i_getting_poor_performance_with_gnns_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
