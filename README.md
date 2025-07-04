@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is Kaggle Ranking Easier Than It Should Be?](https://www.reddit.com/r/MachineLearning/comments/1lrqett/d_is_kaggle_ranking_easier_than_it_should_be/)
 - [[D] Can Tesla FSD be fooled?](https://www.reddit.com/r/MachineLearning/comments/1lrq5lt/d_can_tesla_fsd_be_fooled/)
 - [[D] How trustworthy are benchmarks of new proprietary LLMs?](https://www.reddit.com/r/MachineLearning/comments/1lrnruz/d_how_trustworthy_are_benchmarks_of_new/)
 - [[R] kappaTune: a PyTorch-based optimizer wrapper for continual learning via selective fine-tuning](https://www.reddit.com/r/MachineLearning/comments/1lrnibz/r_kappatune_a_pytorchbased_optimizer_wrapper_for/)
 - [[R] Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs](https://www.reddit.com/r/MachineLearning/comments/1lrmic2/r_selfcorrection_bench_revealing_and_addressing/)
-- [[D] Help understanding speculative sampling](https://www.reddit.com/r/MachineLearning/comments/1lrkzgj/d_help_understanding_speculative_sampling/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
