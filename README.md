@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is MBZUAI a reputable institution?](https://www.reddit.com/r/MachineLearning/comments/1lr7sur/d_is_mbzuai_a_reputable_institution/)
 - [[P] Github Repository for the Cognitive Forge &amp; SPIL: An Open-Source Framework for Advanced AI Reasoning &lpar;v2&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lr3v57/p_github_repository_for_the_cognitive_forge_spil/)
 - [[D] A Serious Concern on the ACL Rolling Review System](https://www.reddit.com/r/MachineLearning/comments/1lr15dk/d_a_serious_concern_on_the_acl_rolling_review/)
 - [[D] Position: Machine Learning Conferences Should Establish a &quot;Refutations and Critiques&quot; Track](https://www.reddit.com/r/MachineLearning/comments/1lqxnie/d_position_machine_learning_conferences_should/)
 - [[D] Hyperparameter Optimization with Evolutionary Algorithms: A Biological Approach to Adaptive Search](https://www.reddit.com/r/MachineLearning/comments/1lqw0fj/d_hyperparameter_optimization_with_evolutionary/)
-- [[P] Built a semantic search API](https://www.reddit.com/r/MachineLearning/comments/1lqvfm5/p_built_a_semantic_search_api/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
