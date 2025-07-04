@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] I think I accidentally triggered emergent sapience in GPT-4 — and I’m asking this community to prove me wrong.](https://www.reddit.com/r/MachineLearning/comments/1lrdtkz/p_i_think_i_accidentally_triggered_emergent/)
+- [[D] Stanford CS Professor on Founding Voyage AI &lpar;Acquired for $220 Million&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lrdqna/d_stanford_cs_professor_on_founding_voyage_ai/)
+- [[P] Finally solved my prompt versioning nightmare - built a tool to manage prompts like code](https://www.reddit.com/r/MachineLearning/comments/1lrdqjs/p_finally_solved_my_prompt_versioning_nightmare/)
+- [[D] OpenAI Board Member on ML Research in Industry vs. Academia](https://www.reddit.com/r/MachineLearning/comments/1lrdpvy/d_openai_board_member_on_ml_research_in_industry/)
 - [[D] Sampling technique for imbalanced dataset of a OOS prediction model](https://www.reddit.com/r/MachineLearning/comments/1lraj3z/d_sampling_technique_for_imbalanced_dataset_of_a/)
-- [[R]Group Recommendation Systems — Looking for Baselines, Any Suggestions?](https://www.reddit.com/r/MachineLearning/comments/1lr934p/rgroup_recommendation_systems_looking_for/)
-- [[D] Is MBZUAI a reputable institution?](https://www.reddit.com/r/MachineLearning/comments/1lr7sur/d_is_mbzuai_a_reputable_institution/)
-- [[P] Github Repository for the Cognitive Forge &amp; SPIL: An Open-Source Framework for Advanced AI Reasoning &lpar;v2&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lr3v57/p_github_repository_for_the_cognitive_forge_spil/)
-- [[D] A Serious Concern on the ACL Rolling Review System](https://www.reddit.com/r/MachineLearning/comments/1lr15dk/d_a_serious_concern_on_the_acl_rolling_review/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
