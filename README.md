@@ -26,9 +26,9 @@
 <!-- REDDIT-ML:START -->
 - [[D] Stanford CS Professor on Founding Voyage AI &lpar;Acquired for $220 Million&rpar;](https://www.reddit.com/r/MachineLearning/comments/1lrdqna/d_stanford_cs_professor_on_founding_voyage_ai/)
 - [[D] OpenAI Board Member on ML Research in Industry vs. Academia](https://www.reddit.com/r/MachineLearning/comments/1lrdpvy/d_openai_board_member_on_ml_research_in_industry/)
+- [[P] Why am I getting poor performance with GNNs for edge prediction from node features only?](https://www.reddit.com/r/MachineLearning/comments/1lrcwk1/p_why_am_i_getting_poor_performance_with_gnns_for/)
+- [[D] Understanding Optimal Batch Size Calculation - Arithmetic Intensity](https://www.reddit.com/r/MachineLearning/comments/1lrc7vh/d_understanding_optimal_batch_size_calculation/)
 - [[D] Sampling technique for imbalanced dataset of a OOS prediction model](https://www.reddit.com/r/MachineLearning/comments/1lraj3z/d_sampling_technique_for_imbalanced_dataset_of_a/)
-- [[R]Group Recommendation Systems — Looking for Baselines, Any Suggestions?](https://www.reddit.com/r/MachineLearning/comments/1lr934p/rgroup_recommendation_systems_looking_for/)
-- [[D] Is MBZUAI a reputable institution?](https://www.reddit.com/r/MachineLearning/comments/1lr7sur/d_is_mbzuai_a_reputable_institution/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
