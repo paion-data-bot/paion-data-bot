@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs](https://www.reddit.com/r/MachineLearning/comments/1lrmic2/r_selfcorrection_bench_revealing_and_addressing/)
 - [[D] Help understanding speculative sampling](https://www.reddit.com/r/MachineLearning/comments/1lrkzgj/d_help_understanding_speculative_sampling/)
 - [[D] Combining box and point prompts with SAM 2.1 for more consistent segmentation — best practices?](https://www.reddit.com/r/MachineLearning/comments/1lrjvbf/d_combining_box_and_point_prompts_with_sam_21_for/)
 - [[D] OpenAI Board Member on the Future of Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1lrfedq/d_openai_board_member_on_the_future_of_machine/)
 - [[D] OpenAI Board Member on ML Research in Industry vs. Academia](https://www.reddit.com/r/MachineLearning/comments/1lrdpvy/d_openai_board_member_on_ml_research_in_industry/)
-- [[P] Why am I getting poor performance with GNNs for edge prediction from node features only?](https://www.reddit.com/r/MachineLearning/comments/1lrcwk1/p_why_am_i_getting_poor_performance_with_gnns_for/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
