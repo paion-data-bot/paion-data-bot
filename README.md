@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[R] kappaTune: a PyTorch-based optimizer wrapper for continual learning via selective fine-tuning](https://www.reddit.com/r/MachineLearning/comments/1lrnibz/r_kappatune_a_pytorchbased_optimizer_wrapper_for/)
 - [[R] Self-Correction Bench: Revealing and Addressing the Self-Correction Blind Spot in LLMs](https://www.reddit.com/r/MachineLearning/comments/1lrmic2/r_selfcorrection_bench_revealing_and_addressing/)
 - [[D] Help understanding speculative sampling](https://www.reddit.com/r/MachineLearning/comments/1lrkzgj/d_help_understanding_speculative_sampling/)
 - [[D] Combining box and point prompts with SAM 2.1 for more consistent segmentation — best practices?](https://www.reddit.com/r/MachineLearning/comments/1lrjvbf/d_combining_box_and_point_prompts_with_sam_21_for/)
 - [[D] OpenAI Board Member on the Future of Machine Learning](https://www.reddit.com/r/MachineLearning/comments/1lrfedq/d_openai_board_member_on_the_future_of_machine/)
-- [[D] OpenAI Board Member on ML Research in Industry vs. Academia](https://www.reddit.com/r/MachineLearning/comments/1lrdpvy/d_openai_board_member_on_ml_research_in_industry/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
