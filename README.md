@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] Is the following dataset appropriate for ML? The first column is variable name, the second is type of variable and third is explanation of the variable. There is 32000 rows. The final variable is the target variable.](https://www.reddit.com/r/MachineLearning/comments/1ls4osv/d_is_the_following_dataset_appropriate_for_ml_the/)
+- [[D] NeurIPS workshops 2025?](https://www.reddit.com/r/MachineLearning/comments/1ls5eny/d_neurips_workshops_2025/)
 - [[D]Emergent Conventions in Multi-Agent LLMs: Experimental Evidence &lpar;SciAdv&#39;24&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ls42tg/demergent_conventions_in_multiagent_llms/)
 - [[R] State of The Art models in Video Matting - Comparative Analysis.](https://www.reddit.com/r/MachineLearning/comments/1ls1uf2/r_state_of_the_art_models_in_video_matting/)
 - [[D] ACM MM- Complaining against Area Chair Review](https://www.reddit.com/r/MachineLearning/comments/1ls1mai/d_acm_mm_complaining_against_area_chair_review/)
