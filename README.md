@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Training Cascade R-CNN &lpar;ResNet-101 + FPN&rpar; on Custom Dataset for Solar Panel Detection](https://www.reddit.com/r/MachineLearning/comments/1lse90g/p_training_cascade_rcnn_resnet101_fpn_on_custom/)
 - [[P] Live data and model training tips](https://www.reddit.com/r/MachineLearning/comments/1ls9jjn/p_live_data_and_model_training_tips/)
 - [[P] Revision of a book on the topic of supervised learning.](https://www.reddit.com/r/MachineLearning/comments/1ls6l2e/p_revision_of_a_book_on_the_topic_of_supervised/)
 - [[D] I benchmarked 4 Python text extraction libraries so you don&#39;t have to &lpar;2025 results&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ls6jyi/d_i_benchmarked_4_python_text_extraction/)
 - [[D] What are paper introductions meant to communicate to a knowledgable reader?](https://www.reddit.com/r/MachineLearning/comments/1ls6jp2/d_what_are_paper_introductions_meant_to/)
-- [Neurips: 0 reviews submitted [D]](https://www.reddit.com/r/MachineLearning/comments/1ls6fk1/neurips_0_reviews_submitted_d/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
