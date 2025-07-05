@@ -24,7 +24,7 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
-- [[D] I have a dataset of 1000+ rows... Which has Datetimehr of 2 unique values.. i.e all the rows has only 1 of 2 total timeframes....&lpar;2025-07-04 08:00:00 and 09:00:00&rpar; And it also has different columns with values and texts that can be encoded... How to predict and forecast the upcoming hours value](https://www.reddit.com/r/MachineLearning/comments/1ls84ku/d_i_have_a_dataset_of_1000_rows_which_has/)
+- [[P] Live data and model training tips](https://www.reddit.com/r/MachineLearning/comments/1ls9jjn/p_live_data_and_model_training_tips/)
 - [[D] ACMMM Meta-review Accept &amp; Decision Reject. Is it possible?](https://www.reddit.com/r/MachineLearning/comments/1ls7cof/d_acmmm_metareview_accept_decision_reject_is_it/)
 - [[P] Revision of a book on the topic of supervised learning.](https://www.reddit.com/r/MachineLearning/comments/1ls6l2e/p_revision_of_a_book_on_the_topic_of_supervised/)
 - [[D] I benchmarked 4 Python text extraction libraries so you don&#39;t have to &lpar;2025 results&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ls6jyi/d_i_benchmarked_4_python_text_extraction/)
