@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] Revision of a book on the topic of supervised learning.](https://www.reddit.com/r/MachineLearning/comments/1ls6l2e/p_revision_of_a_book_on_the_topic_of_supervised/)
+- [[D] I benchmarked 4 Python text extraction libraries so you don&#39;t have to &lpar;2025 results&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ls6jyi/d_i_benchmarked_4_python_text_extraction/)
+- [[D] What are paper introductions meant to communicate to a knowledgable reader?](https://www.reddit.com/r/MachineLearning/comments/1ls6jp2/d_what_are_paper_introductions_meant_to/)
+- [Neurips: 0 reviews submitted [D]](https://www.reddit.com/r/MachineLearning/comments/1ls6fk1/neurips_0_reviews_submitted_d/)
 - [[D] NeurIPS workshops 2025?](https://www.reddit.com/r/MachineLearning/comments/1ls5eny/d_neurips_workshops_2025/)
-- [[D]Emergent Conventions in Multi-Agent LLMs: Experimental Evidence &lpar;SciAdv&#39;24&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ls42tg/demergent_conventions_in_multiagent_llms/)
-- [[R] State of The Art models in Video Matting - Comparative Analysis.](https://www.reddit.com/r/MachineLearning/comments/1ls1uf2/r_state_of_the_art_models_in_video_matting/)
-- [[D] ACM MM- Complaining against Area Chair Review](https://www.reddit.com/r/MachineLearning/comments/1ls1mai/d_acm_mm_complaining_against_area_chair_review/)
-- [[D] Is this the right skill stack to become an AI Consultant or GenAI Product Leader?](https://www.reddit.com/r/MachineLearning/comments/1ls119d/d_is_this_the_right_skill_stack_to_become_an_ai/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
