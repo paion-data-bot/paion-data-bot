@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[P] For my DS/ML project I have been suggested 2 ideas that will apparently convince recruiters to hire me.](https://www.reddit.com/r/MachineLearning/comments/1lscl18/p_for_my_dsml_project_i_have_been_suggested_2/)
 - [[P] Live data and model training tips](https://www.reddit.com/r/MachineLearning/comments/1ls9jjn/p_live_data_and_model_training_tips/)
 - [[D] ACMMM Meta-review Accept &amp; Decision Reject. Is it possible?](https://www.reddit.com/r/MachineLearning/comments/1ls7cof/d_acmmm_metareview_accept_decision_reject_is_it/)
 - [[P] Revision of a book on the topic of supervised learning.](https://www.reddit.com/r/MachineLearning/comments/1ls6l2e/p_revision_of_a_book_on_the_topic_of_supervised/)
 - [[D] I benchmarked 4 Python text extraction libraries so you don&#39;t have to &lpar;2025 results&rpar;](https://www.reddit.com/r/MachineLearning/comments/1ls6jyi/d_i_benchmarked_4_python_text_extraction/)
-- [[D] What are paper introductions meant to communicate to a knowledgable reader?](https://www.reddit.com/r/MachineLearning/comments/1ls6jp2/d_what_are_paper_introductions_meant_to/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
