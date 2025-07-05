@@ -24,11 +24,11 @@
 ### [ML @ Reddit](https://www.reddit.com/r/MachineLearning/)
 
 <!-- REDDIT-ML:START -->
+- [[D] Is this the right skill stack to become an AI Consultant or GenAI Product Leader?](https://www.reddit.com/r/MachineLearning/comments/1ls119d/d_is_this_the_right_skill_stack_to_become_an_ai/)
 - [[D] Anyone have a reasonable experience with ICLR/ICML this year?](https://www.reddit.com/r/MachineLearning/comments/1ls0eoz/d_anyone_have_a_reasonable_experience_with/)
 - [[P] I built a mindmap-like, non linear tutor-supported interface for exploring ML papers, and I&#39;m looking for feedback!](https://www.reddit.com/r/MachineLearning/comments/1lru2mh/p_i_built_a_mindmaplike_non_linear_tutorsupported/)
 - [[P] NeuroEvolution for Super Mario](https://www.reddit.com/r/MachineLearning/comments/1lrtgx1/p_neuroevolution_for_super_mario/)
 - [[D] AACL Reputation](https://www.reddit.com/r/MachineLearning/comments/1lrs596/d_aacl_reputation/)
-- [[D] Did anyone receive this from NIPS?](https://www.reddit.com/r/MachineLearning/comments/1lrr5yy/d_did_anyone_receive_this_from_nips/)
 <!-- REDDIT-ML:END -->
 
 <h3><img width="30%" src="./img/arango-logo-with-text.png"></h3>
